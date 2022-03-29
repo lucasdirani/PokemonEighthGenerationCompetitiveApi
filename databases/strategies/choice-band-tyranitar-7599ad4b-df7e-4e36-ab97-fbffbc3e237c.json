@@ -1,1 +1,390 @@
-﻿{"strategyName":"Choice Band","strategyId":"/strategies/choice-band?pokemon=tyranitar&tier=ou","strategyDetails":"<p>Tyranitar's high Attack stat further supported with Choice Band and solid coverage options makes it a great wallbreaker. Additionally, its fantastic special bulk under sand gives it defensive utility and allows it to check certain Pokemon like <a href=\"/dex/ss/pokemon/heatran\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/ss/pokemon/volcarona\" hreflang=\"en\">Volcarona</a>. Fire Punch allows Tyranitar to hit Steel-types like <a href=\"/dex/ss/pokemon/ferrothorn\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/ss/pokemon/kartana\" hreflang=\"en\">Kartana</a> and <a href=\"/dex/ss/pokemon/scizor\" hreflang=\"en\">Scizor</a>, threatening them with an OHKO, while also providing another option to 2HKO <a href=\"/dex/ss/pokemon/corviknight\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/ss/pokemon/skarmory\" hreflang=\"en\">Skarmory</a> if Stone Edge PPs or its accuracy is a concern. Ice Punch nails <a href=\"/dex/ss/pokemon/landorus-therian\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/ss/pokemon/garchomp\" hreflang=\"en\">Garchomp</a> on the switch while hitting <a href=\"/dex/ss/pokemon/hippowdon\" hreflang=\"en\">Hippowdon</a> for decent damage. Heavy Slam can be used to OHKO <a href=\"/dex/ss/pokemon/clefable\" hreflang=\"en\">Clefable</a>.</p>\n<p>Choice Band Tyranitar pairs well with pivots like <a href=\"/dex/ss/pokemon/slowbro\" hreflang=\"en\">Slowbro</a>, <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a>, <a href=\"/dex/ss/pokemon/tornadus-therian\" hreflang=\"en\">Tornadus-T</a>, and Corviknight that can give it free switches to attack. Slowbro checks Ground- and Water-types like Landorus-T, Garchomp, and <a href=\"/dex/ss/pokemon/urshifu-rapid-strike\" hreflang=\"en\">Urshifu-R</a>, while Slowking can check <a href=\"/dex/ss/pokemon/tapu-lele\" hreflang=\"en\">Tapu Lele</a> and Clefable. Both of them offer Teleport to bring in Tyranitar safely and also provide Future Sight support, which makes Tyranitar far harder to switch into. Flying-types like Tornadus-T and Corviknight can deal with Grass- and Ground-types such as <a href=\"/dex/ss/pokemon/rillaboom\" hreflang=\"en\">Rillaboom</a>, Kartana, and Landorus-T, and they can bring Tyranitar in safely with U-turn against their own checks such as <a href=\"/dex/ss/pokemon/zapdos\" hreflang=\"en\">Zapdos</a> and Heatran. Bulk Up Corviknight is a great teammate, as it appreciates Tyranitar's ability to deal with its checks such as Zapdos, Heatran, and Volcarona for a late-game sweep. Sand sweepers like <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a>, <a href=\"/dex/ss/pokemon/dracozolt\" hreflang=\"en\">Dracozolt</a>, and Sand Veil Garchomp enjoy Tyranitar's sand and ability to weaken their checks such as Landorus-T and Corviknight, allowing them to clean late-game. Outside of sand teams, Pokemon such as <a href=\"/dex/ss/pokemon/zeraora\" hreflang=\"en\">Zeraora</a>, Swords Dance Scizor, and Swords Dance Landorus-T benefit from Tyranitar weakening opposing Landorus-T and Corviknight, which gives them more opportunities to set up and break through opposing defensive cores or clean late-game.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Tyranitar","pokemonId":"/pokemon/tyranitar","pokemonTypes":[{"typeName":"Rock","typeId":"/types/rock"},{"typeName":"Dark","typeId":"/types/dark"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":100},{"baseStat":{"statName":"Attack"},"baseStatNumber":134},{"baseStat":{"statName":"Defense"},"baseStatNumber":110},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":95},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":100},{"baseStat":{"statName":"Speed"},"baseStatNumber":61}],"pokemonAbilities":[{"abilityName":"Sand Stream","abilityId":"/abilities/sand-stream","abilityDetails":"On switch-in, this Pokemon summons Sandstorm."},{"abilityName":"Unnerve","abilityId":"/abilities/unnerve","abilityDetails":"While this Pokemon is active, it prevents opposing Pokemon from using their Berries."}],"pokemonTiers":[{"tierName":"OU","tierId":"/tiers/ou"}]},"strategyCreationDate":"2022-02-22T11:03:49.1538787Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Choice Band","itemId":"/items/choice-band","itemDetails":"Holder's Attack is 1.5x, but it can only select the first move it executes."}],"strategyAbilities":[{"abilityName":"Sand Stream","abilityId":"/abilities/sand-stream","abilityDetails":"On switch-in, this Pokemon summons Sandstorm."}],"strategyNatures":[{"natureName":"Adamant","natureId":"/natures/adamant","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Attack"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Stone Edge","moveId":"/moves/stone-edge","moveType":{"typeName":"Rock","typeId":"/types/rock"},"moveCategory":"Physical","movePower":100,"moveAccuracy":80,"moveDetails":"High critical hit ratio."}],"strategySecondMoves":[{"moveName":"Crunch","moveId":"/moves/crunch","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Physical","movePower":80,"moveAccuracy":100,"moveDetails":"20% chance to lower the target's Defense by 1."}],"strategyThirdMoves":[{"moveName":"Fire Punch","moveId":"/moves/fire-punch","moveType":{"typeName":"Fire","typeId":"/types/fire"},"moveCategory":"Physical","movePower":75,"moveAccuracy":100,"moveDetails":"10% chance to burn the target."}],"strategyFourthMoves":[{"moveName":"Ice Punch","moveId":"/moves/ice-punch","moveType":{"typeName":"Ice","typeId":"/types/ice"},"moveCategory":"Physical","movePower":75,"moveAccuracy":100,"moveDetails":"10% chance to freeze the target."},{"moveName":"Heavy Slam","moveId":"/moves/heavy-slam","moveType":{"typeName":"Steel","typeId":"/types/steel"},"moveCategory":"Physical","movePower":0,"moveAccuracy":100,"moveDetails":"More power the heavier the user than the target."}]}}
+﻿{
+  "strategyName": "Choice Band",
+  "strategyId": "/strategies/choice-band?pokemon=tyranitar&tier=ou",
+  "strategyDetails": "Tyranitar's high Attack stat further supported with Choice Band and solid coverage options makes it a great wallbreaker. Additionally, its fantastic special bulk under sand gives it defensive utility and allows it to check certain Pokemon like Heatran and Volcarona. Fire Punch allows Tyranitar to hit Steel-types like Ferrothorn, Kartana and Scizor, threatening them with an OHKO, while also providing another option to 2HKO Corviknight and Skarmory if Stone Edge PPs or its accuracy is a concern. Ice Punch nails Landorus-T and Garchomp on the switch while hitting Hippowdon for decent damage. Heavy Slam can be used to OHKO Clefable. Choice Band Tyranitar pairs well with pivots like Slowbro, Slowking, Tornadus-T, and Corviknight that can give it free switches to attack. Slowbro checks Ground- and Water-types like Landorus-T, Garchomp, and Urshifu-R, while Slowking can check Tapu Lele and Clefable. Both of them offer Teleport to bring in Tyranitar safely and also provide Future Sight support, which makes Tyranitar far harder to switch into. Flying-types like Tornadus-T and Corviknight can deal with Grass- and Ground-types such as Rillaboom, Kartana, and Landorus-T, and they can bring Tyranitar in safely with U-turn against their own checks such as Zapdos and Heatran. Bulk Up Corviknight is a great teammate, as it appreciates Tyranitar's ability to deal with its checks such as Zapdos, Heatran, and Volcarona for a late-game sweep. Sand sweepers like Excadrill, Dracozolt, and Sand Veil Garchomp enjoy Tyranitar's sand and ability to weaken their checks such as Landorus-T and Corviknight, allowing them to clean late-game. Outside of sand teams, Pokemon such as Zeraora, Swords Dance Scizor, and Swords Dance Landorus-T benefit from Tyranitar weakening opposing Landorus-T and Corviknight, which gives them more opportunities to set up and break through opposing defensive cores or clean late-game.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Tyranitar",
+    "pokemonId": "/pokemon/tyranitar",
+    "pokemonTypes": [
+      {
+        "typeName": "Rock",
+        "typeId": "/types/rock"
+      },
+      {
+        "typeName": "Dark",
+        "typeId": "/types/dark"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 134
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 110
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 61
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Sand Stream",
+        "abilityId": "/abilities/sand-stream",
+        "abilityDetails": "On switch-in, this Pokemon summons Sandstorm."
+      },
+      {
+        "abilityName": "Unnerve",
+        "abilityId": "/abilities/unnerve",
+        "abilityDetails": "While this Pokemon is active, it prevents opposing Pokemon from using their Berries."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:49.1538787Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Choice Band",
+      "itemId": "/items/choice-band",
+      "itemDetails": "Holder's Attack is 1.5x, but it can only select the first move it executes."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Sand Stream",
+      "abilityId": "/abilities/sand-stream",
+      "abilityDetails": "On switch-in, this Pokemon summons Sandstorm."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Adamant",
+      "natureId": "/natures/adamant",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Attack" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowbro&tier=ou",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive-pivot?pokemon=slowking&tier=ou",
+      "strategyName": "Specially Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=corviknight&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/sand-rush?pokemon=excadrill&tier=ou",
+      "strategyName": "Sand Rush"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/bulk-up?pokemon=zeraora&tier=ou",
+      "strategyName": "Bulk Up"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zeraora&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/offensive-swords-dance?pokemon=scizor&tier=ou",
+      "strategyName": "Offensive Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=scizor&tier=ou",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/special-wall?pokemon=hippowdon&tier=ou",
+      "strategyName": "Special Wall"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=ou",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/the-pex?pokemon=toxapex&tier=ou",
+      "strategyName": "The Pex"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=swampert&tier=ou",
+      "strategyName": "Defensive Pivot"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/sand-rush?pokemon=excadrill&tier=ou",
+      "strategyName": "Sand Rush"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=clefable&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=clefable&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=tapu-fini&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/whirlpool?pokemon=tapu-fini&tier=ou",
+      "strategyName": "Whirlpool"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=tapu-fini&tier=ou",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=tapu-koko&tier=ou",
+      "strategyName": "Offensive Pivot"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Stone Edge",
+        "moveId": "/moves/stone-edge",
+        "moveType": {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 80,
+        "moveDetails": "High critical hit ratio."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Crunch",
+        "moveId": "/moves/crunch",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "20% chance to lower the target's Defense by 1."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Fire Punch",
+        "moveId": "/moves/fire-punch",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to burn the target."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Ice Punch",
+        "moveId": "/moves/ice-punch",
+        "moveType": {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to freeze the target."
+      },
+      {
+        "moveName": "Heavy Slam",
+        "moveId": "/moves/heavy-slam",
+        "moveType": {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        "moveCategory": "Physical",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "More power the heavier the user than the target."
+      }
+    ]
+  }
+}

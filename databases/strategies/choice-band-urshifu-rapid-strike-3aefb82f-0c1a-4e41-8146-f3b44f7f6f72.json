@@ -1,1 +1,369 @@
-﻿{"strategyName":"Choice Band","strategyId":"/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou","strategyDetails":"<p>Surging Strikes ignores Defense boosts from Pokemon such as Iron Defense <a href=\"/dex/ss/pokemon/corviknight\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/ss/pokemon/skarmory\" hreflang=\"en\">Skarmory</a>, as well as breaking through Substitutes and potential Focus Sashes. Aqua Jet is great for revenge killing chipped foes, especially helping in the hyper offense matchup. Frailer Pokemon such as <a href=\"/dex/ss/pokemon/volcarona\" hreflang=\"en\">Volcarona</a>, <a href=\"/dex/ss/pokemon/blacephalon\" hreflang=\"en\">Blacephalon</a>, and <a href=\"/dex/ss/pokemon/hawlucha\" hreflang=\"en\">Hawlucha</a> all take good damage from Aqua Jet, with the former two being OHKOed and Hawlucha having a potential sweep stopped when chipped. U-turn lets Urshifu-R keep up momentum on defensive switch-ins and provide wallbreaking opportunities for its teammates. Choice Band allows it to 2HKO many pivots such as <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a>, Skarmory, and Corviknight. A Jolly nature allows Urshifu-R to outspeed and revenge kill Pokemon such as <a href=\"/dex/ss/pokemon/tapu-lele\" hreflang=\"en\">Tapu Lele</a>, <a href=\"/dex/ss/pokemon/kyurem\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/ss/pokemon/landorus-therian\" hreflang=\"en\">Landorus-T</a>. Ice Punch can be used over Aqua Jet, giving it a very hard hit on Dragon-types trying to pivot into and scout it such as <a href=\"/dex/ss/pokemon/garchomp\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/ss/pokemon/dragonite\" hreflang=\"en\">Dragonite</a>, and <a href=\"/dex/ss/pokemon/dragapult\" hreflang=\"en\">Dragapult</a>. It also gives a decently strong hit against Grass-types like <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a> and <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a> without having the Defense drop and Pokemon immune to it.</p>\n<p>With Urshifu-R acting as a very strong pivot with U-turn, many powerful wallbreakers appreciate its presence. <a href=\"/dex/ss/pokemon/heatran\" hreflang=\"en\">Heatran</a>, <a href=\"/dex/ss/pokemon/kartana\" hreflang=\"en\">Kartana</a>, and Kyurem can be given free switch ins and threaten out checks to Urshifu-R such as <a href=\"/dex/ss/pokemon/slowbro\" hreflang=\"en\">Slowbro</a>, Tangrowth, and <a href=\"/dex/ss/pokemon/toxapex\" hreflang=\"en\">Toxapex</a> with their own powerful attacks. Heatran in particular appreciates free switch in from U-turn to fire off Magma Storm and trap foes, and, as Dragon- and Water-types commonly come into Heatran, this chips them down for Urshifu-R to break. Dragapult can invite Pokemon like <a href=\"/dex/ss/pokemon/blissey\" hreflang=\"en\">Blissey</a> and <a href=\"/dex/ss/pokemon/mandibuzz\" hreflang=\"en\">Mandibuzz</a> that Urshifu-R can pressure, and together they can remove shared checks such as <a href=\"/dex/ss/pokemon/tapu-fini\" hreflang=\"en\">Tapu Fini</a>, forming a terrifying wallbreaking core. Tapu Lele works as a great partner to help overwhelm common pivots like Slowking while also appreciating momentum from Urshifu-R's U-turn. With Rocky Helmet users being such a big issue for Urshifu-R, Knock Off users such as <a href=\"/dex/ss/pokemon/rillaboom\" hreflang=\"en\">Rillaboom</a>, Kartana, and <a href=\"/dex/ss/pokemon/tornadus-therian\" hreflang=\"en\">Tornadus-T</a>, which invite in Rocky Helmet users like Corviknight, Skarmory, and Toxapex, are greatly appreciated. Rain support provided by <a href=\"/dex/ss/pokemon/pelipper\" hreflang=\"en\">Pelipper</a> powers up Surging Strikes to incredible levels and lets Aqua Jet revenge kill foes more easily. Defensive checks such as Tapu Fini, <a href=\"/dex/ss/pokemon/buzzwole\" hreflang=\"en\">Buzzwole</a>, and specially defensive Toxapex are much less safe switch-ins with rain up. Future Sight support from the likes of Slowking, <a href=\"/dex/ss/pokemon/slowking-galar\" hreflang=\"en\">Galarian Slowking</a>, and Slowbro is also incredibly useful for Urshifu-R, helping it break through checks it normally can't such as Toxapex, Tangrowth, and Amoonguss. Blissey acts as a specially bulky pivot that covers for some of Urshifu-R's big weaknesses to Pokemon like Dragapult while also giving it free switch ins with Teleport to wallbreak.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemonForms":{"pokemonFormName":"Urshifu-Rapid-Strike","pokemonFormId":"/pokemon-forms/urshifu-rapid-strike","pokemonFormTypes":[{"typeName":"Fighting","typeId":"/types/fighting"},{"typeName":"Water","typeId":"/types/water"}],"pokemonFormBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":100},{"baseStat":{"statName":"Attack"},"baseStatNumber":130},{"baseStat":{"statName":"Defense"},"baseStatNumber":100},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":63},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":60},{"baseStat":{"statName":"Speed"},"baseStatNumber":97}],"pokemonFormAbilities":[{"abilityName":"Unseen Fist","abilityId":"/abilities/unseen-fist","abilityDetails":"All contact moves hit through protection."}],"pokemonFormTiers":[{"tierName":"OU","tierId":"/tiers/ou"}]},"strategyCreationDate":"2022-02-22T11:03:49.4936492Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Choice Band","itemId":"/items/choice-band","itemDetails":"Holder's Attack is 1.5x, but it can only select the first move it executes."}],"strategyAbilities":[{"abilityName":"Unseen Fist","abilityId":"/abilities/unseen-fist","abilityDetails":"All contact moves hit through protection."}],"strategyNatures":[{"natureName":"Jolly","natureId":"/natures/jolly","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Surging Strikes","moveId":"/moves/surging-strikes","moveType":{"typeName":"Water","typeId":"/types/water"},"moveCategory":"Physical","movePower":25,"moveAccuracy":100,"moveDetails":"Always results in a critical hit. Hits 3 times."}],"strategySecondMoves":[{"moveName":"Close Combat","moveId":"/moves/close-combat","moveType":{"typeName":"Fighting","typeId":"/types/fighting"},"moveCategory":"Physical","movePower":120,"moveAccuracy":100,"moveDetails":"Lowers the user's Defense and Sp. Def by 1."}],"strategyThirdMoves":[{"moveName":"Aqua Jet","moveId":"/moves/aqua-jet","moveType":{"typeName":"Water","typeId":"/types/water"},"moveCategory":"Physical","movePower":40,"moveAccuracy":100,"moveDetails":"Usually goes first."}],"strategyFourthMoves":[{"moveName":"U-turn","moveId":"/moves/u-turn","moveType":{"typeName":"Bug","typeId":"/types/bug"},"moveCategory":"Physical","movePower":70,"moveAccuracy":100,"moveDetails":"User switches out after damaging the target."}]}}
+﻿{
+  "strategyName": "Choice Band",
+  "strategyId": "/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou",
+  "strategyDetails": "Surging Strikes ignores Defense boosts from Pokemon such as Iron Defense Corviknight and Skarmory, as well as breaking through Substitutes and potential Focus Sashes. Aqua Jet is great for revenge killing chipped foes, especially helping in the hyper offense matchup. Frailer Pokemon such as Volcarona, Blacephalon, and Hawlucha all take good damage from Aqua Jet, with the former two being OHKOed and Hawlucha having a potential sweep stopped when chipped. U-turn lets Urshifu-R keep up momentum on defensive switch-ins and provide wallbreaking opportunities for its teammates. Choice Band allows it to 2HKO many pivots such as Slowking, Skarmory, and Corviknight. A Jolly nature allows Urshifu-R to outspeed and revenge kill Pokemon such as Tapu Lele, Kyurem, and Landorus-T. Ice Punch can be used over Aqua Jet, giving it a very hard hit on Dragon-types trying to pivot into and scout it such as Garchomp, Dragonite, and Dragapult. It also gives a decently strong hit against Grass-types like Tangrowth and Amoonguss without having the Defense drop and Pokemon immune to it. With Urshifu-R acting as a very strong pivot with U-turn, many powerful wallbreakers appreciate its presence. Heatran, Kartana, and Kyurem can be given free switch ins and threaten out checks to Urshifu-R such as Slowbro, Tangrowth, and Toxapex with their own powerful attacks. Heatran in particular appreciates free switch in from U-turn to fire off Magma Storm and trap foes, and, as Dragon- and Water-types commonly come into Heatran, this chips them down for Urshifu-R to break. Dragapult can invite Pokemon like Blissey and Mandibuzz that Urshifu-R can pressure, and together they can remove shared checks such as Tapu Fini, forming a terrifying wallbreaking core. Tapu Lele works as a great partner to help overwhelm common pivots like Slowking while also appreciating momentum from Urshifu-R's U-turn. With Rocky Helmet users being such a big issue for Urshifu-R, Knock Off users such as Rillaboom, Kartana, and Tornadus-T, which invite in Rocky Helmet users like Corviknight, Skarmory, and Toxapex, are greatly appreciated. Rain support provided by Pelipper powers up Surging Strikes to incredible levels and lets Aqua Jet revenge kill foes more easily. Defensive checks such as Tapu Fini, Buzzwole, and specially defensive Toxapex are much less safe switch-ins with rain up. Future Sight support from the likes of Slowking, Galarian Slowking, and Slowbro is also incredibly useful for Urshifu-R, helping it break through checks it normally can't such as Toxapex, Tangrowth, and Amoonguss. Blissey acts as a specially bulky pivot that covers for some of Urshifu-R's big weaknesses to Pokemon like Dragapult while also giving it free switch ins with Teleport to wallbreak.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemonForms": {
+    "pokemonFormName": "Urshifu-Rapid-Strike",
+    "pokemonFormId": "/pokemon-forms/urshifu-rapid-strike",
+    "pokemonFormTypes": [
+      {
+        "typeName": "Fighting",
+        "typeId": "/types/fighting"
+      },
+      {
+        "typeName": "Water",
+        "typeId": "/types/water"
+      }
+    ],
+    "pokemonFormBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 130
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 63
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 60
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 97
+      }
+    ],
+    "pokemonFormAbilities": [
+      {
+        "abilityName": "Unseen Fist",
+        "abilityId": "/abilities/unseen-fist",
+        "abilityDetails": "All contact moves hit through protection."
+      }
+    ],
+    "pokemonFormTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:49.4936492Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Choice Band",
+      "itemId": "/items/choice-band",
+      "itemDetails": "Holder's Attack is 1.5x, but it can only select the first move it executes."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Unseen Fist",
+      "abilityId": "/abilities/unseen-fist",
+      "abilityDetails": "All contact moves hit through protection."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Jolly",
+      "natureId": "/natures/jolly",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/offensive?pokemon=heatran&tier=ou",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive?pokemon=heatran&tier=ou",
+      "strategyName": "Specially Defensive"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=pelipper&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive-pivot?pokemon=slowking&tier=ou",
+      "strategyName": "Specially Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowbro&tier=ou",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=slowking-galar&tier=ou",
+      "strategyName": "Assault Vest"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/the-pex?pokemon=toxapex&tier=ou",
+      "strategyName": "The Pex"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowbro&tier=ou",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=ou",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=tapu-fini&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/whirlpool?pokemon=tapu-fini&tier=ou",
+      "strategyName": "Whirlpool"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=tapu-fini&tier=ou",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/offensive-rain-sweeper?pokemon=zapdos&tier=ou",
+      "strategyName": "Offensive Rain Sweeper"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=zapdos&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/bulk-up?pokemon=zeraora&tier=ou",
+      "strategyName": "Bulk Up"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zeraora&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=tapu-koko&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Nasty Plot"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Surging Strikes",
+        "moveId": "/moves/surging-strikes",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Physical",
+        "movePower": 25,
+        "moveAccuracy": 100,
+        "moveDetails": "Always results in a critical hit. Hits 3 times."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Close Combat",
+        "moveId": "/moves/close-combat",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "moveDetails": "Lowers the user's Defense and Sp. Def by 1."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Aqua Jet",
+        "moveId": "/moves/aqua-jet",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "moveDetails": "Usually goes first."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "U-turn",
+        "moveId": "/moves/u-turn",
+        "moveType": {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "User switches out after damaging the target."
+      }
+    ]
+  }
+}

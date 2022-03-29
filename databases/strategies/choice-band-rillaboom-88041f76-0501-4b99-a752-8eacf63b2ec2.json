@@ -143,11 +143,72 @@
       }
     ]
   ],
-  "strategyPartners": [],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=magnezone&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=magnezone&tier=ou",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=heatran&tier=ou",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive?pokemon=heatran&tier=ou",
+      "strategyName": "Specially Defensive"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/defensive-spikes?pokemon=skarmory&tier=ou",
+      "strategyName": "Defensive Spikes"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou",
+      "strategyName": "Choice Band"
+    }
+  ],
   "strategyCounters": [
     {
       "strategyId": "/strategies/offensive-tank?pokemon=buzzwole&tier=ou",
       "strategyName": "Offensive Tank"
+    },
+    {
+      "strategyId": "/strategies/offensive-rain-sweeper?pokemon=zapdos&tier=ou",
+      "strategyName": "Offensive Rain Sweeper"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=zapdos&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/bulky-quiver-dance?pokemon=volcarona&tier=ou",
+      "strategyName": "Bulky Quiver Dance"
+    },
+    {
+      "strategyId": "/strategies/offensive-quiver-dance?pokemon=volcarona&tier=ou",
+      "strategyName": "Offensive Quiver Dance"
     }
   ],
   "strategyCheckers": [
@@ -198,6 +259,38 @@
     {
       "strategyId": "/strategies/physically-defensive?pokemon=scizor&tier=ou",
       "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=melmetal&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=melmetal&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/protect?pokemon=melmetal&tier=ou",
+      "strategyName": "Protect"
+    },
+    {
+      "strategyId": "/strategies/three-attacks-thunder-wave?pokemon=melmetal&tier=ou",
+      "strategyName": "Three Attacks + Thunder Wave"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=tapu-koko&tier=ou",
+      "strategyName": "Offensive Pivot"
     }
   ],
   "strategyMoves": {
