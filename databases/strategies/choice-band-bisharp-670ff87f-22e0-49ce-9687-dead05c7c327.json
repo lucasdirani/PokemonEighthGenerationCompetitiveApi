@@ -1,0 +1,228 @@
+﻿{
+  "strategyName": "Choice Band",
+  "strategyId": "/strategies/choice-band?pokemon=bisharp&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Bisharp",
+    "pokemonId": "/pokemon/bisharp",
+    "pokemonTypes": [
+      {
+        "typeName": "Dark",
+        "typeId": "/types/dark"
+      },
+      {
+        "typeName": "Steel",
+        "typeId": "/types/steel"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 65
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 125
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 60
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 70
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Pressure",
+        "abilityId": "/abilities/pressure",
+        "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+      },
+      {
+        "abilityName": "Inner Focus",
+        "abilityId": "/abilities/inner-focus",
+        "abilityDetails": "This Pokemon cannot be made to flinch. Immune to Intimidate."
+      },
+      {
+        "abilityName": "Defiant",
+        "abilityId": "/abilities/defiant",
+        "abilityDetails": "This Pokemon's Attack is raised by 2 for each of its stats that is lowered by a foe."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:35.8191093Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Choice Band",
+      "itemId": "/items/choice-band",
+      "itemDetails": "Holder's Attack is 1.5x, but it can only select the first move it executes."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Defiant",
+      "abilityId": "/abilities/defiant",
+      "abilityDetails": "This Pokemon's Attack is raised by 2 for each of its stats that is lowered by a foe."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Adamant",
+      "natureId": "/natures/adamant",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Attack" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Sucker Punch",
+        "moveId": "/moves/sucker-punch",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "Usually goes first. Fails if target is not attacking."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Iron Head",
+        "moveId": "/moves/iron-head",
+        "moveType": {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to make the target flinch."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Beat Up",
+        "moveId": "/moves/beat-up",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "All healthy allies aid in damaging the target."
+      },
+      {
+        "moveName": "Assurance",
+        "moveId": "/moves/assurance",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "moveDetails": "Power doubles if target was damaged this turn."
+      }
+    ]
+  }
+}

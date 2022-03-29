@@ -1,0 +1,1149 @@
+﻿[
+  {
+    "typeName": "Flying",
+    "typeId": "/types/flying",
+    "typePokemon": [
+      {
+        "pokemonName": "Gyarados",
+        "pokemonId": "/pokemon/gyarados",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 79
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 81
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Intimidate",
+            "abilityId": "/abilities/intimidate",
+            "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+          },
+          {
+            "abilityName": "Moxie",
+            "abilityId": "/abilities/moxie",
+            "abilityDetails": "This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Zapdos",
+        "pokemonId": "/pokemon/zapdos",
+        "pokemonTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          },
+          {
+            "abilityName": "Static",
+            "abilityId": "/abilities/static",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be paralyzed."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Moltres",
+        "pokemonId": "/pokemon/moltres",
+        "pokemonTypes": [
+          {
+            "typeName": "Fire",
+            "typeId": "/types/fire"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 90
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Flame Body",
+            "abilityId": "/abilities/flame-body",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be burned."
+          },
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Dragonite",
+        "pokemonId": "/pokemon/dragonite",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 91
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 134
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 80
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Inner Focus",
+            "abilityId": "/abilities/inner-focus",
+            "abilityDetails": "This Pokemon cannot be made to flinch. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Multiscale",
+            "abilityId": "/abilities/multiscale",
+            "abilityDetails": "If this Pokemon is at full HP, damage taken from attacks is halved."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Skarmory",
+        "pokemonId": "/pokemon/skarmory",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 40
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 70
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Sturdy",
+            "abilityId": "/abilities/sturdy",
+            "abilityDetails": "If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."
+          },
+          {
+            "abilityName": "Keen Eye",
+            "abilityId": "/abilities/keen-eye",
+            "abilityDetails": "This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat."
+          },
+          {
+            "abilityName": "Weak Armor",
+            "abilityId": "/abilities/weak-armor",
+            "abilityDetails": "If a physical attack hits this Pokemon, Defense is lowered by 1, Speed is raised by 2."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Pelipper",
+        "pokemonId": "/pokemon/pelipper",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 65
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Keen Eye",
+            "abilityId": "/abilities/keen-eye",
+            "abilityDetails": "This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat."
+          },
+          {
+            "abilityName": "Drizzle",
+            "abilityId": "/abilities/drizzle",
+            "abilityDetails": "On switch-in, this Pokemon summons Rain Dance."
+          },
+          {
+            "abilityName": "Rain Dish",
+            "abilityId": "/abilities/rain-dish",
+            "abilityDetails": "If Rain Dance is active, this Pokemon heals 1/16 of its max HP each turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Salamence",
+        "pokemonId": "/pokemon/salamence",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 135
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Intimidate",
+            "abilityId": "/abilities/intimidate",
+            "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+          },
+          {
+            "abilityName": "Moxie",
+            "abilityId": "/abilities/moxie",
+            "abilityDetails": "This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Mandibuzz",
+        "pokemonId": "/pokemon/mandibuzz",
+        "pokemonTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 55
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 80
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Overcoat",
+            "abilityId": "/abilities/overcoat",
+            "abilityDetails": "This Pokemon is immune to powder moves and damage from Sandstorm or Hail."
+          },
+          {
+            "abilityName": "Weak Armor",
+            "abilityId": "/abilities/weak-armor",
+            "abilityDetails": "If a physical attack hits this Pokemon, Defense is lowered by 1, Speed is raised by 2."
+          },
+          {
+            "abilityName": "Big Pecks",
+            "abilityId": "/abilities/big-pecks",
+            "abilityDetails": "Prevents other Pokemon from lowering this Pokemon's Defense stat stage."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Hawlucha",
+        "pokemonId": "/pokemon/hawlucha",
+        "pokemonTypes": [
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 78
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 92
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 63
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 118
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Limber",
+            "abilityId": "/abilities/limber",
+            "abilityDetails": "This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it."
+          },
+          {
+            "abilityName": "Mold Breaker",
+            "abilityId": "/abilities/mold-breaker",
+            "abilityDetails": "This Pokemon's moves and their effects ignore the Abilities of other Pokemon."
+          },
+          {
+            "abilityName": "Unburden",
+            "abilityId": "/abilities/unburden",
+            "abilityDetails": "Speed is doubled on held item loss; boost is lost if it switches, gets new item/Ability."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Celesteela",
+        "pokemonId": "/pokemon/celesteela",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 97
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 101
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 103
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 101
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 61
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Beast Boost",
+            "abilityId": "/abilities/beast-boost",
+            "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Corviknight",
+        "pokemonId": "/pokemon/corviknight",
+        "pokemonTypes": [
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 98
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 87
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 67
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          },
+          {
+            "abilityName": "Unnerve",
+            "abilityId": "/abilities/unnerve",
+            "abilityDetails": "While this Pokemon is active, it prevents opposing Pokemon from using their Berries."
+          },
+          {
+            "abilityName": "Mirror Armor",
+            "abilityId": "/abilities/mirror-armor",
+            "abilityDetails": "If this Pokemon's stat stages would be lowered, the attacker's are lowered instead."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Tornadus-Therian",
+        "pokemonFormId": "/pokemon-forms/tornadus-therian",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 79
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 121
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonFormName": "Thundurus-Therian",
+        "pokemonFormId": "/pokemon-forms/thundurus-therian",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 79
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 145
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 101
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Volt Absorb",
+            "abilityId": "/abilities/volt-absorb",
+            "abilityDetails": "This Pokemon heals 1/4 of its max HP when hit by Electric moves; Electric immunity."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonFormName": "Landorus-Therian",
+        "pokemonFormId": "/pokemon-forms/landorus-therian",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 89
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 145
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 91
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Intimidate",
+            "abilityId": "/abilities/intimidate",
+            "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonFormName": "Moltres-Galar",
+        "pokemonFormId": "/pokemon-forms/moltres-galar",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 90
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Berserk",
+            "abilityId": "/abilities/berserk",
+            "abilityDetails": "This Pokemon's Sp. Atk is raised by 1 when it reaches 1/2 or less of its max HP."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Fly",
+        "moveId": "/moves/fly",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 95,
+        "movePP": 15,
+        "moveDetails": "Flies up on first turn, then strikes the next turn."
+      },
+      {
+        "moveName": "Gust",
+        "moveId": "/moves/gust",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 35,
+        "moveDetails": "Power doubles during Bounce, Fly, and Sky Drop."
+      },
+      {
+        "moveName": "Wing Attack",
+        "moveId": "/moves/wing-attack",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 35,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Sky Attack",
+        "moveId": "/moves/sky-attack",
+        "moveCategory": "Physical",
+        "movePower": 140,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "Charges, then hits turn 2. 30% flinch. High crit."
+      },
+      {
+        "moveName": "Drill Peck",
+        "moveId": "/moves/drill-peck",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Peck",
+        "moveId": "/moves/peck",
+        "moveCategory": "Physical",
+        "movePower": 35,
+        "moveAccuracy": 100,
+        "movePP": 35,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Aeroblast",
+        "moveId": "/moves/aeroblast",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 95,
+        "movePP": 5,
+        "moveDetails": "High critical hit ratio."
+      },
+      {
+        "moveName": "Air Cutter",
+        "moveId": "/moves/air-cutter",
+        "moveCategory": "Special",
+        "movePower": 60,
+        "moveAccuracy": 95,
+        "movePP": 25,
+        "moveDetails": "High critical hit ratio. Hits adjacent foes."
+      },
+      {
+        "moveName": "Aerial Ace",
+        "moveId": "/moves/aerial-ace",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "movePP": 20,
+        "moveDetails": "This move does not check accuracy."
+      },
+      {
+        "moveName": "Bounce",
+        "moveId": "/moves/bounce",
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 85,
+        "movePP": 5,
+        "moveDetails": "Bounces turn 1. Hits turn 2. 30% paralyze."
+      },
+      {
+        "moveName": "Feather Dance",
+        "moveId": "/moves/feather-dance",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Lowers the target's Attack by 2."
+      },
+      {
+        "moveName": "Brave Bird",
+        "moveId": "/moves/brave-bird",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Has 33% recoil."
+      },
+      {
+        "moveName": "Defog",
+        "moveId": "/moves/defog",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "-1 evasion; clears terrain and hazards on both sides."
+      },
+      {
+        "moveName": "Tailwind",
+        "moveId": "/moves/tailwind",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "For 4 turns, allies' Speed is doubled."
+      },
+      {
+        "moveName": "Air Slash",
+        "moveId": "/moves/air-slash",
+        "moveCategory": "Special",
+        "movePower": 75,
+        "moveAccuracy": 95,
+        "movePP": 15,
+        "moveDetails": "30% chance to make the target flinch."
+      },
+      {
+        "moveName": "Pluck",
+        "moveId": "/moves/pluck",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "User steals and eats the target's Berry."
+      },
+      {
+        "moveName": "Roost",
+        "moveId": "/moves/roost",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Heals 50% HP. Flying-type removed 'til turn ends."
+      },
+      {
+        "moveName": "Hurricane",
+        "moveId": "/moves/hurricane",
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 70,
+        "movePP": 10,
+        "moveDetails": "30% chance to confuse target. Can't miss in rain."
+      },
+      {
+        "moveName": "Acrobatics",
+        "moveId": "/moves/acrobatics",
+        "moveCategory": "Physical",
+        "movePower": 55,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Power doubles if the user has no held item."
+      },
+      {
+        "moveName": "Dragon Ascent",
+        "moveId": "/moves/dragon-ascent",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Lowers the user's Defense and Sp. Def by 1."
+      },
+      {
+        "moveName": "Oblivion Wing",
+        "moveId": "/moves/oblivion-wing",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "User recovers 75% of the damage dealt."
+      },
+      {
+        "moveName": "Dual Wingbeat",
+        "moveId": "/moves/dual-wingbeat",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Hits 2 times in one turn."
+      },
+      {
+        "moveName": "G-Max Wind Rage",
+        "moveId": "/moves/g-max-wind-rage",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Ends Terrain, hazards."
+      },
+      {
+        "moveName": "Max Airstream",
+        "moveId": "/moves/max-airstream",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Allies: +1 Speed."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        }
+      ],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        }
+      ]
+    }
+  }
+]

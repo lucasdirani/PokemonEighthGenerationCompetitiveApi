@@ -1,0 +1,158 @@
+﻿[
+  {
+    "natureName": "Hasty",
+    "natureId": "/natures/hasty",
+    "natureDecreasedStat": {
+      "statName": "Defense",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Bold",
+          "natureId": "/natures/bold"
+        },
+        {
+          "natureName": "Docile",
+          "natureId": "/natures/docile"
+        },
+        {
+          "natureName": "Impish",
+          "natureId": "/natures/impish"
+        },
+        {
+          "natureName": "Lax",
+          "natureId": "/natures/lax"
+        },
+        {
+          "natureName": "Relaxed",
+          "natureId": "/natures/relaxed"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Docile",
+          "natureId": "/natures/docile"
+        },
+        {
+          "natureName": "Gentle",
+          "natureId": "/natures/gentle"
+        },
+        {
+          "natureName": "Hasty",
+          "natureId": "/natures/hasty"
+        },
+        {
+          "natureName": "Lonely",
+          "natureId": "/natures/lonely"
+        },
+        {
+          "natureName": "Mild",
+          "natureId": "/natures/mild"
+        }
+      ]
+    },
+    "natureIncreasedStat": {
+      "statName": "Speed",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Hasty",
+          "natureId": "/natures/hasty"
+        },
+        {
+          "natureName": "Jolly",
+          "natureId": "/natures/jolly"
+        },
+        {
+          "natureName": "Naive",
+          "natureId": "/natures/naive"
+        },
+        {
+          "natureName": "Serious",
+          "natureId": "/natures/serious"
+        },
+        {
+          "natureName": "Timid",
+          "natureId": "/natures/timid"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Brave",
+          "natureId": "/natures/brave"
+        },
+        {
+          "natureName": "Quiet",
+          "natureId": "/natures/quiet"
+        },
+        {
+          "natureName": "Relaxed",
+          "natureId": "/natures/relaxed"
+        },
+        {
+          "natureName": "Sassy",
+          "natureId": "/natures/sassy"
+        },
+        {
+          "natureName": "Serious",
+          "natureId": "/natures/serious"
+        }
+      ]
+    },
+    "natureDecreasedStatIn": 0.1,
+    "natureIncreasedStatIn": 0.1,
+    "naturePokemon": [
+      {
+        "pokemonName": "Jirachi",
+        "pokemonId": "/pokemon/jirachi",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Serene Grace",
+            "abilityId": "/abilities/serene-grace",
+            "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "naturePokemonForms": []
+  }
+]

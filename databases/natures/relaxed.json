@@ -1,0 +1,411 @@
+﻿[
+  {
+    "natureName": "Relaxed",
+    "natureId": "/natures/relaxed",
+    "natureDecreasedStat": {
+      "statName": "Speed",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Hasty",
+          "natureId": "/natures/hasty"
+        },
+        {
+          "natureName": "Jolly",
+          "natureId": "/natures/jolly"
+        },
+        {
+          "natureName": "Naive",
+          "natureId": "/natures/naive"
+        },
+        {
+          "natureName": "Serious",
+          "natureId": "/natures/serious"
+        },
+        {
+          "natureName": "Timid",
+          "natureId": "/natures/timid"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Brave",
+          "natureId": "/natures/brave"
+        },
+        {
+          "natureName": "Quiet",
+          "natureId": "/natures/quiet"
+        },
+        {
+          "natureName": "Relaxed",
+          "natureId": "/natures/relaxed"
+        },
+        {
+          "natureName": "Sassy",
+          "natureId": "/natures/sassy"
+        },
+        {
+          "natureName": "Serious",
+          "natureId": "/natures/serious"
+        }
+      ]
+    },
+    "natureIncreasedStat": {
+      "statName": "Defense",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Bold",
+          "natureId": "/natures/bold"
+        },
+        {
+          "natureName": "Docile",
+          "natureId": "/natures/docile"
+        },
+        {
+          "natureName": "Impish",
+          "natureId": "/natures/impish"
+        },
+        {
+          "natureName": "Lax",
+          "natureId": "/natures/lax"
+        },
+        {
+          "natureName": "Relaxed",
+          "natureId": "/natures/relaxed"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Docile",
+          "natureId": "/natures/docile"
+        },
+        {
+          "natureName": "Gentle",
+          "natureId": "/natures/gentle"
+        },
+        {
+          "natureName": "Hasty",
+          "natureId": "/natures/hasty"
+        },
+        {
+          "natureName": "Lonely",
+          "natureId": "/natures/lonely"
+        },
+        {
+          "natureName": "Mild",
+          "natureId": "/natures/mild"
+        }
+      ]
+    },
+    "natureDecreasedStatIn": 0.1,
+    "natureIncreasedStatIn": 0.1,
+    "naturePokemon": [
+      {
+        "pokemonName": "Quagsire",
+        "pokemonId": "/pokemon/quagsire",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 35
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Damp",
+            "abilityId": "/abilities/damp",
+            "abilityDetails": "Prevents Explosion/Mind Blown/Misty Explosion/Self-Destruct/Aftermath while active."
+          },
+          {
+            "abilityName": "Water Absorb",
+            "abilityId": "/abilities/water-absorb",
+            "abilityDetails": "This Pokemon heals 1/4 of its max HP when hit by Water moves; Water immunity."
+          },
+          {
+            "abilityName": "Unaware",
+            "abilityId": "/abilities/unaware",
+            "abilityDetails": "This Pokemon ignores other Pokemon's stat stages when taking or doing damage."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tangrowth",
+        "pokemonId": "/pokemon/tangrowth",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 50
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Chlorophyll",
+            "abilityId": "/abilities/chlorophyll",
+            "abilityDetails": "If Sunny Day is active, this Pokemon's Speed is doubled."
+          },
+          {
+            "abilityName": "Leaf Guard",
+            "abilityId": "/abilities/leaf-guard",
+            "abilityDetails": "If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Corviknight",
+        "pokemonId": "/pokemon/corviknight",
+        "pokemonTypes": [
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 98
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 87
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 67
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          },
+          {
+            "abilityName": "Unnerve",
+            "abilityId": "/abilities/unnerve",
+            "abilityDetails": "While this Pokemon is active, it prevents opposing Pokemon from using their Berries."
+          },
+          {
+            "abilityName": "Mirror Armor",
+            "abilityId": "/abilities/mirror-armor",
+            "abilityDetails": "If this Pokemon's stat stages would be lowered, the attacker's are lowered instead."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Dragonite",
+        "pokemonId": "/pokemon/dragonite",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 91
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 134
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 80
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Inner Focus",
+            "abilityId": "/abilities/inner-focus",
+            "abilityDetails": "This Pokemon cannot be made to flinch. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Multiscale",
+            "abilityId": "/abilities/multiscale",
+            "abilityDetails": "If this Pokemon is at full HP, damage taken from attacks is halved."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Slowbro",
+        "pokemonId": "/pokemon/slowbro",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 30
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Oblivious",
+            "abilityId": "/abilities/oblivious",
+            "abilityDetails": "This Pokemon cannot be infatuated or taunted. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Own Tempo",
+            "abilityId": "/abilities/own-tempo",
+            "abilityDetails": "This Pokemon cannot be confused. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "naturePokemonForms": []
+  }
+]

@@ -1,0 +1,522 @@
+﻿[
+  {
+    "natureName": "Impish",
+    "natureId": "/natures/impish",
+    "natureDecreasedStat": {
+      "statName": "Special Attack",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Bashful",
+          "natureId": "/natures/bashful"
+        },
+        {
+          "natureName": "Mild",
+          "natureId": "/natures/mild"
+        },
+        {
+          "natureName": "Modest",
+          "natureId": "/natures/modest"
+        },
+        {
+          "natureName": "Quiet",
+          "natureId": "/natures/quiet"
+        },
+        {
+          "natureName": "Rash",
+          "natureId": "/natures/rash"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Adamant",
+          "natureId": "/natures/adamant"
+        },
+        {
+          "natureName": "Bashful",
+          "natureId": "/natures/bashful"
+        },
+        {
+          "natureName": "Careful",
+          "natureId": "/natures/careful"
+        },
+        {
+          "natureName": "Impish",
+          "natureId": "/natures/impish"
+        },
+        {
+          "natureName": "Jolly",
+          "natureId": "/natures/jolly"
+        }
+      ]
+    },
+    "natureIncreasedStat": {
+      "statName": "Defense",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Bold",
+          "natureId": "/natures/bold"
+        },
+        {
+          "natureName": "Docile",
+          "natureId": "/natures/docile"
+        },
+        {
+          "natureName": "Impish",
+          "natureId": "/natures/impish"
+        },
+        {
+          "natureName": "Lax",
+          "natureId": "/natures/lax"
+        },
+        {
+          "natureName": "Relaxed",
+          "natureId": "/natures/relaxed"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Docile",
+          "natureId": "/natures/docile"
+        },
+        {
+          "natureName": "Gentle",
+          "natureId": "/natures/gentle"
+        },
+        {
+          "natureName": "Hasty",
+          "natureId": "/natures/hasty"
+        },
+        {
+          "natureName": "Lonely",
+          "natureId": "/natures/lonely"
+        },
+        {
+          "natureName": "Mild",
+          "natureId": "/natures/mild"
+        }
+      ]
+    },
+    "natureDecreasedStatIn": 0.1,
+    "natureIncreasedStatIn": 0.1,
+    "naturePokemon": [
+      {
+        "pokemonName": "Buzzwole",
+        "pokemonId": "/pokemon/buzzwole",
+        "pokemonTypes": [
+          {
+            "typeName": "Bug",
+            "typeId": "/types/bug"
+          },
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 139
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 139
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 79
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Beast Boost",
+            "abilityId": "/abilities/beast-boost",
+            "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Kommo-o",
+        "pokemonId": "/pokemon/kommo-o",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 85
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Soundproof",
+            "abilityId": "/abilities/soundproof",
+            "abilityDetails": "This Pokemon is immune to sound-based moves, including Heal Bell."
+          },
+          {
+            "abilityName": "Overcoat",
+            "abilityId": "/abilities/overcoat",
+            "abilityDetails": "This Pokemon is immune to powder moves and damage from Sandstorm or Hail."
+          },
+          {
+            "abilityName": "Bulletproof",
+            "abilityId": "/abilities/bulletproof",
+            "abilityDetails": "Makes user immune to ballistic moves (Shadow Ball, Sludge Bomb, Focus Blast, etc)."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Salamence",
+        "pokemonId": "/pokemon/salamence",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 135
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Intimidate",
+            "abilityId": "/abilities/intimidate",
+            "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+          },
+          {
+            "abilityName": "Moxie",
+            "abilityId": "/abilities/moxie",
+            "abilityDetails": "This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Corviknight",
+        "pokemonId": "/pokemon/corviknight",
+        "pokemonTypes": [
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 98
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 87
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 67
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          },
+          {
+            "abilityName": "Unnerve",
+            "abilityId": "/abilities/unnerve",
+            "abilityDetails": "While this Pokemon is active, it prevents opposing Pokemon from using their Berries."
+          },
+          {
+            "abilityName": "Mirror Armor",
+            "abilityId": "/abilities/mirror-armor",
+            "abilityDetails": "If this Pokemon's stat stages would be lowered, the attacker's are lowered instead."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Mandibuzz",
+        "pokemonId": "/pokemon/mandibuzz",
+        "pokemonTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 55
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 80
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Overcoat",
+            "abilityId": "/abilities/overcoat",
+            "abilityDetails": "This Pokemon is immune to powder moves and damage from Sandstorm or Hail."
+          },
+          {
+            "abilityName": "Weak Armor",
+            "abilityId": "/abilities/weak-armor",
+            "abilityDetails": "If a physical attack hits this Pokemon, Defense is lowered by 1, Speed is raised by 2."
+          },
+          {
+            "abilityName": "Big Pecks",
+            "abilityId": "/abilities/big-pecks",
+            "abilityDetails": "Prevents other Pokemon from lowering this Pokemon's Defense stat stage."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Toxapex",
+        "pokemonId": "/pokemon/toxapex",
+        "pokemonTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 63
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 152
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 142
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 35
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Limber",
+            "abilityId": "/abilities/limber",
+            "abilityDetails": "This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          },
+          {
+            "abilityName": "Merciless",
+            "abilityId": "/abilities/merciless",
+            "abilityDetails": "This Pokemon's attacks are critical hits if the target is poisoned."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "naturePokemonForms": [
+      {
+        "pokemonFormName": "Landorus-Therian",
+        "pokemonFormId": "/pokemon-forms/landorus-therian",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 89
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 145
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 91
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Intimidate",
+            "abilityId": "/abilities/intimidate",
+            "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ]
+  }
+]

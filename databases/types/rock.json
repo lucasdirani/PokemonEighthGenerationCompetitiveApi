@@ -1,0 +1,426 @@
+﻿[
+  {
+    "typeName": "Rock",
+    "typeId": "/types/rock",
+    "typePokemon": [
+      {
+        "pokemonName": "Tyranitar",
+        "pokemonId": "/pokemon/tyranitar",
+        "pokemonTypes": [
+          {
+            "typeName": "Rock",
+            "typeId": "/types/rock"
+          },
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 134
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 61
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Sand Stream",
+            "abilityId": "/abilities/sand-stream",
+            "abilityDetails": "On switch-in, this Pokemon summons Sandstorm."
+          },
+          {
+            "abilityName": "Unnerve",
+            "abilityId": "/abilities/unnerve",
+            "abilityDetails": "While this Pokemon is active, it prevents opposing Pokemon from using their Berries."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Nihilego",
+        "pokemonId": "/pokemon/nihilego",
+        "pokemonTypes": [
+          {
+            "typeName": "Rock",
+            "typeId": "/types/rock"
+          },
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 109
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 47
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 127
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 131
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 103
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Beast Boost",
+            "abilityId": "/abilities/beast-boost",
+            "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Lycanroc-Dusk",
+        "pokemonFormId": "/pokemon-forms/lycanroc-dusk",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Rock",
+            "typeId": "/types/rock"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 117
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 55
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 110
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Tough Claws",
+            "abilityId": "/abilities/tough-claws",
+            "abilityDetails": "This Pokemon's contact moves have their power multiplied by 1.3."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Rock Slide",
+        "moveId": "/moves/rock-slide",
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "30% chance to make the foe(s) flinch."
+      },
+      {
+        "moveName": "Rock Throw",
+        "moveId": "/moves/rock-throw",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "moveAccuracy": 90,
+        "movePP": 15,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Ancient Power",
+        "moveId": "/moves/ancient-power",
+        "moveCategory": "Special",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "10% chance to raise all stats by 1 (not acc/eva)."
+      },
+      {
+        "moveName": "Rollout",
+        "moveId": "/moves/rollout",
+        "moveCategory": "Physical",
+        "movePower": 30,
+        "moveAccuracy": 90,
+        "movePP": 20,
+        "moveDetails": "Power doubles with each hit. Repeats for 5 turns."
+      },
+      {
+        "moveName": "Sandstorm",
+        "moveId": "/moves/sandstorm",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "For 5 turns, a sandstorm rages."
+      },
+      {
+        "moveName": "Rock Blast",
+        "moveId": "/moves/rock-blast",
+        "moveCategory": "Physical",
+        "movePower": 25,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Hits 2-5 times in one turn."
+      },
+      {
+        "moveName": "Rock Tomb",
+        "moveId": "/moves/rock-tomb",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 95,
+        "movePP": 15,
+        "moveDetails": "100% chance to lower the target's Speed by 1."
+      },
+      {
+        "moveName": "Stealth Rock",
+        "moveId": "/moves/stealth-rock",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Hurts foes on switch-in. Factors Rock weakness."
+      },
+      {
+        "moveName": "Power Gem",
+        "moveId": "/moves/power-gem",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Head Smash",
+        "moveId": "/moves/head-smash",
+        "moveCategory": "Physical",
+        "movePower": 150,
+        "moveAccuracy": 80,
+        "movePP": 5,
+        "moveDetails": "Has 1/2 recoil."
+      },
+      {
+        "moveName": "Rock Polish",
+        "moveId": "/moves/rock-polish",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises the user's Speed by 2."
+      },
+      {
+        "moveName": "Rock Wrecker",
+        "moveId": "/moves/rock-wrecker",
+        "moveCategory": "Physical",
+        "movePower": 150,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "User cannot move next turn."
+      },
+      {
+        "moveName": "Stone Edge",
+        "moveId": "/moves/stone-edge",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 80,
+        "movePP": 5,
+        "moveDetails": "High critical hit ratio."
+      },
+      {
+        "moveName": "Wide Guard",
+        "moveId": "/moves/wide-guard",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Protects allies from multi-target moves this turn."
+      },
+      {
+        "moveName": "Smack Down",
+        "moveId": "/moves/smack-down",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Removes the target's Ground immunity."
+      },
+      {
+        "moveName": "Diamond Storm",
+        "moveId": "/moves/diamond-storm",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 95,
+        "movePP": 5,
+        "moveDetails": "50% chance to raise user's Def by 2 for each hit."
+      },
+      {
+        "moveName": "Accelerock",
+        "moveId": "/moves/accelerock",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Usually goes first."
+      },
+      {
+        "moveName": "G-Max Volcalith",
+        "moveId": "/moves/g-max-volcalith",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Foes: -1/6 HP, 4 turns."
+      },
+      {
+        "moveName": "Max Rockfall",
+        "moveId": "/moves/max-rockfall",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Starts Sandstorm."
+      },
+      {
+        "moveName": "Meteor Beam",
+        "moveId": "/moves/meteor-beam",
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Raises user's Sp. Atk by 1 on turn 1. Hits turn 2."
+      },
+      {
+        "moveName": "Tar Shot",
+        "moveId": "/moves/tar-shot",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Target gets -1 Spe and becomes weaker to Fire."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        }
+      ]
+    }
+  }
+]

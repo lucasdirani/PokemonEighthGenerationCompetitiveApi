@@ -1,0 +1,158 @@
+﻿[
+  {
+    "natureName": "Mild",
+    "natureId": "/natures/mild",
+    "natureDecreasedStat": {
+      "statName": "Defense",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Bold",
+          "natureId": "/natures/bold"
+        },
+        {
+          "natureName": "Docile",
+          "natureId": "/natures/docile"
+        },
+        {
+          "natureName": "Impish",
+          "natureId": "/natures/impish"
+        },
+        {
+          "natureName": "Lax",
+          "natureId": "/natures/lax"
+        },
+        {
+          "natureName": "Relaxed",
+          "natureId": "/natures/relaxed"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Docile",
+          "natureId": "/natures/docile"
+        },
+        {
+          "natureName": "Gentle",
+          "natureId": "/natures/gentle"
+        },
+        {
+          "natureName": "Hasty",
+          "natureId": "/natures/hasty"
+        },
+        {
+          "natureName": "Lonely",
+          "natureId": "/natures/lonely"
+        },
+        {
+          "natureName": "Mild",
+          "natureId": "/natures/mild"
+        }
+      ]
+    },
+    "natureIncreasedStat": {
+      "statName": "Special Attack",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Bashful",
+          "natureId": "/natures/bashful"
+        },
+        {
+          "natureName": "Mild",
+          "natureId": "/natures/mild"
+        },
+        {
+          "natureName": "Modest",
+          "natureId": "/natures/modest"
+        },
+        {
+          "natureName": "Quiet",
+          "natureId": "/natures/quiet"
+        },
+        {
+          "natureName": "Rash",
+          "natureId": "/natures/rash"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Adamant",
+          "natureId": "/natures/adamant"
+        },
+        {
+          "natureName": "Bashful",
+          "natureId": "/natures/bashful"
+        },
+        {
+          "natureName": "Careful",
+          "natureId": "/natures/careful"
+        },
+        {
+          "natureName": "Impish",
+          "natureId": "/natures/impish"
+        },
+        {
+          "natureName": "Jolly",
+          "natureId": "/natures/jolly"
+        }
+      ]
+    },
+    "natureDecreasedStatIn": 0.1,
+    "natureIncreasedStatIn": 0.1,
+    "naturePokemon": [
+      {
+        "pokemonName": "Aegislash",
+        "pokemonId": "/pokemon/aegislash",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Ghost",
+            "typeId": "/types/ghost"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Stance Change",
+            "abilityId": "/abilities/stance-change",
+            "abilityDetails": "If Aegislash, changes Forme to Blade before attacks and Shield before King's Shield."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "naturePokemonForms": []
+  }
+]

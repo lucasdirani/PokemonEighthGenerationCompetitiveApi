@@ -1,0 +1,1356 @@
+﻿[
+  {
+    "typeName": "Water",
+    "typeId": "/types/water",
+    "typePokemon": [
+      {
+        "pokemonName": "Tentacruel",
+        "pokemonId": "/pokemon/tentacruel",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 120
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Liquid Ooze",
+            "abilityId": "/abilities/liquid-ooze",
+            "abilityDetails": "This Pokemon damages those draining HP from it for as much as they would heal."
+          },
+          {
+            "abilityName": "Clear Body",
+            "abilityId": "/abilities/clear-body",
+            "abilityDetails": "Prevents other Pokemon from lowering this Pokemon's stat stages."
+          },
+          {
+            "abilityName": "Rain Dish",
+            "abilityId": "/abilities/rain-dish",
+            "abilityDetails": "If Rain Dance is active, this Pokemon heals 1/16 of its max HP each turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Slowbro",
+        "pokemonId": "/pokemon/slowbro",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 30
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Oblivious",
+            "abilityId": "/abilities/oblivious",
+            "abilityDetails": "This Pokemon cannot be infatuated or taunted. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Own Tempo",
+            "abilityId": "/abilities/own-tempo",
+            "abilityDetails": "This Pokemon cannot be confused. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Gyarados",
+        "pokemonId": "/pokemon/gyarados",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 79
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 81
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Intimidate",
+            "abilityId": "/abilities/intimidate",
+            "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+          },
+          {
+            "abilityName": "Moxie",
+            "abilityId": "/abilities/moxie",
+            "abilityDetails": "This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Azumarill",
+        "pokemonId": "/pokemon/azumarill",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 50
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Thick Fat",
+            "abilityId": "/abilities/thick-fat",
+            "abilityDetails": "Fire/Ice-type moves against this Pokemon deal damage with a halved attacking stat."
+          },
+          {
+            "abilityName": "Huge Power",
+            "abilityId": "/abilities/huge-power",
+            "abilityDetails": "This Pokemon's Attack is doubled."
+          },
+          {
+            "abilityName": "Sap Sipper",
+            "abilityId": "/abilities/sap-sipper",
+            "abilityDetails": "This Pokemon's Attack is raised 1 stage if hit by a Grass move; Grass immunity."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Quagsire",
+        "pokemonId": "/pokemon/quagsire",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 35
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Damp",
+            "abilityId": "/abilities/damp",
+            "abilityDetails": "Prevents Explosion/Mind Blown/Misty Explosion/Self-Destruct/Aftermath while active."
+          },
+          {
+            "abilityName": "Water Absorb",
+            "abilityId": "/abilities/water-absorb",
+            "abilityDetails": "This Pokemon heals 1/4 of its max HP when hit by Water moves; Water immunity."
+          },
+          {
+            "abilityName": "Unaware",
+            "abilityId": "/abilities/unaware",
+            "abilityDetails": "This Pokemon ignores other Pokemon's stat stages when taking or doing damage."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Slowking",
+        "pokemonId": "/pokemon/slowking",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 30
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Oblivious",
+            "abilityId": "/abilities/oblivious",
+            "abilityDetails": "This Pokemon cannot be infatuated or taunted. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Own Tempo",
+            "abilityId": "/abilities/own-tempo",
+            "abilityDetails": "This Pokemon cannot be confused. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Swampert",
+        "pokemonId": "/pokemon/swampert",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Torrent",
+            "abilityId": "/abilities/torrent",
+            "abilityDetails": "At 1/3 or less of its max HP, this Pokemon's attacking stat is 1.5x with Water attacks."
+          },
+          {
+            "abilityName": "Damp",
+            "abilityId": "/abilities/damp",
+            "abilityDetails": "Prevents Explosion/Mind Blown/Misty Explosion/Self-Destruct/Aftermath while active."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Pelipper",
+        "pokemonId": "/pokemon/pelipper",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 65
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Keen Eye",
+            "abilityId": "/abilities/keen-eye",
+            "abilityDetails": "This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat."
+          },
+          {
+            "abilityName": "Drizzle",
+            "abilityId": "/abilities/drizzle",
+            "abilityDetails": "On switch-in, this Pokemon summons Rain Dance."
+          },
+          {
+            "abilityName": "Rain Dish",
+            "abilityId": "/abilities/rain-dish",
+            "abilityDetails": "If Rain Dance is active, this Pokemon heals 1/16 of its max HP each turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Crawdaunt",
+        "pokemonId": "/pokemon/crawdaunt",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 63
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 120
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 55
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 55
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Hyper Cutter",
+            "abilityId": "/abilities/hyper-cutter",
+            "abilityDetails": "Prevents other Pokemon from lowering this Pokemon's Attack stat stage."
+          },
+          {
+            "abilityName": "Shell Armor",
+            "abilityId": "/abilities/shell-armor",
+            "abilityDetails": "This Pokemon cannot be struck by a critical hit."
+          },
+          {
+            "abilityName": "Adaptability",
+            "abilityId": "/abilities/adaptability",
+            "abilityDetails": "This Pokemon's same-type attack bonus (STAB) is 2 instead of 1.5."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Keldeo",
+        "pokemonId": "/pokemon/keldeo",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 91
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 72
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 129
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 108
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Justified",
+            "abilityId": "/abilities/justified",
+            "abilityDetails": "This Pokemon's Attack is raised by 1 stage after it is damaged by a Dark-type move."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tapu Fini",
+        "pokemonId": "/pokemon/tapu-fini",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 85
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Telepathy",
+            "abilityId": "/abilities/telepathy",
+            "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+          },
+          {
+            "abilityName": "Misty Surge",
+            "abilityId": "/abilities/misty-surge",
+            "abilityDetails": "On switch-in, this Pokemon summons Misty Terrain."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Primarina",
+        "pokemonId": "/pokemon/primarina",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 126
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 116
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Torrent",
+            "abilityId": "/abilities/torrent",
+            "abilityDetails": "At 1/3 or less of its max HP, this Pokemon's attacking stat is 1.5x with Water attacks."
+          },
+          {
+            "abilityName": "Liquid Voice",
+            "abilityId": "/abilities/liquid-voice",
+            "abilityDetails": "This Pokemon's sound-based moves become Water type."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Toxapex",
+        "pokemonId": "/pokemon/toxapex",
+        "pokemonTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 63
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 152
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 142
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 35
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Limber",
+            "abilityId": "/abilities/limber",
+            "abilityDetails": "This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          },
+          {
+            "abilityName": "Merciless",
+            "abilityId": "/abilities/merciless",
+            "abilityDetails": "This Pokemon's attacks are critical hits if the target is poisoned."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Rotom-Wash",
+        "pokemonFormId": "/pokemon-forms/rotom-wash",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 86
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Levitate",
+            "abilityId": "/abilities/levitate",
+            "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonFormName": "Keldeo-Resolute",
+        "pokemonFormId": "/pokemon-forms/keldeo-resolute",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 91
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 72
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 129
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 108
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Justified",
+            "abilityId": "/abilities/justified",
+            "abilityDetails": "This Pokemon's Attack is raised by 1 stage after it is damaged by a Dark-type move."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonFormName": "Urshifu-Rapid-Strike",
+        "pokemonFormId": "/pokemon-forms/urshifu-rapid-strike",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          },
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 63
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 97
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Unseen Fist",
+            "abilityId": "/abilities/unseen-fist",
+            "abilityDetails": "All contact moves hit through protection."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Bubble Beam",
+        "moveId": "/moves/bubble-beam",
+        "moveCategory": "Special",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "10% chance to lower the target's Speed by 1."
+      },
+      {
+        "moveName": "Crabhammer",
+        "moveId": "/moves/crabhammer",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "High critical hit ratio."
+      },
+      {
+        "moveName": "Surf",
+        "moveId": "/moves/surf",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Hits adjacent Pokemon. Double damage on Dive."
+      },
+      {
+        "moveName": "Waterfall",
+        "moveId": "/moves/waterfall",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "20% chance to make the target flinch."
+      },
+      {
+        "moveName": "Hydro Pump",
+        "moveId": "/moves/hydro-pump",
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 80,
+        "movePP": 5,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Water Gun",
+        "moveId": "/moves/water-gun",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 25,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Withdraw",
+        "moveId": "/moves/withdraw",
+        "moveCategory": "Non-Damaging",
+        "movePP": 40,
+        "moveDetails": "Raises the user's Defense by 1."
+      },
+      {
+        "moveName": "Whirlpool",
+        "moveId": "/moves/whirlpool",
+        "moveCategory": "Special",
+        "movePower": 35,
+        "moveAccuracy": 85,
+        "movePP": 15,
+        "moveDetails": "Traps and damages the target for 4-5 turns."
+      },
+      {
+        "moveName": "Octazooka",
+        "moveId": "/moves/octazooka",
+        "moveCategory": "Special",
+        "movePower": 65,
+        "moveAccuracy": 85,
+        "movePP": 10,
+        "moveDetails": "50% chance to lower the target's accuracy by 1."
+      },
+      {
+        "moveName": "Rain Dance",
+        "moveId": "/moves/rain-dance",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "For 5 turns, heavy rain powers Water moves."
+      },
+      {
+        "moveName": "Dive",
+        "moveId": "/moves/dive",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Dives underwater turn 1, strikes turn 2."
+      },
+      {
+        "moveName": "Muddy Water",
+        "moveId": "/moves/muddy-water",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 85,
+        "movePP": 10,
+        "moveDetails": "30% chance to lower the foe(s) accuracy by 1."
+      },
+      {
+        "moveName": "Hydro Cannon",
+        "moveId": "/moves/hydro-cannon",
+        "moveCategory": "Special",
+        "movePower": 150,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "User cannot move next turn."
+      },
+      {
+        "moveName": "Water Pulse",
+        "moveId": "/moves/water-pulse",
+        "moveCategory": "Special",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "20% chance to confuse the target."
+      },
+      {
+        "moveName": "Water Spout",
+        "moveId": "/moves/water-spout",
+        "moveCategory": "Special",
+        "movePower": 150,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Less power as user's HP decreases. Hits foe(s)."
+      },
+      {
+        "moveName": "Aqua Ring",
+        "moveId": "/moves/aqua-ring",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "User recovers 1/16 max HP per turn."
+      },
+      {
+        "moveName": "Aqua Jet",
+        "moveId": "/moves/aqua-jet",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Usually goes first."
+      },
+      {
+        "moveName": "Aqua Tail",
+        "moveId": "/moves/aqua-tail",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Brine",
+        "moveId": "/moves/brine",
+        "moveCategory": "Special",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Power doubles if the target's HP is 50% or less."
+      },
+      {
+        "moveName": "Scald",
+        "moveId": "/moves/scald",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "30% chance to burn the target. Thaws target."
+      },
+      {
+        "moveName": "Soak",
+        "moveId": "/moves/soak",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Changes the target's type to Water."
+      },
+      {
+        "moveName": "Water Pledge",
+        "moveId": "/moves/water-pledge",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Use with Grass or Fire Pledge for added effect."
+      },
+      {
+        "moveName": "Razor Shell",
+        "moveId": "/moves/razor-shell",
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 95,
+        "movePP": 10,
+        "moveDetails": "50% chance to lower the target's Defense by 1."
+      },
+      {
+        "moveName": "Water Shuriken",
+        "moveId": "/moves/water-shuriken",
+        "moveCategory": "Special",
+        "movePower": 15,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Usually goes first. Hits 2-5 times in one turn."
+      },
+      {
+        "moveName": "Origin Pulse",
+        "moveId": "/moves/origin-pulse",
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 85,
+        "movePP": 10,
+        "moveDetails": "No additional effect. Hits adjacent foes."
+      },
+      {
+        "moveName": "Steam Eruption",
+        "moveId": "/moves/steam-eruption",
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 95,
+        "movePP": 5,
+        "moveDetails": "30% chance to burn the target. Thaws target."
+      },
+      {
+        "moveName": "Liquidation",
+        "moveId": "/moves/liquidation",
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "20% chance to lower the target's Defense by 1."
+      },
+      {
+        "moveName": "Sparkling Aria",
+        "moveId": "/moves/sparkling-aria",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "The target is cured of its burn."
+      },
+      {
+        "moveName": "Fishious Rend",
+        "moveId": "/moves/fishious-rend",
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Power doubles if user moves before the target."
+      },
+      {
+        "moveName": "Flip Turn",
+        "moveId": "/moves/flip-turn",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "User switches out after damaging the target."
+      },
+      {
+        "moveName": "G-Max Cannonade",
+        "moveId": "/moves/g-max-cannonade",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Foes: -1/6 HP, 4 turns."
+      },
+      {
+        "moveName": "G-Max Foam Burst",
+        "moveId": "/moves/g-max-foam-burst",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Foes: -2 Speed."
+      },
+      {
+        "moveName": "G-Max Hydrosnipe",
+        "moveId": "/moves/g-max-hydrosnipe",
+        "moveCategory": "Physical",
+        "movePower": 160,
+        "movePP": 5,
+        "moveDetails": "Always 160 power. Ignores Abilities."
+      },
+      {
+        "moveName": "G-Max Rapid Flow",
+        "moveId": "/moves/g-max-rapid-flow",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Bypasses Max Guard."
+      },
+      {
+        "moveName": "G-Max Stonesurge",
+        "moveId": "/moves/g-max-stonesurge",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Foes: Stealth Rock."
+      },
+      {
+        "moveName": "Life Dew",
+        "moveId": "/moves/life-dew",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Heals the user and its allies by 1/4 their max HP."
+      },
+      {
+        "moveName": "Max Geyser",
+        "moveId": "/moves/max-geyser",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Starts Rain Dance."
+      },
+      {
+        "moveName": "Snipe Shot",
+        "moveId": "/moves/snipe-shot",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "High critical hit ratio. Cannot be redirected."
+      },
+      {
+        "moveName": "Surging Strikes",
+        "moveId": "/moves/surging-strikes",
+        "moveCategory": "Physical",
+        "movePower": 25,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Always results in a critical hit. Hits 3 times."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Dragon",
+          "typeId": "/types/dragon"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        }
+      ]
+    }
+  }
+]

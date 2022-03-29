@@ -1,0 +1,218 @@
+﻿{
+  "strategyName": "Bulk Up",
+  "strategyId": "/strategies/bulk-up?pokemon=zarude&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Zarude",
+    "pokemonId": "/pokemon/zarude",
+    "pokemonTypes": [
+      {
+        "typeName": "Dark",
+        "typeId": "/types/dark"
+      },
+      {
+        "typeName": "Grass",
+        "typeId": "/types/grass"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 120
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 105
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Leaf Guard",
+        "abilityId": "/abilities/leaf-guard",
+        "abilityDetails": "If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "RU",
+        "tierId": "/tiers/ru"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:23:29.7902782Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Leaf Guard",
+      "abilityId": "/abilities/leaf-guard",
+      "abilityDetails": "If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Jolly",
+      "natureId": "/natures/jolly",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Bulk Up",
+        "moveId": "/moves/bulk-up",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Attack and Defense by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Jungle Healing",
+        "moveId": "/moves/jungle-healing",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "User and allies: healed 1/4 max HP, status cured."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Power Whip",
+        "moveId": "/moves/power-whip",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 85,
+        "moveDetails": "No additional effect."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Darkest Lariat",
+        "moveId": "/moves/darkest-lariat",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "moveDetails": "Ignores the target's stat stage changes."
+      },
+      {
+        "moveName": "Crunch",
+        "moveId": "/moves/crunch",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "20% chance to lower the target's Defense by 1."
+      }
+    ]
+  }
+}

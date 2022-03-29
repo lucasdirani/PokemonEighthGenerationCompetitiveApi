@@ -1,0 +1,391 @@
+﻿[
+  {
+    "natureName": "Calm",
+    "natureId": "/natures/calm",
+    "natureDecreasedStat": {
+      "statName": "Attack",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Adamant",
+          "natureId": "/natures/adamant"
+        },
+        {
+          "natureName": "Brave",
+          "natureId": "/natures/brave"
+        },
+        {
+          "natureName": "Hardy",
+          "natureId": "/natures/hardy"
+        },
+        {
+          "natureName": "Lonely",
+          "natureId": "/natures/lonely"
+        },
+        {
+          "natureName": "Naughty",
+          "natureId": "/natures/naughty"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Bold",
+          "natureId": "/natures/bold"
+        },
+        {
+          "natureName": "Calm",
+          "natureId": "/natures/calm"
+        },
+        {
+          "natureName": "Hardy",
+          "natureId": "/natures/hardy"
+        },
+        {
+          "natureName": "Modest",
+          "natureId": "/natures/modest"
+        },
+        {
+          "natureName": "Timid",
+          "natureId": "/natures/timid"
+        }
+      ]
+    },
+    "natureIncreasedStat": {
+      "statName": "Special Defense",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Calm",
+          "natureId": "/natures/calm"
+        },
+        {
+          "natureName": "Careful",
+          "natureId": "/natures/careful"
+        },
+        {
+          "natureName": "Gentle",
+          "natureId": "/natures/gentle"
+        },
+        {
+          "natureName": "Quirky",
+          "natureId": "/natures/quirky"
+        },
+        {
+          "natureName": "Sassy",
+          "natureId": "/natures/sassy"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Lax",
+          "natureId": "/natures/lax"
+        },
+        {
+          "natureName": "Naive",
+          "natureId": "/natures/naive"
+        },
+        {
+          "natureName": "Naughty",
+          "natureId": "/natures/naughty"
+        },
+        {
+          "natureName": "Quirky",
+          "natureId": "/natures/quirky"
+        },
+        {
+          "natureName": "Rash",
+          "natureId": "/natures/rash"
+        }
+      ]
+    },
+    "natureDecreasedStatIn": 0.1,
+    "natureIncreasedStatIn": 0.1,
+    "naturePokemon": [
+      {
+        "pokemonName": "Primarina",
+        "pokemonId": "/pokemon/primarina",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 126
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 116
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Torrent",
+            "abilityId": "/abilities/torrent",
+            "abilityDetails": "At 1/3 or less of its max HP, this Pokemon's attacking stat is 1.5x with Water attacks."
+          },
+          {
+            "abilityName": "Liquid Voice",
+            "abilityId": "/abilities/liquid-voice",
+            "abilityDetails": "This Pokemon's sound-based moves become Water type."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Heatran",
+        "pokemonId": "/pokemon/heatran",
+        "pokemonTypes": [
+          {
+            "typeName": "Fire",
+            "typeId": "/types/fire"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 91
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 106
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 106
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 77
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Flame Body",
+            "abilityId": "/abilities/flame-body",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be burned."
+          },
+          {
+            "abilityName": "Flash Fire",
+            "abilityId": "/abilities/flash-fire",
+            "abilityDetails": "This Pokemon's Fire attacks do 1.5x damage if hit by one Fire move; Fire immunity."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "naturePokemonForms": [
+      {
+        "pokemonFormName": "Moltres-Galar",
+        "pokemonFormId": "/pokemon-forms/moltres-galar",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 90
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Berserk",
+            "abilityId": "/abilities/berserk",
+            "abilityDetails": "This Pokemon's Sp. Atk is raised by 1 when it reaches 1/2 or less of its max HP."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonFormName": "Rotom-Heat",
+        "pokemonFormId": "/pokemon-forms/rotom-heat",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Fire",
+            "typeId": "/types/fire"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 86
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Levitate",
+            "abilityId": "/abilities/levitate",
+            "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonFormName": "Slowking-Galar",
+        "pokemonFormId": "/pokemon-forms/slowking-galar",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 30
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Own Tempo",
+            "abilityId": "/abilities/own-tempo",
+            "abilityDetails": "This Pokemon cannot be confused. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          },
+          {
+            "abilityName": "Curious Medicine",
+            "abilityId": "/abilities/curious-medicine",
+            "abilityDetails": "On switch-in, this Pokemon's allies have their stat stages reset to 0."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ]
+  }
+]

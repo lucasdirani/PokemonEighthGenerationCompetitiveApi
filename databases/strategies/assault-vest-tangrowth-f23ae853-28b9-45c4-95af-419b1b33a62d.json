@@ -1,0 +1,399 @@
+﻿{
+  "strategyName": "Assault Vest",
+  "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+  "strategyDetails": "Giga Drain allows Tangrowth to sustain its health on the field while dealing good damage to Pokemon like Rhyperior and Keldeo. Power Whip is an alternative option to Giga Drain to beat Calm Mind Primarina, but getting burned by Scald from Water-types or Rotom-W's Will-O-Wisp weakens Power Whip, making it less reliable. Knock Off is an extremely useful move, removing items and crippling common Tangrowth answers, like Amoonguss, Chansey, Aegislash, and Celesteela. Sludge Bomb has a decent chance to poison foes and is also Tangrowth's best way to hit Hatterene, Zarude, and opposing Tangrowth. Earthquake is used to pressure Pokemon such as Galarian Slowbro, Tentacruel, and Nihilego. Assault Vest boosts Tangrowth's miserable Special Defense stat, allowing it to pivot in on Pokemon it normally can't, such as Primarina, Keldeo, and Thundurus-T. Tangrowth acts as an effective glue on many playstyles. Any team appreciates Tangrowth acting as a reliable defensive pivot that sponges attacks from scary wallbreakers such as Primarina, Thundurus-T, and Aegislash. However, Tangrowth can still be overwhelmed by Choice Specs Primarina and Nasty Plot Thundurus-T, so it can't face them alone. Teammates such as Chansey, Aegislash, and Celesteela appreciate Tangrowth's ability to cripple these offensive threats. Tangrowth can't take Fire- and Ice-type attacks from threats such as Moltres and Mamoswine reliably, so teammates like Primarina and Rotom-W are appreciated. Despite the amazing Regenerator, Tangrowth is extremely prone to being weakened by Stealth Rock and Spikes. Pokemon that can remove entry hazards, like Rotom-H and Salamence, therefore prevent it from being too worn down. Rotom-H is an especially good teammate, as it also checks Celesteela, one of Tangrowth's best checks. Physically defensive walls such as Buzzwole and Seismitoad appreciate Tangrowth taking on menacing special threats such as Thundurus, Keldeo, and Primarina. Buzzwole is especially valuable as a Krookodile check, since it doesn't mind losing its item, unlike Tangrowth. Keldeo can threaten Pokemon that scare Tangrowth, like Mamoswine, Moltres, and Rotom-H. In return, Tangrowth deals with Pokemon that check Keldeo well, like Primarina.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Tangrowth",
+    "pokemonId": "/pokemon/tangrowth",
+    "pokemonTypes": [
+      {
+        "typeName": "Grass",
+        "typeId": "/types/grass"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 125
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 110
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 50
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 50
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Chlorophyll",
+        "abilityId": "/abilities/chlorophyll",
+        "abilityDetails": "If Sunny Day is active, this Pokemon's Speed is doubled."
+      },
+      {
+        "abilityName": "Leaf Guard",
+        "abilityId": "/abilities/leaf-guard",
+        "abilityDetails": "If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."
+      },
+      {
+        "abilityName": "Regenerator",
+        "abilityId": "/abilities/regenerator",
+        "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:34.4239667Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Assault Vest",
+      "itemId": "/items/assault-vest",
+      "itemDetails": "Holder's Sp. Def is 1.5x, but it can only select damaging moves."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Regenerator",
+      "abilityId": "/abilities/regenerator",
+      "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Sassy",
+      "natureId": "/natures/sassy",
+      "natureDecreasedStat": { "statName": "Speed" },
+      "natureIncreasedStat": { "statName": "Special Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 0
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=keldeo&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=keldeo&tier=uu",
+      "strategyName": "Choice Specs"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/offensive-entry-hazard-setter?pokemon=nidoqueen&tier=uu",
+      "strategyName": "Offensive Entry Hazard Setter"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/defensive-spinner?pokemon=tentacruel&tier=uu",
+      "strategyName": "Defensive Spinner"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=hatterene&tier=uu",
+      "strategyName": "Calm Mind"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Giga Drain",
+        "moveId": "/moves/giga-drain",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Special",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "User recovers 50% of the damage dealt."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Sludge Bomb",
+        "moveId": "/moves/sludge-bomb",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to poison the target."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Earthquake",
+        "moveId": "/moves/earthquake",
+        "moveType": {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "moveDetails": "Hits adjacent Pokemon. Double damage on Dig."
+      }
+    ]
+  }
+}

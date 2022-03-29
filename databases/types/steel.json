@@ -1,0 +1,1160 @@
+﻿[
+  {
+    "typeName": "Steel",
+    "typeId": "/types/steel",
+    "typePokemon": [
+      {
+        "pokemonName": "Heatran",
+        "pokemonId": "/pokemon/heatran",
+        "pokemonTypes": [
+          {
+            "typeName": "Fire",
+            "typeId": "/types/fire"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 91
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 106
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 106
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 77
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Flame Body",
+            "abilityId": "/abilities/flame-body",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be burned."
+          },
+          {
+            "abilityName": "Flash Fire",
+            "abilityId": "/abilities/flash-fire",
+            "abilityDetails": "This Pokemon's Fire attacks do 1.5x damage if hit by one Fire move; Fire immunity."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Scizor",
+        "pokemonId": "/pokemon/scizor",
+        "pokemonTypes": [
+          {
+            "typeName": "Bug",
+            "typeId": "/types/bug"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 55
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 65
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Swarm",
+            "abilityId": "/abilities/swarm",
+            "abilityDetails": "At 1/3 or less of its max HP, this Pokemon's attacking stat is 1.5x with Bug attacks."
+          },
+          {
+            "abilityName": "Technician",
+            "abilityId": "/abilities/technician",
+            "abilityDetails": "This Pokemon's moves of 60 power or less have 1.5x power. Includes Struggle."
+          },
+          {
+            "abilityName": "Light Metal",
+            "abilityId": "/abilities/light-metal",
+            "abilityDetails": "This Pokemon's weight is halved."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Skarmory",
+        "pokemonId": "/pokemon/skarmory",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 40
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 70
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Sturdy",
+            "abilityId": "/abilities/sturdy",
+            "abilityDetails": "If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."
+          },
+          {
+            "abilityName": "Keen Eye",
+            "abilityId": "/abilities/keen-eye",
+            "abilityDetails": "This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat."
+          },
+          {
+            "abilityName": "Weak Armor",
+            "abilityId": "/abilities/weak-armor",
+            "abilityDetails": "If a physical attack hits this Pokemon, Defense is lowered by 1, Speed is raised by 2."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Jirachi",
+        "pokemonId": "/pokemon/jirachi",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Serene Grace",
+            "abilityId": "/abilities/serene-grace",
+            "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Magnezone",
+        "pokemonId": "/pokemon/magnezone",
+        "pokemonTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Sturdy",
+            "abilityId": "/abilities/sturdy",
+            "abilityDetails": "If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."
+          },
+          {
+            "abilityName": "Magnet Pull",
+            "abilityId": "/abilities/magnet-pull",
+            "abilityDetails": "Prevents adjacent Steel-type foes from choosing to switch."
+          },
+          {
+            "abilityName": "Analytic",
+            "abilityId": "/abilities/analytic",
+            "abilityDetails": "This Pokemon's attacks have 1.3x power if it is the last to move in a turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Ferrothorn",
+        "pokemonId": "/pokemon/ferrothorn",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 94
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 131
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 54
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 116
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 20
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Anticipation",
+            "abilityId": "/abilities/anticipation",
+            "abilityDetails": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move."
+          },
+          {
+            "abilityName": "Iron Barbs",
+            "abilityId": "/abilities/iron-barbs",
+            "abilityDetails": "Pokemon making contact with this Pokemon lose 1/8 of their max HP."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Excadrill",
+        "pokemonId": "/pokemon/excadrill",
+        "pokemonTypes": [
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 135
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 88
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Mold Breaker",
+            "abilityId": "/abilities/mold-breaker",
+            "abilityDetails": "This Pokemon's moves and their effects ignore the Abilities of other Pokemon."
+          },
+          {
+            "abilityName": "Sand Force",
+            "abilityId": "/abilities/sand-force",
+            "abilityDetails": "This Pokemon's Ground/Rock/Steel attacks do 1.3x in Sandstorm; immunity to it."
+          },
+          {
+            "abilityName": "Sand Rush",
+            "abilityId": "/abilities/sand-rush",
+            "abilityDetails": "If Sandstorm is active, this Pokemon's Speed is doubled; immunity to Sandstorm."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Bisharp",
+        "pokemonId": "/pokemon/bisharp",
+        "pokemonTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 70
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          },
+          {
+            "abilityName": "Inner Focus",
+            "abilityId": "/abilities/inner-focus",
+            "abilityDetails": "This Pokemon cannot be made to flinch. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Defiant",
+            "abilityId": "/abilities/defiant",
+            "abilityDetails": "This Pokemon's Attack is raised by 2 for each of its stats that is lowered by a foe."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Aegislash",
+        "pokemonId": "/pokemon/aegislash",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Ghost",
+            "typeId": "/types/ghost"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Stance Change",
+            "abilityId": "/abilities/stance-change",
+            "abilityDetails": "If Aegislash, changes Forme to Blade before attacks and Shield before King's Shield."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Celesteela",
+        "pokemonId": "/pokemon/celesteela",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 97
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 101
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 103
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 101
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 61
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Beast Boost",
+            "abilityId": "/abilities/beast-boost",
+            "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Kartana",
+        "pokemonId": "/pokemon/kartana",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 59
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 181
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 131
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 59
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 31
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 109
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Beast Boost",
+            "abilityId": "/abilities/beast-boost",
+            "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Melmetal",
+        "pokemonId": "/pokemon/melmetal",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 135
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 143
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 143
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 34
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Iron Fist",
+            "abilityId": "/abilities/iron-fist",
+            "abilityDetails": "This Pokemon's punch-based attacks have 1.2x power. Sucker Punch is not boosted."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Corviknight",
+        "pokemonId": "/pokemon/corviknight",
+        "pokemonTypes": [
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 98
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 87
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 67
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          },
+          {
+            "abilityName": "Unnerve",
+            "abilityId": "/abilities/unnerve",
+            "abilityDetails": "While this Pokemon is active, it prevents opposing Pokemon from using their Berries."
+          },
+          {
+            "abilityName": "Mirror Armor",
+            "abilityId": "/abilities/mirror-armor",
+            "abilityDetails": "If this Pokemon's stat stages would be lowered, the attacker's are lowered instead."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Aegislash-Blade",
+        "pokemonFormId": "/pokemon-forms/aegislash-blade",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Ghost",
+            "typeId": "/types/ghost"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Stance Change",
+            "abilityId": "/abilities/stance-change",
+            "abilityDetails": "If Aegislash, changes Forme to Blade before attacks and Shield before King's Shield."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Iron Tail",
+        "moveId": "/moves/iron-tail",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 75,
+        "movePP": 15,
+        "moveDetails": "30% chance to lower the target's Defense by 1."
+      },
+      {
+        "moveName": "Metal Claw",
+        "moveId": "/moves/metal-claw",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "moveAccuracy": 95,
+        "movePP": 35,
+        "moveDetails": "10% chance to raise the user's Attack by 1."
+      },
+      {
+        "moveName": "Steel Wing",
+        "moveId": "/moves/steel-wing",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 90,
+        "movePP": 25,
+        "moveDetails": "10% chance to raise the user's Defense by 1."
+      },
+      {
+        "moveName": "Doom Desire",
+        "moveId": "/moves/doom-desire",
+        "moveCategory": "Special",
+        "movePower": 140,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Hits two turns after being used."
+      },
+      {
+        "moveName": "Metal Sound",
+        "moveId": "/moves/metal-sound",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 85,
+        "movePP": 40,
+        "moveDetails": "Lowers the target's Sp. Def by 2."
+      },
+      {
+        "moveName": "Meteor Mash",
+        "moveId": "/moves/meteor-mash",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "20% chance to raise the user's Attack by 1."
+      },
+      {
+        "moveName": "Iron Defense",
+        "moveId": "/moves/iron-defense",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "Raises the user's Defense by 2."
+      },
+      {
+        "moveName": "Gyro Ball",
+        "moveId": "/moves/gyro-ball",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "More power the slower the user than the target."
+      },
+      {
+        "moveName": "Bullet Punch",
+        "moveId": "/moves/bullet-punch",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Usually goes first."
+      },
+      {
+        "moveName": "Flash Cannon",
+        "moveId": "/moves/flash-cannon",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      },
+      {
+        "moveName": "Iron Head",
+        "moveId": "/moves/iron-head",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "30% chance to make the target flinch."
+      },
+      {
+        "moveName": "Metal Burst",
+        "moveId": "/moves/metal-burst",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "If hit by an attack, returns 1.5x damage."
+      },
+      {
+        "moveName": "Autotomize",
+        "moveId": "/moves/autotomize",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "Raises the user's Speed by 2; user loses 100 kg."
+      },
+      {
+        "moveName": "Heavy Slam",
+        "moveId": "/moves/heavy-slam",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "More power the heavier the user than the target."
+      },
+      {
+        "moveName": "Gear Grind",
+        "moveId": "/moves/gear-grind",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "moveAccuracy": 85,
+        "movePP": 15,
+        "moveDetails": "Hits 2 times in one turn."
+      },
+      {
+        "moveName": "Shift Gear",
+        "moveId": "/moves/shift-gear",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Raises the user's Speed by 2 and Attack by 1."
+      },
+      {
+        "moveName": "King's Shield",
+        "moveId": "/moves/king's-shield",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Protects from damaging attacks. Contact: -1 Atk."
+      },
+      {
+        "moveName": "Double Iron Bash",
+        "moveId": "/moves/double-iron-bash",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Hits twice. 30% chance to make the target flinch."
+      },
+      {
+        "moveName": "Anchor Shot",
+        "moveId": "/moves/anchor-shot",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Prevents the target from switching out."
+      },
+      {
+        "moveName": "Gear Up",
+        "moveId": "/moves/gear-up",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises Atk, Sp. Atk of allies with Plus/Minus by 1."
+      },
+      {
+        "moveName": "Smart Strike",
+        "moveId": "/moves/smart-strike",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "movePP": 10,
+        "moveDetails": "This move does not check accuracy."
+      },
+      {
+        "moveName": "Sunsteel Strike",
+        "moveId": "/moves/sunsteel-strike",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Ignores the Abilities of other Pokemon."
+      },
+      {
+        "moveName": "Behemoth Bash",
+        "moveId": "/moves/behemoth-bash",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Damage doubles if the target is Dynamaxed."
+      },
+      {
+        "moveName": "Behemoth Blade",
+        "moveId": "/moves/behemoth-blade",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Damage doubles if the target is Dynamaxed."
+      },
+      {
+        "moveName": "G-Max Meltdown",
+        "moveId": "/moves/g-max-meltdown",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Foes: Tormented."
+      },
+      {
+        "moveName": "G-Max Steelsurge",
+        "moveId": "/moves/g-max-steelsurge",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Foes: Steel hazard."
+      },
+      {
+        "moveName": "Max Steelspike",
+        "moveId": "/moves/max-steelspike",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Allies: +1 Defense."
+      },
+      {
+        "moveName": "Steel Beam",
+        "moveId": "/moves/steel-beam",
+        "moveCategory": "Special",
+        "movePower": 140,
+        "moveAccuracy": 95,
+        "movePP": 5,
+        "moveDetails": "User loses 50% max HP."
+      },
+      {
+        "moveName": "Steel Roller",
+        "moveId": "/moves/steel-roller",
+        "moveCategory": "Physical",
+        "movePower": 130,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Fails if there is no terrain active. Ends the terrain."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        }
+      ],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Dragon",
+          "typeId": "/types/dragon"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        }
+      ]
+    }
+  }
+]

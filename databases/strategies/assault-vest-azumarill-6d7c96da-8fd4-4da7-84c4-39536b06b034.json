@@ -1,0 +1,286 @@
+﻿{
+  "strategyName": "Assault Vest",
+  "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Azumarill",
+    "pokemonId": "/pokemon/azumarill",
+    "pokemonTypes": [
+      {
+        "typeName": "Water",
+        "typeId": "/types/water"
+      },
+      {
+        "typeName": "Fairy",
+        "typeId": "/types/fairy"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 50
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 60
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 50
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Thick Fat",
+        "abilityId": "/abilities/thick-fat",
+        "abilityDetails": "Fire/Ice-type moves against this Pokemon deal damage with a halved attacking stat."
+      },
+      {
+        "abilityName": "Huge Power",
+        "abilityId": "/abilities/huge-power",
+        "abilityDetails": "This Pokemon's Attack is doubled."
+      },
+      {
+        "abilityName": "Sap Sipper",
+        "abilityId": "/abilities/sap-sipper",
+        "abilityDetails": "This Pokemon's Attack is raised 1 stage if hit by a Grass move; Grass immunity."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:23.7518677Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Assault Vest",
+      "itemId": "/items/assault-vest",
+      "itemDetails": "Holder's Sp. Def is 1.5x, but it can only select damaging moves."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Huge Power",
+      "abilityId": "/abilities/huge-power",
+      "abilityDetails": "This Pokemon's Attack is doubled."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Adamant",
+      "natureId": "/natures/adamant",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Attack" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance-sweeper?pokemon=gyarados&tier=uu",
+      "strategyName": "Dragon Dance Sweeper"
+    },
+    {
+      "strategyId": "/strategies/defensive-spinner?pokemon=tentacruel&tier=uu",
+      "strategyName": "Defensive Spinner"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Liquidation",
+        "moveId": "/moves/liquidation",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "moveDetails": "20% chance to lower the target's Defense by 1."
+      },
+      {
+        "moveName": "Ice Punch",
+        "moveId": "/moves/ice-punch",
+        "moveType": {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to freeze the target."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Play Rough",
+        "moveId": "/moves/play-rough",
+        "moveType": {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 90,
+        "moveDetails": "10% chance to lower the target's Attack by 1."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Aqua Jet",
+        "moveId": "/moves/aqua-jet",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "moveDetails": "Usually goes first."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      }
+    ]
+  }
+}

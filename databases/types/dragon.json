@@ -1,0 +1,681 @@
+﻿[
+  {
+    "typeName": "Dragon",
+    "typeId": "/types/dragon",
+    "typePokemon": [
+      {
+        "pokemonName": "Dragonite",
+        "pokemonId": "/pokemon/dragonite",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 91
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 134
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 80
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Inner Focus",
+            "abilityId": "/abilities/inner-focus",
+            "abilityDetails": "This Pokemon cannot be made to flinch. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Multiscale",
+            "abilityId": "/abilities/multiscale",
+            "abilityDetails": "If this Pokemon is at full HP, damage taken from attacks is halved."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Salamence",
+        "pokemonId": "/pokemon/salamence",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 135
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Intimidate",
+            "abilityId": "/abilities/intimidate",
+            "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+          },
+          {
+            "abilityName": "Moxie",
+            "abilityId": "/abilities/moxie",
+            "abilityDetails": "This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Garchomp",
+        "pokemonId": "/pokemon/garchomp",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 108
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 102
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Rough Skin",
+            "abilityId": "/abilities/rough-skin",
+            "abilityDetails": "Pokemon making contact with this Pokemon lose 1/8 of their max HP."
+          },
+          {
+            "abilityName": "Sand Veil",
+            "abilityId": "/abilities/sand-veil",
+            "abilityDetails": "If Sandstorm is active, this Pokemon's evasiveness is 1.25x; immunity to Sandstorm."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Hydreigon",
+        "pokemonId": "/pokemon/hydreigon",
+        "pokemonTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 92
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 98
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Levitate",
+            "abilityId": "/abilities/levitate",
+            "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Kyurem",
+        "pokemonId": "/pokemon/kyurem",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Ice",
+            "typeId": "/types/ice"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 95
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Kommo-o",
+        "pokemonId": "/pokemon/kommo-o",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 85
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Soundproof",
+            "abilityId": "/abilities/soundproof",
+            "abilityDetails": "This Pokemon is immune to sound-based moves, including Heal Bell."
+          },
+          {
+            "abilityName": "Overcoat",
+            "abilityId": "/abilities/overcoat",
+            "abilityDetails": "This Pokemon is immune to powder moves and damage from Sandstorm or Hail."
+          },
+          {
+            "abilityName": "Bulletproof",
+            "abilityId": "/abilities/bulletproof",
+            "abilityDetails": "Makes user immune to ballistic moves (Shadow Ball, Sludge Bomb, Focus Blast, etc)."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Dragapult",
+        "pokemonId": "/pokemon/dragapult",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Ghost",
+            "typeId": "/types/ghost"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 88
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 120
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 142
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Clear Body",
+            "abilityId": "/abilities/clear-body",
+            "abilityDetails": "Prevents other Pokemon from lowering this Pokemon's stat stages."
+          },
+          {
+            "abilityName": "Infiltrator",
+            "abilityId": "/abilities/infiltrator",
+            "abilityDetails": "Moves ignore substitutes and foe's Reflect/Light Screen/Safeguard/Mist/Aurora Veil."
+          },
+          {
+            "abilityName": "Cursed Body",
+            "abilityId": "/abilities/cursed-body",
+            "abilityDetails": "If this Pokemon is hit by an attack, there is a 30% chance that move gets disabled."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [],
+    "typeMoves": [
+      {
+        "moveName": "Outrage",
+        "moveId": "/moves/outrage",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Lasts 2-3 turns. Confuses the user afterwards."
+      },
+      {
+        "moveName": "Dragon Breath",
+        "moveId": "/moves/dragon-breath",
+        "moveCategory": "Special",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "30% chance to paralyze the target."
+      },
+      {
+        "moveName": "Twister",
+        "moveId": "/moves/twister",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "20% chance to make the foe(s) flinch."
+      },
+      {
+        "moveName": "Dragon Claw",
+        "moveId": "/moves/dragon-claw",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Dragon Dance",
+        "moveId": "/moves/dragon-dance",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises the user's Attack and Speed by 1."
+      },
+      {
+        "moveName": "Draco Meteor",
+        "moveId": "/moves/draco-meteor",
+        "moveCategory": "Special",
+        "movePower": 130,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "Lowers the user's Sp. Atk by 2."
+      },
+      {
+        "moveName": "Dragon Pulse",
+        "moveId": "/moves/dragon-pulse",
+        "moveCategory": "Special",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Dragon Rush",
+        "moveId": "/moves/dragon-rush",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 75,
+        "movePP": 10,
+        "moveDetails": "20% chance to make the target flinch."
+      },
+      {
+        "moveName": "Roar of Time",
+        "moveId": "/moves/roar-of-time",
+        "moveCategory": "Special",
+        "movePower": 150,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "User cannot move next turn."
+      },
+      {
+        "moveName": "Spacial Rend",
+        "moveId": "/moves/spacial-rend",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 95,
+        "movePP": 5,
+        "moveDetails": "High critical hit ratio."
+      },
+      {
+        "moveName": "Dragon Tail",
+        "moveId": "/moves/dragon-tail",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Forces the target to switch to a random ally."
+      },
+      {
+        "moveName": "Dual Chop",
+        "moveId": "/moves/dual-chop",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 90,
+        "movePP": 15,
+        "moveDetails": "Hits 2 times in one turn."
+      },
+      {
+        "moveName": "Clanging Scales",
+        "moveId": "/moves/clanging-scales",
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Lowers the user's Defense by 1."
+      },
+      {
+        "moveName": "Core Enforcer",
+        "moveId": "/moves/core-enforcer",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Nullifies the foe(s) Ability if the foe(s) move first."
+      },
+      {
+        "moveName": "Dragon Hammer",
+        "moveId": "/moves/dragon-hammer",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Breaking Swipe",
+        "moveId": "/moves/breaking-swipe",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "100% chance to lower the foe(s) Attack by 1."
+      },
+      {
+        "moveName": "Clangorous Soul",
+        "moveId": "/moves/clangorous-soul",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "User loses 33% of its max HP. +1 to all stats."
+      },
+      {
+        "moveName": "Dragon Darts",
+        "moveId": "/moves/dragon-darts",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Hits twice. Doubles: Tries to hit each foe once."
+      },
+      {
+        "moveName": "Dragon Energy",
+        "moveId": "/moves/dragon-energy",
+        "moveCategory": "Special",
+        "movePower": 150,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Less power as user's HP decreases. Hits foe(s)."
+      },
+      {
+        "moveName": "Dynamax Cannon",
+        "moveId": "/moves/dynamax-cannon",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Damage doubles if the target is Dynamaxed."
+      },
+      {
+        "moveName": "Eternabeam",
+        "moveId": "/moves/eternabeam",
+        "moveCategory": "Special",
+        "movePower": 160,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "User cannot move next turn."
+      },
+      {
+        "moveName": "G-Max Depletion",
+        "moveId": "/moves/g-max-depletion",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Foes: last move -2 PP."
+      },
+      {
+        "moveName": "Max Wyrmwind",
+        "moveId": "/moves/max-wyrmwind",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Foes: -1 Attack."
+      },
+      {
+        "moveName": "Scale Shot",
+        "moveId": "/moves/scale-shot",
+        "moveCategory": "Physical",
+        "movePower": 25,
+        "moveAccuracy": 90,
+        "movePP": 20,
+        "moveDetails": "Hits 2-5 times. User: -1 Def, +1 Spe after last hit."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [
+        {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        }
+      ],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Dragon",
+          "typeId": "/types/dragon"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        {
+          "typeName": "Dragon",
+          "typeId": "/types/dragon"
+        }
+      ]
+    }
+  }
+]

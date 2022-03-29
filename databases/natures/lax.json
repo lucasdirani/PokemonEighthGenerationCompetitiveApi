@@ -1,0 +1,104 @@
+﻿[
+  {
+    "natureName": "Lax",
+    "natureId": "/natures/lax",
+    "natureDecreasedStat": {
+      "statName": "Special Defense",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Calm",
+          "natureId": "/natures/calm"
+        },
+        {
+          "natureName": "Careful",
+          "natureId": "/natures/careful"
+        },
+        {
+          "natureName": "Gentle",
+          "natureId": "/natures/gentle"
+        },
+        {
+          "natureName": "Quirky",
+          "natureId": "/natures/quirky"
+        },
+        {
+          "natureName": "Sassy",
+          "natureId": "/natures/sassy"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Lax",
+          "natureId": "/natures/lax"
+        },
+        {
+          "natureName": "Naive",
+          "natureId": "/natures/naive"
+        },
+        {
+          "natureName": "Naughty",
+          "natureId": "/natures/naughty"
+        },
+        {
+          "natureName": "Quirky",
+          "natureId": "/natures/quirky"
+        },
+        {
+          "natureName": "Rash",
+          "natureId": "/natures/rash"
+        }
+      ]
+    },
+    "natureIncreasedStat": {
+      "statName": "Defense",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Bold",
+          "natureId": "/natures/bold"
+        },
+        {
+          "natureName": "Docile",
+          "natureId": "/natures/docile"
+        },
+        {
+          "natureName": "Impish",
+          "natureId": "/natures/impish"
+        },
+        {
+          "natureName": "Lax",
+          "natureId": "/natures/lax"
+        },
+        {
+          "natureName": "Relaxed",
+          "natureId": "/natures/relaxed"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Docile",
+          "natureId": "/natures/docile"
+        },
+        {
+          "natureName": "Gentle",
+          "natureId": "/natures/gentle"
+        },
+        {
+          "natureName": "Hasty",
+          "natureId": "/natures/hasty"
+        },
+        {
+          "natureName": "Lonely",
+          "natureId": "/natures/lonely"
+        },
+        {
+          "natureName": "Mild",
+          "natureId": "/natures/mild"
+        }
+      ]
+    },
+    "natureDecreasedStatIn": 0.1,
+    "natureIncreasedStatIn": 0.1,
+    "naturePokemon": [],
+    "naturePokemonForms": []
+  }
+]

@@ -1,0 +1,873 @@
+﻿[
+  {
+    "typeName": "Fighting",
+    "typeId": "/types/fighting",
+    "typePokemon": [
+      {
+        "pokemonName": "Conkeldurr",
+        "pokemonId": "/pokemon/conkeldurr",
+        "pokemonTypes": [
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 55
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 45
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Guts",
+            "abilityId": "/abilities/guts",
+            "abilityDetails": "If this Pokemon is statused, its Attack is 1.5x; ignores burn halving physical damage."
+          },
+          {
+            "abilityName": "Iron Fist",
+            "abilityId": "/abilities/iron-fist",
+            "abilityDetails": "This Pokemon's punch-based attacks have 1.2x power. Sucker Punch is not boosted."
+          },
+          {
+            "abilityName": "Sheer Force",
+            "abilityId": "/abilities/sheer-force",
+            "abilityDetails": "This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Keldeo",
+        "pokemonId": "/pokemon/keldeo",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 91
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 72
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 129
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 108
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Justified",
+            "abilityId": "/abilities/justified",
+            "abilityDetails": "This Pokemon's Attack is raised by 1 stage after it is damaged by a Dark-type move."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Hawlucha",
+        "pokemonId": "/pokemon/hawlucha",
+        "pokemonTypes": [
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 78
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 92
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 63
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 118
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Limber",
+            "abilityId": "/abilities/limber",
+            "abilityDetails": "This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it."
+          },
+          {
+            "abilityName": "Mold Breaker",
+            "abilityId": "/abilities/mold-breaker",
+            "abilityDetails": "This Pokemon's moves and their effects ignore the Abilities of other Pokemon."
+          },
+          {
+            "abilityName": "Unburden",
+            "abilityId": "/abilities/unburden",
+            "abilityDetails": "Speed is doubled on held item loss; boost is lost if it switches, gets new item/Ability."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Kommo-o",
+        "pokemonId": "/pokemon/kommo-o",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 85
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Soundproof",
+            "abilityId": "/abilities/soundproof",
+            "abilityDetails": "This Pokemon is immune to sound-based moves, including Heal Bell."
+          },
+          {
+            "abilityName": "Overcoat",
+            "abilityId": "/abilities/overcoat",
+            "abilityDetails": "This Pokemon is immune to powder moves and damage from Sandstorm or Hail."
+          },
+          {
+            "abilityName": "Bulletproof",
+            "abilityId": "/abilities/bulletproof",
+            "abilityDetails": "Makes user immune to ballistic moves (Shadow Ball, Sludge Bomb, Focus Blast, etc)."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Buzzwole",
+        "pokemonId": "/pokemon/buzzwole",
+        "pokemonTypes": [
+          {
+            "typeName": "Bug",
+            "typeId": "/types/bug"
+          },
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 139
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 139
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 79
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Beast Boost",
+            "abilityId": "/abilities/beast-boost",
+            "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Keldeo-Resolute",
+        "pokemonFormId": "/pokemon-forms/keldeo-resolute",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 91
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 72
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 129
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 108
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Justified",
+            "abilityId": "/abilities/justified",
+            "abilityDetails": "This Pokemon's Attack is raised by 1 stage after it is damaged by a Dark-type move."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonFormName": "Urshifu-Rapid-Strike",
+        "pokemonFormId": "/pokemon-forms/urshifu-rapid-strike",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          },
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 63
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 97
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Unseen Fist",
+            "abilityId": "/abilities/unseen-fist",
+            "abilityDetails": "All contact moves hit through protection."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Counter",
+        "moveId": "/moves/counter",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "If hit by physical attack, returns double damage."
+      },
+      {
+        "moveName": "Double Kick",
+        "moveId": "/moves/double-kick",
+        "moveCategory": "Physical",
+        "movePower": 30,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Hits 2 times in one turn."
+      },
+      {
+        "moveName": "High Jump Kick",
+        "moveId": "/moves/high-jump-kick",
+        "moveCategory": "Physical",
+        "movePower": 130,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "User is hurt by 50% of its max HP if it misses."
+      },
+      {
+        "moveName": "Seismic Toss",
+        "moveId": "/moves/seismic-toss",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Does damage equal to the user's level."
+      },
+      {
+        "moveName": "Submission",
+        "moveId": "/moves/submission",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 80,
+        "movePP": 20,
+        "moveDetails": "Has 1/4 recoil."
+      },
+      {
+        "moveName": "Low Kick",
+        "moveId": "/moves/low-kick",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "More power the heavier the target."
+      },
+      {
+        "moveName": "Cross Chop",
+        "moveId": "/moves/cross-chop",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 80,
+        "movePP": 5,
+        "moveDetails": "High critical hit ratio."
+      },
+      {
+        "moveName": "Detect",
+        "moveId": "/moves/detect",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "Prevents moves from affecting the user this turn."
+      },
+      {
+        "moveName": "Reversal",
+        "moveId": "/moves/reversal",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "More power the less HP the user has left."
+      },
+      {
+        "moveName": "Triple Kick",
+        "moveId": "/moves/triple-kick",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Hits 3 times. Each hit can miss, but power rises."
+      },
+      {
+        "moveName": "Vital Throw",
+        "moveId": "/moves/vital-throw",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "movePP": 10,
+        "moveDetails": "This move does not check accuracy. Goes last."
+      },
+      {
+        "moveName": "Rock Smash",
+        "moveId": "/moves/rock-smash",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "50% chance to lower the target's Defense by 1."
+      },
+      {
+        "moveName": "Dynamic Punch",
+        "moveId": "/moves/dynamic-punch",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 50,
+        "movePP": 5,
+        "moveDetails": "100% chance to confuse the target."
+      },
+      {
+        "moveName": "Mach Punch",
+        "moveId": "/moves/mach-punch",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Usually goes first."
+      },
+      {
+        "moveName": "Focus Punch",
+        "moveId": "/moves/focus-punch",
+        "moveCategory": "Physical",
+        "movePower": 150,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Fails if the user takes damage before it hits."
+      },
+      {
+        "moveName": "Arm Thrust",
+        "moveId": "/moves/arm-thrust",
+        "moveCategory": "Physical",
+        "movePower": 15,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Hits 2-5 times in one turn."
+      },
+      {
+        "moveName": "Brick Break",
+        "moveId": "/moves/brick-break",
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Destroys screens, unless the target is immune."
+      },
+      {
+        "moveName": "Bulk Up",
+        "moveId": "/moves/bulk-up",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises the user's Attack and Defense by 1."
+      },
+      {
+        "moveName": "Revenge",
+        "moveId": "/moves/revenge",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Power doubles if user is damaged by the target."
+      },
+      {
+        "moveName": "Superpower",
+        "moveId": "/moves/superpower",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Lowers the user's Attack and Defense by 1."
+      },
+      {
+        "moveName": "Drain Punch",
+        "moveId": "/moves/drain-punch",
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "User recovers 50% of the damage dealt."
+      },
+      {
+        "moveName": "Aura Sphere",
+        "moveId": "/moves/aura-sphere",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "movePP": 20,
+        "moveDetails": "This move does not check accuracy."
+      },
+      {
+        "moveName": "Close Combat",
+        "moveId": "/moves/close-combat",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Lowers the user's Defense and Sp. Def by 1."
+      },
+      {
+        "moveName": "Focus Blast",
+        "moveId": "/moves/focus-blast",
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 70,
+        "movePP": 5,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      },
+      {
+        "moveName": "Force Palm",
+        "moveId": "/moves/force-palm",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "30% chance to paralyze the target."
+      },
+      {
+        "moveName": "Hammer Arm",
+        "moveId": "/moves/hammer-arm",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Lowers the user's Speed by 1."
+      },
+      {
+        "moveName": "Vacuum Wave",
+        "moveId": "/moves/vacuum-wave",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Usually goes first."
+      },
+      {
+        "moveName": "Final Gambit",
+        "moveId": "/moves/final-gambit",
+        "moveCategory": "Special",
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Does damage equal to the user's HP. User faints."
+      },
+      {
+        "moveName": "Low Sweep",
+        "moveId": "/moves/low-sweep",
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "100% chance to lower the target's Speed by 1."
+      },
+      {
+        "moveName": "Quick Guard",
+        "moveId": "/moves/quick-guard",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "Protects allies from priority attacks this turn."
+      },
+      {
+        "moveName": "Sacred Sword",
+        "moveId": "/moves/sacred-sword",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Ignores the target's stat stage changes."
+      },
+      {
+        "moveName": "Storm Throw",
+        "moveId": "/moves/storm-throw",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Always results in a critical hit."
+      },
+      {
+        "moveName": "Circle Throw",
+        "moveId": "/moves/circle-throw",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Forces the target to switch to a random ally."
+      },
+      {
+        "moveName": "Secret Sword",
+        "moveId": "/moves/secret-sword",
+        "moveCategory": "Special",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Damages target based on Defense, not Sp. Def."
+      },
+      {
+        "moveName": "Flying Press",
+        "moveId": "/moves/flying-press",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 95,
+        "movePP": 10,
+        "moveDetails": "Combines Flying in its type effectiveness."
+      },
+      {
+        "moveName": "Mat Block",
+        "moveId": "/moves/mat-block",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Protects allies from damaging attacks. Turn 1 only."
+      },
+      {
+        "moveName": "Power-Up Punch",
+        "moveId": "/moves/power-up-punch",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "100% chance to raise the user's Attack by 1."
+      },
+      {
+        "moveName": "Body Press",
+        "moveId": "/moves/body-press",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Uses user's Def stat as Atk in damage calculation."
+      },
+      {
+        "moveName": "Coaching",
+        "moveId": "/moves/coaching",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Raises an ally's Attack and Defense by 1."
+      },
+      {
+        "moveName": "G-Max Chi Strike",
+        "moveId": "/moves/g-max-chi-strike",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Allies: Crit Ratio +1."
+      },
+      {
+        "moveName": "Max Knuckle",
+        "moveId": "/moves/max-knuckle",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Allies: +1 Attack."
+      },
+      {
+        "moveName": "Meteor Assault",
+        "moveId": "/moves/meteor-assault",
+        "moveCategory": "Physical",
+        "movePower": 150,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "User cannot move next turn."
+      },
+      {
+        "moveName": "No Retreat",
+        "moveId": "/moves/no-retreat",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "Raises all stats by 1 (not acc/eva). Traps user."
+      },
+      {
+        "moveName": "Octolock",
+        "moveId": "/moves/octolock",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Traps target, lowers Def and SpD by 1 each turn."
+      },
+      {
+        "moveName": "Thunderous Kick",
+        "moveId": "/moves/thunderous-kick",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "100% chance to lower the target's Defense by 1."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [
+        {
+          "typeName": "Ghost",
+          "typeId": "/types/ghost"
+        }
+      ],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        }
+      ]
+    }
+  }
+]

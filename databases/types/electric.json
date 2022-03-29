@@ -1,0 +1,808 @@
+﻿[
+  {
+    "typeName": "Electric",
+    "typeId": "/types/electric",
+    "typePokemon": [
+      {
+        "pokemonName": "Zapdos",
+        "pokemonId": "/pokemon/zapdos",
+        "pokemonTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          },
+          {
+            "abilityName": "Static",
+            "abilityId": "/abilities/static",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be paralyzed."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Magnezone",
+        "pokemonId": "/pokemon/magnezone",
+        "pokemonTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Sturdy",
+            "abilityId": "/abilities/sturdy",
+            "abilityDetails": "If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."
+          },
+          {
+            "abilityName": "Magnet Pull",
+            "abilityId": "/abilities/magnet-pull",
+            "abilityDetails": "Prevents adjacent Steel-type foes from choosing to switch."
+          },
+          {
+            "abilityName": "Analytic",
+            "abilityId": "/abilities/analytic",
+            "abilityDetails": "This Pokemon's attacks have 1.3x power if it is the last to move in a turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tapu Koko",
+        "pokemonId": "/pokemon/tapu-koko",
+        "pokemonTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 130
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Telepathy",
+            "abilityId": "/abilities/telepathy",
+            "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+          },
+          {
+            "abilityName": "Electric Surge",
+            "abilityId": "/abilities/electric-surge",
+            "abilityDetails": "On switch-in, this Pokemon summons Electric Terrain."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Zeraora",
+        "pokemonId": "/pokemon/zeraora",
+        "pokemonTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 88
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 112
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 102
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 143
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Volt Absorb",
+            "abilityId": "/abilities/volt-absorb",
+            "abilityDetails": "This Pokemon heals 1/4 of its max HP when hit by Electric moves; Electric immunity."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Regieleki",
+        "pokemonId": "/pokemon/regieleki",
+        "pokemonTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 200
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Transistor",
+            "abilityId": "/abilities/transistor",
+            "abilityDetails": "This Pokemon's attacking stat is multiplied by 1.5 while using an Electric-type attack."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Rotom-Heat",
+        "pokemonFormId": "/pokemon-forms/rotom-heat",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Fire",
+            "typeId": "/types/fire"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 86
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Levitate",
+            "abilityId": "/abilities/levitate",
+            "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonFormName": "Rotom-Wash",
+        "pokemonFormId": "/pokemon-forms/rotom-wash",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 86
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Levitate",
+            "abilityId": "/abilities/levitate",
+            "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonFormName": "Thundurus-Therian",
+        "pokemonFormId": "/pokemon-forms/thundurus-therian",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 79
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 145
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 101
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Volt Absorb",
+            "abilityId": "/abilities/volt-absorb",
+            "abilityDetails": "This Pokemon heals 1/4 of its max HP when hit by Electric moves; Electric immunity."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Thunder",
+        "moveId": "/moves/thunder",
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 70,
+        "movePP": 10,
+        "moveDetails": "30% chance to paralyze. Can't miss in rain."
+      },
+      {
+        "moveName": "Thunder Wave",
+        "moveId": "/moves/thunder-wave",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 90,
+        "movePP": 20,
+        "moveDetails": "Paralyzes the target."
+      },
+      {
+        "moveName": "Thunderbolt",
+        "moveId": "/moves/thunderbolt",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "10% chance to paralyze the target."
+      },
+      {
+        "moveName": "Thunder Punch",
+        "moveId": "/moves/thunder-punch",
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "10% chance to paralyze the target."
+      },
+      {
+        "moveName": "Thunder Shock",
+        "moveId": "/moves/thunder-shock",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "10% chance to paralyze the target."
+      },
+      {
+        "moveName": "Zap Cannon",
+        "moveId": "/moves/zap-cannon",
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 50,
+        "movePP": 5,
+        "moveDetails": "100% chance to paralyze the target."
+      },
+      {
+        "moveName": "Spark",
+        "moveId": "/moves/spark",
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "30% chance to paralyze the target."
+      },
+      {
+        "moveName": "Charge",
+        "moveId": "/moves/charge",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "+1 SpD, user's Electric move next turn 2x power."
+      },
+      {
+        "moveName": "Volt Tackle",
+        "moveId": "/moves/volt-tackle",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Has 33% recoil. 10% chance to paralyze target."
+      },
+      {
+        "moveName": "Shock Wave",
+        "moveId": "/moves/shock-wave",
+        "moveCategory": "Special",
+        "movePower": 60,
+        "movePP": 20,
+        "moveDetails": "This move does not check accuracy."
+      },
+      {
+        "moveName": "Magnet Rise",
+        "moveId": "/moves/magnet-rise",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "For 5 turns, the user has immunity to Ground."
+      },
+      {
+        "moveName": "Charge Beam",
+        "moveId": "/moves/charge-beam",
+        "moveCategory": "Special",
+        "movePower": 50,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "70% chance to raise the user's Sp. Atk by 1."
+      },
+      {
+        "moveName": "Discharge",
+        "moveId": "/moves/discharge",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "30% chance to paralyze adjacent Pokemon."
+      },
+      {
+        "moveName": "Thunder Fang",
+        "moveId": "/moves/thunder-fang",
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 95,
+        "movePP": 15,
+        "moveDetails": "10% chance to paralyze. 10% chance to flinch."
+      },
+      {
+        "moveName": "Electro Ball",
+        "moveId": "/moves/electro-ball",
+        "moveCategory": "Special",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "More power the faster the user is than the target."
+      },
+      {
+        "moveName": "Bolt Strike",
+        "moveId": "/moves/bolt-strike",
+        "moveCategory": "Physical",
+        "movePower": 130,
+        "moveAccuracy": 85,
+        "movePP": 5,
+        "moveDetails": "20% chance to paralyze the target."
+      },
+      {
+        "moveName": "Electroweb",
+        "moveId": "/moves/electroweb",
+        "moveCategory": "Special",
+        "movePower": 55,
+        "moveAccuracy": 95,
+        "movePP": 15,
+        "moveDetails": "100% chance to lower the foe(s) Speed by 1."
+      },
+      {
+        "moveName": "Fusion Bolt",
+        "moveId": "/moves/fusion-bolt",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Power doubles if used after Fusion Flare this turn."
+      },
+      {
+        "moveName": "Volt Switch",
+        "moveId": "/moves/volt-switch",
+        "moveCategory": "Special",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "User switches out after damaging the target."
+      },
+      {
+        "moveName": "Wild Charge",
+        "moveId": "/moves/wild-charge",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Has 1/4 recoil."
+      },
+      {
+        "moveName": "Parabolic Charge",
+        "moveId": "/moves/parabolic-charge",
+        "moveCategory": "Special",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "User recovers 50% of the damage dealt."
+      },
+      {
+        "moveName": "Electric Terrain",
+        "moveId": "/moves/electric-terrain",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "5 turns. Grounded: +Electric power, can't sleep."
+      },
+      {
+        "moveName": "Eerie Impulse",
+        "moveId": "/moves/eerie-impulse",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Lowers the target's Sp. Atk by 2."
+      },
+      {
+        "moveName": "Electrify",
+        "moveId": "/moves/electrify",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Changes the target's move to Electric this turn."
+      },
+      {
+        "moveName": "Magnetic Flux",
+        "moveId": "/moves/magnetic-flux",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises Def, Sp. Def of allies with Plus/Minus by 1."
+      },
+      {
+        "moveName": "Nuzzle",
+        "moveId": "/moves/nuzzle",
+        "moveCategory": "Physical",
+        "movePower": 20,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "100% chance to paralyze the target."
+      },
+      {
+        "moveName": "Plasma Fists",
+        "moveId": "/moves/plasma-fists",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Normal moves become Electric type this turn."
+      },
+      {
+        "moveName": "Zing Zap",
+        "moveId": "/moves/zing-zap",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "30% chance to make the target flinch."
+      },
+      {
+        "moveName": "Aura Wheel",
+        "moveId": "/moves/aura-wheel",
+        "moveCategory": "Physical",
+        "movePower": 110,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Morpeko: Electric; Hangry: Dark; 100% +1 Spe."
+      },
+      {
+        "moveName": "Bolt Beak",
+        "moveId": "/moves/bolt-beak",
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Power doubles if user moves before the target."
+      },
+      {
+        "moveName": "G-Max Stun Shock",
+        "moveId": "/moves/g-max-stun-shock",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Foes: psn or par."
+      },
+      {
+        "moveName": "G-Max Volt Crash",
+        "moveId": "/moves/g-max-volt-crash",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Foes: paralyzed."
+      },
+      {
+        "moveName": "Max Lightning",
+        "moveId": "/moves/max-lightning",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Starts Electric Terrain."
+      },
+      {
+        "moveName": "Overdrive",
+        "moveId": "/moves/overdrive",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "No additional effect. Hits foe(s)."
+      },
+      {
+        "moveName": "Rising Voltage",
+        "moveId": "/moves/rising-voltage",
+        "moveCategory": "Special",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "2x power if target is grounded in Electric Terrain."
+      },
+      {
+        "moveName": "Thunder Cage",
+        "moveId": "/moves/thunder-cage",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 90,
+        "movePP": 15,
+        "moveDetails": "Traps and damages the target for 4-5 turns."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        }
+      ],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Dragon",
+          "typeId": "/types/dragon"
+        },
+        {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        }
+      ]
+    }
+  }
+]

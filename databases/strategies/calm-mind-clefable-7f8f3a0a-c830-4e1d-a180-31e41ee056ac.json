@@ -1,0 +1,388 @@
+﻿{
+  "strategyName": "Calm Mind",
+  "strategyId": "/strategies/calm-mind?pokemon=clefable&tier=ou",
+  "strategyDetails": "Calm Mind boosts Clefable's Special Attack and Special Defense, allowing it to break through bulkier Pokemon or prepare for a sweep. Flamethrower hits Steel-types like Ferrothorn, Melmetal, and Excadrill, while Thunderbolt lets Clefable hit Toxapex, Corviknight and Moltres super effectively and is its best attack to wear down Heatran. Knock Off can be run instead of a coverage move to remove Leftovers or Heavy-Duty Boots from certain Pokemon, limiting their longevity and allowing Clefable to find easier wallbreaking and sweeping opportunities. Thunder is a less accurate alternative to Thunderbolt that hits the aforementioned Electric-weak Pokemon much harder while also having a higher chance to paralyze Heatran as it switches in. Life Orb gives Clefable a boost that makes it much harder to switch into, allowing it to 2HKO offensive Melmetal with Flamethrower and making it much easier to beat Toxapex one-on-one with Thunderbolt. Magic Guard keeps Clefable from taking Life Orb recoil, allowing it to sweep more easily and throw off attacks without taking extra damage. It also prevents Clefable from taking entry hazard and Toxic damage, allowing it to stay healthy when switching in and find more opportunities to set up. 60 Speed EVs allow for Clefable to outspeed uninvested Corviknight. Bulky Water-types such as Toxapex, Slowbro, and Slowking can switch into Melmetal, while the latter two can also take on Heatran for Clefable if they're healthy. Additionally, Toxapex can spread poison with Toxic or Toxic Spikes, making it easier for Clefable to sweep. Ferrothorn can set up entry hazards, which is really useful for wearing down Clefable's switch-ins, as well as covering Melmetal, while Corviknight can take on Excadrill. Since Clefable can weaken or KO bulky Steel-types with Flamethrower, Pokemon that take advantage of this like Excadrill, Melmetal, and Rillaboom are good teammates. Rillaboom can also pivot with U-turn to bring Clefable in safely against Pokemon such as Mandibuzz and Corviknight. Garchomp is an excellent teammate that appreciates Clefable KOing Corviknight. It also takes on Heatran and can set up Stealth Rock to wear down the opposing team.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Clefable",
+    "pokemonId": "/pokemon/clefable",
+    "pokemonTypes": [
+      {
+        "typeName": "Fairy",
+        "typeId": "/types/fairy"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 73
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 60
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Cute Charm",
+        "abilityId": "/abilities/cute-charm",
+        "abilityDetails": "30% chance of infatuating Pokemon of the opposite gender if they make contact."
+      },
+      {
+        "abilityName": "Magic Guard",
+        "abilityId": "/abilities/magic-guard",
+        "abilityDetails": "This Pokemon can only be damaged by direct attacks."
+      },
+      {
+        "abilityName": "Unaware",
+        "abilityId": "/abilities/unaware",
+        "abilityDetails": "This Pokemon ignores other Pokemon's stat stages when taking or doing damage."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:36.5084181Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Life Orb",
+      "itemId": "/items/life-orb",
+      "itemDetails": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack."
+    },
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Magic Guard",
+      "abilityId": "/abilities/magic-guard",
+      "abilityDetails": "This Pokemon can only be damaged by direct attacks."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Bold",
+      "natureId": "/natures/bold",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 196
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 60
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/the-pex?pokemon=toxapex&tier=ou",
+      "strategyName": "The Pex"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowbro&tier=ou",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive-pivot?pokemon=slowking&tier=ou",
+      "strategyName": "Specially Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=corviknight&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=melmetal&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=melmetal&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/protect?pokemon=melmetal&tier=ou",
+      "strategyName": "Protect"
+    },
+    {
+      "strategyId": "/strategies/three-attacks-thunder-wave?pokemon=melmetal&tier=ou",
+      "strategyName": "Three Attacks + Thunder Wave"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/sand-rush?pokemon=excadrill&tier=ou",
+      "strategyName": "Sand Rush"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/offensive-swords-dance?pokemon=scizor&tier=ou",
+      "strategyName": "Offensive Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=scizor&tier=ou",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=melmetal&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=melmetal&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/protect?pokemon=melmetal&tier=ou",
+      "strategyName": "Protect"
+    },
+    {
+      "strategyId": "/strategies/three-attacks-thunder-wave?pokemon=melmetal&tier=ou",
+      "strategyName": "Three Attacks + Thunder Wave"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/sand-rush?pokemon=excadrill&tier=ou",
+      "strategyName": "Sand Rush"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=heatran&tier=ou",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive?pokemon=heatran&tier=ou",
+      "strategyName": "Specially Defensive"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=corviknight&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/bulky-quiver-dance?pokemon=volcarona&tier=ou",
+      "strategyName": "Bulky Quiver Dance"
+    },
+    {
+      "strategyId": "/strategies/offensive-quiver-dance?pokemon=volcarona&tier=ou",
+      "strategyName": "Offensive Quiver Dance"
+    },
+    {
+      "strategyId": "/strategies/substitute?pokemon=moltres&tier=ou",
+      "strategyName": "Substitute"
+    },
+    {
+      "strategyId": "/strategies/the-pex?pokemon=toxapex&tier=ou",
+      "strategyName": "The Pex"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=slowking-galar&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=ou",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Calm Mind",
+        "moveId": "/moves/calm-mind",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Sp. Atk and Sp. Def by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Moonblast",
+        "moveId": "/moves/moonblast",
+        "moveType": {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        "moveCategory": "Special",
+        "movePower": 95,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to lower the target's Sp. Atk by 1."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Soft-Boiled",
+        "moveId": "/moves/soft-boiled",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals the user by 50% of its max HP."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Thunder",
+        "moveId": "/moves/thunder",
+        "moveType": {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 70,
+        "moveDetails": "30% chance to paralyze. Can't miss in rain."
+      },
+      {
+        "moveName": "Flamethrower",
+        "moveId": "/moves/flamethrower",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to burn the target."
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+﻿{
+  "strategyName": "Belly Drum",
+  "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Azumarill",
+    "pokemonId": "/pokemon/azumarill",
+    "pokemonTypes": [
+      {
+        "typeName": "Water",
+        "typeId": "/types/water"
+      },
+      {
+        "typeName": "Fairy",
+        "typeId": "/types/fairy"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 50
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 60
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 50
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Thick Fat",
+        "abilityId": "/abilities/thick-fat",
+        "abilityDetails": "Fire/Ice-type moves against this Pokemon deal damage with a halved attacking stat."
+      },
+      {
+        "abilityName": "Huge Power",
+        "abilityId": "/abilities/huge-power",
+        "abilityDetails": "This Pokemon's Attack is doubled."
+      },
+      {
+        "abilityName": "Sap Sipper",
+        "abilityId": "/abilities/sap-sipper",
+        "abilityDetails": "This Pokemon's Attack is raised 1 stage if hit by a Grass move; Grass immunity."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:23.7558766Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Sitrus Berry",
+      "itemId": "/items/sitrus-berry",
+      "itemDetails": "Restores 1/4 max HP when at 1/2 max HP or less. Single use."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Huge Power",
+      "abilityId": "/abilities/huge-power",
+      "abilityDetails": "This Pokemon's Attack is doubled."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Adamant",
+      "natureId": "/natures/adamant",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Attack" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Belly Drum",
+        "moveId": "/moves/belly-drum",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "User loses 50% max HP. Maximizes Attack."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Play Rough",
+        "moveId": "/moves/play-rough",
+        "moveType": {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 90,
+        "moveDetails": "10% chance to lower the target's Attack by 1."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Aqua Jet",
+        "moveId": "/moves/aqua-jet",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "moveDetails": "Usually goes first."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      }
+    ]
+  }
+}

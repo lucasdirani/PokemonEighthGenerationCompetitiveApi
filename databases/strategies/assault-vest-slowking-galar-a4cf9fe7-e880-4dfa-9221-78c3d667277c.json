@@ -1,0 +1,411 @@
+﻿{
+  "strategyName": "Assault Vest",
+  "strategyId": "/strategies/assault-vest?pokemon=slowking-galar&tier=ou",
+  "strategyDetails": "Future Sight synergizes with powerful attackers like Urshifu-R and Bisharp to break through Pokemon such as Toxapex and Buzzwole. The combination of Future Sight and Sludge Bomb also allows Galarian Slowking to easily break through and damage Substitute users like Zapdos. However, Psychic can be used for more immediate damage against Toxapex and Urshifu-R. Flamethrower punishes Steel-type switch-ins to Future Sight like Ferrothorn and Corviknight. Scald punishes Ground-types such as Hippowdon, Landorus, and Excadrill with a potential burn and chips down Heatran. Hydro Pump is a notable option, as its power allows Galarian Slowking to 3HKO specially defensive Heatran and 2HKO defensive Ground-types like Landorus-T and Hippowdon, but it has lower accuracy and cannot burn foes like Scald. Ice Beam can replace Scald to specifically target Ground- and Dragon-types like Landorus-T, Dragapult, and Garchomp. Assault Vest allows Galarian Slowking to act as a special tank, sponging hits from Fairy-types like Clefable, Tapu Koko, and Tapu Fini and threatening them with its STAB moves. The EV spread with a Calm nature and Assault Vest allows Galarian Slowking to tank two Choice Specs Shadow Balls from Dragapult and survive a Choice Band Surging Strikes from Urshifu-R. However, if improving the Dragapult matchup is not necessary for the team, a Modest nature can be run for increased damage output. Urshifu-R is a nice partner due to its ability to deal with Ground- and Dark-types that threaten Galarian Slowking. In return, Galarian Slowking helps Urshifu-R break through opposing teams with Future Sight and status. Dragapult greatly appreciates Galarian Slowking's ability to switch into bulky Fairy-types such as Tapu Fini and Clefable. Moreover, Galarian Slowking can cripple walls such as Hippowdon and Tyranitar with Scald, empowering Dragapult's Hex and increasing its wallbreaking potential when paired with Future Sight. Partners that can absorb Knock Off such as Corviknight and Clefable also pair well with Galarian Slowking. Corviknight and Tangrowth in particular are also good switch-ins to Ground-types such as Landorus-T, Excadrill, and Garchomp. Entry hazard setters such as Ferrothorn and Skarmory appreciate Galarian Slowking pressuring most entry hazard removers with status from Scald and Sludge Bomb. In return, Galarian Slowking appreciates Spikes wearing down switch-ins such as Heatran, Tyranitar, and opposing Galarian Slowking in conjunction with its ability to spread status.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemonForms": {
+    "pokemonFormName": "Slowking-Galar",
+    "pokemonFormId": "/pokemon-forms/slowking-galar",
+    "pokemonFormTypes": [
+      {
+        "typeName": "Poison",
+        "typeId": "/types/poison"
+      },
+      {
+        "typeName": "Psychic",
+        "typeId": "/types/psychic"
+      }
+    ],
+    "pokemonFormBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 65
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 110
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 110
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 30
+      }
+    ],
+    "pokemonFormAbilities": [
+      {
+        "abilityName": "Own Tempo",
+        "abilityId": "/abilities/own-tempo",
+        "abilityDetails": "This Pokemon cannot be confused. Immune to Intimidate."
+      },
+      {
+        "abilityName": "Regenerator",
+        "abilityId": "/abilities/regenerator",
+        "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+      },
+      {
+        "abilityName": "Curious Medicine",
+        "abilityId": "/abilities/curious-medicine",
+        "abilityDetails": "On switch-in, this Pokemon's allies have their stat stages reset to 0."
+      }
+    ],
+    "pokemonFormTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:45.6742631Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Assault Vest",
+      "itemId": "/items/assault-vest",
+      "itemDetails": "Holder's Sp. Def is 1.5x, but it can only select damaging moves."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Regenerator",
+      "abilityId": "/abilities/regenerator",
+      "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Calm",
+      "natureId": "/natures/calm",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Special Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 12
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 124
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 120
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 0
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=corviknight&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=clefable&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=clefable&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/defensive-spikes?pokemon=skarmory&tier=ou",
+      "strategyName": "Defensive Spikes"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=blissey&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=corviknight&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=heatran&tier=ou",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive?pokemon=heatran&tier=ou",
+      "strategyName": "Specially Defensive"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive-pivot?pokemon=slowking&tier=ou",
+      "strategyName": "Specially Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=slowking&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowking&tier=uu",
+      "strategyName": "Defensive Pivot"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/choice-band?pokemon=bisharp&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=bisharp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=hydreigon&tier=ou",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/three-attacks?pokemon=hydreigon&tier=ou",
+      "strategyName": "Three Attacks"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=hydreigon&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=tyranitar&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive?pokemon=tyranitar&tier=ou",
+      "strategyName": "Specially Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/special-wall?pokemon=hippowdon&tier=ou",
+      "strategyName": "Special Wall"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/sand-rush?pokemon=excadrill&tier=ou",
+      "strategyName": "Sand Rush"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=clefable&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=clefable&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/the-pex?pokemon=toxapex&tier=ou",
+      "strategyName": "The Pex"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zeraora&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/bulk-up?pokemon=zeraora&tier=ou",
+      "strategyName": "Bulk Up"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Choice Specs"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Future Sight",
+        "moveId": "/moves/future-sight",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "moveDetails": "Hits two turns after being used."
+      },
+      {
+        "moveName": "Psychic",
+        "moveId": "/moves/psychic",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Sludge Bomb",
+        "moveId": "/moves/sludge-bomb",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to poison the target."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Flamethrower",
+        "moveId": "/moves/flamethrower",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to burn the target."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Scald",
+        "moveId": "/moves/scald",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to burn the target. Thaws target."
+      },
+      {
+        "moveName": "Ice Beam",
+        "moveId": "/moves/ice-beam",
+        "moveType": {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to freeze the target."
+      }
+    ]
+  }
+}

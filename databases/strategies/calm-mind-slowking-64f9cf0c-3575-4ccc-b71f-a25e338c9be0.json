@@ -1,0 +1,391 @@
+﻿{
+  "strategyName": "Calm Mind",
+  "strategyId": "/strategies/calm-mind?pokemon=slowking&tier=uu",
+  "strategyDetails": "Calm Mind enables Slowking to become a dangerous offensive threat and set up on common Pokemon such as Nihilego and Moltres while retaining its longevity. After a boost, it is able to survive moves such as Shadow Ball from Choice Specs Aegislash and stomach attacks such as Nidoking's Thunderbolt and Salamence’s Hurricane. Scald helps Slowking threaten switch-ins such as Tapu Bulu and Hydreigon with burns, especially the former. Psyshock helps against Chansey, opposing Slowking, Calm Mind Primarina, and Galarian Slowbro. Colbur Berry improves Slowking's matchup against Conkeldurr and Krookodile, though it still has watch out for Facade from the former if it's below 66% HP. Calm Mind Slowking fits best on balance, semi-stall, and stall teams as a wincon that maintains crucial defensive utility against Pokemon such as Mamoswine and Azelf. Nihilego and Chansey are useful Stealth Rock setters that check Thundurus-T and Hydreigon. Nihilego is more offensively potent and provides Knock Off support to cripple Aegislash, whereas Chansey has more longevity and can also provide cleric support instead of setting Stealth Rock. However, while teams using Calm Mind Slowking want cleric support, keeping Slowking burned helps it set up in front of Chansey and Swampert without fear of Toxic. Quagsire provides an Electric immunity and checks Pokemon like Swords Dance Aegislash and Belly Drum Azumarill. Its Haze support also alleviates Slowking's matchup against Calm Mind Reuniclus. Defensive Salamence and Skarmory are great assets for their ability to answer Grass-types like Zarude and Tapu Bulu while providing Defog support. They also ensure that Slowking does not get overwhelmed by foes such as Conkeldurr and Swords Dance Excadrill. Umbreon provides additional insurance against Mamoswine and Energy Ball Azelf while having the option to provide Wish support. It also enjoys Slowking's ability to set up on threats such as Cobalion and Keldeo. Calm Mind Slowking can have problems against Teleport Slowking, which can bring in Pokemon that threaten it such as Hydreigon. As such, SubTox Aegislash is amazing for its ability to pressure Slowking and wear down Hydreigon with Toxic while forcing Zarude to waste Jungle Healing's PP.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Slowking",
+    "pokemonId": "/pokemon/slowking",
+    "pokemonTypes": [
+      {
+        "typeName": "Water",
+        "typeId": "/types/water"
+      },
+      {
+        "typeName": "Psychic",
+        "typeId": "/types/psychic"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 75
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 110
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 30
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Oblivious",
+        "abilityId": "/abilities/oblivious",
+        "abilityDetails": "This Pokemon cannot be infatuated or taunted. Immune to Intimidate."
+      },
+      {
+        "abilityName": "Own Tempo",
+        "abilityId": "/abilities/own-tempo",
+        "abilityDetails": "This Pokemon cannot be confused. Immune to Intimidate."
+      },
+      {
+        "abilityName": "Regenerator",
+        "abilityId": "/abilities/regenerator",
+        "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:45.2425225Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Colbur Berry",
+      "itemId": "/items/colbur-berry",
+      "itemDetails": "Halves damage taken from a supereffective Dark-type attack. Single use."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Regenerator",
+      "abilityId": "/abilities/regenerator",
+      "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Bold",
+      "natureId": "/natures/bold",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 4
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/unaware-wall?pokemon=quagsire&tier=uu",
+      "strategyName": "Unaware Wall"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=hydreigon&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/three-attacks?pokemon=hydreigon&tier=uu",
+      "strategyName": "Three Attacks"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=hydreigon&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=moltres-galar&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/double-dance?pokemon=moltres-galar&tier=uu",
+      "strategyName": "Double Dance"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/guts-wallbreaker?pokemon=conkeldurr&tier=uu",
+      "strategyName": "Guts Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Calm Mind",
+        "moveId": "/moves/calm-mind",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Sp. Atk and Sp. Def by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Scald",
+        "moveId": "/moves/scald",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to burn the target. Thaws target."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Psyshock",
+        "moveId": "/moves/psyshock",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "Damages target based on Defense, not Sp. Def."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Slack Off",
+        "moveId": "/moves/slack-off",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals the user by 50% of its max HP."
+      }
+    ]
+  }
+}

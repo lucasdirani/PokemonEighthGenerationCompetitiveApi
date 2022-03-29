@@ -1,0 +1,351 @@
+﻿{
+  "strategyName": "Choice Band",
+  "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+  "strategyDetails": "Play Rough is Azumarill's main attack to remove foes like Zarude and Tangrowth. Aqua Jet becomes a very powerful STAB priority move when bolstered by Huge Power and a Choice Band, allowing it to OHKO Nihilego and revenge kill Thundurus-T and Rotom-H after they have taken sufficient chip damage. Ice Punch allows Azumarill to break through Amoonguss by hitting it hard enough to 2HKO on the switch. Knock Off can be used to burden anything that switches in, such as Tangrowth and Tentacruel, by removing their item. A Choice Band allows Azumarill to maximize the wallbreaking potential its STAB attacks have to offer. Adamant is the preferred nature to make it as strong as possible, notably 2HKOing Skarmory with Liquidation after Stealth Rock. Choice Band Azumarill fits best on bulky offense teams. It wants to be brought in as often as possible early-game to wallbreak, so having good pivots such as Mienshao and Jirachi is extremely useful. Azumarill wants to fire off its STAB moves frequently, but it struggles to do so against bulky Grass-types like Tangrowth and Amoonguss. Nidoking, Moltres, and Salamence can remove these Pokemon and make Azumarill's job easier. Hydreigon can offensively pressure Grass-types and can also check Volcanion. Keeping entry hazards up is important to ease Azumarill's ability to break through Tangrowth and Skarmory, so partners such as Excadrill and Nihilego are essential. Tapu Bulu and Zarude threaten to revenge kill Azumarill, as they are faster and resist Aqua Jet, so partners like Salamence and Amoonguss that can comfortably switch into them are ideal. Having a good Electric-immune teammate, such as Swampert or Thundurus-T, helps to deal with Electric-types like Rotom-W and Thundurus-T.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Azumarill",
+    "pokemonId": "/pokemon/azumarill",
+    "pokemonTypes": [
+      {
+        "typeName": "Water",
+        "typeId": "/types/water"
+      },
+      {
+        "typeName": "Fairy",
+        "typeId": "/types/fairy"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 50
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 60
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 50
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Thick Fat",
+        "abilityId": "/abilities/thick-fat",
+        "abilityDetails": "Fire/Ice-type moves against this Pokemon deal damage with a halved attacking stat."
+      },
+      {
+        "abilityName": "Huge Power",
+        "abilityId": "/abilities/huge-power",
+        "abilityDetails": "This Pokemon's Attack is doubled."
+      },
+      {
+        "abilityName": "Sap Sipper",
+        "abilityId": "/abilities/sap-sipper",
+        "abilityDetails": "This Pokemon's Attack is raised 1 stage if hit by a Grass move; Grass immunity."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:23.7470338Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Choice Band",
+      "itemId": "/items/choice-band",
+      "itemDetails": "Holder's Attack is 1.5x, but it can only select the first move it executes."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Huge Power",
+      "abilityId": "/abilities/huge-power",
+      "abilityDetails": "This Pokemon's Attack is doubled."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Adamant",
+      "natureId": "/natures/adamant",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Attack" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance'"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance-sweeper?pokemon=gyarados&tier=uu",
+      "strategyName": "Dragon Dance Sweeper"
+    },
+    {
+      "strategyId": "/strategies/defensive-spinner?pokemon=tentacruel&tier=uu",
+      "strategyName": "Defensive Spinner"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Liquidation",
+        "moveId": "/moves/liquidation",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "moveDetails": "20% chance to lower the target's Defense by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Play Rough",
+        "moveId": "/moves/play-rough",
+        "moveType": {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 90,
+        "moveDetails": "10% chance to lower the target's Attack by 1."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Aqua Jet",
+        "moveId": "/moves/aqua-jet",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "moveDetails": "Usually goes first."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Ice Punch",
+        "moveId": "/moves/ice-punch",
+        "moveType": {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to freeze the target."
+      },
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      }
+    ]
+  }
+}

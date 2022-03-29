@@ -1,0 +1,216 @@
+﻿{
+  "strategyName": "Calm Mind",
+  "strategyId": "/strategies/calm-mind?pokemon=hatterene&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Hatterene",
+    "pokemonId": "/pokemon/hatterene",
+    "pokemonTypes": [
+      {
+        "typeName": "Psychic",
+        "typeId": "/types/psychic"
+      },
+      {
+        "typeName": "Fairy",
+        "typeId": "/types/fairy"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 57
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 136
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 103
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 29
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Anticipation",
+        "abilityId": "/abilities/anticipation",
+        "abilityDetails": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move."
+      },
+      {
+        "abilityName": "Healer",
+        "abilityId": "/abilities/healer",
+        "abilityDetails": "30% chance of curing an adjacent ally's status at the end of each turn."
+      },
+      {
+        "abilityName": "Magic Bounce",
+        "abilityId": "/abilities/magic-bounce",
+        "abilityDetails": "This Pokemon blocks certain status moves and bounces them back to the user."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:26.9906598Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Magic Bounce",
+      "abilityId": "/abilities/magic-bounce",
+      "abilityDetails": "This Pokemon blocks certain status moves and bounces them back to the user."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Bold",
+      "natureId": "/natures/bold",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 196
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 60
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Calm Mind",
+        "moveId": "/moves/calm-mind",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Sp. Atk and Sp. Def by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Psyshock",
+        "moveId": "/moves/psyshock",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "Damages target based on Defense, not Sp. Def."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Draining Kiss",
+        "moveId": "/moves/draining-kiss",
+        "moveType": {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        "moveCategory": "Special",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "moveDetails": "User recovers 75% of the damage dealt."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Mystical Fire",
+        "moveId": "/moves/mystical-fire",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Special",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "100% chance to lower the target's Sp. Atk by 1."
+      }
+    ]
+  }
+}

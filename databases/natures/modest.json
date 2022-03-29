@@ -1,0 +1,744 @@
+﻿[
+  {
+    "natureName": "Modest",
+    "natureId": "/natures/modest",
+    "natureDecreasedStat": {
+      "statName": "Attack",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Adamant",
+          "natureId": "/natures/adamant"
+        },
+        {
+          "natureName": "Brave",
+          "natureId": "/natures/brave"
+        },
+        {
+          "natureName": "Hardy",
+          "natureId": "/natures/hardy"
+        },
+        {
+          "natureName": "Lonely",
+          "natureId": "/natures/lonely"
+        },
+        {
+          "natureName": "Naughty",
+          "natureId": "/natures/naughty"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Bold",
+          "natureId": "/natures/bold"
+        },
+        {
+          "natureName": "Calm",
+          "natureId": "/natures/calm"
+        },
+        {
+          "natureName": "Hardy",
+          "natureId": "/natures/hardy"
+        },
+        {
+          "natureName": "Modest",
+          "natureId": "/natures/modest"
+        },
+        {
+          "natureName": "Timid",
+          "natureId": "/natures/timid"
+        }
+      ]
+    },
+    "natureIncreasedStat": {
+      "statName": "Special Attack",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Bashful",
+          "natureId": "/natures/bashful"
+        },
+        {
+          "natureName": "Mild",
+          "natureId": "/natures/mild"
+        },
+        {
+          "natureName": "Modest",
+          "natureId": "/natures/modest"
+        },
+        {
+          "natureName": "Quiet",
+          "natureId": "/natures/quiet"
+        },
+        {
+          "natureName": "Rash",
+          "natureId": "/natures/rash"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Adamant",
+          "natureId": "/natures/adamant"
+        },
+        {
+          "natureName": "Bashful",
+          "natureId": "/natures/bashful"
+        },
+        {
+          "natureName": "Careful",
+          "natureId": "/natures/careful"
+        },
+        {
+          "natureName": "Impish",
+          "natureId": "/natures/impish"
+        },
+        {
+          "natureName": "Jolly",
+          "natureId": "/natures/jolly"
+        }
+      ]
+    },
+    "natureDecreasedStatIn": 0.1,
+    "natureIncreasedStatIn": 0.1,
+    "naturePokemon": [
+      {
+        "pokemonName": "Aegislash",
+        "pokemonId": "/pokemon/aegislash",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Ghost",
+            "typeId": "/types/ghost"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Stance Change",
+            "abilityId": "/abilities/stance-change",
+            "abilityDetails": "If Aegislash, changes Forme to Blade before attacks and Shield before King's Shield."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Celesteela",
+        "pokemonId": "/pokemon/celesteela",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 97
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 101
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 103
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 101
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 61
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Beast Boost",
+            "abilityId": "/abilities/beast-boost",
+            "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Nidoqueen",
+        "pokemonId": "/pokemon/nidoqueen",
+        "pokemonTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 92
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 87
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 76
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Poison Point",
+            "abilityId": "/abilities/poison-point",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be poisoned."
+          },
+          {
+            "abilityName": "Rivalry",
+            "abilityId": "/abilities/rivalry",
+            "abilityDetails": "This Pokemon's attacks do 1.25x on same gender targets; 0.75x on opposite gender."
+          },
+          {
+            "abilityName": "Sheer Force",
+            "abilityId": "/abilities/sheer-force",
+            "abilityDetails": "This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Primarina",
+        "pokemonId": "/pokemon/primarina",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 126
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 116
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Torrent",
+            "abilityId": "/abilities/torrent",
+            "abilityDetails": "At 1/3 or less of its max HP, this Pokemon's attacking stat is 1.5x with Water attacks."
+          },
+          {
+            "abilityName": "Liquid Voice",
+            "abilityId": "/abilities/liquid-voice",
+            "abilityDetails": "This Pokemon's sound-based moves become Water type."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Heatran",
+        "pokemonId": "/pokemon/heatran",
+        "pokemonTypes": [
+          {
+            "typeName": "Fire",
+            "typeId": "/types/fire"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 91
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 106
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 106
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 77
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Flame Body",
+            "abilityId": "/abilities/flame-body",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be burned."
+          },
+          {
+            "abilityName": "Flash Fire",
+            "abilityId": "/abilities/flash-fire",
+            "abilityDetails": "This Pokemon's Fire attacks do 1.5x damage if hit by one Fire move; Fire immunity."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Kyurem",
+        "pokemonId": "/pokemon/kyurem",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Ice",
+            "typeId": "/types/ice"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 95
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Magnezone",
+        "pokemonId": "/pokemon/magnezone",
+        "pokemonTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Sturdy",
+            "abilityId": "/abilities/sturdy",
+            "abilityDetails": "If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."
+          },
+          {
+            "abilityName": "Magnet Pull",
+            "abilityId": "/abilities/magnet-pull",
+            "abilityDetails": "Prevents adjacent Steel-type foes from choosing to switch."
+          },
+          {
+            "abilityName": "Analytic",
+            "abilityId": "/abilities/analytic",
+            "abilityDetails": "This Pokemon's attacks have 1.3x power if it is the last to move in a turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Nidoking",
+        "pokemonId": "/pokemon/nidoking",
+        "pokemonTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 81
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 102
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 77
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 85
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Poison Point",
+            "abilityId": "/abilities/poison-point",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be poisoned."
+          },
+          {
+            "abilityName": "Rivalry",
+            "abilityId": "/abilities/rivalry",
+            "abilityDetails": "This Pokemon's attacks do 1.25x on same gender targets; 0.75x on opposite gender."
+          },
+          {
+            "abilityName": "Sheer Force",
+            "abilityId": "/abilities/sheer-force",
+            "abilityDetails": "This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Pelipper",
+        "pokemonId": "/pokemon/pelipper",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 65
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Keen Eye",
+            "abilityId": "/abilities/keen-eye",
+            "abilityDetails": "This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat."
+          },
+          {
+            "abilityName": "Drizzle",
+            "abilityId": "/abilities/drizzle",
+            "abilityDetails": "On switch-in, this Pokemon summons Rain Dance."
+          },
+          {
+            "abilityName": "Rain Dish",
+            "abilityId": "/abilities/rain-dish",
+            "abilityDetails": "If Rain Dance is active, this Pokemon heals 1/16 of its max HP each turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tapu Lele",
+        "pokemonId": "/pokemon/tapu-lele",
+        "pokemonTypes": [
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 95
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Telepathy",
+            "abilityId": "/abilities/telepathy",
+            "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+          },
+          {
+            "abilityName": "Psychic Surge",
+            "abilityId": "/abilities/psychic-surge",
+            "abilityDetails": "On switch-in, this Pokemon summons Psychic Terrain."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "naturePokemonForms": [
+      {
+        "pokemonFormName": "Moltres-Galar",
+        "pokemonFormId": "/pokemon-forms/moltres-galar",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 90
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Berserk",
+            "abilityId": "/abilities/berserk",
+            "abilityDetails": "This Pokemon's Sp. Atk is raised by 1 when it reaches 1/2 or less of its max HP."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ]
+  }
+]

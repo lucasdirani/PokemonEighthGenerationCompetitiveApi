@@ -1,0 +1,860 @@
+﻿[
+  {
+    "typeName": "Grass",
+    "typeId": "/types/grass",
+    "typePokemon": [
+      {
+        "pokemonName": "Tangrowth",
+        "pokemonId": "/pokemon/tangrowth",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 50
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Chlorophyll",
+            "abilityId": "/abilities/chlorophyll",
+            "abilityDetails": "If Sunny Day is active, this Pokemon's Speed is doubled."
+          },
+          {
+            "abilityName": "Leaf Guard",
+            "abilityId": "/abilities/leaf-guard",
+            "abilityDetails": "If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Ferrothorn",
+        "pokemonId": "/pokemon/ferrothorn",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 94
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 131
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 54
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 116
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 20
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Anticipation",
+            "abilityId": "/abilities/anticipation",
+            "abilityDetails": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move."
+          },
+          {
+            "abilityName": "Iron Barbs",
+            "abilityId": "/abilities/iron-barbs",
+            "abilityDetails": "Pokemon making contact with this Pokemon lose 1/8 of their max HP."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Amoonguss",
+        "pokemonId": "/pokemon/amoonguss",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          },
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 114
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 30
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Effect Spore",
+            "abilityId": "/abilities/effect-spore",
+            "abilityDetails": "30% chance of poison/paralysis/sleep on others making contact with this Pokemon."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tapu Bulu",
+        "pokemonId": "/pokemon/tapu-bulu",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 75
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Telepathy",
+            "abilityId": "/abilities/telepathy",
+            "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+          },
+          {
+            "abilityName": "Grassy Surge",
+            "abilityId": "/abilities/grassy-surge",
+            "abilityDetails": "On switch-in, this Pokemon summons Grassy Terrain."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Kartana",
+        "pokemonId": "/pokemon/kartana",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 59
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 181
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 131
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 59
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 31
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 109
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Beast Boost",
+            "abilityId": "/abilities/beast-boost",
+            "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Rillaboom",
+        "pokemonId": "/pokemon/rillaboom",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 85
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Overgrow",
+            "abilityId": "/abilities/overgrow",
+            "abilityDetails": "At 1/3 or less of its max HP, this Pokemon's attacking stat is 1.5x with Grass attacks."
+          },
+          {
+            "abilityName": "Grassy Surge",
+            "abilityId": "/abilities/grassy-surge",
+            "abilityDetails": "On switch-in, this Pokemon summons Grassy Terrain."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [],
+    "typeMoves": [
+      {
+        "moveName": "Absorb",
+        "moveId": "/moves/absorb",
+        "moveCategory": "Special",
+        "movePower": 20,
+        "moveAccuracy": 100,
+        "movePP": 25,
+        "moveDetails": "User recovers 50% of the damage dealt."
+      },
+      {
+        "moveName": "Leech Seed",
+        "moveId": "/moves/leech-seed",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "1/8 of target's HP is restored to user every turn."
+      },
+      {
+        "moveName": "Petal Dance",
+        "moveId": "/moves/petal-dance",
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Lasts 2-3 turns. Confuses the user afterwards."
+      },
+      {
+        "moveName": "Razor Leaf",
+        "moveId": "/moves/razor-leaf",
+        "moveCategory": "Physical",
+        "movePower": 55,
+        "moveAccuracy": 95,
+        "movePP": 25,
+        "moveDetails": "High critical hit ratio. Hits adjacent foes."
+      },
+      {
+        "moveName": "Solar Beam",
+        "moveId": "/moves/solar-beam",
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Charges turn 1. Hits turn 2. No charge in sunlight."
+      },
+      {
+        "moveName": "Stun Spore",
+        "moveId": "/moves/stun-spore",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 75,
+        "movePP": 30,
+        "moveDetails": "Paralyzes the target."
+      },
+      {
+        "moveName": "Mega Drain",
+        "moveId": "/moves/mega-drain",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "User recovers 50% of the damage dealt."
+      },
+      {
+        "moveName": "Vine Whip",
+        "moveId": "/moves/vine-whip",
+        "moveCategory": "Physical",
+        "movePower": 45,
+        "moveAccuracy": 100,
+        "movePP": 25,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Sleep Powder",
+        "moveId": "/moves/sleep-powder",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 75,
+        "movePP": 15,
+        "moveDetails": "Causes the target to fall asleep."
+      },
+      {
+        "moveName": "Spore",
+        "moveId": "/moves/spore",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Causes the target to fall asleep."
+      },
+      {
+        "moveName": "Synthesis",
+        "moveId": "/moves/synthesis",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "Heals the user by a weather-dependent amount."
+      },
+      {
+        "moveName": "Giga Drain",
+        "moveId": "/moves/giga-drain",
+        "moveCategory": "Special",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "User recovers 50% of the damage dealt."
+      },
+      {
+        "moveName": "Cotton Spore",
+        "moveId": "/moves/cotton-spore",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 40,
+        "moveDetails": "Lowers the target's Speed by 2."
+      },
+      {
+        "moveName": "Leaf Blade",
+        "moveId": "/moves/leaf-blade",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "High critical hit ratio."
+      },
+      {
+        "moveName": "Aromatherapy",
+        "moveId": "/moves/aromatherapy",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "Cures the user's party of all status conditions."
+      },
+      {
+        "moveName": "Bullet Seed",
+        "moveId": "/moves/bullet-seed",
+        "moveCategory": "Physical",
+        "movePower": 25,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Hits 2-5 times in one turn."
+      },
+      {
+        "moveName": "Frenzy Plant",
+        "moveId": "/moves/frenzy-plant",
+        "moveCategory": "Special",
+        "movePower": 150,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "User cannot move next turn."
+      },
+      {
+        "moveName": "Ingrain",
+        "moveId": "/moves/ingrain",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Traps/grounds user; heals 1/16 max HP per turn."
+      },
+      {
+        "moveName": "Magical Leaf",
+        "moveId": "/moves/magical-leaf",
+        "moveCategory": "Special",
+        "movePower": 60,
+        "movePP": 20,
+        "moveDetails": "This move does not check accuracy."
+      },
+      {
+        "moveName": "Wood Hammer",
+        "moveId": "/moves/wood-hammer",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Has 33% recoil."
+      },
+      {
+        "moveName": "Worry Seed",
+        "moveId": "/moves/worry-seed",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "The target's Ability becomes Insomnia."
+      },
+      {
+        "moveName": "Energy Ball",
+        "moveId": "/moves/energy-ball",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      },
+      {
+        "moveName": "Leaf Storm",
+        "moveId": "/moves/leaf-storm",
+        "moveCategory": "Special",
+        "movePower": 130,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "Lowers the user's Sp. Atk by 2."
+      },
+      {
+        "moveName": "Grass Knot",
+        "moveId": "/moves/grass-knot",
+        "moveCategory": "Special",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "More power the heavier the target."
+      },
+      {
+        "moveName": "Power Whip",
+        "moveId": "/moves/power-whip",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 85,
+        "movePP": 10,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Seed Bomb",
+        "moveId": "/moves/seed-bomb",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Grass Pledge",
+        "moveId": "/moves/grass-pledge",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Use with Fire or Water Pledge for added effect."
+      },
+      {
+        "moveName": "Horn Leech",
+        "moveId": "/moves/horn-leech",
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "User recovers 50% of the damage dealt."
+      },
+      {
+        "moveName": "Cotton Guard",
+        "moveId": "/moves/cotton-guard",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Raises the user's Defense by 3."
+      },
+      {
+        "moveName": "Leaf Tornado",
+        "moveId": "/moves/leaf-tornado",
+        "moveCategory": "Special",
+        "movePower": 65,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "50% chance to lower the target's accuracy by 1."
+      },
+      {
+        "moveName": "Grassy Terrain",
+        "moveId": "/moves/grassy-terrain",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "5 turns. Grounded: +Grass power, +1/16 max HP."
+      },
+      {
+        "moveName": "Forest's Curse",
+        "moveId": "/moves/forest's-curse",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Adds Grass to the target's type(s)."
+      },
+      {
+        "moveName": "Petal Blizzard",
+        "moveId": "/moves/petal-blizzard",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "No additional effect. Hits adjacent Pokemon."
+      },
+      {
+        "moveName": "Spiky Shield",
+        "moveId": "/moves/spiky-shield",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Protects from moves. Contact: loses 1/8 max HP."
+      },
+      {
+        "moveName": "Leafage",
+        "moveId": "/moves/leafage",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 40,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Solar Blade",
+        "moveId": "/moves/solar-blade",
+        "moveCategory": "Physical",
+        "movePower": 125,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Charges turn 1. Hits turn 2. No charge in sunlight."
+      },
+      {
+        "moveName": "Strength Sap",
+        "moveId": "/moves/strength-sap",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "User heals HP=target's Atk stat. Lowers Atk by 1."
+      },
+      {
+        "moveName": "Trop Kick",
+        "moveId": "/moves/trop-kick",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "100% chance to lower the target's Attack by 1."
+      },
+      {
+        "moveName": "Apple Acid",
+        "moveId": "/moves/apple-acid",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "100% chance to lower the target's Sp. Def by 1."
+      },
+      {
+        "moveName": "Branch Poke",
+        "moveId": "/moves/branch-poke",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 40,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Drum Beating",
+        "moveId": "/moves/drum-beating",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "100% chance to lower the target's Speed by 1."
+      },
+      {
+        "moveName": "G-Max Drum Solo",
+        "moveId": "/moves/g-max-drum-solo",
+        "moveCategory": "Physical",
+        "movePower": 160,
+        "movePP": 5,
+        "moveDetails": "Always 160 power. Ignores Abilities."
+      },
+      {
+        "moveName": "G-Max Sweetness",
+        "moveId": "/moves/g-max-sweetness",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Allies: status cured."
+      },
+      {
+        "moveName": "G-Max Tartness",
+        "moveId": "/moves/g-max-tartness",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Foes: -1 evasiveness."
+      },
+      {
+        "moveName": "G-Max Vine Lash",
+        "moveId": "/moves/g-max-vine-lash",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Foes: -1/6 HP, 4 turns."
+      },
+      {
+        "moveName": "Grassy Glide",
+        "moveId": "/moves/grassy-glide",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "User on Grassy Terrain: +1 priority."
+      },
+      {
+        "moveName": "Grav Apple",
+        "moveId": "/moves/grav-apple",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Target: 100% -1 Def. During Gravity: 1.5x power."
+      },
+      {
+        "moveName": "Jungle Healing",
+        "moveId": "/moves/jungle-healing",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "User and allies: healed 1/4 max HP, status cured."
+      },
+      {
+        "moveName": "Max Overgrowth",
+        "moveId": "/moves/max-overgrowth",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Starts Grassy Terrain."
+      },
+      {
+        "moveName": "Snap Trap",
+        "moveId": "/moves/snap-trap",
+        "moveCategory": "Physical",
+        "movePower": 35,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Traps and damages the target for 4-5 turns."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        {
+          "typeName": "Dragon",
+          "typeId": "/types/dragon"
+        },
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        }
+      ]
+    }
+  }
+]

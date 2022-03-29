@@ -1,0 +1,329 @@
+﻿{
+  "strategyName": "Calm Mind",
+  "strategyId": "/strategies/calm-mind?pokemon=keldeo&tier=uu",
+  "strategyDetails": "Calm Mind boosts Keldeo's already great Special Attack while bolstering its Special Defense, making it harder to revenge kill. The Special Defense boosts prevent foes such as Amoonguss and Aegislash from breaking its Substitute after multiple Calm Minds. Substitute also helps Keldeo avoid status. Scald is a spammable move that can punish switch-ins such as Amoonguss and Azumarill. Secret Sword allows Keldeo to break through specially defensive foes such as Chansey and Assault Vest Tangrowth. Icy Wind can be considered to OHKO Salamence, as it comfortably walls Keldeo and can damage it behind Substitute with Dual Wingbeat. It also provides coverage for Grass-types, but bulkier ones like Amoonguss and Tangrowth require multiple boosts to reliably muscle through. For this reason, Air Slash is also an option to hit them much harder at the cost of having a harder time against Salamence; however, Substitute is the preferred option to let Keldeo take advantage of more passive Pokemon like Umbreon and Jirachi. Leftovers provides passive recovery and helps offset Substitute damage. More offensive item options such as Life Orb and Expert Belt can be considered on three attack sets to improve Keldeo's ability to break through Amoonguss and Tangrowth. Calm Mind Keldeo fits best on bulky offense and balance builds that value the sweeping potential it provides alongside a great typing and Speed tier. It can also be considered on more offensive teams if running three attacks. Keldeo lacks the means to muscle past Pokemon such as Primarina, Mantine, and Tangrowth easily; therefore, partners like Toxtricity, Nihilego, and Nidoking help remove them. Nihilego can also check special Salamence and provide Stealth Rock support to wear down Keldeo's checks. Togekiss can muscle through Grass-types such as Tapu Bulu and Tangrowth and provide Heal Bell support, as status greatly limits the effectiveness of Keldeo. Salamence can likewise pressure these Grass-types as well as providing Defog support. In return, Keldeo is able to pressure common Flying-resistant foes such as Nihilego, Rhyperior, and Rotom-H for them. Pivots like Jirachi and Chansey bring Keldeo in safely. Jirachi can invite foes such as Moltres in for Keldeo to set up on and provide Healing Wish support to give it another opportunity to sweep. Albeit rare, Noivern can prove problematic due to its Speed and ability to bypass Substitute. For this reason, partners like Rhyperior and Mamoswine are appreciated. Mamoswine is also able to remove Grass-types and force damage on Water-types such as Rotom-W and Primarina. If Keldeo is utilizing a more offensive set, Sticky Web support is valuable to prevent faster foes such as Lycanroc-D from being able to revenge kill it.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Keldeo",
+    "pokemonId": "/pokemon/keldeo",
+    "pokemonTypes": [
+      {
+        "typeName": "Water",
+        "typeId": "/types/water"
+      },
+      {
+        "typeName": "Fighting",
+        "typeId": "/types/fighting"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 91
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 72
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 129
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 108
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Justified",
+        "abilityId": "/abilities/justified",
+        "abilityDetails": "This Pokemon's Attack is raised by 1 stage after it is damaged by a Dark-type move."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:27.72514Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Justified",
+      "abilityId": "/abilities/justified",
+      "abilityDetails": "This Pokemon's Attack is raised by 1 stage after it is damaged by a Dark-type move."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=mamoswine&tier=uu",
+      "strategyName": "Wallbreaker"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance-sweeper?pokemon=gyarados&tier=uu",
+      "strategyName": "Dragon Dance Sweeper"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=azelf&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+      "strategyName": "Nasty Plot"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Calm Mind",
+        "moveId": "/moves/calm-mind",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Sp. Atk and Sp. Def by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Scald",
+        "moveId": "/moves/scald",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to burn the target. Thaws target."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Secret Sword",
+        "moveId": "/moves/secret-sword",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Special",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "moveDetails": "Damages target based on Defense, not Sp. Def."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Substitute",
+        "moveId": "/moves/substitute",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "User takes 1/4 its max HP to put in a substitute."
+      }
+    ]
+  }
+}

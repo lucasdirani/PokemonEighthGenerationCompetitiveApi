@@ -1,0 +1,223 @@
+﻿{
+  "strategyName": "Aurora Veil",
+  "strategyId": "/strategies/aurora-veil?pokemon=ninetales-alola&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemonForms": {
+    "pokemonFormName": "Ninetales-Alola",
+    "pokemonFormId": "/pokemon-forms/ninetales-alola",
+    "pokemonFormTypes": [
+      {
+        "typeName": "Ice",
+        "typeId": "/types/ice"
+      },
+      {
+        "typeName": "Fairy",
+        "typeId": "/types/fairy"
+      }
+    ],
+    "pokemonFormBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 73
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 67
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 75
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 81
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 109
+      }
+    ],
+    "pokemonFormAbilities": [
+      {
+        "abilityName": "Snow Cloak",
+        "abilityId": "/abilities/snow-cloak",
+        "abilityDetails": "If Hail is active, this Pokemon's evasiveness is 1.25x; immunity to Hail."
+      },
+      {
+        "abilityName": "Snow Warning",
+        "abilityId": "/abilities/snow-warning",
+        "abilityDetails": "On switch-in, this Pokemon summons Hail."
+      }
+    ],
+    "pokemonFormTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:31.9350364Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Light Clay",
+      "itemId": "/items/light-clay",
+      "itemDetails": "Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Snow Warning",
+      "abilityId": "/abilities/snow-warning",
+      "abilityDetails": "On switch-in, this Pokemon summons Hail."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Aurora Veil",
+        "moveId": "/moves/aurora-veil",
+        "moveType": {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "For 5 turns, damage to allies is halved. Hail only."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Freeze-Dry",
+        "moveId": "/moves/freeze-dry",
+        "moveType": {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        "moveCategory": "Special",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to freeze. Super effective on Water."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Hail",
+        "moveId": "/moves/hail",
+        "moveType": {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "For 5 turns, hail crashes down."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Hypnosis",
+        "moveId": "/moves/hypnosis",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 60,
+        "moveDetails": "Causes the target to fall asleep."
+      },
+      {
+        "moveName": "Encore",
+        "moveId": "/moves/encore",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "Target repeats its last move for its next 3 turns."
+      }
+    ]
+  }
+}

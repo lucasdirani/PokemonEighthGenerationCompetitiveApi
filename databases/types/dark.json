@@ -1,0 +1,869 @@
+﻿[
+  {
+    "typeName": "Dark",
+    "typeId": "/types/dark",
+    "typePokemon": [
+      {
+        "pokemonName": "Tyranitar",
+        "pokemonId": "/pokemon/tyranitar",
+        "pokemonTypes": [
+          {
+            "typeName": "Rock",
+            "typeId": "/types/rock"
+          },
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 134
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 61
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Sand Stream",
+            "abilityId": "/abilities/sand-stream",
+            "abilityDetails": "On switch-in, this Pokemon summons Sandstorm."
+          },
+          {
+            "abilityName": "Unnerve",
+            "abilityId": "/abilities/unnerve",
+            "abilityDetails": "While this Pokemon is active, it prevents opposing Pokemon from using their Berries."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Crawdaunt",
+        "pokemonId": "/pokemon/crawdaunt",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 63
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 120
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 55
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 55
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Hyper Cutter",
+            "abilityId": "/abilities/hyper-cutter",
+            "abilityDetails": "Prevents other Pokemon from lowering this Pokemon's Attack stat stage."
+          },
+          {
+            "abilityName": "Shell Armor",
+            "abilityId": "/abilities/shell-armor",
+            "abilityDetails": "This Pokemon cannot be struck by a critical hit."
+          },
+          {
+            "abilityName": "Adaptability",
+            "abilityId": "/abilities/adaptability",
+            "abilityDetails": "This Pokemon's same-type attack bonus (STAB) is 2 instead of 1.5."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Krookodile",
+        "pokemonId": "/pokemon/krookodile",
+        "pokemonTypes": [
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          },
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 117
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 92
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Intimidate",
+            "abilityId": "/abilities/intimidate",
+            "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+          },
+          {
+            "abilityName": "Anger Point",
+            "abilityId": "/abilities/anger-point",
+            "abilityDetails": "If this Pokemon (not its substitute) takes a critical hit, its Attack is raised 12 stages."
+          },
+          {
+            "abilityName": "Moxie",
+            "abilityId": "/abilities/moxie",
+            "abilityDetails": "This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Bisharp",
+        "pokemonId": "/pokemon/bisharp",
+        "pokemonTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 70
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          },
+          {
+            "abilityName": "Inner Focus",
+            "abilityId": "/abilities/inner-focus",
+            "abilityDetails": "This Pokemon cannot be made to flinch. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Defiant",
+            "abilityId": "/abilities/defiant",
+            "abilityDetails": "This Pokemon's Attack is raised by 2 for each of its stats that is lowered by a foe."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Mandibuzz",
+        "pokemonId": "/pokemon/mandibuzz",
+        "pokemonTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 55
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 80
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Overcoat",
+            "abilityId": "/abilities/overcoat",
+            "abilityDetails": "This Pokemon is immune to powder moves and damage from Sandstorm or Hail."
+          },
+          {
+            "abilityName": "Weak Armor",
+            "abilityId": "/abilities/weak-armor",
+            "abilityDetails": "If a physical attack hits this Pokemon, Defense is lowered by 1, Speed is raised by 2."
+          },
+          {
+            "abilityName": "Big Pecks",
+            "abilityId": "/abilities/big-pecks",
+            "abilityDetails": "Prevents other Pokemon from lowering this Pokemon's Defense stat stage."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Hydreigon",
+        "pokemonId": "/pokemon/hydreigon",
+        "pokemonTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 92
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 98
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Levitate",
+            "abilityId": "/abilities/levitate",
+            "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Grimmsnarl",
+        "pokemonId": "/pokemon/grimmsnarl",
+        "pokemonTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 120
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Frisk",
+            "abilityId": "/abilities/frisk",
+            "abilityDetails": "On switch-in, this Pokemon identifies the held items of all opposing Pokemon."
+          },
+          {
+            "abilityName": "Pickpocket",
+            "abilityId": "/abilities/pickpocket",
+            "abilityDetails": "If this Pokemon has no item and is hit by a contact move, it steals the attacker's item."
+          },
+          {
+            "abilityName": "Prankster",
+            "abilityId": "/abilities/prankster",
+            "abilityDetails": "This Pokemon's Status moves have priority raised by 1, but Dark types are immune."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Moltres-Galar",
+        "pokemonFormId": "/pokemon-forms/moltres-galar",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 90
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Berserk",
+            "abilityId": "/abilities/berserk",
+            "abilityDetails": "This Pokemon's Sp. Atk is raised by 1 when it reaches 1/2 or less of its max HP."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Bite",
+        "moveId": "/moves/bite",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 25,
+        "moveDetails": "30% chance to make the target flinch."
+      },
+      {
+        "moveName": "Beat Up",
+        "moveId": "/moves/beat-up",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "All healthy allies aid in damaging the target."
+      },
+      {
+        "moveName": "Thief",
+        "moveId": "/moves/thief",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 25,
+        "moveDetails": "If the user has no item, it steals the target's."
+      },
+      {
+        "moveName": "Crunch",
+        "moveId": "/moves/crunch",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "20% chance to lower the target's Defense by 1."
+      },
+      {
+        "moveName": "Taunt",
+        "moveId": "/moves/taunt",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Target can't use status moves its next 3 turns."
+      },
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      },
+      {
+        "moveName": "Torment",
+        "moveId": "/moves/torment",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Target can't select the same move twice in a row."
+      },
+      {
+        "moveName": "Fake Tears",
+        "moveId": "/moves/fake-tears",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Lowers the target's Sp. Def by 2."
+      },
+      {
+        "moveName": "Flatter",
+        "moveId": "/moves/flatter",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Raises the target's Sp. Atk by 1 and confuses it."
+      },
+      {
+        "moveName": "Memento",
+        "moveId": "/moves/memento",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Lowers target's Attack, Sp. Atk by 2. User faints."
+      },
+      {
+        "moveName": "Payback",
+        "moveId": "/moves/payback",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Power doubles if the user moves after the target."
+      },
+      {
+        "moveName": "Sucker Punch",
+        "moveId": "/moves/sucker-punch",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Usually goes first. Fails if target is not attacking."
+      },
+      {
+        "moveName": "Assurance",
+        "moveId": "/moves/assurance",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Power doubles if target was damaged this turn."
+      },
+      {
+        "moveName": "Switcheroo",
+        "moveId": "/moves/switcheroo",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "User switches its held item with the target's."
+      },
+      {
+        "moveName": "Dark Pulse",
+        "moveId": "/moves/dark-pulse",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "20% chance to make the target flinch."
+      },
+      {
+        "moveName": "Fling",
+        "moveId": "/moves/fling",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Flings the user's item at the target. Power varies."
+      },
+      {
+        "moveName": "Nasty Plot",
+        "moveId": "/moves/nasty-plot",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises the user's Sp. Atk by 2."
+      },
+      {
+        "moveName": "Night Slash",
+        "moveId": "/moves/night-slash",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "High critical hit ratio."
+      },
+      {
+        "moveName": "Snarl",
+        "moveId": "/moves/snarl",
+        "moveCategory": "Special",
+        "movePower": 55,
+        "moveAccuracy": 95,
+        "movePP": 15,
+        "moveDetails": "100% chance to lower the foe(s) Sp. Atk by 1."
+      },
+      {
+        "moveName": "Quash",
+        "moveId": "/moves/quash",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Forces the target to move last this turn."
+      },
+      {
+        "moveName": "Foul Play",
+        "moveId": "/moves/foul-play",
+        "moveCategory": "Physical",
+        "movePower": 95,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Uses target's Attack stat in damage calculation."
+      },
+      {
+        "moveName": "Hone Claws",
+        "moveId": "/moves/hone-claws",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "Raises the user's Attack and accuracy by 1."
+      },
+      {
+        "moveName": "Night Daze",
+        "moveId": "/moves/night-daze",
+        "moveCategory": "Special",
+        "movePower": 85,
+        "moveAccuracy": 95,
+        "movePP": 10,
+        "moveDetails": "40% chance to lower the target's accuracy by 1."
+      },
+      {
+        "moveName": "Parting Shot",
+        "moveId": "/moves/parting-shot",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Lowers target's Atk, Sp. Atk by 1. User switches."
+      },
+      {
+        "moveName": "Topsy-Turvy",
+        "moveId": "/moves/topsy-turvy",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Inverts the target's stat stages."
+      },
+      {
+        "moveName": "Brutal Swing",
+        "moveId": "/moves/brutal-swing",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "No additional effect. Hits adjacent Pokemon."
+      },
+      {
+        "moveName": "Darkest Lariat",
+        "moveId": "/moves/darkest-lariat",
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Ignores the target's stat stage changes."
+      },
+      {
+        "moveName": "Power Trip",
+        "moveId": "/moves/power-trip",
+        "moveCategory": "Physical",
+        "movePower": 20,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": " + 20 power for each of the user's stat boosts."
+      },
+      {
+        "moveName": "Throat Chop",
+        "moveId": "/moves/throat-chop",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "For 2 turns, the target cannot use sound moves."
+      },
+      {
+        "moveName": "False Surrender",
+        "moveId": "/moves/false-surrender",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "movePP": 10,
+        "moveDetails": "This move does not check accuracy."
+      },
+      {
+        "moveName": "Fiery Wrath",
+        "moveId": "/moves/fiery-wrath",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "20% chance to make the foe(s) flinch."
+      },
+      {
+        "moveName": "G-Max One Blow",
+        "moveId": "/moves/g-max-one-blow",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Bypasses Max Guard."
+      },
+      {
+        "moveName": "G-Max Snooze",
+        "moveId": "/moves/g-max-snooze",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Target: 50% Yawn."
+      },
+      {
+        "moveName": "Jaw Lock",
+        "moveId": "/moves/jaw-lock",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Prevents both user and target from switching out."
+      },
+      {
+        "moveName": "Lash Out",
+        "moveId": "/moves/lash-out",
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "2x power if the user had a stat lowered this turn."
+      },
+      {
+        "moveName": "Max Darkness",
+        "moveId": "/moves/max-darkness",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Foes: -1 Sp. Def."
+      },
+      {
+        "moveName": "Obstruct",
+        "moveId": "/moves/obstruct",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Protects from damaging attacks. Contact: -2 Def."
+      },
+      {
+        "moveName": "Wicked Blow",
+        "moveId": "/moves/wicked-blow",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Always results in a critical hit."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Ghost",
+          "typeId": "/types/ghost"
+        },
+        {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [
+        {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        }
+      ],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        {
+          "typeName": "Ghost",
+          "typeId": "/types/ghost"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        }
+      ]
+    }
+  }
+]

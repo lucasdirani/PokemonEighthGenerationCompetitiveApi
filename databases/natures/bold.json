@@ -1,0 +1,946 @@
+﻿[
+  {
+    "natureName": "Bold",
+    "natureId": "/natures/bold",
+    "natureDecreasedStat": {
+      "statName": "Attack",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Adamant",
+          "natureId": "/natures/adamant"
+        },
+        {
+          "natureName": "Brave",
+          "natureId": "/natures/brave"
+        },
+        {
+          "natureName": "Hardy",
+          "natureId": "/natures/hardy"
+        },
+        {
+          "natureName": "Lonely",
+          "natureId": "/natures/lonely"
+        },
+        {
+          "natureName": "Naughty",
+          "natureId": "/natures/naughty"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Bold",
+          "natureId": "/natures/bold"
+        },
+        {
+          "natureName": "Calm",
+          "natureId": "/natures/calm"
+        },
+        {
+          "natureName": "Hardy",
+          "natureId": "/natures/hardy"
+        },
+        {
+          "natureName": "Modest",
+          "natureId": "/natures/modest"
+        },
+        {
+          "natureName": "Timid",
+          "natureId": "/natures/timid"
+        }
+      ]
+    },
+    "natureIncreasedStat": {
+      "statName": "Defense",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Bold",
+          "natureId": "/natures/bold"
+        },
+        {
+          "natureName": "Docile",
+          "natureId": "/natures/docile"
+        },
+        {
+          "natureName": "Impish",
+          "natureId": "/natures/impish"
+        },
+        {
+          "natureName": "Lax",
+          "natureId": "/natures/lax"
+        },
+        {
+          "natureName": "Relaxed",
+          "natureId": "/natures/relaxed"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Docile",
+          "natureId": "/natures/docile"
+        },
+        {
+          "natureName": "Gentle",
+          "natureId": "/natures/gentle"
+        },
+        {
+          "natureName": "Hasty",
+          "natureId": "/natures/hasty"
+        },
+        {
+          "natureName": "Lonely",
+          "natureId": "/natures/lonely"
+        },
+        {
+          "natureName": "Mild",
+          "natureId": "/natures/mild"
+        }
+      ]
+    },
+    "natureDecreasedStatIn": 0.1,
+    "natureIncreasedStatIn": 0.1,
+    "naturePokemon": [
+      {
+        "pokemonName": "Amoonguss",
+        "pokemonId": "/pokemon/amoonguss",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          },
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 114
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 30
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Effect Spore",
+            "abilityId": "/abilities/effect-spore",
+            "abilityDetails": "30% chance of poison/paralysis/sleep on others making contact with this Pokemon."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Chansey",
+        "pokemonId": "/pokemon/chansey",
+        "pokemonTypes": [
+          {
+            "typeName": "Normal",
+            "typeId": "/types/normal"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 250
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 5
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 5
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 35
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 50
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Natural Cure",
+            "abilityId": "/abilities/natural-cure",
+            "abilityDetails": "This Pokemon has its non-volatile status condition cured when it switches out."
+          },
+          {
+            "abilityName": "Serene Grace",
+            "abilityId": "/abilities/serene-grace",
+            "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+          },
+          {
+            "abilityName": "Healer",
+            "abilityId": "/abilities/healer",
+            "abilityDetails": "30% chance of curing an adjacent ally's status at the end of each turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Hatterene",
+        "pokemonId": "/pokemon/hatterene",
+        "pokemonTypes": [
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 57
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 136
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 103
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 29
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Anticipation",
+            "abilityId": "/abilities/anticipation",
+            "abilityDetails": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move."
+          },
+          {
+            "abilityName": "Healer",
+            "abilityId": "/abilities/healer",
+            "abilityDetails": "30% chance of curing an adjacent ally's status at the end of each turn."
+          },
+          {
+            "abilityName": "Magic Bounce",
+            "abilityId": "/abilities/magic-bounce",
+            "abilityDetails": "This Pokemon blocks certain status moves and bounces them back to the user."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Kommo-o",
+        "pokemonId": "/pokemon/kommo-o",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Fighting",
+            "typeId": "/types/fighting"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 85
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Soundproof",
+            "abilityId": "/abilities/soundproof",
+            "abilityDetails": "This Pokemon is immune to sound-based moves, including Heal Bell."
+          },
+          {
+            "abilityName": "Overcoat",
+            "abilityId": "/abilities/overcoat",
+            "abilityDetails": "This Pokemon is immune to powder moves and damage from Sandstorm or Hail."
+          },
+          {
+            "abilityName": "Bulletproof",
+            "abilityId": "/abilities/bulletproof",
+            "abilityDetails": "Makes user immune to ballistic moves (Shadow Ball, Sludge Bomb, Focus Blast, etc)."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Mew",
+        "pokemonId": "/pokemon/mew",
+        "pokemonTypes": [
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Synchronize",
+            "abilityId": "/abilities/synchronize",
+            "abilityDetails": "If another Pokemon burns/poisons/paralyzes this Pokemon, it also gets that status."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Moltres",
+        "pokemonId": "/pokemon/moltres",
+        "pokemonTypes": [
+          {
+            "typeName": "Fire",
+            "typeId": "/types/fire"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 90
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Flame Body",
+            "abilityId": "/abilities/flame-body",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be burned."
+          },
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Quagsire",
+        "pokemonId": "/pokemon/quagsire",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 35
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Damp",
+            "abilityId": "/abilities/damp",
+            "abilityDetails": "Prevents Explosion/Mind Blown/Misty Explosion/Self-Destruct/Aftermath while active."
+          },
+          {
+            "abilityName": "Water Absorb",
+            "abilityId": "/abilities/water-absorb",
+            "abilityDetails": "This Pokemon heals 1/4 of its max HP when hit by Water moves; Water immunity."
+          },
+          {
+            "abilityName": "Unaware",
+            "abilityId": "/abilities/unaware",
+            "abilityDetails": "This Pokemon ignores other Pokemon's stat stages when taking or doing damage."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Blissey",
+        "pokemonId": "/pokemon/blissey",
+        "pokemonTypes": [
+          {
+            "typeName": "Normal",
+            "typeId": "/types/normal"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 255
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 10
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 10
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 135
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 55
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Natural Cure",
+            "abilityId": "/abilities/natural-cure",
+            "abilityDetails": "This Pokemon has its non-volatile status condition cured when it switches out."
+          },
+          {
+            "abilityName": "Serene Grace",
+            "abilityId": "/abilities/serene-grace",
+            "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+          },
+          {
+            "abilityName": "Healer",
+            "abilityId": "/abilities/healer",
+            "abilityDetails": "30% chance of curing an adjacent ally's status at the end of each turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Clefable",
+        "pokemonId": "/pokemon/clefable",
+        "pokemonTypes": [
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 73
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Cute Charm",
+            "abilityId": "/abilities/cute-charm",
+            "abilityDetails": "30% chance of infatuating Pokemon of the opposite gender if they make contact."
+          },
+          {
+            "abilityName": "Magic Guard",
+            "abilityId": "/abilities/magic-guard",
+            "abilityDetails": "This Pokemon can only be damaged by direct attacks."
+          },
+          {
+            "abilityName": "Unaware",
+            "abilityId": "/abilities/unaware",
+            "abilityDetails": "This Pokemon ignores other Pokemon's stat stages when taking or doing damage."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Magnezone",
+        "pokemonId": "/pokemon/magnezone",
+        "pokemonTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Sturdy",
+            "abilityId": "/abilities/sturdy",
+            "abilityDetails": "If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."
+          },
+          {
+            "abilityName": "Magnet Pull",
+            "abilityId": "/abilities/magnet-pull",
+            "abilityDetails": "Prevents adjacent Steel-type foes from choosing to switch."
+          },
+          {
+            "abilityName": "Analytic",
+            "abilityId": "/abilities/analytic",
+            "abilityDetails": "This Pokemon's attacks have 1.3x power if it is the last to move in a turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Pelipper",
+        "pokemonId": "/pokemon/pelipper",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 65
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Keen Eye",
+            "abilityId": "/abilities/keen-eye",
+            "abilityDetails": "This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat."
+          },
+          {
+            "abilityName": "Drizzle",
+            "abilityId": "/abilities/drizzle",
+            "abilityDetails": "On switch-in, this Pokemon summons Rain Dance."
+          },
+          {
+            "abilityName": "Rain Dish",
+            "abilityId": "/abilities/rain-dish",
+            "abilityDetails": "If Rain Dance is active, this Pokemon heals 1/16 of its max HP each turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Skarmory",
+        "pokemonId": "/pokemon/skarmory",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 40
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 70
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Sturdy",
+            "abilityId": "/abilities/sturdy",
+            "abilityDetails": "If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."
+          },
+          {
+            "abilityName": "Keen Eye",
+            "abilityId": "/abilities/keen-eye",
+            "abilityDetails": "This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat."
+          },
+          {
+            "abilityName": "Weak Armor",
+            "abilityId": "/abilities/weak-armor",
+            "abilityDetails": "If a physical attack hits this Pokemon, Defense is lowered by 1, Speed is raised by 2."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tapu Fini",
+        "pokemonId": "/pokemon/tapu-fini",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 85
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Telepathy",
+            "abilityId": "/abilities/telepathy",
+            "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+          },
+          {
+            "abilityName": "Misty Surge",
+            "abilityId": "/abilities/misty-surge",
+            "abilityDetails": "On switch-in, this Pokemon summons Misty Terrain."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Toxapex",
+        "pokemonId": "/pokemon/toxapex",
+        "pokemonTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 63
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 152
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 142
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 35
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Limber",
+            "abilityId": "/abilities/limber",
+            "abilityDetails": "This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          },
+          {
+            "abilityName": "Merciless",
+            "abilityId": "/abilities/merciless",
+            "abilityDetails": "This Pokemon's attacks are critical hits if the target is poisoned."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "naturePokemonForms": []
+  }
+]

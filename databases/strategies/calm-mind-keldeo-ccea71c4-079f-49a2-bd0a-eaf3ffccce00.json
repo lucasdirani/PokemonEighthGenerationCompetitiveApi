@@ -1,0 +1,206 @@
+﻿{
+  "strategyName": "Calm Mind",
+  "strategyId": "/strategies/calm-mind?pokemon=keldeo&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Keldeo",
+    "pokemonId": "/pokemon/keldeo",
+    "pokemonTypes": [
+      {
+        "typeName": "Water",
+        "typeId": "/types/water"
+      },
+      {
+        "typeName": "Fighting",
+        "typeId": "/types/fighting"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 91
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 72
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 129
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 108
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Justified",
+        "abilityId": "/abilities/justified",
+        "abilityDetails": "This Pokemon's Attack is raised by 1 stage after it is damaged by a Dark-type move."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:27.7270236Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Justified",
+      "abilityId": "/abilities/justified",
+      "abilityDetails": "This Pokemon's Attack is raised by 1 stage after it is damaged by a Dark-type move."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Calm Mind",
+        "moveId": "/moves/calm-mind",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Sp. Atk and Sp. Def by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Scald",
+        "moveId": "/moves/scald",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to burn the target. Thaws target."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Secret Sword",
+        "moveId": "/moves/secret-sword",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Special",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "moveDetails": "Damages target based on Defense, not Sp. Def."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Substitute",
+        "moveId": "/moves/substitute",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "User takes 1/4 its max HP to put in a substitute."
+      }
+    ]
+  }
+}

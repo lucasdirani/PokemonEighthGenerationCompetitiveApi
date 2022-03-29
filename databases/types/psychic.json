@@ -1,0 +1,957 @@
+﻿[
+  {
+    "typeName": "Psychic",
+    "typeId": "/types/psychic",
+    "typePokemon": [
+      {
+        "pokemonName": "Slowbro",
+        "pokemonId": "/pokemon/slowbro",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 30
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Oblivious",
+            "abilityId": "/abilities/oblivious",
+            "abilityDetails": "This Pokemon cannot be infatuated or taunted. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Own Tempo",
+            "abilityId": "/abilities/own-tempo",
+            "abilityDetails": "This Pokemon cannot be confused. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Mew",
+        "pokemonId": "/pokemon/mew",
+        "pokemonTypes": [
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Synchronize",
+            "abilityId": "/abilities/synchronize",
+            "abilityDetails": "If another Pokemon burns/poisons/paralyzes this Pokemon, it also gets that status."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Slowking",
+        "pokemonId": "/pokemon/slowking",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 30
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Oblivious",
+            "abilityId": "/abilities/oblivious",
+            "abilityDetails": "This Pokemon cannot be infatuated or taunted. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Own Tempo",
+            "abilityId": "/abilities/own-tempo",
+            "abilityDetails": "This Pokemon cannot be confused. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Jirachi",
+        "pokemonId": "/pokemon/jirachi",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Serene Grace",
+            "abilityId": "/abilities/serene-grace",
+            "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Azelf",
+        "pokemonId": "/pokemon/azelf",
+        "pokemonTypes": [
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 115
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Levitate",
+            "abilityId": "/abilities/levitate",
+            "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tapu Lele",
+        "pokemonId": "/pokemon/tapu-lele",
+        "pokemonTypes": [
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 95
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Telepathy",
+            "abilityId": "/abilities/telepathy",
+            "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+          },
+          {
+            "abilityName": "Psychic Surge",
+            "abilityId": "/abilities/psychic-surge",
+            "abilityDetails": "On switch-in, this Pokemon summons Psychic Terrain."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Hatterene",
+        "pokemonId": "/pokemon/hatterene",
+        "pokemonTypes": [
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 57
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 136
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 103
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 29
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Anticipation",
+            "abilityId": "/abilities/anticipation",
+            "abilityDetails": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move."
+          },
+          {
+            "abilityName": "Healer",
+            "abilityId": "/abilities/healer",
+            "abilityDetails": "30% chance of curing an adjacent ally's status at the end of each turn."
+          },
+          {
+            "abilityName": "Magic Bounce",
+            "abilityId": "/abilities/magic-bounce",
+            "abilityDetails": "This Pokemon blocks certain status moves and bounces them back to the user."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Slowking-Galar",
+        "pokemonFormId": "/pokemon-forms/slowking-galar",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 30
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Own Tempo",
+            "abilityId": "/abilities/own-tempo",
+            "abilityDetails": "This Pokemon cannot be confused. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          },
+          {
+            "abilityName": "Curious Medicine",
+            "abilityId": "/abilities/curious-medicine",
+            "abilityDetails": "On switch-in, this Pokemon's allies have their stat stages reset to 0."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Amnesia",
+        "moveId": "/moves/amnesia",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises the user's Sp. Def by 2."
+      },
+      {
+        "moveName": "Dream Eater",
+        "moveId": "/moves/dream-eater",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "User gains 1/2 HP inflicted. Sleeping target only."
+      },
+      {
+        "moveName": "Light Screen",
+        "moveId": "/moves/light-screen",
+        "moveCategory": "Non-Damaging",
+        "movePP": 30,
+        "moveDetails": "For 5 turns, special damage to allies is halved."
+      },
+      {
+        "moveName": "Psychic",
+        "moveId": "/moves/psychic",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      },
+      {
+        "moveName": "Reflect",
+        "moveId": "/moves/reflect",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "For 5 turns, physical damage to allies is halved."
+      },
+      {
+        "moveName": "Rest",
+        "moveId": "/moves/rest",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "User sleeps 2 turns and restores HP and status."
+      },
+      {
+        "moveName": "Hypnosis",
+        "moveId": "/moves/hypnosis",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 60,
+        "movePP": 20,
+        "moveDetails": "Causes the target to fall asleep."
+      },
+      {
+        "moveName": "Teleport",
+        "moveId": "/moves/teleport",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "User switches out."
+      },
+      {
+        "moveName": "Agility",
+        "moveId": "/moves/agility",
+        "moveCategory": "Non-Damaging",
+        "movePP": 30,
+        "moveDetails": "Raises the user's Speed by 2."
+      },
+      {
+        "moveName": "Confusion",
+        "moveId": "/moves/confusion",
+        "moveCategory": "Special",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "movePP": 25,
+        "moveDetails": "10% chance to confuse the target."
+      },
+      {
+        "moveName": "Kinesis",
+        "moveId": "/moves/kinesis",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 80,
+        "movePP": 15,
+        "moveDetails": "Lowers the target's accuracy by 1."
+      },
+      {
+        "moveName": "Psybeam",
+        "moveId": "/moves/psybeam",
+        "moveCategory": "Special",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "10% chance to confuse the target."
+      },
+      {
+        "moveName": "Mirror Coat",
+        "moveId": "/moves/mirror-coat",
+        "moveCategory": "Special",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "If hit by special attack, returns double damage."
+      },
+      {
+        "moveName": "Future Sight",
+        "moveId": "/moves/future-sight",
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Hits two turns after being used."
+      },
+      {
+        "moveName": "Extrasensory",
+        "moveId": "/moves/extrasensory",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "10% chance to make the target flinch."
+      },
+      {
+        "moveName": "Role Play",
+        "moveId": "/moves/role-play",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "User replaces its Ability with the target's."
+      },
+      {
+        "moveName": "Skill Swap",
+        "moveId": "/moves/skill-swap",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "The user and the target trade Abilities."
+      },
+      {
+        "moveName": "Imprison",
+        "moveId": "/moves/imprison",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "No foe can use any move known by the user."
+      },
+      {
+        "moveName": "Magic Coat",
+        "moveId": "/moves/magic-coat",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "Bounces back certain non-damaging moves."
+      },
+      {
+        "moveName": "Trick",
+        "moveId": "/moves/trick",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "User switches its held item with the target's."
+      },
+      {
+        "moveName": "Calm Mind",
+        "moveId": "/moves/calm-mind",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises the user's Sp. Atk and Sp. Def by 1."
+      },
+      {
+        "moveName": "Cosmic Power",
+        "moveId": "/moves/cosmic-power",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises the user's Defense and Sp. Def by 1."
+      },
+      {
+        "moveName": "Luster Purge",
+        "moveId": "/moves/luster-purge",
+        "moveCategory": "Special",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "50% chance to lower the target's Sp. Def by 1."
+      },
+      {
+        "moveName": "Mist Ball",
+        "moveId": "/moves/mist-ball",
+        "moveCategory": "Special",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "50% chance to lower the target's Sp. Atk by 1."
+      },
+      {
+        "moveName": "Healing Wish",
+        "moveId": "/moves/healing-wish",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "User faints. Next hurt Pokemon is fully healed."
+      },
+      {
+        "moveName": "Lunar Dance",
+        "moveId": "/moves/lunar-dance",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "User faints. Next hurt Pkmn is cured, max HP/PP."
+      },
+      {
+        "moveName": "Power Trick",
+        "moveId": "/moves/power-trick",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Switches user's Attack and Defense stats."
+      },
+      {
+        "moveName": "Psycho Shift",
+        "moveId": "/moves/psycho-shift",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Transfers the user's status ailment to the target."
+      },
+      {
+        "moveName": "Gravity",
+        "moveId": "/moves/gravity",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "5 turns: no Ground immunities, 1.67x accuracy."
+      },
+      {
+        "moveName": "Guard Swap",
+        "moveId": "/moves/guard-swap",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Swaps Defense and Sp. Def changes with target."
+      },
+      {
+        "moveName": "Power Swap",
+        "moveId": "/moves/power-swap",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Swaps Attack and Sp. Atk stat stages with target."
+      },
+      {
+        "moveName": "Psycho Cut",
+        "moveId": "/moves/psycho-cut",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "High critical hit ratio."
+      },
+      {
+        "moveName": "Trick Room",
+        "moveId": "/moves/trick-room",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "Goes last. For 5 turns, turn order is reversed."
+      },
+      {
+        "moveName": "Zen Headbutt",
+        "moveId": "/moves/zen-headbutt",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 90,
+        "movePP": 15,
+        "moveDetails": "20% chance to make the target flinch."
+      },
+      {
+        "moveName": "Heal Pulse",
+        "moveId": "/moves/heal-pulse",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Heals the target by 50% of its max HP."
+      },
+      {
+        "moveName": "Magic Room",
+        "moveId": "/moves/magic-room",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "For 5 turns, all held items have no effect."
+      },
+      {
+        "moveName": "Wonder Room",
+        "moveId": "/moves/wonder-room",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "For 5 turns, all Defense and Sp. Def stats switch."
+      },
+      {
+        "moveName": "Ally Switch",
+        "moveId": "/moves/ally-switch",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "The user swaps positions with its ally."
+      },
+      {
+        "moveName": "Guard Split",
+        "moveId": "/moves/guard-split",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Averages Defense and Sp. Def stats with target."
+      },
+      {
+        "moveName": "Power Split",
+        "moveId": "/moves/power-split",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Averages Attack and Sp. Atk stats with target."
+      },
+      {
+        "moveName": "Psyshock",
+        "moveId": "/moves/psyshock",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Damages target based on Defense, not Sp. Def."
+      },
+      {
+        "moveName": "Psystrike",
+        "moveId": "/moves/psystrike",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Damages target based on Defense, not Sp. Def."
+      },
+      {
+        "moveName": "Stored Power",
+        "moveId": "/moves/stored-power",
+        "moveCategory": "Special",
+        "movePower": 20,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": " + 20 power for each of the user's stat boosts."
+      },
+      {
+        "moveName": "Psychic Terrain",
+        "moveId": "/moves/psychic-terrain",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "5 turns. Grounded: +Psychic power, priority-safe."
+      },
+      {
+        "moveName": "Instruct",
+        "moveId": "/moves/instruct",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "The target immediately uses its last used move."
+      },
+      {
+        "moveName": "Photon Geyser",
+        "moveId": "/moves/photon-geyser",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Physical if user's Atk &gt; Sp. Atk. Ignores Abilities."
+      },
+      {
+        "moveName": "Prismatic Laser",
+        "moveId": "/moves/prismatic-laser",
+        "moveCategory": "Special",
+        "movePower": 160,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "User cannot move next turn."
+      },
+      {
+        "moveName": "Psychic Fangs",
+        "moveId": "/moves/psychic-fangs",
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Destroys screens, unless the target is immune."
+      },
+      {
+        "moveName": "Speed Swap",
+        "moveId": "/moves/speed-swap",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Swaps Speed stat with target."
+      },
+      {
+        "moveName": "Eerie Spell",
+        "moveId": "/moves/eerie-spell",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Removes 3 PP from the target's last move."
+      },
+      {
+        "moveName": "Expanding Force",
+        "moveId": "/moves/expanding-force",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "User on Psychic Terrain: 1.5x power, hits foes."
+      },
+      {
+        "moveName": "Freezing Glare",
+        "moveId": "/moves/freezing-glare",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "10% chance to freeze the target."
+      },
+      {
+        "moveName": "G-Max Gravitas",
+        "moveId": "/moves/g-max-gravitas",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Starts Gravity."
+      },
+      {
+        "moveName": "Magic Powder",
+        "moveId": "/moves/magic-powder",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Changes the target's type to Psychic."
+      },
+      {
+        "moveName": "Max Mindstorm",
+        "moveId": "/moves/max-mindstorm",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Starts Psychic Terrain."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [
+        {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        }
+      ],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        {
+          "typeName": "Ghost",
+          "typeId": "/types/ghost"
+        },
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        }
+      ]
+    }
+  }
+]

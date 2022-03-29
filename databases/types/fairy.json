@@ -1,0 +1,877 @@
+﻿[
+  {
+    "typeName": "Fairy",
+    "typeId": "/types/fairy",
+    "typePokemon": [
+      {
+        "pokemonName": "Clefable",
+        "pokemonId": "/pokemon/clefable",
+        "pokemonTypes": [
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 73
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Cute Charm",
+            "abilityId": "/abilities/cute-charm",
+            "abilityDetails": "30% chance of infatuating Pokemon of the opposite gender if they make contact."
+          },
+          {
+            "abilityName": "Magic Guard",
+            "abilityId": "/abilities/magic-guard",
+            "abilityDetails": "This Pokemon can only be damaged by direct attacks."
+          },
+          {
+            "abilityName": "Unaware",
+            "abilityId": "/abilities/unaware",
+            "abilityDetails": "This Pokemon ignores other Pokemon's stat stages when taking or doing damage."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Azumarill",
+        "pokemonId": "/pokemon/azumarill",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 50
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Thick Fat",
+            "abilityId": "/abilities/thick-fat",
+            "abilityDetails": "Fire/Ice-type moves against this Pokemon deal damage with a halved attacking stat."
+          },
+          {
+            "abilityName": "Huge Power",
+            "abilityId": "/abilities/huge-power",
+            "abilityDetails": "This Pokemon's Attack is doubled."
+          },
+          {
+            "abilityName": "Sap Sipper",
+            "abilityId": "/abilities/sap-sipper",
+            "abilityDetails": "This Pokemon's Attack is raised 1 stage if hit by a Grass move; Grass immunity."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tapu Koko",
+        "pokemonId": "/pokemon/tapu-koko",
+        "pokemonTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 130
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Telepathy",
+            "abilityId": "/abilities/telepathy",
+            "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+          },
+          {
+            "abilityName": "Electric Surge",
+            "abilityId": "/abilities/electric-surge",
+            "abilityDetails": "On switch-in, this Pokemon summons Electric Terrain."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tapu Lele",
+        "pokemonId": "/pokemon/tapu-lele",
+        "pokemonTypes": [
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 95
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Telepathy",
+            "abilityId": "/abilities/telepathy",
+            "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+          },
+          {
+            "abilityName": "Psychic Surge",
+            "abilityId": "/abilities/psychic-surge",
+            "abilityDetails": "On switch-in, this Pokemon summons Psychic Terrain."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tapu Bulu",
+        "pokemonId": "/pokemon/tapu-bulu",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 75
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Telepathy",
+            "abilityId": "/abilities/telepathy",
+            "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+          },
+          {
+            "abilityName": "Grassy Surge",
+            "abilityId": "/abilities/grassy-surge",
+            "abilityDetails": "On switch-in, this Pokemon summons Grassy Terrain."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tapu Fini",
+        "pokemonId": "/pokemon/tapu-fini",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 115
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 85
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Telepathy",
+            "abilityId": "/abilities/telepathy",
+            "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+          },
+          {
+            "abilityName": "Misty Surge",
+            "abilityId": "/abilities/misty-surge",
+            "abilityDetails": "On switch-in, this Pokemon summons Misty Terrain."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Primarina",
+        "pokemonId": "/pokemon/primarina",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 126
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 116
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Torrent",
+            "abilityId": "/abilities/torrent",
+            "abilityDetails": "At 1/3 or less of its max HP, this Pokemon's attacking stat is 1.5x with Water attacks."
+          },
+          {
+            "abilityName": "Liquid Voice",
+            "abilityId": "/abilities/liquid-voice",
+            "abilityDetails": "This Pokemon's sound-based moves become Water type."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Hatterene",
+        "pokemonId": "/pokemon/hatterene",
+        "pokemonTypes": [
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 57
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 136
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 103
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 29
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Anticipation",
+            "abilityId": "/abilities/anticipation",
+            "abilityDetails": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move."
+          },
+          {
+            "abilityName": "Healer",
+            "abilityId": "/abilities/healer",
+            "abilityDetails": "30% chance of curing an adjacent ally's status at the end of each turn."
+          },
+          {
+            "abilityName": "Magic Bounce",
+            "abilityId": "/abilities/magic-bounce",
+            "abilityDetails": "This Pokemon blocks certain status moves and bounces them back to the user."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Grimmsnarl",
+        "pokemonId": "/pokemon/grimmsnarl",
+        "pokemonTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 120
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Frisk",
+            "abilityId": "/abilities/frisk",
+            "abilityDetails": "On switch-in, this Pokemon identifies the held items of all opposing Pokemon."
+          },
+          {
+            "abilityName": "Pickpocket",
+            "abilityId": "/abilities/pickpocket",
+            "abilityDetails": "If this Pokemon has no item and is hit by a contact move, it steals the attacker's item."
+          },
+          {
+            "abilityName": "Prankster",
+            "abilityId": "/abilities/prankster",
+            "abilityDetails": "This Pokemon's Status moves have priority raised by 1, but Dark types are immune."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Ninetales-Alola",
+        "pokemonFormId": "/pokemon-forms/ninetales-alola",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Ice",
+            "typeId": "/types/ice"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 73
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 67
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 81
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 109
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Snow Cloak",
+            "abilityId": "/abilities/snow-cloak",
+            "abilityDetails": "If Hail is active, this Pokemon's evasiveness is 1.25x; immunity to Hail."
+          },
+          {
+            "abilityName": "Snow Warning",
+            "abilityId": "/abilities/snow-warning",
+            "abilityDetails": "On switch-in, this Pokemon summons Hail."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Moonlight",
+        "moveId": "/moves/moonlight",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "Heals the user by a weather-dependent amount."
+      },
+      {
+        "moveName": "Charm",
+        "moveId": "/moves/charm",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Lowers the target's Attack by 2."
+      },
+      {
+        "moveName": "Sweet Kiss",
+        "moveId": "/moves/sweet-kiss",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 75,
+        "movePP": 10,
+        "moveDetails": "Causes the target to become confused."
+      },
+      {
+        "moveName": "Misty Terrain",
+        "moveId": "/moves/misty-terrain",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "5 turns. Can't status,-Dragon power vs grounded."
+      },
+      {
+        "moveName": "Aromatic Mist",
+        "moveId": "/moves/aromatic-mist",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises an ally's Sp. Def by 1."
+      },
+      {
+        "moveName": "Baby-Doll Eyes",
+        "moveId": "/moves/baby-doll-eyes",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Lowers the target's Attack by 1."
+      },
+      {
+        "moveName": "Crafty Shield",
+        "moveId": "/moves/crafty-shield",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Protects allies from Status moves this turn."
+      },
+      {
+        "moveName": "Dazzling Gleam",
+        "moveId": "/moves/dazzling-gleam",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "No additional effect. Hits adjacent foes."
+      },
+      {
+        "moveName": "Disarming Voice",
+        "moveId": "/moves/disarming-voice",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "movePP": 15,
+        "moveDetails": "This move does not check accuracy. Hits foes."
+      },
+      {
+        "moveName": "Draining Kiss",
+        "moveId": "/moves/draining-kiss",
+        "moveCategory": "Special",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "User recovers 75% of the damage dealt."
+      },
+      {
+        "moveName": "Fairy Lock",
+        "moveId": "/moves/fairy-lock",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Prevents all Pokemon from switching next turn."
+      },
+      {
+        "moveName": "Fairy Wind",
+        "moveId": "/moves/fairy-wind",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Flower Shield",
+        "moveId": "/moves/flower-shield",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Raises Defense by 1 of all active Grass types."
+      },
+      {
+        "moveName": "Geomancy",
+        "moveId": "/moves/geomancy",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Charges, then raises SpA, SpD, Spe by 2 turn 2."
+      },
+      {
+        "moveName": "Moonblast",
+        "moveId": "/moves/moonblast",
+        "moveCategory": "Special",
+        "movePower": 95,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "30% chance to lower the target's Sp. Atk by 1."
+      },
+      {
+        "moveName": "Play Rough",
+        "moveId": "/moves/play-rough",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "10% chance to lower the target's Attack by 1."
+      },
+      {
+        "moveName": "Fleur Cannon",
+        "moveId": "/moves/fleur-cannon",
+        "moveCategory": "Special",
+        "movePower": 130,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "Lowers the user's Sp. Atk by 2."
+      },
+      {
+        "moveName": "Floral Healing",
+        "moveId": "/moves/floral-healing",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Heals the target by 50% of its max HP."
+      },
+      {
+        "moveName": "Nature's Madness",
+        "moveId": "/moves/nature's-madness",
+        "moveCategory": "Special",
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Does damage equal to 1/2 target's current HP."
+      },
+      {
+        "moveName": "Decorate",
+        "moveId": "/moves/decorate",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "Raises the target's Attack and Sp. Atk by 2."
+      },
+      {
+        "moveName": "G-Max Finale",
+        "moveId": "/moves/g-max-finale",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Allies: +1/6 max HP."
+      },
+      {
+        "moveName": "G-Max Smite",
+        "moveId": "/moves/g-max-smite",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Foes: confused."
+      },
+      {
+        "moveName": "Max Starfall",
+        "moveId": "/moves/max-starfall",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Starts Misty Terrain."
+      },
+      {
+        "moveName": "Misty Explosion",
+        "moveId": "/moves/misty-explosion",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "User faints. User on Misty Terrain: 1.5x power."
+      },
+      {
+        "moveName": "Spirit Break",
+        "moveId": "/moves/spirit-break",
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "100% chance to lower the target's Sp. Atk by 1."
+      },
+      {
+        "moveName": "Strange Steam",
+        "moveId": "/moves/strange-steam",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 95,
+        "movePP": 10,
+        "moveDetails": "20% chance to confuse the target."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Dragon",
+          "typeId": "/types/dragon"
+        },
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [
+        {
+          "typeName": "Dragon",
+          "typeId": "/types/dragon"
+        }
+      ],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        }
+      ]
+    }
+  }
+]

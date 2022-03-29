@@ -1,0 +1,261 @@
+﻿{
+  "strategyName": "Choice Band",
+  "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+  "strategyDetails": "Grassy Glide is the strongest priority move in the game under Grassy Terrain, capable of OHKOing common offensive threats, cementing Rillaboom as one of the tier's premier revenge killers. Knock Off hits Grass-resistant foes on the switch for high damage and crucially gets rid of items like Tornadus-T’s Heavy-Duty Boots and Corviknight’s Rocky Helmet, setting up easier wallbreaking opportunities as the game progresses. If Rillaboom is paired with Kartana, omitting Knock Off for Superpower is optimal, since Kartana is better poised to wallbreak with its own Knock Off if the opposing Flying-types' items are intact. Superpower is useful for targeting Steel-types like Melmetal, Ferrothorn, and Heatran that otherwise switch into Grassy Glide. For the final slot, U-turn is a hard-hitting pivoting tool that can bring in partners such as Magnezone, Blacephalon, and Heatran to punish the common Steel-type switch-ins Rillaboom forces. It generates momentum throughout the game, something competitors in Tapu Bulu and Kartana are unable to do. Rillaboom is also reasonably bulky and healed by Grassy Terrain, giving it opportunities to switch in and pivot out against weaker, resisted attacks like Landorus-T’s Earthquake without sacrificing its longevity too much. This set is most appropriate in bulky offense builds. As always, Magnezone is a standout partner as an incredible recipient of U-turn’s pivoting, heavily limiting the opponent’s ability to effectively utilize Corviknight and Skarmory. Heatran appreciates Grassy Terrain to heal and weaken Earthquakes from the likes of Galarian Slowking. It can open up Rillaboom by trapping and removing non-Shed Shell Toxapex, preventing it from scouting Rillaboom's Choice-locked move. Heatran also easily sets Stealth Rock versus nearly all of the Flying-types in the tier, which is especially useful in conjunction with Rillaboom’s Knock Off. Swords Dance Kartana greatly benefits from Grassy Terrain boosting the power of its Leaf Blade and can break through physical walls like Corviknight, setting up Rillaboom to clean with Grassy Glide in the endgame. Entry hazard support such as Stealth Rock from Landorus-T and Spikes from Skarmory helps slowly wear down the opponent's team for Grassy Glide to sweep later. Finally, Urshifu-R can capitalize on Rillaboom’s U-turns out of incoming Heatran and Melmetal. Moreover, Rillaboom has favorable matchups with all of the bulky Water-types in the tier, paving the way for it to sweep opposing teams with Surging Strikes.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Rillaboom",
+    "pokemonId": "/pokemon/rillaboom",
+    "pokemonTypes": [
+      {
+        "typeName": "Grass",
+        "typeId": "/types/grass"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 125
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 60
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 85
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Overgrow",
+        "abilityId": "/abilities/overgrow",
+        "abilityDetails": "At 1/3 or less of its max HP, this Pokemon's attacking stat is 1.5x with Grass attacks."
+      },
+      {
+        "abilityName": "Grassy Surge",
+        "abilityId": "/abilities/grassy-surge",
+        "abilityDetails": "On switch-in, this Pokemon summons Grassy Terrain."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:44.1354822Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Choice Band",
+      "itemId": "/items/choice-band",
+      "itemDetails": "Holder's Attack is 1.5x, but it can only select the first move it executes."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Grassy Surge",
+      "abilityId": "/abilities/grassy-surge",
+      "abilityDetails": "On switch-in, this Pokemon summons Grassy Terrain."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Adamant",
+      "natureId": "/natures/adamant",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Attack" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/offensive-tank?pokemon=buzzwole&tier=ou",
+      "strategyName": "Offensive Tank"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/defog?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=corviknight&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/offensive-rain-sweeper?pokemon=zapdos&tier=ou",
+      "strategyName": "Offensive Rain Sweeper"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=zapdos&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/defensive-spikes?pokemon=skarmory&tier=ou",
+      "strategyName": "Defensive Spikes"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=mandibuzz&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=heatran&tier=ou",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive?pokemon=heatran&tier=ou",
+      "strategyName": "Specially Defensive"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/offensive-swords-dance?pokemon=scizor&tier=ou",
+      "strategyName": "Offensive Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=scizor&tier=ou",
+      "strategyName": "Physically Defensive"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Grassy Glide",
+        "moveId": "/moves/grassy-glide",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "User on Grassy Terrain: +1 priority."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Wood Hammer",
+        "moveId": "/moves/wood-hammer",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "moveDetails": "Has 33% recoil."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "U-turn",
+        "moveId": "/moves/u-turn",
+        "moveType": {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "User switches out after damaging the target."
+      }
+    ]
+  }
+}

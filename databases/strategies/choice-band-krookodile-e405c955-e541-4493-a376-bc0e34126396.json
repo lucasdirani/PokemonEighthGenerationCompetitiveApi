@@ -1,0 +1,419 @@
+﻿{
+  "strategyName": "Choice Band",
+  "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+  "strategyDetails": "Earthquake and Knock Off threaten a large portion of the metagame and together have almost unresisted coverage, hitting even Amoonguss hard thanks to Choice Band. Stone Edge hits Pokemon immune to Ground like Salamence, Moltres, and Mandibuzz. Close Combat hits Zarude and Chansey harder. Toxic cripples common switch-ins, such as Swampert and Tapu Bulu. Darkest Lariat hits Rotom-W and Tangrowth harder after Knock Off. Choice Band gives Krookodile extra power to break through would-be checks like Amoonguss and defensive Primarina, notably 2HKOing the former with Earthquake. Krookodile fits on bulky offense and balance teams, where it acts as a potent wallbreaker and clears the way for late-game sweepers like Substitute + Calm Mind Primarina and Azelf by removing threats like Amoonguss and Chansey. Due to its frailty, Krookodile loves VoltTurn support from teammates like Jirachi and Mienshao, which can bring it in safely against Pokemon such as Aegislash and Tentacruel to start wreaking havoc. Rotom-H is an especially great teammate, since it can bring in Krookodile with Volt Switch and scares out switch-ins like Tangrowth, Zarude, and Skarmory. Entry hazard support from allies like Nihilego and Skarmory is greatly appreciated to weaken checks like Tangrowth. Future Sight Support from Slowking and Galarian Slowbro amplifies Krookodile's wallbreaking power by dealing great combined damage to threats like Tangrowth and Conkeldurr. Late-game cleaners like Lycanroc-D and Dragon Dance Gyarados appreciate Krookodile weakening checks like Amoonguss and Celesteela. Grass-types like Amoonguss and Assault Vest Tangrowth make great teammates, as they sponge Water- and Grass-type hits from Pokemon like Azumarill and Zarude, while Krookodile can scare out Salamence and Moltres for them.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Krookodile",
+    "pokemonId": "/pokemon/krookodile",
+    "pokemonTypes": [
+      {
+        "typeName": "Ground",
+        "typeId": "/types/ground"
+      },
+      {
+        "typeName": "Dark",
+        "typeId": "/types/dark"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 117
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 65
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 92
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Intimidate",
+        "abilityId": "/abilities/intimidate",
+        "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+      },
+      {
+        "abilityName": "Anger Point",
+        "abilityId": "/abilities/anger-point",
+        "abilityDetails": "If this Pokemon (not its substitute) takes a critical hit, its Attack is raised 12 stages."
+      },
+      {
+        "abilityName": "Moxie",
+        "abilityId": "/abilities/moxie",
+        "abilityDetails": "This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:28.8169175Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Choice Band",
+      "itemId": "/items/choice-band",
+      "itemDetails": "Holder's Attack is 1.5x, but it can only select the first move it executes."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Intimidate",
+      "abilityId": "/abilities/intimidate",
+      "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Jolly",
+      "natureId": "/natures/jolly",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=slowking&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowking&tier=uu",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance-sweeper?pokemon=gyarados&tier=uu",
+      "strategyName": "Dragon Dance Sweeper"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance-sweeper?pokemon=gyarados&tier=uu",
+      "strategyName": "Dragon Dance Sweeper"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=swampert&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/guts-wallbreaker?pokemon=conkeldurr&tier=uu",
+      "strategyName": "Guts Wallbreaker"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=keldeo&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=keldeo&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=slowking&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowking&tier=uu",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=uu",
+      "strategyName": "Wallbreaker"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Earthquake",
+        "moveId": "/moves/earthquake",
+        "moveType": {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "moveDetails": "Hits adjacent Pokemon. Double damage on Dig."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Stone Edge",
+        "moveId": "/moves/stone-edge",
+        "moveType": {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 80,
+        "moveDetails": "High critical hit ratio."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Close Combat",
+        "moveId": "/moves/close-combat",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "moveDetails": "Lowers the user's Defense and Sp. Def by 1."
+      },
+      {
+        "moveName": "Toxic",
+        "moveId": "/moves/toxic",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 90,
+        "moveDetails": "Badly poisons the target. Poison types can't miss."
+      }
+    ]
+  }
+}

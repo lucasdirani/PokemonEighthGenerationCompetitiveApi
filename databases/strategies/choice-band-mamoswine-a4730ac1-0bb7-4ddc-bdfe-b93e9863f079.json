@@ -1,0 +1,222 @@
+﻿{
+  "strategyName": "Choice Band",
+  "strategyId": "/strategies/choice-band?pokemon=mamoswine&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Mamoswine",
+    "pokemonId": "/pokemon/mamoswine",
+    "pokemonTypes": [
+      {
+        "typeName": "Ice",
+        "typeId": "/types/ice"
+      },
+      {
+        "typeName": "Ground",
+        "typeId": "/types/ground"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 110
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 130
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 60
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 80
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Thick Fat",
+        "abilityId": "/abilities/thick-fat",
+        "abilityDetails": "Fire/Ice-type moves against this Pokemon deal damage with a halved attacking stat."
+      },
+      {
+        "abilityName": "Oblivious",
+        "abilityId": "/abilities/oblivious",
+        "abilityDetails": "This Pokemon cannot be infatuated or taunted. Immune to Intimidate."
+      },
+      {
+        "abilityName": "Snow Cloak",
+        "abilityId": "/abilities/snow-cloak",
+        "abilityDetails": "If Hail is active, this Pokemon's evasiveness is 1.25x; immunity to Hail."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:29.5453477Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Choice Band",
+      "itemId": "/items/choice-band",
+      "itemDetails": "Holder's Attack is 1.5x, but it can only select the first move it executes."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Thick Fat",
+      "abilityId": "/abilities/thick-fat",
+      "abilityDetails": "Fire/Ice-type moves against this Pokemon deal damage with a halved attacking stat."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Adamant",
+      "natureId": "/natures/adamant",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Attack" }
+    },
+    {
+      "natureName": "Jolly",
+      "natureId": "/natures/jolly",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Icicle Crash",
+        "moveId": "/moves/icicle-crash",
+        "moveType": {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 90,
+        "moveDetails": "30% chance to make the target flinch."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Earthquake",
+        "moveId": "/moves/earthquake",
+        "moveType": {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "moveDetails": "Hits adjacent Pokemon. Double damage on Dig."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Ice Shard",
+        "moveId": "/moves/ice-shard",
+        "moveType": {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "moveDetails": "Usually goes first."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      }
+    ]
+  }
+}

@@ -1,0 +1,1338 @@
+﻿[
+  {
+    "typeName": "Normal",
+    "typeId": "/types/normal",
+    "typePokemon": [
+      {
+        "pokemonName": "Chansey",
+        "pokemonId": "/pokemon/chansey",
+        "pokemonTypes": [
+          {
+            "typeName": "Normal",
+            "typeId": "/types/normal"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 250
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 5
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 5
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 35
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 50
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Natural Cure",
+            "abilityId": "/abilities/natural-cure",
+            "abilityDetails": "This Pokemon has its non-volatile status condition cured when it switches out."
+          },
+          {
+            "abilityName": "Serene Grace",
+            "abilityId": "/abilities/serene-grace",
+            "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+          },
+          {
+            "abilityName": "Healer",
+            "abilityId": "/abilities/healer",
+            "abilityDetails": "30% chance of curing an adjacent ally's status at the end of each turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Blissey",
+        "pokemonId": "/pokemon/blissey",
+        "pokemonTypes": [
+          {
+            "typeName": "Normal",
+            "typeId": "/types/normal"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 255
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 10
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 10
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 135
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 55
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Natural Cure",
+            "abilityId": "/abilities/natural-cure",
+            "abilityDetails": "This Pokemon has its non-volatile status condition cured when it switches out."
+          },
+          {
+            "abilityName": "Serene Grace",
+            "abilityId": "/abilities/serene-grace",
+            "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+          },
+          {
+            "abilityName": "Healer",
+            "abilityId": "/abilities/healer",
+            "abilityDetails": "30% chance of curing an adjacent ally's status at the end of each turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [],
+    "typeMoves": [
+      {
+        "moveName": "Bind",
+        "moveId": "/moves/bind",
+        "moveCategory": "Physical",
+        "movePower": 15,
+        "moveAccuracy": 85,
+        "movePP": 20,
+        "moveDetails": "Traps and damages the target for 4-5 turns."
+      },
+      {
+        "moveName": "Conversion",
+        "moveId": "/moves/conversion",
+        "moveCategory": "Non-Damaging",
+        "movePP": 30,
+        "moveDetails": "Changes user's type to match its first move."
+      },
+      {
+        "moveName": "Defense Curl",
+        "moveId": "/moves/defense-curl",
+        "moveCategory": "Non-Damaging",
+        "movePP": 40,
+        "moveDetails": "Raises the user's Defense by 1."
+      },
+      {
+        "moveName": "Disable",
+        "moveId": "/moves/disable",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "For 4 turns, disables the target's last move used."
+      },
+      {
+        "moveName": "Double-Edge",
+        "moveId": "/moves/double-edge",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Has 33% recoil."
+      },
+      {
+        "moveName": "Explosion",
+        "moveId": "/moves/explosion",
+        "moveCategory": "Physical",
+        "movePower": 250,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Hits adjacent Pokemon. The user faints."
+      },
+      {
+        "moveName": "Focus Energy",
+        "moveId": "/moves/focus-energy",
+        "moveCategory": "Non-Damaging",
+        "movePP": 30,
+        "moveDetails": "Raises the user's critical hit ratio by 2."
+      },
+      {
+        "moveName": "Fury Attack",
+        "moveId": "/moves/fury-attack",
+        "moveCategory": "Physical",
+        "movePower": 15,
+        "moveAccuracy": 85,
+        "movePP": 20,
+        "moveDetails": "Hits 2-5 times in one turn."
+      },
+      {
+        "moveName": "Fury Swipes",
+        "moveId": "/moves/fury-swipes",
+        "moveCategory": "Physical",
+        "movePower": 18,
+        "moveAccuracy": 80,
+        "movePP": 15,
+        "moveDetails": "Hits 2-5 times in one turn."
+      },
+      {
+        "moveName": "Glare",
+        "moveId": "/moves/glare",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Paralyzes the target."
+      },
+      {
+        "moveName": "Growth",
+        "moveId": "/moves/growth",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises user's Attack and Sp. Atk by 1; 2 in Sun."
+      },
+      {
+        "moveName": "Guillotine",
+        "moveId": "/moves/guillotine",
+        "moveCategory": "Physical",
+        "moveAccuracy": 30,
+        "movePP": 5,
+        "moveDetails": "OHKOs the target. Fails if user is a lower level."
+      },
+      {
+        "moveName": "Horn Drill",
+        "moveId": "/moves/horn-drill",
+        "moveCategory": "Physical",
+        "moveAccuracy": 30,
+        "movePP": 5,
+        "moveDetails": "OHKOs the target. Fails if user is a lower level."
+      },
+      {
+        "moveName": "Hyper Beam",
+        "moveId": "/moves/hyper-beam",
+        "moveCategory": "Special",
+        "movePower": 150,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "User cannot move next turn."
+      },
+      {
+        "moveName": "Metronome",
+        "moveId": "/moves/metronome",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Picks a random move."
+      },
+      {
+        "moveName": "Mimic",
+        "moveId": "/moves/mimic",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "The last move the target used replaces this one."
+      },
+      {
+        "moveName": "Minimize",
+        "moveId": "/moves/minimize",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Raises the user's evasiveness by 2."
+      },
+      {
+        "moveName": "Recover",
+        "moveId": "/moves/recover",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Heals the user by 50% of its max HP."
+      },
+      {
+        "moveName": "Roar",
+        "moveId": "/moves/roar",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Forces the target to switch to a random ally."
+      },
+      {
+        "moveName": "Self-Destruct",
+        "moveId": "/moves/self-destruct",
+        "moveCategory": "Physical",
+        "movePower": 200,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Hits adjacent Pokemon. The user faints."
+      },
+      {
+        "moveName": "Skull Bash",
+        "moveId": "/moves/skull-bash",
+        "moveCategory": "Physical",
+        "movePower": 130,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Raises user's Defense by 1 on turn 1. Hits turn 2."
+      },
+      {
+        "moveName": "Slash",
+        "moveId": "/moves/slash",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "High critical hit ratio."
+      },
+      {
+        "moveName": "Soft-Boiled",
+        "moveId": "/moves/soft-boiled",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Heals the user by 50% of its max HP."
+      },
+      {
+        "moveName": "Stomp",
+        "moveId": "/moves/stomp",
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "30% chance to make the target flinch."
+      },
+      {
+        "moveName": "Struggle",
+        "moveId": "/moves/struggle",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "movePP": 1,
+        "moveDetails": "User loses 1/4 of its max HP."
+      },
+      {
+        "moveName": "Substitute",
+        "moveId": "/moves/substitute",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "User takes 1/4 its max HP to put in a substitute."
+      },
+      {
+        "moveName": "Super Fang",
+        "moveId": "/moves/super-fang",
+        "moveCategory": "Physical",
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Does damage equal to 1/2 target's current HP."
+      },
+      {
+        "moveName": "Swift",
+        "moveId": "/moves/swift",
+        "moveCategory": "Special",
+        "movePower": 60,
+        "movePP": 20,
+        "moveDetails": "This move does not check accuracy. Hits foes."
+      },
+      {
+        "moveName": "Take Down",
+        "moveId": "/moves/take-down",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 85,
+        "movePP": 20,
+        "moveDetails": "Has 1/4 recoil."
+      },
+      {
+        "moveName": "Thrash",
+        "moveId": "/moves/thrash",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Lasts 2-3 turns. Confuses the user afterwards."
+      },
+      {
+        "moveName": "Transform",
+        "moveId": "/moves/transform",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Copies target's stats, moves, types, and Ability."
+      },
+      {
+        "moveName": "Tri Attack",
+        "moveId": "/moves/tri-attack",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "20% chance to paralyze or burn or freeze target."
+      },
+      {
+        "moveName": "Whirlwind",
+        "moveId": "/moves/whirlwind",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Forces the target to switch to a random ally."
+      },
+      {
+        "moveName": "Wrap",
+        "moveId": "/moves/wrap",
+        "moveCategory": "Physical",
+        "movePower": 15,
+        "moveAccuracy": 90,
+        "movePP": 20,
+        "moveDetails": "Traps and damages the target for 4-5 turns."
+      },
+      {
+        "moveName": "Tackle",
+        "moveId": "/moves/tackle",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 35,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Growl",
+        "moveId": "/moves/growl",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 40,
+        "moveDetails": "Lowers the foe(s) Attack by 1."
+      },
+      {
+        "moveName": "Screech",
+        "moveId": "/moves/screech",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 85,
+        "movePP": 40,
+        "moveDetails": "Lowers the target's Defense by 2."
+      },
+      {
+        "moveName": "Sing",
+        "moveId": "/moves/sing",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 55,
+        "movePP": 15,
+        "moveDetails": "Causes the target to fall asleep."
+      },
+      {
+        "moveName": "Supersonic",
+        "moveId": "/moves/supersonic",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 55,
+        "movePP": 20,
+        "moveDetails": "Causes the target to become confused."
+      },
+      {
+        "moveName": "Swords Dance",
+        "moveId": "/moves/swords-dance",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises the user's Attack by 2."
+      },
+      {
+        "moveName": "Body Slam",
+        "moveId": "/moves/body-slam",
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "30% chance to paralyze the target."
+      },
+      {
+        "moveName": "Cut",
+        "moveId": "/moves/cut",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "moveAccuracy": 95,
+        "movePP": 30,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Double Team",
+        "moveId": "/moves/double-team",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "Raises the user's evasiveness by 1."
+      },
+      {
+        "moveName": "Harden",
+        "moveId": "/moves/harden",
+        "moveCategory": "Non-Damaging",
+        "movePP": 30,
+        "moveDetails": "Raises the user's Defense by 1."
+      },
+      {
+        "moveName": "Headbutt",
+        "moveId": "/moves/headbutt",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "30% chance to make the target flinch."
+      },
+      {
+        "moveName": "Horn Attack",
+        "moveId": "/moves/horn-attack",
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 25,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Leer",
+        "moveId": "/moves/leer",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Lowers the foe(s) Defense by 1."
+      },
+      {
+        "moveName": "Lovely Kiss",
+        "moveId": "/moves/lovely-kiss",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 75,
+        "movePP": 10,
+        "moveDetails": "Causes the target to fall asleep."
+      },
+      {
+        "moveName": "Mega Kick",
+        "moveId": "/moves/mega-kick",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 75,
+        "movePP": 5,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Mega Punch",
+        "moveId": "/moves/mega-punch",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 85,
+        "movePP": 20,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Pay Day",
+        "moveId": "/moves/pay-day",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Scatters coins."
+      },
+      {
+        "moveName": "Pound",
+        "moveId": "/moves/pound",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 35,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Quick Attack",
+        "moveId": "/moves/quick-attack",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Usually goes first."
+      },
+      {
+        "moveName": "Scratch",
+        "moveId": "/moves/scratch",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 35,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Slam",
+        "moveId": "/moves/slam",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 75,
+        "movePP": 20,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Smokescreen",
+        "moveId": "/moves/smokescreen",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Lowers the target's accuracy by 1."
+      },
+      {
+        "moveName": "Splash",
+        "moveId": "/moves/splash",
+        "moveCategory": "Non-Damaging",
+        "movePP": 40,
+        "moveDetails": "No competitive use."
+      },
+      {
+        "moveName": "Strength",
+        "moveId": "/moves/strength",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Tail Whip",
+        "moveId": "/moves/tail-whip",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Lowers the foe(s) Defense by 1."
+      },
+      {
+        "moveName": "Vice Grip",
+        "moveId": "/moves/vice-grip",
+        "moveCategory": "Physical",
+        "movePower": 55,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Belly Drum",
+        "moveId": "/moves/belly-drum",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "User loses 50% max HP. Maximizes Attack."
+      },
+      {
+        "moveName": "Encore",
+        "moveId": "/moves/encore",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Target repeats its last move for its next 3 turns."
+      },
+      {
+        "moveName": "Endure",
+        "moveId": "/moves/endure",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "User survives attacks this turn with at least 1 HP."
+      },
+      {
+        "moveName": "Flail",
+        "moveId": "/moves/flail",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "More power the less HP the user has left."
+      },
+      {
+        "moveName": "Heal Bell",
+        "moveId": "/moves/heal-bell",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "Cures the user's party of all status conditions."
+      },
+      {
+        "moveName": "Lock-On",
+        "moveId": "/moves/lock-on",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "User's next move will not miss the target."
+      },
+      {
+        "moveName": "Mean Look",
+        "moveId": "/moves/mean-look",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "Prevents the target from switching out."
+      },
+      {
+        "moveName": "Mind Reader",
+        "moveId": "/moves/mind-reader",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "User's next move will not miss the target."
+      },
+      {
+        "moveName": "Morning Sun",
+        "moveId": "/moves/morning-sun",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "Heals the user by a weather-dependent amount."
+      },
+      {
+        "moveName": "Pain Split",
+        "moveId": "/moves/pain-split",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Shares HP of user and target equally."
+      },
+      {
+        "moveName": "Protect",
+        "moveId": "/moves/protect",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Prevents moves from affecting the user this turn."
+      },
+      {
+        "moveName": "Sleep Talk",
+        "moveId": "/moves/sleep-talk",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "User must be asleep. Uses another known move."
+      },
+      {
+        "moveName": "Swagger",
+        "moveId": "/moves/swagger",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 85,
+        "movePP": 15,
+        "moveDetails": "Raises the target's Attack by 2 and confuses it."
+      },
+      {
+        "moveName": "Extreme Speed",
+        "moveId": "/moves/extreme-speed",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Nearly always goes first."
+      },
+      {
+        "moveName": "Psych Up",
+        "moveId": "/moves/psych-up",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Copies the target's current stat stages."
+      },
+      {
+        "moveName": "Rapid Spin",
+        "moveId": "/moves/rapid-spin",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "movePP": 40,
+        "moveDetails": "Free user from hazards/bind/Leech Seed; +1 Spe."
+      },
+      {
+        "moveName": "Scary Face",
+        "moveId": "/moves/scary-face",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Lowers the target's Speed by 2."
+      },
+      {
+        "moveName": "Perish Song",
+        "moveId": "/moves/perish-song",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "All active Pokemon will faint in 3 turns."
+      },
+      {
+        "moveName": "Snore",
+        "moveId": "/moves/snore",
+        "moveCategory": "Special",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "User must be asleep. 30% chance to flinch target."
+      },
+      {
+        "moveName": "Sweet Scent",
+        "moveId": "/moves/sweet-scent",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Lowers the foe(s) evasiveness by 2."
+      },
+      {
+        "moveName": "Attract",
+        "moveId": "/moves/attract",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "A target of the opposite gender gets infatuated."
+      },
+      {
+        "moveName": "Baton Pass",
+        "moveId": "/moves/baton-pass",
+        "moveCategory": "Non-Damaging",
+        "movePP": 40,
+        "moveDetails": "User switches, passing stat changes and more."
+      },
+      {
+        "moveName": "Conversion 2",
+        "moveId": "/moves/conversion-2",
+        "moveCategory": "Non-Damaging",
+        "movePP": 30,
+        "moveDetails": "Changes user's type to resist target's last move."
+      },
+      {
+        "moveName": "False Swipe",
+        "moveId": "/moves/false-swipe",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 40,
+        "moveDetails": "Always leaves the target with at least 1 HP."
+      },
+      {
+        "moveName": "Milk Drink",
+        "moveId": "/moves/milk-drink",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Heals the user by 50% of its max HP."
+      },
+      {
+        "moveName": "Present",
+        "moveId": "/moves/present",
+        "moveCategory": "Physical",
+        "moveAccuracy": 90,
+        "movePP": 15,
+        "moveDetails": "40, 80, 120 power, or heals target 1/4 max HP."
+      },
+      {
+        "moveName": "Safeguard",
+        "moveId": "/moves/safeguard",
+        "moveCategory": "Non-Damaging",
+        "movePP": 25,
+        "moveDetails": "For 5 turns, protects user's party from status."
+      },
+      {
+        "moveName": "Block",
+        "moveId": "/moves/block",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "Prevents the target from switching out."
+      },
+      {
+        "moveName": "Covet",
+        "moveId": "/moves/covet",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 25,
+        "moveDetails": "If the user has no item, it steals the target's."
+      },
+      {
+        "moveName": "Fake Out",
+        "moveId": "/moves/fake-out",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Hits first. First turn out only. 100% flinch chance."
+      },
+      {
+        "moveName": "Nature Power",
+        "moveId": "/moves/nature-power",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Attack depends on terrain (default Tri Attack)."
+      },
+      {
+        "moveName": "Stockpile",
+        "moveId": "/moves/stockpile",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises user's Defense, Sp. Def by 1. Max 3 uses."
+      },
+      {
+        "moveName": "Teeter Dance",
+        "moveId": "/moves/teeter-dance",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Confuses adjacent Pokemon."
+      },
+      {
+        "moveName": "Tickle",
+        "moveId": "/moves/tickle",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Lowers the target's Attack and Defense by 1."
+      },
+      {
+        "moveName": "Weather Ball",
+        "moveId": "/moves/weather-ball",
+        "moveCategory": "Special",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Power doubles and type varies in each weather."
+      },
+      {
+        "moveName": "Yawn",
+        "moveId": "/moves/yawn",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Puts the target to sleep after 1 turn."
+      },
+      {
+        "moveName": "Endeavor",
+        "moveId": "/moves/endeavor",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Lowers the target's HP to the user's HP."
+      },
+      {
+        "moveName": "Recycle",
+        "moveId": "/moves/recycle",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Restores the item the user last used."
+      },
+      {
+        "moveName": "Uproar",
+        "moveId": "/moves/uproar",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Lasts 3 turns. Active Pokemon cannot fall asleep."
+      },
+      {
+        "moveName": "Wish",
+        "moveId": "/moves/wish",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Next turn, 50% of the user's max HP is restored."
+      },
+      {
+        "moveName": "Follow Me",
+        "moveId": "/moves/follow-me",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "The foes' moves target the user on the turn used."
+      },
+      {
+        "moveName": "Hyper Voice",
+        "moveId": "/moves/hyper-voice",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "No additional effect. Hits adjacent foes."
+      },
+      {
+        "moveName": "Howl",
+        "moveId": "/moves/howl",
+        "moveCategory": "Non-Damaging",
+        "movePP": 40,
+        "moveDetails": "Raises the user's and ally's Attack by 1."
+      },
+      {
+        "moveName": "Crush Claw",
+        "moveId": "/moves/crush-claw",
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 95,
+        "movePP": 10,
+        "moveDetails": "50% chance to lower the target's Defense by 1."
+      },
+      {
+        "moveName": "Facade",
+        "moveId": "/moves/facade",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Power doubles if user is burn/poison/paralyzed."
+      },
+      {
+        "moveName": "Helping Hand",
+        "moveId": "/moves/helping-hand",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "One adjacent ally's move power is 1.5x this turn."
+      },
+      {
+        "moveName": "Slack Off",
+        "moveId": "/moves/slack-off",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Heals the user by 50% of its max HP."
+      },
+      {
+        "moveName": "Spit Up",
+        "moveId": "/moves/spit-up",
+        "moveCategory": "Special",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "More power with more uses of Stockpile."
+      },
+      {
+        "moveName": "Swallow",
+        "moveId": "/moves/swallow",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Heals the user based on uses of Stockpile."
+      },
+      {
+        "moveName": "Acupressure",
+        "moveId": "/moves/acupressure",
+        "moveCategory": "Non-Damaging",
+        "movePP": 30,
+        "moveDetails": "Raises a random stat of the user or an ally by 2."
+      },
+      {
+        "moveName": "Copycat",
+        "moveId": "/moves/copycat",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Uses the last move used in the battle."
+      },
+      {
+        "moveName": "Crush Grip",
+        "moveId": "/moves/crush-grip",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "More power the more HP the target has left."
+      },
+      {
+        "moveName": "Feint",
+        "moveId": "/moves/feint",
+        "moveCategory": "Physical",
+        "movePower": 30,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Nullifies Detect, Protect, and Quick/Wide Guard."
+      },
+      {
+        "moveName": "Last Resort",
+        "moveId": "/moves/last-resort",
+        "moveCategory": "Physical",
+        "movePower": 140,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Fails unless each known move has been used."
+      },
+      {
+        "moveName": "Double Hit",
+        "moveId": "/moves/double-hit",
+        "moveCategory": "Physical",
+        "movePower": 35,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Hits 2 times in one turn."
+      },
+      {
+        "moveName": "Giga Impact",
+        "moveId": "/moves/giga-impact",
+        "moveCategory": "Physical",
+        "movePower": 150,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "User cannot move next turn."
+      },
+      {
+        "moveName": "Echoed Voice",
+        "moveId": "/moves/echoed-voice",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Power increases when used on consecutive turns."
+      },
+      {
+        "moveName": "Round",
+        "moveId": "/moves/round",
+        "moveCategory": "Special",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Power doubles if others used Round this turn."
+      },
+      {
+        "moveName": "Techno Blast",
+        "moveId": "/moves/techno-blast",
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Type varies based on the held Drive."
+      },
+      {
+        "moveName": "After You",
+        "moveId": "/moves/after-you",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "The target makes its move right after the user."
+      },
+      {
+        "moveName": "Entrainment",
+        "moveId": "/moves/entrainment",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "The target's Ability changes to match the user's."
+      },
+      {
+        "moveName": "Head Charge",
+        "moveId": "/moves/head-charge",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Has 1/4 recoil."
+      },
+      {
+        "moveName": "Reflect Type",
+        "moveId": "/moves/reflect-type",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "User becomes the same type as the target."
+      },
+      {
+        "moveName": "Retaliate",
+        "moveId": "/moves/retaliate",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Power doubles if an ally fainted last turn."
+      },
+      {
+        "moveName": "Shell Smash",
+        "moveId": "/moves/shell-smash",
+        "moveCategory": "Non-Damaging",
+        "movePP": 15,
+        "moveDetails": "Lowers Def, SpD by 1; raises Atk, SpA, Spe by 2."
+      },
+      {
+        "moveName": "Simple Beam",
+        "moveId": "/moves/simple-beam",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "The target's Ability becomes Simple."
+      },
+      {
+        "moveName": "Tail Slap",
+        "moveId": "/moves/tail-slap",
+        "moveCategory": "Physical",
+        "movePower": 25,
+        "moveAccuracy": 85,
+        "movePP": 10,
+        "moveDetails": "Hits 2-5 times in one turn."
+      },
+      {
+        "moveName": "Work Up",
+        "moveId": "/moves/work-up",
+        "moveCategory": "Non-Damaging",
+        "movePP": 30,
+        "moveDetails": "Raises the user's Attack and Sp. Atk by 1."
+      },
+      {
+        "moveName": "Boomburst",
+        "moveId": "/moves/boomburst",
+        "moveCategory": "Special",
+        "movePower": 140,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "No additional effect. Hits adjacent Pokemon."
+      },
+      {
+        "moveName": "Celebrate",
+        "moveId": "/moves/celebrate",
+        "moveCategory": "Non-Damaging",
+        "movePP": 40,
+        "moveDetails": "No competitive use."
+      },
+      {
+        "moveName": "Confide",
+        "moveId": "/moves/confide",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Lowers the target's Sp. Atk by 1."
+      },
+      {
+        "moveName": "Happy Hour",
+        "moveId": "/moves/happy-hour",
+        "moveCategory": "Non-Damaging",
+        "movePP": 30,
+        "moveDetails": "No competitive use."
+      },
+      {
+        "moveName": "Hold Back",
+        "moveId": "/moves/hold-back",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 40,
+        "moveDetails": "Always leaves the target with at least 1 HP."
+      },
+      {
+        "moveName": "Hold Hands",
+        "moveId": "/moves/hold-hands",
+        "moveCategory": "Non-Damaging",
+        "movePP": 40,
+        "moveDetails": "No competitive use."
+      },
+      {
+        "moveName": "Noble Roar",
+        "moveId": "/moves/noble-roar",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Lowers the target's Attack and Sp. Atk by 1."
+      },
+      {
+        "moveName": "Play Nice",
+        "moveId": "/moves/play-nice",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Lowers the target's Attack by 1."
+      },
+      {
+        "moveName": "Multi-Attack",
+        "moveId": "/moves/multi-attack",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Type varies based on the held Memory."
+      },
+      {
+        "moveName": "Laser Focus",
+        "moveId": "/moves/laser-focus",
+        "moveCategory": "Non-Damaging",
+        "movePP": 30,
+        "moveDetails": "Until the end of the next turn, user's moves crit."
+      },
+      {
+        "moveName": "Tearful Look",
+        "moveId": "/moves/tearful-look",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Lowers the target's Attack and Sp. Atk by 1."
+      },
+      {
+        "moveName": "Court Change",
+        "moveId": "/moves/court-change",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Swaps user's field effects with the opposing side."
+      },
+      {
+        "moveName": "G-Max Cuddle",
+        "moveId": "/moves/g-max-cuddle",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Foes: infatuated."
+      },
+      {
+        "moveName": "G-Max Gold Rush",
+        "moveId": "/moves/g-max-gold-rush",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Foes: confused."
+      },
+      {
+        "moveName": "G-Max Replenish",
+        "moveId": "/moves/g-max-replenish",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. 50% restores Berries."
+      },
+      {
+        "moveName": "Max Guard",
+        "moveId": "/moves/max-guard",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Protects user from moves &amp; Max Moves this turn."
+      },
+      {
+        "moveName": "Max Strike",
+        "moveId": "/moves/max-strike",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Foes: -1 Speed."
+      },
+      {
+        "moveName": "Stuff Cheeks",
+        "moveId": "/moves/stuff-cheeks",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Must hold Berry to use. User eats Berry, Def +2."
+      },
+      {
+        "moveName": "Teatime",
+        "moveId": "/moves/teatime",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "All active Pokemon consume held Berries."
+      },
+      {
+        "moveName": "Terrain Pulse",
+        "moveId": "/moves/terrain-pulse",
+        "moveCategory": "Special",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "User on terrain: power doubles, type varies."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [
+        {
+          "typeName": "Ghost",
+          "typeId": "/types/ghost"
+        }
+      ],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [],
+      "typeRelationsNoDamageFrom": [
+        {
+          "typeName": "Ghost",
+          "typeId": "/types/ghost"
+        }
+      ],
+      "typeRelationsHalfDamageFrom": [],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        }
+      ]
+    }
+  }
+]

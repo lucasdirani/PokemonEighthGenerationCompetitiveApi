@@ -1,0 +1,662 @@
+﻿[
+  {
+    "typeName": "Fire",
+    "typeId": "/types/fire",
+    "typePokemon": [
+      {
+        "pokemonName": "Heatran",
+        "pokemonId": "/pokemon/heatran",
+        "pokemonTypes": [
+          {
+            "typeName": "Fire",
+            "typeId": "/types/fire"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 91
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 106
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 106
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 77
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Flame Body",
+            "abilityId": "/abilities/flame-body",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be burned."
+          },
+          {
+            "abilityName": "Flash Fire",
+            "abilityId": "/abilities/flash-fire",
+            "abilityDetails": "This Pokemon's Fire attacks do 1.5x damage if hit by one Fire move; Fire immunity."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Moltres",
+        "pokemonId": "/pokemon/moltres",
+        "pokemonTypes": [
+          {
+            "typeName": "Fire",
+            "typeId": "/types/fire"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 90
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Flame Body",
+            "abilityId": "/abilities/flame-body",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be burned."
+          },
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Volcarona",
+        "pokemonId": "/pokemon/volcarona",
+        "pokemonTypes": [
+          {
+            "typeName": "Bug",
+            "typeId": "/types/bug"
+          },
+          {
+            "typeName": "Fire",
+            "typeId": "/types/fire"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 135
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Flame Body",
+            "abilityId": "/abilities/flame-body",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be burned."
+          },
+          {
+            "abilityName": "Swarm",
+            "abilityId": "/abilities/swarm",
+            "abilityDetails": "At 1/3 or less of its max HP, this Pokemon's attacking stat is 1.5x with Bug attacks."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Rotom-Heat",
+        "pokemonFormId": "/pokemon-forms/rotom-heat",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Electric",
+            "typeId": "/types/electric"
+          },
+          {
+            "typeName": "Fire",
+            "typeId": "/types/fire"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 107
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 86
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Levitate",
+            "abilityId": "/abilities/levitate",
+            "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Fire Blast",
+        "moveId": "/moves/fire-blast",
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 85,
+        "movePP": 5,
+        "moveDetails": "10% chance to burn the target."
+      },
+      {
+        "moveName": "Fire Spin",
+        "moveId": "/moves/fire-spin",
+        "moveCategory": "Special",
+        "movePower": 35,
+        "moveAccuracy": 85,
+        "movePP": 15,
+        "moveDetails": "Traps and damages the target for 4-5 turns."
+      },
+      {
+        "moveName": "Flamethrower",
+        "moveId": "/moves/flamethrower",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "10% chance to burn the target."
+      },
+      {
+        "moveName": "Ember",
+        "moveId": "/moves/ember",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 25,
+        "moveDetails": "10% chance to burn the target."
+      },
+      {
+        "moveName": "Fire Punch",
+        "moveId": "/moves/fire-punch",
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "10% chance to burn the target."
+      },
+      {
+        "moveName": "Flame Wheel",
+        "moveId": "/moves/flame-wheel",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 25,
+        "moveDetails": "10% chance to burn the target. Thaws user."
+      },
+      {
+        "moveName": "Sacred Fire",
+        "moveId": "/moves/sacred-fire",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 95,
+        "movePP": 5,
+        "moveDetails": "50% chance to burn the target. Thaws user."
+      },
+      {
+        "moveName": "Sunny Day",
+        "moveId": "/moves/sunny-day",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "For 5 turns, intense sunlight powers Fire moves."
+      },
+      {
+        "moveName": "Overheat",
+        "moveId": "/moves/overheat",
+        "moveCategory": "Special",
+        "movePower": 130,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "Lowers the user's Sp. Atk by 2."
+      },
+      {
+        "moveName": "Heat Wave",
+        "moveId": "/moves/heat-wave",
+        "moveCategory": "Special",
+        "movePower": 95,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "10% chance to burn the foe(s)."
+      },
+      {
+        "moveName": "Will-O-Wisp",
+        "moveId": "/moves/will-o-wisp",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 85,
+        "movePP": 15,
+        "moveDetails": "Burns the target."
+      },
+      {
+        "moveName": "Blast Burn",
+        "moveId": "/moves/blast-burn",
+        "moveCategory": "Special",
+        "movePower": 150,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "User cannot move next turn."
+      },
+      {
+        "moveName": "Blaze Kick",
+        "moveId": "/moves/blaze-kick",
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "High critical hit ratio. 10% chance to burn."
+      },
+      {
+        "moveName": "Eruption",
+        "moveId": "/moves/eruption",
+        "moveCategory": "Special",
+        "movePower": 150,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Less power as user's HP decreases. Hits foe(s)."
+      },
+      {
+        "moveName": "Flare Blitz",
+        "moveId": "/moves/flare-blitz",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Has 33% recoil. 10% chance to burn. Thaws user."
+      },
+      {
+        "moveName": "Magma Storm",
+        "moveId": "/moves/magma-storm",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 75,
+        "movePP": 5,
+        "moveDetails": "Traps and damages the target for 4-5 turns."
+      },
+      {
+        "moveName": "Fire Fang",
+        "moveId": "/moves/fire-fang",
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 95,
+        "movePP": 15,
+        "moveDetails": "10% chance to burn. 10% chance to flinch."
+      },
+      {
+        "moveName": "Lava Plume",
+        "moveId": "/moves/lava-plume",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "30% chance to burn adjacent Pokemon."
+      },
+      {
+        "moveName": "Fire Pledge",
+        "moveId": "/moves/fire-pledge",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Use with Grass or Water Pledge for added effect."
+      },
+      {
+        "moveName": "Incinerate",
+        "moveId": "/moves/incinerate",
+        "moveCategory": "Special",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Destroys the foe(s) Berry/Gem."
+      },
+      {
+        "moveName": "Heat Crash",
+        "moveId": "/moves/heat-crash",
+        "moveCategory": "Physical",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "More power the heavier the user than the target."
+      },
+      {
+        "moveName": "Blue Flare",
+        "moveId": "/moves/blue-flare",
+        "moveCategory": "Special",
+        "movePower": 130,
+        "moveAccuracy": 85,
+        "movePP": 5,
+        "moveDetails": "20% chance to burn the target."
+      },
+      {
+        "moveName": "Fiery Dance",
+        "moveId": "/moves/fiery-dance",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "50% chance to raise the user's Sp. Atk by 1."
+      },
+      {
+        "moveName": "Flame Charge",
+        "moveId": "/moves/flame-charge",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "100% chance to raise the user's Speed by 1."
+      },
+      {
+        "moveName": "Fusion Flare",
+        "moveId": "/moves/fusion-flare",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Power doubles if used after Fusion Bolt this turn."
+      },
+      {
+        "moveName": "Inferno",
+        "moveId": "/moves/inferno",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 50,
+        "movePP": 5,
+        "moveDetails": "100% chance to burn the target."
+      },
+      {
+        "moveName": "Searing Shot",
+        "moveId": "/moves/searing-shot",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "30% chance to burn adjacent Pokemon."
+      },
+      {
+        "moveName": "V-create",
+        "moveId": "/moves/v-create",
+        "moveCategory": "Physical",
+        "movePower": 180,
+        "moveAccuracy": 95,
+        "movePP": 5,
+        "moveDetails": "Lowers the user's Defense, Sp. Def, Speed by 1."
+      },
+      {
+        "moveName": "Mystical Fire",
+        "moveId": "/moves/mystical-fire",
+        "moveCategory": "Special",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "100% chance to lower the target's Sp. Atk by 1."
+      },
+      {
+        "moveName": "Burn Up",
+        "moveId": "/moves/burn-up",
+        "moveCategory": "Special",
+        "movePower": 130,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "User's Fire type becomes typeless; must be Fire."
+      },
+      {
+        "moveName": "Fire Lash",
+        "moveId": "/moves/fire-lash",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "100% chance to lower the target's Defense by 1."
+      },
+      {
+        "moveName": "Mind Blown",
+        "moveId": "/moves/mind-blown",
+        "moveCategory": "Special",
+        "movePower": 150,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "User loses 50% max HP. Hits adjacent Pokemon."
+      },
+      {
+        "moveName": "Shell Trap",
+        "moveId": "/moves/shell-trap",
+        "moveCategory": "Special",
+        "movePower": 150,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "User must take physical damage before moving."
+      },
+      {
+        "moveName": "Burning Jealousy",
+        "moveId": "/moves/burning-jealousy",
+        "moveCategory": "Special",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "100% burns a target that had a stat rise this turn."
+      },
+      {
+        "moveName": "G-Max Centiferno",
+        "moveId": "/moves/g-max-centiferno",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Foes: bound 4-5 turns."
+      },
+      {
+        "moveName": "G-Max Fire Ball",
+        "moveId": "/moves/g-max-fire-ball",
+        "moveCategory": "Physical",
+        "movePower": 160,
+        "movePP": 5,
+        "moveDetails": "Always 160 power. Ignores Abilities."
+      },
+      {
+        "moveName": "G-Max Wildfire",
+        "moveId": "/moves/g-max-wildfire",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Foes: -1/6 HP, 4 turns."
+      },
+      {
+        "moveName": "Max Flare",
+        "moveId": "/moves/max-flare",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Starts Sunny Day."
+      },
+      {
+        "moveName": "Pyro Ball",
+        "moveId": "/moves/pyro-ball",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "10% chance to burn the target. Thaws user."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Dragon",
+          "typeId": "/types/dragon"
+        },
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        }
+      ]
+    }
+  }
+]

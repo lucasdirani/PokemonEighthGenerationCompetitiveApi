@@ -1,0 +1,398 @@
+﻿{
+  "strategyName": "Autotomize",
+  "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+  "strategyDetails": "Autotomize allows Celesteela to outspeed the entire unboosted metagame and more easily snowball. It can find setup opportunities against a solid amount of common Pokemon that its defensive set forces out, including Zarude, Hatterene, and Nihilego. Fire Blast provides important coverage against Steel-types like Aegislash and Jirachi. Flamethrower is an option over Fire Blast for its greater accuracy. However, Celesteela wants all the power it can get due to this set's nature as a sweeper. Meteor Beam grants Celesteela an opportunity to bypass Fire-types like Rotom-H, Moltres, and Chandelure. It also deals massive damage to foes like Rotom-W, Thundurus-T, and Salamence, and the Special Attack boost it supplies is often extremely useful in boosting Celesteela's sweeping capabilities. Due to taking two turns, however, it must be used with Power Herb, and Celesteela must watch out for the opponent predicting the attack and bringing in a foe that resists it due to often being restricted to a one-time use. Flash Cannon is also an option in the fourth slot, offering more overall consistency and giving Celesteela a strong secondary STAB attack that deals decent neutral damage and hits Pokemon like Hatterene, Nihilego, and Rhyperior super effectively. Giga Drain is an option to bypass Quagsire, Swampert, and Rotom-W, which can otherwise tank various hits, though it generally doesn't provide too valuable of coverage otherwise. Beast Boost lets Celesteela boost its Special Attack upon netting KOs, giving it great sweeping potential. If Meteor Beam is not being run, Celesteela has no need for Power Herb and can then run Weakness Policy. This allows it to use its solid bulk to tank super effective hits, such as Fire-type moves from Salamence or opposing Celesteela, to gain a +2 boost in power, which heavily increases its threat level. This set fits on offensive builds, acting as a late-game sweeper that cleans weakened teams. On hyper offense teams, leads like Excadrill and Scolipede can provide entry hazards to wear down checks like Rotom-W and Slowking. Powerful wallbreakers like Azumarill and Aegislash make strong teammates capable of removing foes such as Slowking and Chansey for Celesteela to sweep through late-game. Depending on the coverage it opts for, Celesteela will struggle to reliably break past various Pokemon. If it isn't running Meteor Beam, checks to Fire-types like the aformentioned Azumarill and Gyarados are great teammates, easily being able to pressure Rotom-H and Moltres. Without Flash Cannon, Celesteela can't hit Rock-types like Rhyperior and Nihilego super effectively, making Pokemon like Zygarde-10% and Mamoswine solid partners. Lastly, secondary sweepers like Thundurus-T and Nihilego often fit well with offensive Celesteela, helping pressure and overwhelm the likes of Chansey and Slowking.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Celesteela",
+    "pokemonId": "/pokemon/celesteela",
+    "pokemonTypes": [
+      {
+        "typeName": "Steel",
+        "typeId": "/types/steel"
+      },
+      {
+        "typeName": "Flying",
+        "typeId": "/types/flying"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 97
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 101
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 103
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 107
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 101
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 61
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Beast Boost",
+        "abilityId": "/abilities/beast-boost",
+        "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:24.7265999Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Power Herb",
+      "itemId": "/items/power-herb",
+      "itemDetails": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use."
+    },
+    {
+      "itemName": "Weakness Policy",
+      "itemId": "/items/weakness-policy",
+      "itemDetails": "If holder is hit super effectively, raises Attack, Sp. Atk by 2 stages. Single use."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Beast Boost",
+      "abilityId": "/abilities/beast-boost",
+      "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Modest",
+      "natureId": "/natures/modest",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Special Attack" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance'"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance-sweeper?pokemon=gyarados&tier=uu",
+      "strategyName": "Dragon Dance Sweeper"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=mamoswine&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/defensive-spinner?pokemon=tentacruel&tier=uu",
+      "strategyName": "Defensive Spinner"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowking&tier=uu",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=slowking&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=azelf&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+      "strategyName": "Nasty Plot"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=mamoswine&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/guts-wallbreaker?pokemon=conkeldurr&tier=uu",
+      "strategyName": "Guts Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance'"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Autotomize",
+        "moveId": "/moves/autotomize",
+        "moveType": {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Speed by 2; user loses 100 kg."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Air Slash",
+        "moveId": "/moves/air-slash",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Special",
+        "movePower": 75,
+        "moveAccuracy": 95,
+        "moveDetails": "30% chance to make the target flinch."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Fire Blast",
+        "moveId": "/moves/fire-blast",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 85,
+        "moveDetails": "10% chance to burn the target."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Meteor Beam",
+        "moveId": "/moves/meteor-beam",
+        "moveType": {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 90,
+        "moveDetails": "Raises user's Sp. Atk by 1 on turn 1. Hits turn 2."
+      },
+      {
+        "moveName": "Flash Cannon",
+        "moveId": "/moves/flash-cannon",
+        "moveType": {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      }
+    ]
+  }
+}

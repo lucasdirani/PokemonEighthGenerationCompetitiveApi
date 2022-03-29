@@ -1,0 +1,347 @@
+﻿{
+  "strategyName": "Calm Mind",
+  "strategyId": "/strategies/calm-mind?pokemon=hatterene&tier=uu",
+  "strategyDetails": "Hatterene has plenty of opportunities to gain a Calm Mind boost against various Pokemon such as Mandibuzz and Hydreigon, though it does have to be wary of Flash Cannon from the latter. Calm Mind notably helps Hatterene stomach hits from strong attackers such as Choice Specs Keldeo better and retaliate with Draining Kiss. Draining Kiss is mandatory as a powerful recovery tool and is instrumental against Chansey; after three boosts, Draining Kiss + Leftovers will outheal Seismic Toss's damage. Psyshock is useful against opposing Calm Mind users, most notably Primarina, as well as a more immediate weapon against Chansey. Psychic is an alternative option because it OHKOes Amoonguss after one Calm Mind boost instead of two. It also helps Hatterene pressure Quagsire better with Special Defense drops. Mystical Fire is vital to deter Steel-types looking to come in on a Calm Mind or STAB move like Celesteela, Jirachi, and Aegislash. Leftovers augments the recovery from Draining Kiss and makes Hatterene harder for Pokemon such as Suicune to wear down. Hatterene needs 12 EVs in Speed to outrun Amoonguss and 56 EVs to outspeed Quagsire and help against stall, though Psychic is required for the latter Pokemon. Hatterene fits well on balance and bulky offense teams that appreciate its Magic Bounce relieving entry hazard pressure from Skarmory. Pokemon that handle hazard setters Hatterene cannot switch into well like Nidoqueen, Jirachi, and Nihilego are appreciated. Chansey and Celesteela are able to check them. Celesteela can also pivot into Excadrill. Hazard support from teammates such as Krookodile and Chansey wears down Hatterene checks such as Aegislash and Celesteela. Fire-types can blow through Steel-types that Hatterene has issues with; Rotom-H and Moltres are notably able to check Aegislash and take advantage of Celesteela. Amoonguss and Skarmory can act as secondary pivots into Mienshao and Conkeldurr as repeatedly taking hits from them and losing its Leftovers greatly diminishes its ability to clean with Calm Mind.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Hatterene",
+    "pokemonId": "/pokemon/hatterene",
+    "pokemonTypes": [
+      {
+        "typeName": "Psychic",
+        "typeId": "/types/psychic"
+      },
+      {
+        "typeName": "Fairy",
+        "typeId": "/types/fairy"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 57
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 136
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 103
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 29
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Anticipation",
+        "abilityId": "/abilities/anticipation",
+        "abilityDetails": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move."
+      },
+      {
+        "abilityName": "Healer",
+        "abilityId": "/abilities/healer",
+        "abilityDetails": "30% chance of curing an adjacent ally's status at the end of each turn."
+      },
+      {
+        "abilityName": "Magic Bounce",
+        "abilityId": "/abilities/magic-bounce",
+        "abilityDetails": "This Pokemon blocks certain status moves and bounces them back to the user."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:26.9880331Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Magic Bounce",
+      "abilityId": "/abilities/magic-bounce",
+      "abilityDetails": "This Pokemon blocks certain status moves and bounces them back to the user."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Bold",
+      "natureId": "/natures/bold",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 244
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 12
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/offensive-entry-hazard-setter?pokemon=nidoqueen&tier=uu",
+      "strategyName": "Offensive Entry Hazard Setter"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=mamoswine&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=crawdaunt&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice Scarf"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Calm Mind",
+        "moveId": "/moves/calm-mind",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Sp. Atk and Sp. Def by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Draining Kiss",
+        "moveId": "/moves/draining-kiss",
+        "moveType": {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        "moveCategory": "Special",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "moveDetails": "User recovers 75% of the damage dealt."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Psyshock",
+        "moveId": "/moves/psyshock",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "Damages target based on Defense, not Sp. Def."
+      },
+      {
+        "moveName": "Psychic",
+        "moveId": "/moves/psychic",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Mystical Fire",
+        "moveId": "/moves/mystical-fire",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Special",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "100% chance to lower the target's Sp. Atk by 1."
+      }
+    ]
+  }
+}

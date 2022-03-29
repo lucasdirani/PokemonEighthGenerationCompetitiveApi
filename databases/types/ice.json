@@ -1,0 +1,464 @@
+﻿[
+  {
+    "typeName": "Ice",
+    "typeId": "/types/ice",
+    "typePokemon": [
+      {
+        "pokemonName": "Mamoswine",
+        "pokemonId": "/pokemon/mamoswine",
+        "pokemonTypes": [
+          {
+            "typeName": "Ice",
+            "typeId": "/types/ice"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 80
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Thick Fat",
+            "abilityId": "/abilities/thick-fat",
+            "abilityDetails": "Fire/Ice-type moves against this Pokemon deal damage with a halved attacking stat."
+          },
+          {
+            "abilityName": "Oblivious",
+            "abilityId": "/abilities/oblivious",
+            "abilityDetails": "This Pokemon cannot be infatuated or taunted. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Snow Cloak",
+            "abilityId": "/abilities/snow-cloak",
+            "abilityDetails": "If Hail is active, this Pokemon's evasiveness is 1.25x; immunity to Hail."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Kyurem",
+        "pokemonId": "/pokemon/kyurem",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Ice",
+            "typeId": "/types/ice"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 125
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 95
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Ninetales-Alola",
+        "pokemonFormId": "/pokemon-forms/ninetales-alola",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Ice",
+            "typeId": "/types/ice"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 73
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 67
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 81
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 109
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Snow Cloak",
+            "abilityId": "/abilities/snow-cloak",
+            "abilityDetails": "If Hail is active, this Pokemon's evasiveness is 1.25x; immunity to Hail."
+          },
+          {
+            "abilityName": "Snow Warning",
+            "abilityId": "/abilities/snow-warning",
+            "abilityDetails": "On switch-in, this Pokemon summons Hail."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Aurora Beam",
+        "moveId": "/moves/aurora-beam",
+        "moveCategory": "Special",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "10% chance to lower the target's Attack by 1."
+      },
+      {
+        "moveName": "Blizzard",
+        "moveId": "/moves/blizzard",
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 70,
+        "movePP": 5,
+        "moveDetails": "10% chance to freeze foe(s). Can't miss in hail."
+      },
+      {
+        "moveName": "Haze",
+        "moveId": "/moves/haze",
+        "moveCategory": "Non-Damaging",
+        "movePP": 30,
+        "moveDetails": "Eliminates all stat changes."
+      },
+      {
+        "moveName": "Mist",
+        "moveId": "/moves/mist",
+        "moveCategory": "Non-Damaging",
+        "movePP": 30,
+        "moveDetails": "For 5 turns, protects user's party from stat drops."
+      },
+      {
+        "moveName": "Ice Beam",
+        "moveId": "/moves/ice-beam",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "10% chance to freeze the target."
+      },
+      {
+        "moveName": "Ice Punch",
+        "moveId": "/moves/ice-punch",
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "10% chance to freeze the target."
+      },
+      {
+        "moveName": "Icy Wind",
+        "moveId": "/moves/icy-wind",
+        "moveCategory": "Special",
+        "movePower": 55,
+        "moveAccuracy": 95,
+        "movePP": 15,
+        "moveDetails": "100% chance to lower the foe(s) Speed by 1."
+      },
+      {
+        "moveName": "Powder Snow",
+        "moveId": "/moves/powder-snow",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 25,
+        "moveDetails": "10% chance to freeze the foe(s)."
+      },
+      {
+        "moveName": "Icicle Spear",
+        "moveId": "/moves/icicle-spear",
+        "moveCategory": "Physical",
+        "movePower": 25,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Hits 2-5 times in one turn."
+      },
+      {
+        "moveName": "Sheer Cold",
+        "moveId": "/moves/sheer-cold",
+        "moveCategory": "Special",
+        "moveAccuracy": 30,
+        "movePP": 5,
+        "moveDetails": "OHKOs non-Ice targets. Fails if user's lower level."
+      },
+      {
+        "moveName": "Hail",
+        "moveId": "/moves/hail",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "For 5 turns, hail crashes down."
+      },
+      {
+        "moveName": "Avalanche",
+        "moveId": "/moves/avalanche",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Power doubles if user is damaged by the target."
+      },
+      {
+        "moveName": "Ice Fang",
+        "moveId": "/moves/ice-fang",
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 95,
+        "movePP": 15,
+        "moveDetails": "10% chance to freeze. 10% chance to flinch."
+      },
+      {
+        "moveName": "Ice Shard",
+        "moveId": "/moves/ice-shard",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Usually goes first."
+      },
+      {
+        "moveName": "Frost Breath",
+        "moveId": "/moves/frost-breath",
+        "moveCategory": "Special",
+        "movePower": 60,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Always results in a critical hit."
+      },
+      {
+        "moveName": "Freeze Shock",
+        "moveId": "/moves/freeze-shock",
+        "moveCategory": "Physical",
+        "movePower": 140,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "Charges turn 1. Hits turn 2. 30% paralyze."
+      },
+      {
+        "moveName": "Glaciate",
+        "moveId": "/moves/glaciate",
+        "moveCategory": "Special",
+        "movePower": 65,
+        "moveAccuracy": 95,
+        "movePP": 10,
+        "moveDetails": "100% chance to lower the foe(s) Speed by 1."
+      },
+      {
+        "moveName": "Ice Burn",
+        "moveId": "/moves/ice-burn",
+        "moveCategory": "Special",
+        "movePower": 140,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "Charges turn 1. Hits turn 2. 30% burn."
+      },
+      {
+        "moveName": "Icicle Crash",
+        "moveId": "/moves/icicle-crash",
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "30% chance to make the target flinch."
+      },
+      {
+        "moveName": "Freeze-Dry",
+        "moveId": "/moves/freeze-dry",
+        "moveCategory": "Special",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "10% chance to freeze. Super effective on Water."
+      },
+      {
+        "moveName": "Aurora Veil",
+        "moveId": "/moves/aurora-veil",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "For 5 turns, damage to allies is halved. Hail only."
+      },
+      {
+        "moveName": "Glacial Lance",
+        "moveId": "/moves/glacial-lance",
+        "moveCategory": "Physical",
+        "movePower": 130,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "No additional effect. Hits adjacent foes."
+      },
+      {
+        "moveName": "G-Max Resonance",
+        "moveId": "/moves/g-max-resonance",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Allies: Aurora Veil."
+      },
+      {
+        "moveName": "Max Hailstorm",
+        "moveId": "/moves/max-hailstorm",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Starts Hail."
+      },
+      {
+        "moveName": "Triple Axel",
+        "moveId": "/moves/triple-axel",
+        "moveCategory": "Physical",
+        "movePower": 20,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Hits 3 times. Each hit can miss, but power rises."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        {
+          "typeName": "Dragon",
+          "typeId": "/types/dragon"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,330 @@
+﻿{
+  "strategyName": "Calm Mind",
+  "strategyId": "/strategies/calm-mind?pokemon=tapu-fini&tier=ou",
+  "strategyDetails": "Taunt turns Pokemon that rely on status moves to damage Tapu Fini such as Blissey and Toxapex into setup fodder. It also prevents Slowking from using Teleport and Pokemon like Corviknight and Clefable from using their recovery moves, forcing them to play more carefully to avoid being worn down. Scald is weaker than Surf, but it discourages Pokemon not protected by Misty Terrain, such as Landorus-T and Rillaboom, from switching in due to the threat of a burn. Draining Kiss is preferred over Moonblast to make Tapu Fini less easily worn down, but Moonblast can be considered for its greater immediate power. 140 Speed EVs are used to outspeed Bisharp and Timid Magnezone. The Defense EVs and Bold nature are used because Calm Mind already boosts Tapu Fini's special bulk. Magnezone is a great teammate for Tapu Fini because it can trap and eliminate Ferrothorn, one of the most common counters to Tapu Fini, as well as other Steel-types like Corviknight that can pivot into it when it is unboosted. Ground-types like Landorus-T, Hippowdon, and Garchomp can check Electric-types like Zeraora and Tapu Koko and pressure Galarian Slowking, which counters this set. They enjoy Tapu Fini being a reliable switch-in to Weavile and Urshifu-R, two of the few physical attackers they cannot check. Weavile can overwhelm Grass-types and Galarian Slowking and appreciates the switch-in to Urshifu-R that Tapu Fini can provide.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Tapu Fini",
+    "pokemonId": "/pokemon/tapu-fini",
+    "pokemonTypes": [
+      {
+        "typeName": "Water",
+        "typeId": "/types/water"
+      },
+      {
+        "typeName": "Fairy",
+        "typeId": "/types/fairy"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 75
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 115
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 130
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 85
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Telepathy",
+        "abilityId": "/abilities/telepathy",
+        "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+      },
+      {
+        "abilityName": "Misty Surge",
+        "abilityId": "/abilities/misty-surge",
+        "abilityDetails": "On switch-in, this Pokemon summons Misty Terrain."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:46.8952274Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Misty Surge",
+      "abilityId": "/abilities/misty-surge",
+      "abilityDetails": "On switch-in, this Pokemon summons Misty Terrain."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Bold",
+      "natureId": "/natures/bold",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 116
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 140
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=magnezone&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=magnezone&tier=ou",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/special-wall?pokemon=hippowdon&tier=ou",
+      "strategyName": "Special Wall"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=slowking-galar&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/bulk-up?pokemon=zeraora&tier=ou",
+      "strategyName": "Bulk Up"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zeraora&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=tapu-koko&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=melmetal&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=melmetal&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/protect?pokemon=melmetal&tier=ou",
+      "strategyName": "Protect"
+    },
+    {
+      "strategyId": "/strategies/three-attacks-thunder-wave?pokemon=melmetal&tier=ou",
+      "strategyName": "Three Attacks + Thunder Wave"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=corviknight&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowbro&tier=ou",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive-pivot?pokemon=slowking&tier=ou",
+      "strategyName": "Specially Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=clefable&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=clefable&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou",
+      "strategyName": "Choice Band"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Calm Mind",
+        "moveId": "/moves/calm-mind",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Sp. Atk and Sp. Def by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Taunt",
+        "moveId": "/moves/taunt",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "Target can't use status moves its next 3 turns."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Scald",
+        "moveId": "/moves/scald",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to burn the target. Thaws target."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Draining Kiss",
+        "moveId": "/moves/draining-kiss",
+        "moveType": {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        "moveCategory": "Special",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "moveDetails": "User recovers 75% of the damage dealt."
+      }
+    ]
+  }
+}

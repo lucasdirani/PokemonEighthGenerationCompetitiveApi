@@ -1,0 +1,566 @@
+﻿[
+  {
+    "natureName": "Careful",
+    "natureId": "/natures/careful",
+    "natureDecreasedStat": {
+      "statName": "Special Attack",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Bashful",
+          "natureId": "/natures/bashful"
+        },
+        {
+          "natureName": "Mild",
+          "natureId": "/natures/mild"
+        },
+        {
+          "natureName": "Modest",
+          "natureId": "/natures/modest"
+        },
+        {
+          "natureName": "Quiet",
+          "natureId": "/natures/quiet"
+        },
+        {
+          "natureName": "Rash",
+          "natureId": "/natures/rash"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Adamant",
+          "natureId": "/natures/adamant"
+        },
+        {
+          "natureName": "Bashful",
+          "natureId": "/natures/bashful"
+        },
+        {
+          "natureName": "Careful",
+          "natureId": "/natures/careful"
+        },
+        {
+          "natureName": "Impish",
+          "natureId": "/natures/impish"
+        },
+        {
+          "natureName": "Jolly",
+          "natureId": "/natures/jolly"
+        }
+      ]
+    },
+    "natureIncreasedStat": {
+      "statName": "Special Defense",
+      "statIncreaseNatures": [
+        {
+          "natureName": "Calm",
+          "natureId": "/natures/calm"
+        },
+        {
+          "natureName": "Careful",
+          "natureId": "/natures/careful"
+        },
+        {
+          "natureName": "Gentle",
+          "natureId": "/natures/gentle"
+        },
+        {
+          "natureName": "Quirky",
+          "natureId": "/natures/quirky"
+        },
+        {
+          "natureName": "Sassy",
+          "natureId": "/natures/sassy"
+        }
+      ],
+      "statDecreaseNatures": [
+        {
+          "natureName": "Lax",
+          "natureId": "/natures/lax"
+        },
+        {
+          "natureName": "Naive",
+          "natureId": "/natures/naive"
+        },
+        {
+          "natureName": "Naughty",
+          "natureId": "/natures/naughty"
+        },
+        {
+          "natureName": "Quirky",
+          "natureId": "/natures/quirky"
+        },
+        {
+          "natureName": "Rash",
+          "natureId": "/natures/rash"
+        }
+      ]
+    },
+    "natureDecreasedStatIn": 0.1,
+    "natureIncreasedStatIn": 0.1,
+    "naturePokemon": [
+      {
+        "pokemonName": "Grimmsnarl",
+        "pokemonId": "/pokemon/grimmsnarl",
+        "pokemonTypes": [
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          },
+          {
+            "typeName": "Fairy",
+            "typeId": "/types/fairy"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 120
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Frisk",
+            "abilityId": "/abilities/frisk",
+            "abilityDetails": "On switch-in, this Pokemon identifies the held items of all opposing Pokemon."
+          },
+          {
+            "abilityName": "Pickpocket",
+            "abilityId": "/abilities/pickpocket",
+            "abilityDetails": "If this Pokemon has no item and is hit by a contact move, it steals the attacker's item."
+          },
+          {
+            "abilityName": "Prankster",
+            "abilityId": "/abilities/prankster",
+            "abilityDetails": "This Pokemon's Status moves have priority raised by 1, but Dark types are immune."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Jirachi",
+        "pokemonId": "/pokemon/jirachi",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Serene Grace",
+            "abilityId": "/abilities/serene-grace",
+            "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Scizor",
+        "pokemonId": "/pokemon/scizor",
+        "pokemonTypes": [
+          {
+            "typeName": "Bug",
+            "typeId": "/types/bug"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 55
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 65
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Swarm",
+            "abilityId": "/abilities/swarm",
+            "abilityDetails": "At 1/3 or less of its max HP, this Pokemon's attacking stat is 1.5x with Bug attacks."
+          },
+          {
+            "abilityName": "Technician",
+            "abilityId": "/abilities/technician",
+            "abilityDetails": "This Pokemon's moves of 60 power or less have 1.5x power. Includes Struggle."
+          },
+          {
+            "abilityName": "Light Metal",
+            "abilityId": "/abilities/light-metal",
+            "abilityDetails": "This Pokemon's weight is halved."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Corviknight",
+        "pokemonId": "/pokemon/corviknight",
+        "pokemonTypes": [
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 98
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 87
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 67
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Pressure",
+            "abilityId": "/abilities/pressure",
+            "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+          },
+          {
+            "abilityName": "Unnerve",
+            "abilityId": "/abilities/unnerve",
+            "abilityDetails": "While this Pokemon is active, it prevents opposing Pokemon from using their Berries."
+          },
+          {
+            "abilityName": "Mirror Armor",
+            "abilityId": "/abilities/mirror-armor",
+            "abilityDetails": "If this Pokemon's stat stages would be lowered, the attacker's are lowered instead."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Ferrothorn",
+        "pokemonId": "/pokemon/ferrothorn",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 74
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 94
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 131
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 54
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 116
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 20
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Anticipation",
+            "abilityId": "/abilities/anticipation",
+            "abilityDetails": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move."
+          },
+          {
+            "abilityName": "Iron Barbs",
+            "abilityId": "/abilities/iron-barbs",
+            "abilityDetails": "Pokemon making contact with this Pokemon lose 1/8 of their max HP."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Hippowdon",
+        "pokemonId": "/pokemon/hippowdon",
+        "pokemonTypes": [
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 108
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 112
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 118
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 68
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 72
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 47
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Sand Stream",
+            "abilityId": "/abilities/sand-stream",
+            "abilityDetails": "On switch-in, this Pokemon summons Sandstorm."
+          },
+          {
+            "abilityName": "Sand Force",
+            "abilityId": "/abilities/sand-force",
+            "abilityDetails": "This Pokemon's Ground/Rock/Steel attacks do 1.3x in Sandstorm; immunity to it."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Melmetal",
+        "pokemonId": "/pokemon/melmetal",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 135
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 143
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 143
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 34
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Iron Fist",
+            "abilityId": "/abilities/iron-fist",
+            "abilityDetails": "This Pokemon's punch-based attacks have 1.2x power. Sucker Punch is not boosted."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tyranitar",
+        "pokemonId": "/pokemon/tyranitar",
+        "pokemonTypes": [
+          {
+            "typeName": "Rock",
+            "typeId": "/types/rock"
+          },
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 134
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 61
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Sand Stream",
+            "abilityId": "/abilities/sand-stream",
+            "abilityDetails": "On switch-in, this Pokemon summons Sandstorm."
+          },
+          {
+            "abilityName": "Unnerve",
+            "abilityId": "/abilities/unnerve",
+            "abilityDetails": "While this Pokemon is active, it prevents opposing Pokemon from using their Berries."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "naturePokemonForms": []
+  }
+]

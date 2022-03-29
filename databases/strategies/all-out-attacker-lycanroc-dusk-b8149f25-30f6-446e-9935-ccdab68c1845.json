@@ -1,0 +1,425 @@
+﻿{
+  "strategyName": "All-out Attacker",
+  "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+  "strategyDetails": "Stone Edge is a very spammable STAB move that can OHKO Rotom-H and Salamence while dealing heavy damage to neutral targets like Primarina. Alternatively, Psychic Fangs is an option that inflicts heavy damage on the likes of Amoonguss, Tentacruel, and Keldeo. However, most of the targets Psychic Fangs hits can be muscled through with Stone Edge after they have taken decent chip damage. Close Combat is a powerful coverage option that nails many Rock resistant Pokemon such as Keldeo, Krookodile, and Excadrill. Crunch hits Aegislash, Jirachi, and Galarian Slowbro harder. Accelerock is useful against offense teams, specifically keeping threats such Agility-boosted Galarian Moltres and Dragon Dance Salamence in check. It also makes Lycanroc-D more difficult to revenge kill with faster threats such as Venusaur in sun and Starmie. Sucker Punch can be used to deal more damage than Accelerock against neutral targets; however, it is only really useful for a better matchup against Choice Scarf Jirachi. A Life Orb is used to guarantee feats such as 2HKOing defensive Celesteela with Close Combat and Amoonguss with Stone Edge on the switch with Stealth Rock up. Maximum Speed investment with a Jolly nature is needed to make Lycanroc-D outspeed and threaten as many foes as it can, particularly Keldeo. Lycanroc-D fits best on offensive teams that appreciate its ability to revenge kill common offensive threats such as Salamence without sacrificing its teammates' wallbreaking capabilities. As Lycanroc-D is unable to switch in on mostly anything, pivots are appreciated to give it opportunities to punch holes as often as possible and gain momentum; Moltres and Rotom-H are efficient at this and help pressure Skarmory and bulky Grass-types, which usually give Lycanroc-D grief. Swampert also acts as a pivot while providing entry hazard support to wear down Slowking, Tapu Bulu, and Tangrowth. Krookodile is another Stealth Rock setter that draws out Skarmory and Amoonguss to remove their Rocky Helmets with Knock Off. Special attackers such as Moltres and Primarina appreciate Lycanroc-D's ability to break through Chansey, and in return they can help wear down common physically defensive threats such as Skarmory for it. The Grass-types of the tier like Tangrowth and Zarude are excellent partners to handle threats such as Azumarill. Additionally, they also check faster Pokemon Lycanroc-D cannot threaten as much with its priority, such as Zygarde-10%. Early-game wallbreakers like Thundurus-T and Aegislash can pave the way for a Lycanroc-D sweep by weakening foes like Skarmory and Amoonguss for it.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemonForms": {
+    "pokemonFormName": "Lycanroc-Dusk",
+    "pokemonFormId": "/pokemon-forms/lycanroc-dusk",
+    "pokemonFormTypes": [
+      {
+        "typeName": "Rock",
+        "typeId": "/types/rock"
+      }
+    ],
+    "pokemonFormBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 75
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 117
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 65
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 55
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 65
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 110
+      }
+    ],
+    "pokemonFormAbilities": [
+      {
+        "abilityName": "Tough Claws",
+        "abilityId": "/abilities/tough-claws",
+        "abilityDetails": "This Pokemon's contact moves have their power multiplied by 1.3."
+      }
+    ],
+    "pokemonFormTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:29.1835666Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Life Orb",
+      "itemId": "/items/life-orb",
+      "itemDetails": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Tough Claws",
+      "abilityId": "/abilities/tough-claws",
+      "abilityDetails": "This Pokemon's contact moves have their power multiplied by 1.3."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Jolly",
+      "natureId": "/natures/jolly",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=swampert&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "Subtoxic"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "Subtoxic"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=slowking&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowking&tier=uu",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=swampert&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=crawdaunt&tier=uu",
+      "strategyName": "Swords Dance"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/guts-wallbreaker?pokemon=conkeldurr&tier=uu",
+      "strategyName": "Guts Wallbreaker"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Stone Edge",
+        "moveId": "/moves/stone-edge",
+        "moveType": {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 80,
+        "moveDetails": "High critical hit ratio."
+      },
+      {
+        "moveName": "Psychic Fangs",
+        "moveId": "/moves/psychic-fangs",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "moveDetails": "Destroys screens, unless the target is immune."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Close Combat",
+        "moveId": "/moves/close-combat",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "moveDetails": "Lowers the user's Defense and Sp. Def by 1."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Crunch",
+        "moveId": "/moves/crunch",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "20% chance to lower the target's Defense by 1."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Accelerock",
+        "moveId": "/moves/accelerock",
+        "moveType": {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "moveDetails": "Usually goes first."
+      }
+    ]
+  }
+}

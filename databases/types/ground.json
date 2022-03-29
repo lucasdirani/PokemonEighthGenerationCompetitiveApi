@@ -1,0 +1,882 @@
+﻿[
+  {
+    "typeName": "Ground",
+    "typeId": "/types/ground",
+    "typePokemon": [
+      {
+        "pokemonName": "Nidoqueen",
+        "pokemonId": "/pokemon/nidoqueen",
+        "pokemonTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 92
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 87
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 76
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Poison Point",
+            "abilityId": "/abilities/poison-point",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be poisoned."
+          },
+          {
+            "abilityName": "Rivalry",
+            "abilityId": "/abilities/rivalry",
+            "abilityDetails": "This Pokemon's attacks do 1.25x on same gender targets; 0.75x on opposite gender."
+          },
+          {
+            "abilityName": "Sheer Force",
+            "abilityId": "/abilities/sheer-force",
+            "abilityDetails": "This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Nidoking",
+        "pokemonId": "/pokemon/nidoking",
+        "pokemonTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 81
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 102
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 77
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 85
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Poison Point",
+            "abilityId": "/abilities/poison-point",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be poisoned."
+          },
+          {
+            "abilityName": "Rivalry",
+            "abilityId": "/abilities/rivalry",
+            "abilityDetails": "This Pokemon's attacks do 1.25x on same gender targets; 0.75x on opposite gender."
+          },
+          {
+            "abilityName": "Sheer Force",
+            "abilityId": "/abilities/sheer-force",
+            "abilityDetails": "This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Quagsire",
+        "pokemonId": "/pokemon/quagsire",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 35
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Damp",
+            "abilityId": "/abilities/damp",
+            "abilityDetails": "Prevents Explosion/Mind Blown/Misty Explosion/Self-Destruct/Aftermath while active."
+          },
+          {
+            "abilityName": "Water Absorb",
+            "abilityId": "/abilities/water-absorb",
+            "abilityDetails": "This Pokemon heals 1/4 of its max HP when hit by Water moves; Water immunity."
+          },
+          {
+            "abilityName": "Unaware",
+            "abilityId": "/abilities/unaware",
+            "abilityDetails": "This Pokemon ignores other Pokemon's stat stages when taking or doing damage."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Swampert",
+        "pokemonId": "/pokemon/swampert",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Torrent",
+            "abilityId": "/abilities/torrent",
+            "abilityDetails": "At 1/3 or less of its max HP, this Pokemon's attacking stat is 1.5x with Water attacks."
+          },
+          {
+            "abilityName": "Damp",
+            "abilityId": "/abilities/damp",
+            "abilityDetails": "Prevents Explosion/Mind Blown/Misty Explosion/Self-Destruct/Aftermath while active."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Garchomp",
+        "pokemonId": "/pokemon/garchomp",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 108
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 102
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Rough Skin",
+            "abilityId": "/abilities/rough-skin",
+            "abilityDetails": "Pokemon making contact with this Pokemon lose 1/8 of their max HP."
+          },
+          {
+            "abilityName": "Sand Veil",
+            "abilityId": "/abilities/sand-veil",
+            "abilityDetails": "If Sandstorm is active, this Pokemon's evasiveness is 1.25x; immunity to Sandstorm."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Hippowdon",
+        "pokemonId": "/pokemon/hippowdon",
+        "pokemonTypes": [
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 108
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 112
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 118
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 68
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 72
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 47
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Sand Stream",
+            "abilityId": "/abilities/sand-stream",
+            "abilityDetails": "On switch-in, this Pokemon summons Sandstorm."
+          },
+          {
+            "abilityName": "Sand Force",
+            "abilityId": "/abilities/sand-force",
+            "abilityDetails": "This Pokemon's Ground/Rock/Steel attacks do 1.3x in Sandstorm; immunity to it."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Mamoswine",
+        "pokemonId": "/pokemon/mamoswine",
+        "pokemonTypes": [
+          {
+            "typeName": "Ice",
+            "typeId": "/types/ice"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 130
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 80
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Thick Fat",
+            "abilityId": "/abilities/thick-fat",
+            "abilityDetails": "Fire/Ice-type moves against this Pokemon deal damage with a halved attacking stat."
+          },
+          {
+            "abilityName": "Oblivious",
+            "abilityId": "/abilities/oblivious",
+            "abilityDetails": "This Pokemon cannot be infatuated or taunted. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Snow Cloak",
+            "abilityId": "/abilities/snow-cloak",
+            "abilityDetails": "If Hail is active, this Pokemon's evasiveness is 1.25x; immunity to Hail."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Krookodile",
+        "pokemonId": "/pokemon/krookodile",
+        "pokemonTypes": [
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          },
+          {
+            "typeName": "Dark",
+            "typeId": "/types/dark"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 117
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 92
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Intimidate",
+            "abilityId": "/abilities/intimidate",
+            "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+          },
+          {
+            "abilityName": "Anger Point",
+            "abilityId": "/abilities/anger-point",
+            "abilityDetails": "If this Pokemon (not its substitute) takes a critical hit, its Attack is raised 12 stages."
+          },
+          {
+            "abilityName": "Moxie",
+            "abilityId": "/abilities/moxie",
+            "abilityDetails": "This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Excadrill",
+        "pokemonId": "/pokemon/excadrill",
+        "pokemonTypes": [
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          },
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 135
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 88
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Mold Breaker",
+            "abilityId": "/abilities/mold-breaker",
+            "abilityDetails": "This Pokemon's moves and their effects ignore the Abilities of other Pokemon."
+          },
+          {
+            "abilityName": "Sand Force",
+            "abilityId": "/abilities/sand-force",
+            "abilityDetails": "This Pokemon's Ground/Rock/Steel attacks do 1.3x in Sandstorm; immunity to it."
+          },
+          {
+            "abilityName": "Sand Rush",
+            "abilityId": "/abilities/sand-rush",
+            "abilityDetails": "If Sandstorm is active, this Pokemon's Speed is doubled; immunity to Sandstorm."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Landorus-Therian",
+        "pokemonFormId": "/pokemon-forms/landorus-therian",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          },
+          {
+            "typeName": "Flying",
+            "typeId": "/types/flying"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 89
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 145
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 105
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 91
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Intimidate",
+            "abilityId": "/abilities/intimidate",
+            "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Bonemerang",
+        "moveId": "/moves/bonemerang",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Hits 2 times in one turn."
+      },
+      {
+        "moveName": "Dig",
+        "moveId": "/moves/dig",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Digs underground turn 1, strikes turn 2."
+      },
+      {
+        "moveName": "Earthquake",
+        "moveId": "/moves/earthquake",
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Hits adjacent Pokemon. Double damage on Dig."
+      },
+      {
+        "moveName": "Fissure",
+        "moveId": "/moves/fissure",
+        "moveCategory": "Physical",
+        "moveAccuracy": 30,
+        "movePP": 5,
+        "moveDetails": "OHKOs the target. Fails if user is a lower level."
+      },
+      {
+        "moveName": "Sand Attack",
+        "moveId": "/moves/sand-attack",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Lowers the target's accuracy by 1."
+      },
+      {
+        "moveName": "Spikes",
+        "moveId": "/moves/spikes",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Hurts grounded foes on switch-in. Max 3 layers."
+      },
+      {
+        "moveName": "Bone Rush",
+        "moveId": "/moves/bone-rush",
+        "moveCategory": "Physical",
+        "movePower": 25,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Hits 2-5 times in one turn."
+      },
+      {
+        "moveName": "Mud-Slap",
+        "moveId": "/moves/mud-slap",
+        "moveCategory": "Special",
+        "movePower": 20,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "100% chance to lower the target's accuracy by 1."
+      },
+      {
+        "moveName": "Sand Tomb",
+        "moveId": "/moves/sand-tomb",
+        "moveCategory": "Physical",
+        "movePower": 35,
+        "moveAccuracy": 85,
+        "movePP": 15,
+        "moveDetails": "Traps and damages the target for 4-5 turns."
+      },
+      {
+        "moveName": "Mud Shot",
+        "moveId": "/moves/mud-shot",
+        "moveCategory": "Special",
+        "movePower": 55,
+        "moveAccuracy": 95,
+        "movePP": 15,
+        "moveDetails": "100% chance to lower the target's Speed by 1."
+      },
+      {
+        "moveName": "Earth Power",
+        "moveId": "/moves/earth-power",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      },
+      {
+        "moveName": "Bulldoze",
+        "moveId": "/moves/bulldoze",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "100% chance lower adjacent Pkmn Speed by 1."
+      },
+      {
+        "moveName": "Drill Run",
+        "moveId": "/moves/drill-run",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 95,
+        "movePP": 10,
+        "moveDetails": "High critical hit ratio."
+      },
+      {
+        "moveName": "Thousand Arrows",
+        "moveId": "/moves/thousand-arrows",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Grounds adjacent foes. First hit neutral on Flying."
+      },
+      {
+        "moveName": "Thousand Waves",
+        "moveId": "/moves/thousand-waves",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Hits adjacent foes. Prevents them from switching."
+      },
+      {
+        "moveName": "Precipice Blades",
+        "moveId": "/moves/precipice-blades",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 85,
+        "movePP": 10,
+        "moveDetails": "No additional effect. Hits adjacent foes."
+      },
+      {
+        "moveName": "Land's Wrath",
+        "moveId": "/moves/land's-wrath",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "No additional effect. Hits adjacent foes."
+      },
+      {
+        "moveName": "High Horsepower",
+        "moveId": "/moves/high-horsepower",
+        "moveCategory": "Physical",
+        "movePower": 95,
+        "moveAccuracy": 95,
+        "movePP": 10,
+        "moveDetails": "No additional effect."
+      },
+      {
+        "moveName": "Shore Up",
+        "moveId": "/moves/shore-up",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "User restores 1/2 its max HP; 2/3 in Sandstorm."
+      },
+      {
+        "moveName": "Stomping Tantrum",
+        "moveId": "/moves/stomping-tantrum",
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Power doubles if the user's last move failed."
+      },
+      {
+        "moveName": "G-Max Sandblast",
+        "moveId": "/moves/g-max-sandblast",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Foes: bound 4-5 turns."
+      },
+      {
+        "moveName": "Max Quake",
+        "moveId": "/moves/max-quake",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Allies: +1 Sp. Def."
+      },
+      {
+        "moveName": "Scorching Sands",
+        "moveId": "/moves/scorching-sands",
+        "moveCategory": "Special",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "30% chance to burn the target. Thaws target."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [
+        {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        }
+      ],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [
+        {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        }
+      ],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        }
+      ]
+    }
+  }
+]

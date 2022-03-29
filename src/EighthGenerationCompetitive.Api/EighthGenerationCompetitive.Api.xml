@@ -1,0 +1,1259 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EighthGenerationCompetitive.Api</name>
+    </assembly>
+    <members>
+        <member name="T:EighthGenerationCompetitive.Api.Parameters.NaturesController.GetNaturesParameters">
+            <summary>
+            Filters the search by natures
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.Parameters.NaturesController.GetNaturesParameters.SortByClause">
+            <summary>
+            Defines in which order the natures are returned. The "-natureName" filter returns natures in descending order by their name, and the default filter "natureName" in ascending order.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.Parameters.NaturesController.GetNaturesParameters.IncreasedStat">
+            <summary>
+            Filters the natures that increase a certain stat. Accepted values for this filter are HP, Attack, Defense, Special Attack, Special Defense or Speed.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.Parameters.NaturesController.GetNaturesParameters.DecreasedStat">
+            <summary>
+            Filters the natures that lower a certain stat. Accepted values for this filter are HP, Attack, Defense, Special Attack, Special Defense or Speed.
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.Parameters.PaginationParameters">
+            <summary>
+            Specifies which items of a query will be returned
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.Parameters.PaginationParameters.PageNumber">
+            <summary>
+            Determines the starting point of search for results.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.Parameters.PaginationParameters.PageSize">
+            <summary>
+            Determines how many items will be returned per page.
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.Parameters.TypesController.GetPokemonTypesParameters">
+            <summary>
+            Filters the search by Pokémon types
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.Parameters.TypesController.GetPokemonTypesParameters.SortByClause">
+            <summary>
+            Defines in which order the Pokémon types are returned. The "-typeName" filter returns types in descending order by their name, and the default filter "typeName" in ascending order.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.Parameters.TypesController.GetPokemonTypesParameters.NoDamageTo">
+            <summary>
+            Filters by Pokémon types that don't affect the specified types. The searched names must be separated by a comma, for example: "Fire, Water, Grass".
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.Parameters.TypesController.GetPokemonTypesParameters.HalfDamageTo">
+            <summary>
+            Filters by Pokemon types that deal half damage to specified types. The searched names must be separated by a comma, for example: "Fire, Water, Grass".
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.Parameters.TypesController.GetPokemonTypesParameters.DoubleDamageTo">
+            <summary>
+            Filters by Pokémon types that deal double damage to specified types. The searched names must be separated by a comma, for example: "Fire, Water, Grass".
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.Parameters.TypesController.GetPokemonTypesParameters.NoDamageFrom">
+            <summary>
+            Filters by Pokémon types that don't take damage from the specified types. The searched names must be separated by a comma, for example: "Fire, Water, Grass".
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.Parameters.TypesController.GetPokemonTypesParameters.HalfDamageFrom">
+            <summary>
+            Filters by Pokémon types that take half damage from the specified types. The searched names must be separated by a comma, for example: "Fire, Water, Grass".
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.Parameters.TypesController.GetPokemonTypesParameters.DoubleDamageFrom">
+            <summary>
+            Filters by Pokémon types that suffer double the damage of the specified types. The searched names must be separated by a comma, for example: "Fire, Water, Grass".
+            </summary>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.NaturesController.GetNaturesAsync(EighthGenerationCompetitive.Api.Parameters.NaturesController.GetNaturesParameters)">
+            <summary>
+            Gets all natures based on selection criteria
+            </summary>
+            <param name="naturesParameters">Parameters to filter the search for natures</param>
+            <returns>Natures along with their name and relationships with stats</returns>
+            <response code="200">Returns all natures based on selection criteria</response>
+            <response code="400">Parameter values used to filter natures types are invalid</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="404">No natures found for selected filter</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.NaturesController.GetNatureByNameAsync(System.String)">
+            <summary>
+            Gets a nature based on its name
+            </summary>
+            <param name="natureName">The name of the nature to be fetched</param>
+            <returns>Nature along with all its properties</returns>
+            <response code="200">Returns the nature searched</response>
+            <response code="400">The nature searched is invalid</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="404">The nature searched was not found</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.NaturesController.GetNatureMonstersByNameAsync(System.String)">
+            <summary>
+            Gets all monsters associated with a Nature
+            </summary>
+            <param name="natureName">The name of the nature to be fetched</param>
+            <returns></returns>
+            <response code="200">A list of all pokemon with strategies that have the searched nature</response>
+            <response code="400">The nature searched is invalid</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="404">The nature searched was not found</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.NaturesController.GetNatureMonstersFormsByNameAsync(System.String)">
+            <summary>
+            Gets all monsters forms associated with a Nature
+            </summary>
+            <param name="natureName">The name of the nature to be fetched</param>
+            <returns></returns>
+            <response code="200">A list of all pokemon forms with strategies that have the searched nature</response>
+            <response code="400">The nature searched is invalid</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="404">The nature searched was not found</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.TypesController.GetPokemonTypesAsync(EighthGenerationCompetitive.Api.Parameters.TypesController.GetPokemonTypesParameters)">
+            <summary>
+            Gets all pokémon types based on selection criteria
+            </summary>
+            <param name="pokemonTypesParameters">Parameters to filter the search for pokemon types</param>
+            <returns>Pokémon types along with their name and relationships with other types</returns>
+            <response code="200">Returns all pokémon types based on selection criteria</response>
+            <response code="400">Parameter values used to filter pokemon types are invalid</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="404">No pokemon types found for selected filter</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.TypesController.GetPokemonTypeByNameAsync(System.String)">
+            <summary>
+            Gets a pokemon type based on its name
+            </summary>
+            <param name="typeName">The name of the pokemon type to be fetched</param>
+            <returns>Pokemon type along with all its properties</returns>
+            <response code="200">Returns the pokemon type searched</response>
+            <response code="400">The pokemon type searched is invalid</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="404">The pokemon type searched was not found</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.TypesController.GetPokemonTypesMovesByNameAsync(System.String)">
+            <summary>
+            Gets all moves associated with a Pokémon type
+            </summary>
+            <param name="typeName">The name of the Pokémon type to be fetched</param>
+            <returns></returns>
+            <response code="200">A list of all moves of the searched type</response>
+            <response code="400">The pokemon type searched is invalid</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="404">The pokemon type searched was not found</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.TypesController.GetPokemonTypesMonstersByNameAsync(System.String)">
+            <summary>
+            Gets all monsters associated with a Pokémon type
+            </summary>
+            <param name="typeName">The name of the Pokémon type to be fetched</param>
+            <returns></returns>
+            <response code="200">A list of all pokemon of the searched type</response>
+            <response code="400">The pokemon type searched is invalid</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="404">The pokemon type searched was not found</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.TypesController.GetPokemonTypesMonstersFormsByNameAsync(System.String)">
+            <summary>
+            Gets all monsters forms associated with a Pokémon type
+            </summary>
+            <param name="typeName">The name of the Pokémon type to be fetched</param>
+            <returns></returns>
+            <response code="200">A list of all pokemon forms of the searched type</response>
+            <response code="400">The pokemon type searched is invalid</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="404">The pokemon type searched was not found</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.RegisterUserAsync(EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserViewModel)">
+            <summary>
+            Registers a user and returns an authentication token for some API endpoints
+            </summary>
+            <param name="registerUser">Data required to register a user</param>
+            <returns>Authentication token with other registration data</returns>
+            <response code="201">User has been registered successfully</response>
+            <response code="400">User registration data entered is invalid</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.LoginAsync(EighthGenerationCompetitive.Api.V1.ViewModels.Users.LoginViewModel)">
+            <summary>
+            Authenticates a user to consume private API endpoints
+            </summary>
+            <param name="login">Data required for a user to authenticate to the API</param>
+            <returns>Authentication token with other login data</returns>
+            <response code="200">User has successfully authenticated</response>
+            <response code="400">Login data is invalid or user is locked out for too many attempts</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.GetUserByNameAsync(System.String)">
+            <summary>
+            Retrieves a user's registration data based on their name
+            </summary>
+            <param name="name">The name of the searched user</param>
+            <returns>The username along with your contacts, friend codes and nickname on PlayPokemonShowdown</returns>
+            <response code="200">User data returned successfully</response>
+            <response code="400">Username is in an invalid format</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="404">The searched user does not exist</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.GetUserContactByIdAsync(System.String,System.Guid)">
+            <summary>
+            Retrieves the user contact registration data based on their id
+            </summary>
+            <param name="name">The name of the searched user</param>
+            <param name="id">The unique identification of the searched contact</param>
+            <returns>The user contact registration data</returns>
+            <response code="200">User contact data returned successfully</response>
+            <response code="400">Username or contact id is in an invalid format</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="404">User contacts not found</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.GetUserContactsAsync(System.String)">
+            <summary>
+            Retrieves the user's contacts registration data based on their name
+            </summary>
+            <param name="name">The name of the searched user</param>
+            <returns>The user contacts registration data</returns>
+            <response code="200">User contacts data returned successfully</response>
+            <response code="400">Username is in an invalid format</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="404">User contacts not found</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.UpdateUser3dsFriendCodeAsync(System.String,EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUser3DsFriendCodeViewModel)">
+            <summary>
+            Updates user's Nintendo 3DS friend code number
+            </summary>
+            <param name="name">The username that will have your friend code updated</param>
+            <param name="updateUser3dsFriendCode">The user's new friend code</param>
+            <response code="204">The friend code has been successfully updated</response>
+            <response code="400">The friend code is in an invalid format</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.UpdateUserSwitchFriendCodeAsync(System.String,EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserSwitchFriendCodeViewModel)">
+            <summary>
+            Updates user's Nintendo Switch friend code number
+            </summary>
+            <param name="name">The username that will have your friend code updated</param>
+            <param name="updateUserSwitchFriendCode">The user's new friend code</param>
+            <response code="204">The friend code has been successfully updated</response>
+            <response code="400">The friend code is in an invalid format</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.UpdateUserContactAsync(System.String,System.Guid,EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserContactViewModel)">
+            <summary>
+            Update a contact type belonging to the user
+            </summary>
+            <param name="name">The username that will have your contact updated</param>
+            <param name="id">The unique identification of the contact that will be updated</param>
+            <param name="updateUserContact">The new user contact type description</param>
+            <response code="204">The contact has been successfully updated</response>
+            <response code="400">The contact is in an invalid format</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.RegisterUserContactAsync(System.String,EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserContactViewModel)">
+            <summary>
+            Register a contact type belonging to the user
+            </summary>
+            <param name="name">The username that will have your contact registered</param>
+            <param name="registerUserContact">The new user contact type</param>
+            <response code="201">The contact has been successfully registered</response>
+            <response code="400">The contact is in an invalid format</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.RemoveUserContactAsync(System.String,System.Guid,EighthGenerationCompetitive.Api.V1.ViewModels.Users.RemoveUserContactViewModel)">
+            <summary>
+            Remove a contact type belonging to the user
+            </summary>
+            <param name="name">The username that will have your contact removed</param>
+            <param name="id">The unique identification of the contact that will be removed</param>
+            <param name="removeUserContact">The contact to be removed</param>
+            <response code="200">The contact has been successfully removed</response>
+            <response code="400">The contact is in an invalid format</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.UpdateUserContactsAsync(System.String,System.Collections.Generic.List{EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserContactViewModel})">
+            <summary>
+            Updates one or more contacts of the user
+            </summary>
+            <param name="name">The username that will have your contacts updated</param>
+            <param name="updateUserContacts">The new user contacts types descriptions</param>
+            <response code="204">The contacts have been successfully updated</response>
+            <response code="400">The contacts are in an invalid format</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.UpdateUserShowdownNickname(System.String,EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserShowdownNicknameViewModel)">
+            <summary>
+            Updates user's showdown nickname
+            </summary>
+            <param name="name">The username that will have your showdown nickname updated</param>
+            <param name="updateUserShowdownNickname">The user's new showdown nickname</param>
+            <response code="204">The showdown nickname has been successfully updated</response>
+            <response code="400">The showdown nickname is in an invalid format</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.UpdateUserMainInfo(System.String,EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserMainInfoViewModel)">
+            <summary>
+            Updates user's main registration info
+            </summary>
+            <param name="name">The username that will have your main info updated</param>
+            <param name="updateUserMainInfo">The user's new main info</param>
+            <response code="204">The main registration info has been successfully updated</response>
+            <response code="400">The main info data is in an invalid format</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.UpdateShowUserProfileAsync(System.String)">
+            <summary>
+            Enables user data to be shared in the API
+            </summary>
+            <param name="name">The username that will have your profile shared</param>
+            <response code="204">The profile has been successfully shared</response>
+            <response code="400">The request has invalid data</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="M:EighthGenerationCompetitive.Api.V1.Controllers.UsersController.UpdateHideUserProfileAsync(System.String)">
+            <summary>
+            Disable user data to be shared in the API
+            </summary>
+            <param name="name">The username that will have your profile hided</param>
+            <response code="204">The profile has been successfully hided</response>
+            <response code="400">The request has invalid data</response>
+            <response code="401">User is not authenticated</response>
+            <response code="403">The user does not have permission to make the request</response>
+            <response code="406">Endpoint does not return the type of representation requested by the client</response>
+            <response code="500">Error processing user request on server</response>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.DecreasedNatureViewModel">
+            <summary>
+            Represents a simplification of a nature
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.DecreasedNatureViewModel.NatureName">
+            <summary>
+            The nature name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.DecreasedNatureViewModel.NatureId">
+            <summary>
+            The nature unique identification
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureMonstersByNameViewModel">
+            <summary>
+            Represents the Nature returned from the endpoint GetNatureMonstersByName
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureMonstersByNameViewModel.NatureName">
+            <summary>
+            The nature name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureMonstersByNameViewModel.NaturePokemon">
+            <summary>
+            Pokémon that have strategies with the searched nature
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureMonstersFormsByNameViewModel">
+            <summary>
+            Represents the Nature returned from the endpoint GetNatureMonstersFormsByName
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureMonstersFormsByNameViewModel.NatureName">
+            <summary>
+            The nature name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureMonstersFormsByNameViewModel.NaturePokemonForms">
+            <summary>
+            Pokémon forms that have strategies with the searched nature
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNaturesViewModel">
+            <summary>
+            Represents the natures returned from the endpoint GetNatures
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNaturesViewModel.NatureName">
+            <summary>
+            The nature name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNaturesViewModel.NatureDecreasedStat">
+            <summary>
+            The stat that is decreased by the effect of the fetched nature
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNaturesViewModel.NatureIncreasedStat">
+            <summary>
+            The stat that is increased by the effect of the fetched nature
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNaturesViewModel.NatureDecreasedStatIn">
+            <summary>
+            The percentage decreased by the effect of nature
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNaturesViewModel.NatureIncreasedStatIn">
+            <summary>
+            The percentage increased by the effect of nature
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureViewModel">
+            <summary>
+            Represents the Nature returned from the endpoint GetNatureByName
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureViewModel.NatureName">
+            <summary>
+            The nature name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureViewModel.NatureDecreasedStat">
+            <summary>
+            The stat that is decreased by the effect of the fetched nature
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureViewModel.NatureIncreasedStat">
+            <summary>
+            The stat that is increased by the effect of the fetched nature
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureViewModel.NatureDecreasedStatIn">
+            <summary>
+            The percentage decreased by the effect of nature
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureViewModel.NatureIncreasedStatIn">
+            <summary>
+            The percentage increased by the effect of nature
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureViewModel.NaturePokemon">
+            <summary>
+            The Pokémon that have competitively strategies with this nature
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.GetNatureViewModel.NaturePokemonForms">
+            <summary>
+            The Pokémon forms that have competitively strategies with this nature
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.IncreasedNatureViewModel">
+            <summary>
+            Represents a simplification of a nature
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.IncreasedNatureViewModel.NatureName">
+            <summary>
+            The nature name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.IncreasedNatureViewModel.NatureId">
+            <summary>
+            The nature unique identification
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonAbilityViewModel">
+            <summary>
+            Represents the simplification of a pokemon's ability
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonAbilityViewModel.AbilityName">
+            <summary>
+            The ability name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonAbilityViewModel.AbilityId">
+            <summary>
+            The ability unique identification
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonAbilityViewModel.AbilityDetails">
+            <summary>
+            The ability details
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonBaseStatViewModel">
+            <summary>
+            Represents the base stat of a pokemon
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonBaseStatViewModel.BaseStat">
+            <summary>
+            The base stat identification
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonBaseStatViewModel.BaseStatNumber">
+            <summary>
+            The base stat value
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonFormViewModel">
+            <summary>
+            Represents a Pokemon form that has a particular nature in their strategies
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonFormViewModel.PokemonFormName">
+            <summary>
+            The pokemon form name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonFormViewModel.PokemonFormId">
+            <summary>
+            The pokemon form unique identification
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonFormViewModel.PokemonFormTypes">
+            <summary>
+            The types that the pokemon form has
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonFormViewModel.PokemonFormBaseStats">
+            <summary>
+            The base stats that the pokemon form has
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonFormViewModel.PokemonFormAbilities">
+            <summary>
+            The abilities that the pokemon form has
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonFormViewModel.PokemonFormTiers">
+            <summary>
+            The tiers that the pokemon form is part of
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonStatViewModel">
+            <summary>
+            Represents the simplification of a stat
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonStatViewModel.StatName">
+            <summary>
+            The stat name
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonTierViewModel">
+            <summary>
+            Represents the simplification of a tier that a Pokémon can be part of
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonTierViewModel.TierName">
+            <summary>
+            The tier name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonTierViewModel.TierId">
+            <summary>
+            The tier unique identification
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonTypeViewModel">
+            <summary>
+            Represents the simplification of a pokemon type
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonTypeViewModel.TypeName">
+            <summary>
+            The pokemon type name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonTypeViewModel.TypeId">
+            <summary>
+            The pokemon type unique identification
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonViewModel">
+            <summary>
+            Represents a Pokemon that has a particular nature in their strategies
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonViewModel.PokemonName">
+            <summary>
+            The pokemon name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonViewModel.PokemonId">
+            <summary>
+            The pokemon unique identification
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonViewModel.PokemonTypes">
+            <summary>
+            The types that the pokemon has
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonViewModel.PokemonBaseStats">
+            <summary>
+            The base stats that the pokemon has
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonViewModel.PokemonAbilities">
+            <summary>
+            The abilities that the pokemon has
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NaturePokemonViewModel.PokemonTiers">
+            <summary>
+            The tiers that the pokemon is part of
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NatureStatViewModel">
+            <summary>
+            Represents a stat affected by a nature
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NatureStatViewModel.StatName">
+            <summary>
+            The stat name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NatureStatViewModel.StatIncreasedNatures">
+            <summary>
+            Other natures that increase the stat
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Natures.NatureStatViewModel.StatDecreasedNatures">
+            <summary>
+            Other natures that decrease the stat
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeMonstersByNameViewModel">
+            <summary>
+            Represents the Pokemon returned from the endpoint GetPokemonTypesMonstersByName
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeMonstersByNameViewModel.TypeName">
+            <summary>
+            The pokemon type name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeMonstersByNameViewModel.TypePokemon">
+            <summary>
+            Pokémon that have the searched type
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeMonstersFormsByNameViewModel">
+            <summary>
+            Represents the Pokemon forms returned from the endpoint GetPokemonTypesMonstersFormsByName
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeMonstersFormsByNameViewModel.TypeName">
+            <summary>
+            The pokemon type name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeMonstersFormsByNameViewModel.TypePokemonForms">
+            <summary>
+            Pokémon forms that have the searched type
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeMovesByNameViewModel">
+            <summary>
+            Represents the moves returned from the endpoint GetPokemonTypesMovesByName
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeMovesByNameViewModel.TypeName">
+            <summary>
+            The pokemon type name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeMovesByNameViewModel.TypeMoves">
+            <summary>
+            Moves that have the searched type
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypesViewModel">
+            <summary>
+            Represents the Pokemon types returned from the endpoint GetPokemonTypes
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypesViewModel.TypeName">
+            <summary>
+            The pokemon type name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypesViewModel.TypeRelations">
+            <summary>
+            Damage relationships with other pokemon types
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeViewModel">
+            <summary>
+            Represents the Pokemon type returned from the endpoint GetPokemonTypeByName
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeViewModel.TypeName">
+            <summary>
+            The pokemon type name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeViewModel.TypePokemon">
+            <summary>
+            Pokémon that have the searched type
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeViewModel.TypePokemonForms">
+            <summary>
+            Pokémon forms that have the searched type
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeViewModel.TypeMoves">
+            <summary>
+            Moves that have the searched type
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.GetPokemonTypeViewModel.TypeRelations">
+            <summary>
+            Damage relationships with other pokemon types
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureAbilityViewModel">
+            <summary>
+            Represents a Pokémon's ability on the endpoints of the Types route
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureAbilityViewModel.AbilityName">
+            <summary>
+            The ability name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureAbilityViewModel.AbilityId">
+            <summary>
+            The unique identification of the ability
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureAbilityViewModel.AbilityDetails">
+            <summary>
+            The description of the effects of ability
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureBaseStatViewModel">
+            <summary>
+            Represents the base stats of a pokemon
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureBaseStatViewModel.BaseStat">
+            <summary>
+            The description of the base stat
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureBaseStatViewModel.BaseStatNumber">
+            <summary>
+            The base stat value
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureFormViewModel">
+            <summary>
+            Represents the Pokémon form returned from the Types route endpoints
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureFormViewModel.PokemonFormName">
+            <summary>
+            The pokemon form name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureFormViewModel.PokemonFormTypes">
+            <summary>
+            The types that the pokemon form have
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureFormViewModel.PokemonFormBaseStats">
+            <summary>
+            The base stats that the pokemon form have
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureFormViewModel.PokemonFormAbilities">
+            <summary>
+            The abilities that the pokemon form have
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureFormViewModel.PokemonFormTiers">
+            <summary>
+            The tiers in which the pokemon form has strategies
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureStatViewModel">
+            <summary>
+            Represents a stat of a pokemon
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureStatViewModel.StatName">
+            <summary>
+            The stat name
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureTierViewModel">
+            <summary>
+            Represents a tier associated with a Pokémon on the endpoints of the Types route
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureTierViewModel.TierName">
+            <summary>
+            The tier name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureTierViewModel.TierId">
+            <summary>
+            The unique identification for the tier
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureTypeViewModel">
+            <summary>
+            Represents a simplification of a pokemon type
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureTypeViewModel.TypeName">
+            <summary>
+            The name of the pokemon type
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureTypeViewModel.TypeId">
+            <summary>
+            The pokemon type unique identification
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureViewModel">
+            <summary>
+            Represents the Pokémon returned from the Types route endpoints
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureViewModel.PokemonName">
+            <summary>
+            The pokemon name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureViewModel.PokemonTypes">
+            <summary>
+            The types that the pokemon have
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureViewModel.PokemonBaseStats">
+            <summary>
+            The base stats that the pokemon have
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureViewModel.PokemonAbilities">
+            <summary>
+            The abilities that the pokemon have
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeCreatureViewModel.PokemonTiers">
+            <summary>
+            The tiers in which the pokemon has strategies
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeMoveViewModel">
+            <summary>
+            Represents a move on the endpoints of the Types route
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeMoveViewModel.MoveName">
+            <summary>
+            The move name
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeMoveViewModel.MoveId">
+            <summary>
+            The unique identification for the move
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeMoveViewModel.MoveCategory">
+            <summary>
+            Indicates whether the move is physical, special, or non-damaging
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeMoveViewModel.MovePower">
+            <summary>
+            The damage done by the move
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeMoveViewModel.MoveAccuracy">
+            <summary>
+            The chance that the move has to hit
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeMoveViewModel.MovePP">
+            <summary>
+            The amount of times the move can be used
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeMoveViewModel.MoveDetails">
+            <summary>
+            The description about the effects of the move
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeRelationsViewModel">
+            <summary>
+            Damage relationships with other pokemon types
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeRelationsViewModel.TypeRelationsNoDamageTo">
+            <summary>
+            The pokemon types that are not affected by the searched type
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeRelationsViewModel.TypeRelationsHalfDamageTo">
+            <summary>
+            The pokemon types that take half damage by the searched type
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeRelationsViewModel.TypeRelationsDoubleDamageTo">
+            <summary>
+            The pokemon types that take double damage by the researched type
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeRelationsViewModel.TypeRelationsNoDamageFrom">
+            <summary>
+            The pokemon types that don't affect the searched type
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeRelationsViewModel.TypeRelationsHalfDamageFrom">
+            <summary>
+            The pokemon types that deal half damage on the searched type
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Types.PokemonTypeRelationsViewModel.TypeRelationsDoubleDamageFrom">
+            <summary>
+            The pokemon types that deal double the damage on the searched type
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserContactsViewModel">
+            <summary>
+            Represents the contacts of a user
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserContactsViewModel.Id">
+            <summary>
+            The user contact unique identification.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserContactsViewModel.Description">
+            <summary>
+            The description of the user's contact (link, username, etc.).
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserContactsViewModel.Type">
+            <summary>
+            The user's contact type. Can have one of the following values: 0 (Facebook), 1 (Twitter), 2 (Instagram), 3 (Reddit), 4 (Github) and 5 (Website).
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserContactsViewModel.ApplicationUser">
+            <summary>
+            The user who owns the contacts
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserContactViewModel">
+            <summary>
+            Represents an user contact
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserContactViewModel.Id">
+            <summary>
+            The user contact unique identification.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserContactViewModel.Description">
+            <summary>
+            The description of the user's contact (link, username, etc.).
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserContactViewModel.Type">
+            <summary>
+            The user's contact type. Can have one of the following values: 0 (Facebook), 1 (Twitter), 2 (Instagram), 3 (Reddit), 4 (Github) and 5 (Website).
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserContactViewModel.ApplicationUser">
+            <summary>
+            The user who owns the contact
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserViewModel">
+            <summary>
+            Represents the User returned from the endpoint GetUserByName
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserViewModel.UserName">
+            <summary>
+            The name of the searched user
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserViewModel.Nintendo3dsFriendCode">
+            <summary>
+            User's friend code on Nintendo 3DS
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserViewModel.NintendoSwitchFriendCode">
+            <summary>
+            User's friend code on Nintendo Switch
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserViewModel.ShowdownNickname">
+            <summary>
+            The name of the user searched in PlayPokemonShowdown
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.GetUserViewModel.ApplicationContacts">
+            <summary>
+            Additional contacts of the searched user
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.LoginViewModel">
+            <summary>
+            Represents the data required for a user to login and obtain a token to access API resources
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.LoginViewModel.UserName">
+            <summary>
+            The name as the user is identified.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.LoginViewModel.Password">
+            <summary>
+            The password required to authenticate to the API.
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserContactViewModel">
+            <summary>
+            Represents additional user contacts available for registration
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserContactViewModel.Description">
+            <summary>
+            The description of the user's contact (link, username, etc.).
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserContactViewModel.Type">
+            <summary>
+            The user's contact type. Must have one of the following values: 0 (Facebook), 1 (Twitter), 2 (Instagram), 3 (Reddit), 4 (Github) and 5 (Website).
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserViewModel">
+            <summary>
+            Represents the registration data required for a user to register and obtain a token to access API resources
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserViewModel.UserName">
+            <summary>
+            The name as the user will be identified. It needs to be unique.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserViewModel.Email">
+            <summary>
+            The user's primary email. It needs to be unique.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserViewModel.Password">
+            <summary>
+            The password required to authenticate to the API. Must have at least one uppercase letter, one lowercase letter, one number and one special character.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserViewModel.ConfirmPassword">
+            <summary>
+            Retry of the password required to authenticate to the API.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserViewModel.Nintendo3dsFriendCode">
+            <summary>
+            User's Friend Code number on Nintendo 3DS.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserViewModel.NintendoSwitchFriendCode">
+            <summary>
+            User's Friend Code number on Nintendo Switch.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserViewModel.ShowdownNickname">
+            <summary>
+            The username in PlayPokemonShowdown.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserViewModel.ShowProfile">
+            <summary>
+            Informs whether non-sensitive registration data will be visible to other users.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RegisterUserViewModel.ApplicationContacts">
+            <summary>
+            Additional user contacts on other platforms.
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RemoveUserContactViewModel">
+            <summary>
+            Represents the data required for a user to remove one of their contacts
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.RemoveUserContactViewModel.Type">
+            <summary>
+            The user's contact type to be removed. Must have one of the following values: 0 (Facebook), 1 (Twitter), 2 (Instagram), 3 (Reddit), 4 (Github) and 5 (Website).
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUser3DsFriendCodeViewModel">
+            <summary>
+            Represents the data required for a user to update its Nintendo 3ds Friend Code
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUser3DsFriendCodeViewModel.Nintendo3dsFriendCode">
+            <summary>
+            User's Friend Code number on Nintendo 3DS.
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserContactViewModel">
+            <summary>
+            Represents the data required for a user to update one of their contacts
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserContactViewModel.Description">
+            <summary>
+            The description of the user's contact (link, username, etc.).
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserContactViewModel.Type">
+            <summary>
+            The user's contact type. Must have one of the following values: 0 (Facebook), 1 (Twitter), 2 (Instagram), 3 (Reddit), 4 (Github) and 5 (Website).
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserMainInfoViewModel">
+            <summary>
+            Represents the data required for a user to update its main registration info
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserMainInfoViewModel.Nintendo3dsFriendCode">
+            <summary>
+            User's Friend Code number on Nintendo 3DS.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserMainInfoViewModel.NintendoSwitchFriendCode">
+            <summary>
+            User's Friend Code number on Nintendo Switch.
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserMainInfoViewModel.ShowdownNickname">
+            <summary>
+            The username in PlayPokemonShowdown.
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserShowdownNicknameViewModel">
+            <summary>
+            Represents the data required for a user to update their showdown nickname
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserShowdownNicknameViewModel.ShowdownNickname">
+            <summary>
+            The username in PlayPokemonShowdown.
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserSwitchFriendCodeViewModel">
+            <summary>
+            Represents the data required for a user to update its Nintendo Switch Friend Code
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UpdateUserSwitchFriendCodeViewModel.NintendoSwitchFriendCode">
+            <summary>
+            User's Friend Code number on Nintendo Switch.
+            </summary>
+        </member>
+        <member name="T:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UserOwnerContact">
+            <summary>
+            Represents the user who owns a contact
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UserOwnerContact.UserName">
+            <summary>
+            The name of the searched user
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UserOwnerContact.Nintendo3dsFriendCode">
+            <summary>
+            User's friend code on Nintendo 3DS
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UserOwnerContact.NintendoSwitchFriendCode">
+            <summary>
+            User's friend code on Nintendo Switch
+            </summary>
+        </member>
+        <member name="P:EighthGenerationCompetitive.Api.V1.ViewModels.Users.UserOwnerContact.ShowdownNickname">
+            <summary>
+            The name of the user searched in PlayPokemonShowdown
+            </summary>
+        </member>
+    </members>
+</doc>

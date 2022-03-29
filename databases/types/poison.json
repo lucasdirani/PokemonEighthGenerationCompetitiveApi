@@ -1,0 +1,749 @@
+﻿[
+  {
+    "typeName": "Poison",
+    "typeId": "/types/poison",
+    "typePokemon": [
+      {
+        "pokemonName": "Nidoqueen",
+        "pokemonId": "/pokemon/nidoqueen",
+        "pokemonTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 90
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 92
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 87
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 76
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Poison Point",
+            "abilityId": "/abilities/poison-point",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be poisoned."
+          },
+          {
+            "abilityName": "Rivalry",
+            "abilityId": "/abilities/rivalry",
+            "abilityDetails": "This Pokemon's attacks do 1.25x on same gender targets; 0.75x on opposite gender."
+          },
+          {
+            "abilityName": "Sheer Force",
+            "abilityId": "/abilities/sheer-force",
+            "abilityDetails": "This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Nidoking",
+        "pokemonId": "/pokemon/nidoking",
+        "pokemonTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Ground",
+            "typeId": "/types/ground"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 81
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 102
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 77
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 85
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Poison Point",
+            "abilityId": "/abilities/poison-point",
+            "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be poisoned."
+          },
+          {
+            "abilityName": "Rivalry",
+            "abilityId": "/abilities/rivalry",
+            "abilityDetails": "This Pokemon's attacks do 1.25x on same gender targets; 0.75x on opposite gender."
+          },
+          {
+            "abilityName": "Sheer Force",
+            "abilityId": "/abilities/sheer-force",
+            "abilityDetails": "This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Tentacruel",
+        "pokemonId": "/pokemon/tentacruel",
+        "pokemonTypes": [
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          },
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 120
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 100
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Liquid Ooze",
+            "abilityId": "/abilities/liquid-ooze",
+            "abilityDetails": "This Pokemon damages those draining HP from it for as much as they would heal."
+          },
+          {
+            "abilityName": "Clear Body",
+            "abilityId": "/abilities/clear-body",
+            "abilityDetails": "Prevents other Pokemon from lowering this Pokemon's stat stages."
+          },
+          {
+            "abilityName": "Rain Dish",
+            "abilityId": "/abilities/rain-dish",
+            "abilityDetails": "If Rain Dance is active, this Pokemon heals 1/16 of its max HP each turn."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Amoonguss",
+        "pokemonId": "/pokemon/amoonguss",
+        "pokemonTypes": [
+          {
+            "typeName": "Grass",
+            "typeId": "/types/grass"
+          },
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 114
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 70
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 85
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 30
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Effect Spore",
+            "abilityId": "/abilities/effect-spore",
+            "abilityDetails": "30% chance of poison/paralysis/sleep on others making contact with this Pokemon."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Toxapex",
+        "pokemonId": "/pokemon/toxapex",
+        "pokemonTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Water",
+            "typeId": "/types/water"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 63
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 152
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 142
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 35
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Limber",
+            "abilityId": "/abilities/limber",
+            "abilityDetails": "This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          },
+          {
+            "abilityName": "Merciless",
+            "abilityId": "/abilities/merciless",
+            "abilityDetails": "This Pokemon's attacks are critical hits if the target is poisoned."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Nihilego",
+        "pokemonId": "/pokemon/nihilego",
+        "pokemonTypes": [
+          {
+            "typeName": "Rock",
+            "typeId": "/types/rock"
+          },
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 109
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 53
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 47
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 127
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 131
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 103
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Beast Boost",
+            "abilityId": "/abilities/beast-boost",
+            "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Slowking-Galar",
+        "pokemonFormId": "/pokemon-forms/slowking-galar",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Poison",
+            "typeId": "/types/poison"
+          },
+          {
+            "typeName": "Psychic",
+            "typeId": "/types/psychic"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 95
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 65
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 80
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 110
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 30
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Own Tempo",
+            "abilityId": "/abilities/own-tempo",
+            "abilityDetails": "This Pokemon cannot be confused. Immune to Intimidate."
+          },
+          {
+            "abilityName": "Regenerator",
+            "abilityId": "/abilities/regenerator",
+            "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+          },
+          {
+            "abilityName": "Curious Medicine",
+            "abilityId": "/abilities/curious-medicine",
+            "abilityDetails": "On switch-in, this Pokemon's allies have their stat stages reset to 0."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Acid",
+        "moveId": "/moves/acid",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "10% chance to lower the foe(s) Sp. Def by 1."
+      },
+      {
+        "moveName": "Poison Sting",
+        "moveId": "/moves/poison-sting",
+        "moveCategory": "Physical",
+        "movePower": 15,
+        "moveAccuracy": 100,
+        "movePP": 35,
+        "moveDetails": "30% chance to poison the target."
+      },
+      {
+        "moveName": "Sludge",
+        "moveId": "/moves/sludge",
+        "moveCategory": "Special",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "30% chance to poison the target."
+      },
+      {
+        "moveName": "Poison Gas",
+        "moveId": "/moves/poison-gas",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 90,
+        "movePP": 40,
+        "moveDetails": "Poisons the foe(s)."
+      },
+      {
+        "moveName": "Poison Powder",
+        "moveId": "/moves/poison-powder",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 75,
+        "movePP": 35,
+        "moveDetails": "Poisons the target."
+      },
+      {
+        "moveName": "Toxic",
+        "moveId": "/moves/toxic",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Badly poisons the target. Poison types can't miss."
+      },
+      {
+        "moveName": "Acid Armor",
+        "moveId": "/moves/acid-armor",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises the user's Defense by 2."
+      },
+      {
+        "moveName": "Smog",
+        "moveId": "/moves/smog",
+        "moveCategory": "Special",
+        "movePower": 30,
+        "moveAccuracy": 70,
+        "movePP": 20,
+        "moveDetails": "40% chance to poison the target."
+      },
+      {
+        "moveName": "Sludge Bomb",
+        "moveId": "/moves/sludge-bomb",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "30% chance to poison the target."
+      },
+      {
+        "moveName": "Poison Fang",
+        "moveId": "/moves/poison-fang",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "50% chance to badly poison the target."
+      },
+      {
+        "moveName": "Poison Tail",
+        "moveId": "/moves/poison-tail",
+        "moveCategory": "Physical",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "movePP": 25,
+        "moveDetails": "High critical hit ratio. 10% chance to poison."
+      },
+      {
+        "moveName": "Toxic Spikes",
+        "moveId": "/moves/toxic-spikes",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Poisons grounded foes on switch-in. Max 2 layers."
+      },
+      {
+        "moveName": "Gunk Shot",
+        "moveId": "/moves/gunk-shot",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 80,
+        "movePP": 5,
+        "moveDetails": "30% chance to poison the target."
+      },
+      {
+        "moveName": "Cross Poison",
+        "moveId": "/moves/cross-poison",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "High critical hit ratio. 10% chance to poison."
+      },
+      {
+        "moveName": "Gastro Acid",
+        "moveId": "/moves/gastro-acid",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Nullifies the target's Ability."
+      },
+      {
+        "moveName": "Poison Jab",
+        "moveId": "/moves/poison-jab",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "30% chance to poison the target."
+      },
+      {
+        "moveName": "Acid Spray",
+        "moveId": "/moves/acid-spray",
+        "moveCategory": "Special",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "100% chance to lower the target's Sp. Def by 2."
+      },
+      {
+        "moveName": "Clear Smog",
+        "moveId": "/moves/clear-smog",
+        "moveCategory": "Special",
+        "movePower": 50,
+        "movePP": 15,
+        "moveDetails": "Resets all of the target's stat stages to 0."
+      },
+      {
+        "moveName": "Coil",
+        "moveId": "/moves/coil",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Raises user's Attack, Defense, accuracy by 1."
+      },
+      {
+        "moveName": "Sludge Wave",
+        "moveId": "/moves/sludge-wave",
+        "moveCategory": "Special",
+        "movePower": 95,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "10% chance to poison adjacent Pokemon."
+      },
+      {
+        "moveName": "Venoshock",
+        "moveId": "/moves/venoshock",
+        "moveCategory": "Special",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Power doubles if the target is poisoned."
+      },
+      {
+        "moveName": "Belch",
+        "moveId": "/moves/belch",
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 90,
+        "movePP": 10,
+        "moveDetails": "Cannot be selected until the user eats a Berry."
+      },
+      {
+        "moveName": "Venom Drench",
+        "moveId": "/moves/venom-drench",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Lowers Atk/Sp. Atk/Speed of poisoned foes by 1."
+      },
+      {
+        "moveName": "Baneful Bunker",
+        "moveId": "/moves/baneful-bunker",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Protects from moves. Contact: poison."
+      },
+      {
+        "moveName": "Purify",
+        "moveId": "/moves/purify",
+        "moveCategory": "Non-Damaging",
+        "movePP": 20,
+        "moveDetails": "Cures target's status; heals user 1/2 max HP if so."
+      },
+      {
+        "moveName": "Corrosive Gas",
+        "moveId": "/moves/corrosive-gas",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 40,
+        "moveDetails": "Removes adjacent Pokemon's held items."
+      },
+      {
+        "moveName": "G-Max Malodor",
+        "moveId": "/moves/g-max-malodor",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 5,
+        "moveDetails": "Base move affects power. Foes: poisoned."
+      },
+      {
+        "moveName": "Max Ooze",
+        "moveId": "/moves/max-ooze",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Allies: +1 Sp. Atk."
+      },
+      {
+        "moveName": "Shell Side Arm",
+        "moveId": "/moves/shell-side-arm",
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "20% psn. Physical+contact if it would be stronger."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [
+        {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        }
+      ],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Ghost",
+          "typeId": "/types/ghost"
+        },
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        }
+      ]
+    }
+  }
+]

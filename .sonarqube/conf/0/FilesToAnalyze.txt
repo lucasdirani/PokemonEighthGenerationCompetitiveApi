@@ -1,0 +1,6 @@
+﻿C:\Users\lucas\Dropbox\Web API\Pokemon Competitive API\EighthGenerationSmogonCompetitivePokemon\src\EighthGenerationCompetitive.Utils\Cryptography\Sha1Crypto.cs
+C:\Users\lucas\Dropbox\Web API\Pokemon Competitive API\EighthGenerationSmogonCompetitivePokemon\src\EighthGenerationCompetitive.Utils\Extensions\ByteExtensions.cs
+C:\Users\lucas\Dropbox\Web API\Pokemon Competitive API\EighthGenerationSmogonCompetitivePokemon\src\EighthGenerationCompetitive.Utils\Extensions\DateTimeExtensions.cs
+C:\Users\lucas\Dropbox\Web API\Pokemon Competitive API\EighthGenerationSmogonCompetitivePokemon\src\EighthGenerationCompetitive.Utils\Extensions\GenericExtensions.cs
+C:\Users\lucas\Dropbox\Web API\Pokemon Competitive API\EighthGenerationSmogonCompetitivePokemon\src\EighthGenerationCompetitive.Utils\Extensions\LongExtensions.cs
+C:\Users\lucas\Dropbox\Web API\Pokemon Competitive API\EighthGenerationSmogonCompetitivePokemon\src\EighthGenerationCompetitive.Utils\Extensions\StringExtensions.cs

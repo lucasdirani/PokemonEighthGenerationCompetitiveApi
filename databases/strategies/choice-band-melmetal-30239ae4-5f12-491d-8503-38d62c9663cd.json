@@ -1,0 +1,226 @@
+﻿{
+  "strategyName": "Choice Band",
+  "strategyId": "/strategies/choice-band?pokemon=melmetal&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Melmetal",
+    "pokemonId": "/pokemon/melmetal",
+    "pokemonTypes": [
+      {
+        "typeName": "Steel",
+        "typeId": "/types/steel"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 135
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 143
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 143
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 65
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 34
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Iron Fist",
+        "abilityId": "/abilities/iron-fist",
+        "abilityDetails": "This Pokemon's punch-based attacks have 1.2x power. Sucker Punch is not boosted."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:42.581638Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Choice Band",
+      "itemId": "/items/choice-band",
+      "itemDetails": "Holder's Attack is 1.5x, but it can only select the first move it executes."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Iron Fist",
+      "abilityId": "/abilities/iron-fist",
+      "abilityDetails": "This Pokemon's punch-based attacks have 1.2x power. Sucker Punch is not boosted."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Adamant",
+      "natureId": "/natures/adamant",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Attack" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 32
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 224
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Double Iron Bash",
+        "moveId": "/moves/double-iron-bash",
+        "moveType": {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "moveAccuracy": 100,
+        "moveDetails": "Hits twice. 30% chance to make the target flinch."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Earthquake",
+        "moveId": "/moves/earthquake",
+        "moveType": {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "moveDetails": "Hits adjacent Pokemon. Double damage on Dig."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Superpower",
+        "moveId": "/moves/superpower",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "moveDetails": "Lowers the user's Attack and Defense by 1."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Thunder Punch",
+        "moveId": "/moves/thunder-punch",
+        "moveType": {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to paralyze the target."
+      },
+      {
+        "moveName": "Ice Punch",
+        "moveId": "/moves/ice-punch",
+        "moveType": {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to freeze the target."
+      },
+      {
+        "moveName": "Toxic",
+        "moveId": "/moves/toxic",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 90,
+        "moveDetails": "Badly poisons the target. Poison types can't miss."
+      }
+    ]
+  }
+}

@@ -1,0 +1,438 @@
+﻿[
+  {
+    "typeName": "Ghost",
+    "typeId": "/types/ghost",
+    "typePokemon": [
+      {
+        "pokemonName": "Aegislash",
+        "pokemonId": "/pokemon/aegislash",
+        "pokemonTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Ghost",
+            "typeId": "/types/ghost"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Stance Change",
+            "abilityId": "/abilities/stance-change",
+            "abilityDetails": "If Aegislash, changes Forme to Blade before attacks and Shield before King's Shield."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      },
+      {
+        "pokemonName": "Dragapult",
+        "pokemonId": "/pokemon/dragapult",
+        "pokemonTypes": [
+          {
+            "typeName": "Dragon",
+            "typeId": "/types/dragon"
+          },
+          {
+            "typeName": "Ghost",
+            "typeId": "/types/ghost"
+          }
+        ],
+        "pokemonBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 88
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 120
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 100
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 75
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 142
+          }
+        ],
+        "pokemonAbilities": [
+          {
+            "abilityName": "Clear Body",
+            "abilityId": "/abilities/clear-body",
+            "abilityDetails": "Prevents other Pokemon from lowering this Pokemon's stat stages."
+          },
+          {
+            "abilityName": "Infiltrator",
+            "abilityId": "/abilities/infiltrator",
+            "abilityDetails": "Moves ignore substitutes and foe's Reflect/Light Screen/Safeguard/Mist/Aurora Veil."
+          },
+          {
+            "abilityName": "Cursed Body",
+            "abilityId": "/abilities/cursed-body",
+            "abilityDetails": "If this Pokemon is hit by an attack, there is a 30% chance that move gets disabled."
+          }
+        ],
+        "pokemonTiers": [
+          {
+            "tierName": "OU",
+            "tierId": "/tiers/ou"
+          }
+        ]
+      }
+    ],
+    "typePokemonForms": [
+      {
+        "pokemonFormName": "Aegislash-Blade",
+        "pokemonFormId": "/pokemon-forms/aegislash-blade",
+        "pokemonFormTypes": [
+          {
+            "typeName": "Steel",
+            "typeId": "/types/steel"
+          },
+          {
+            "typeName": "Ghost",
+            "typeId": "/types/ghost"
+          }
+        ],
+        "pokemonFormBaseStats": [
+          {
+            "baseStat": { "statName": "HP" },
+            "baseStatNumber": 60
+          },
+          {
+            "baseStat": { "statName": "Attack" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Defense" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Special Attack" },
+            "baseStatNumber": 140
+          },
+          {
+            "baseStat": { "statName": "Special Defense" },
+            "baseStatNumber": 50
+          },
+          {
+            "baseStat": { "statName": "Speed" },
+            "baseStatNumber": 60
+          }
+        ],
+        "pokemonFormAbilities": [
+          {
+            "abilityName": "Stance Change",
+            "abilityId": "/abilities/stance-change",
+            "abilityDetails": "If Aegislash, changes Forme to Blade before attacks and Shield before King's Shield."
+          }
+        ],
+        "pokemonFormTiers": [
+          {
+            "tierName": "UU",
+            "tierId": "/tiers/uu"
+          }
+        ]
+      }
+    ],
+    "typeMoves": [
+      {
+        "moveName": "Night Shade",
+        "moveId": "/moves/night-shade",
+        "moveCategory": "Special",
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "Does damage equal to the user's level."
+      },
+      {
+        "moveName": "Lick",
+        "moveId": "/moves/lick",
+        "moveCategory": "Physical",
+        "movePower": 30,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "30% chance to paralyze the target."
+      },
+      {
+        "moveName": "Confuse Ray",
+        "moveId": "/moves/confuse-ray",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Confuses the target."
+      },
+      {
+        "moveName": "Curse",
+        "moveId": "/moves/curse",
+        "moveCategory": "Non-Damaging",
+        "movePP": 10,
+        "moveDetails": "Curses if Ghost, else -1 Spe, +1 Atk, +1 Def."
+      },
+      {
+        "moveName": "Spite",
+        "moveId": "/moves/spite",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Lowers the PP of the target's last move by 4."
+      },
+      {
+        "moveName": "Destiny Bond",
+        "moveId": "/moves/destiny-bond",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "If an opponent knocks out the user, it also faints."
+      },
+      {
+        "moveName": "Shadow Ball",
+        "moveId": "/moves/shadow-ball",
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "20% chance to lower the target's Sp. Def by 1."
+      },
+      {
+        "moveName": "Astonish",
+        "moveId": "/moves/astonish",
+        "moveCategory": "Physical",
+        "movePower": 30,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "30% chance to make the target flinch."
+      },
+      {
+        "moveName": "Grudge",
+        "moveId": "/moves/grudge",
+        "moveCategory": "Non-Damaging",
+        "movePP": 5,
+        "moveDetails": "If the user faints, the attack used loses all its PP."
+      },
+      {
+        "moveName": "Shadow Punch",
+        "moveId": "/moves/shadow-punch",
+        "moveCategory": "Physical",
+        "movePower": 60,
+        "movePP": 20,
+        "moveDetails": "This move does not check accuracy."
+      },
+      {
+        "moveName": "Shadow Claw",
+        "moveId": "/moves/shadow-claw",
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "movePP": 15,
+        "moveDetails": "High critical hit ratio."
+      },
+      {
+        "moveName": "Shadow Force",
+        "moveId": "/moves/shadow-force",
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Disappears turn 1. Hits turn 2. Breaks protection."
+      },
+      {
+        "moveName": "Shadow Sneak",
+        "moveId": "/moves/shadow-sneak",
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "movePP": 30,
+        "moveDetails": "Usually goes first."
+      },
+      {
+        "moveName": "Hex",
+        "moveId": "/moves/hex",
+        "moveCategory": "Special",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Power doubles if the target has a status ailment."
+      },
+      {
+        "moveName": "Phantom Force",
+        "moveId": "/moves/phantom-force",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Disappears turn 1. Hits turn 2. Breaks protection."
+      },
+      {
+        "moveName": "Trick-or-Treat",
+        "moveId": "/moves/trick-or-treat",
+        "moveCategory": "Non-Damaging",
+        "moveAccuracy": 100,
+        "movePP": 20,
+        "moveDetails": "Adds Ghost to the target's type(s)."
+      },
+      {
+        "moveName": "Moongeist Beam",
+        "moveId": "/moves/moongeist-beam",
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "Ignores the Abilities of other Pokemon."
+      },
+      {
+        "moveName": "Shadow Bone",
+        "moveId": "/moves/shadow-bone",
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "20% chance to lower the target's Defense by 1."
+      },
+      {
+        "moveName": "Spectral Thief",
+        "moveId": "/moves/spectral-thief",
+        "moveCategory": "Physical",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Steals target's boosts before dealing damage."
+      },
+      {
+        "moveName": "Spirit Shackle",
+        "moveId": "/moves/spirit-shackle",
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "movePP": 10,
+        "moveDetails": "Prevents the target from switching out."
+      },
+      {
+        "moveName": "Astral Barrage",
+        "moveId": "/moves/astral-barrage",
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "movePP": 5,
+        "moveDetails": "No additional effect. Hits adjacent foes."
+      },
+      {
+        "moveName": "G-Max Terror",
+        "moveId": "/moves/g-max-terror",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Foes: trapped."
+      },
+      {
+        "moveName": "Max Phantasm",
+        "moveId": "/moves/max-phantasm",
+        "moveCategory": "Physical",
+        "movePower": 10,
+        "movePP": 10,
+        "moveDetails": "Base move affects power. Foes: -1 Defense."
+      },
+      {
+        "moveName": "Poltergeist",
+        "moveId": "/moves/poltergeist",
+        "moveCategory": "Physical",
+        "movePower": 110,
+        "moveAccuracy": 90,
+        "movePP": 5,
+        "moveDetails": "Fails if the target has no held item."
+      }
+    ],
+    "typeRelations": {
+      "typeRelationsNoDamageTo": [
+        {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        }
+      ],
+      "typeRelationsHalfDamageTo": [
+        {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        }
+      ],
+      "typeRelationsDoubleDamageTo": [
+        {
+          "typeName": "Ghost",
+          "typeId": "/types/ghost"
+        },
+        {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        }
+      ],
+      "typeRelationsNoDamageFrom": [
+        {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        }
+      ],
+      "typeRelationsHalfDamageFrom": [
+        {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        }
+      ],
+      "typeRelationsDoubleDamageFrom": [
+        {
+          "typeName": "Ghost",
+          "typeId": "/types/ghost"
+        },
+        {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        }
+      ]
+    }
+  }
+]

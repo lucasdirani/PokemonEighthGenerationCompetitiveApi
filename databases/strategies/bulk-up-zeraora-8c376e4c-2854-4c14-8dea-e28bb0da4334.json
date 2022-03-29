@@ -1,0 +1,293 @@
+﻿{
+  "strategyName": "Bulk Up",
+  "strategyId": "/strategies/bulk-up?pokemon=zeraora&tier=ou",
+  "strategyDetails": "Bulk Up Zeraora is a very dangerous wincon. Its unparalleled Speed tier allowing it to outspeed the entire unboosted metagame alongside its amazing coverage make Zeraora extremely hard to deal with and revenge kill once it has enough boosts, and its ability to force out common Pokemon such as Slowking, Corviknight, and Tornadus-T gives it many setup opportunities. Knock Off is important for hitting Dragapult super effectively. Close Combat is great for hitting targets such as Hydreigon, Heatran, Ferrothorn, and Kyurem for super effective damage, as they would otherwise resist or take very little damage from both its aforementioned moves. Bulk Up Zeraora mainly fits on offensive teams, as the support offensive teams provide for Zeraora such as entry hazards and pivoting can give it more setup opportunities. Dual screens Tapu Koko is a great partner for it, as not only does the dual screens and pivoting support give Zeraora more setup opportunities, but the Electric Terrain increases the power of Plasma Fists, making it harder to wall. Suicide leads such as Landorus-T and Mew are very useful partners for Zeraora, as the entry hazards they provide can allow Zeraora to apply more pressure to the opposing team. Rillaboom is an excellent partner for Bulk Up Zeraora, as Grassy Terrain halves the power of Earthquake from the likes of Garchomp, Landorus-T, and Hippowdon; furthermore, Rillaboom can revenge kill Excadrill in sand, while Zeraora can heavily pressure Pokemon that Rillaboom may struggle with, such as Corviknight, Dragapult, and Skarmory.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Zeraora",
+    "pokemonId": "/pokemon/zeraora",
+    "pokemonTypes": [
+      {
+        "typeName": "Electric",
+        "typeId": "/types/electric"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 88
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 112
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 75
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 102
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 143
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Volt Absorb",
+        "abilityId": "/abilities/volt-absorb",
+        "abilityDetails": "This Pokemon heals 1/4 of its max HP when hit by Electric moves; Electric immunity."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:50.5665421Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Heavy-Duty Boots",
+      "itemId": "/items/heavy-duty-boots",
+      "itemDetails": "When switching in, the holder is unaffected by hazards on its side of the field."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Volt Absorb",
+      "abilityId": "/abilities/volt-absorb",
+      "abilityDetails": "This Pokemon heals 1/4 of its max HP when hit by Electric moves; Electric immunity."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Jolly",
+      "natureId": "/natures/jolly",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=tapu-koko&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=mew&tier=ou",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/cosmic-power?pokemon=mew&tier=ou",
+      "strategyName": "Cosmic Power"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=mew&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/special-wall?pokemon=hippowdon&tier=ou",
+      "strategyName": "Special Wall"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=ou",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=ou",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=swampert&tier=ou",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Bulk Up",
+        "moveId": "/moves/bulk-up",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Attack and Defense by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Plasma Fists",
+        "moveId": "/moves/plasma-fists",
+        "moveType": {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "moveDetails": "Normal moves become Electric type this turn."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Close Combat",
+        "moveId": "/moves/close-combat",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "moveDetails": "Lowers the user's Defense and Sp. Def by 1."
+      }
+    ]
+  }
+}
