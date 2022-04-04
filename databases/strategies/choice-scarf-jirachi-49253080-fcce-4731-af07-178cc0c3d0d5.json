@@ -1,1 +1,218 @@
-﻿{"strategyName":"Choice Scarf","strategyId":"/strategies/choice-scarf?pokemon=jirachi&tier=ou","strategyDetails":"<p>These are sample sets before we work on <a href=\"https://www.smogon.com/forums/forums/ou-analyses.538/\">new analyses</a> for the Crown Tundra meta. Stay tuned!</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Jirachi","pokemonId":"/pokemon/jirachi","pokemonTypes":[{"typeName":"Steel","typeId":"/types/steel"},{"typeName":"Psychic","typeId":"/types/psychic"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":100},{"baseStat":{"statName":"Attack"},"baseStatNumber":100},{"baseStat":{"statName":"Defense"},"baseStatNumber":100},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":100},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":100},{"baseStat":{"statName":"Speed"},"baseStatNumber":100}],"pokemonAbilities":[{"abilityName":"Serene Grace","abilityId":"/abilities/serene-grace","abilityDetails":"This Pokemon's moves have their secondary effect chance doubled."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:27.3710257Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Choice Scarf","itemId":"/items/choice-scarf","itemDetails":"Holder's Speed is 1.5x, but it can only select the first move it executes."}],"strategyAbilities":[{"abilityName":"Serene Grace","abilityId":"/abilities/serene-grace","abilityDetails":"This Pokemon's moves have their secondary effect chance doubled."}],"strategyNatures":[{"natureName":"Jolly","natureId":"/natures/jolly","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Iron Head","moveId":"/moves/iron-head","moveType":{"typeName":"Steel","typeId":"/types/steel"},"moveCategory":"Physical","movePower":80,"moveAccuracy":100,"moveDetails":"30% chance to make the target flinch."}],"strategySecondMoves":[{"moveName":"U-turn","moveId":"/moves/u-turn","moveType":{"typeName":"Bug","typeId":"/types/bug"},"moveCategory":"Physical","movePower":70,"moveAccuracy":100,"moveDetails":"User switches out after damaging the target."}],"strategyThirdMoves":[{"moveName":"Trick","moveId":"/moves/trick","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":100,"moveDetails":"User switches its held item with the target's."}],"strategyFourthMoves":[{"moveName":"Wish","moveId":"/moves/wish","moveType":{"typeName":"Normal","typeId":"/types/normal"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Next turn, 50% of the user's max HP is restored."},{"moveName":"Healing Wish","moveId":"/moves/healing-wish","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"User faints. Next hurt Pokemon is fully healed."}]}}
+﻿{
+  "strategyName": "Choice Scarf",
+  "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Jirachi",
+    "pokemonId": "/pokemon/jirachi",
+    "pokemonTypes": [
+      {
+        "typeName": "Steel",
+        "typeId": "/types/steel"
+      },
+      {
+        "typeName": "Psychic",
+        "typeId": "/types/psychic"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 100
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Serene Grace",
+        "abilityId": "/abilities/serene-grace",
+        "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:27.3710257Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Choice Scarf",
+      "itemId": "/items/choice-scarf",
+      "itemDetails": "Holder's Speed is 1.5x, but it can only select the first move it executes."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Serene Grace",
+      "abilityId": "/abilities/serene-grace",
+      "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Jolly",
+      "natureId": "/natures/jolly",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Iron Head",
+        "moveId": "/moves/iron-head",
+        "moveType": {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to make the target flinch."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "U-turn",
+        "moveId": "/moves/u-turn",
+        "moveType": {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "User switches out after damaging the target."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Trick",
+        "moveId": "/moves/trick",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "User switches its held item with the target's."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Wish",
+        "moveId": "/moves/wish",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Next turn, 50% of the user's max HP is restored."
+      },
+      {
+        "moveName": "Healing Wish",
+        "moveId": "/moves/healing-wish",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "User faints. Next hurt Pokemon is fully healed."
+      }
+    ]
+  }
+}

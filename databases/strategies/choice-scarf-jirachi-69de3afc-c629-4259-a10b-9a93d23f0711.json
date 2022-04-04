@@ -1,1 +1,417 @@
-﻿{"strategyName":"Choice Scarf","strategyId":"/strategies/choice-scarf?pokemon=jirachi&tier=uu","strategyDetails":"<p>Choice Scarf Jirachi is a potent revenge killer, outspeeding threats like <a href=\"/dex/ss/pokemon/lycanroc-dusk\" hreflang=\"en\">Lycanroc-D</a>, <a href=\"/dex/ss/pokemon/azelf\" hreflang=\"en\">Azelf</a>, and +1 Dragon Dance <a href=\"/dex/ss/pokemon/gyarados\" hreflang=\"en\">Gyarados</a>. Iron Head can OHKO Pokemon like <a href=\"/dex/ss/pokemon/nihilego\" hreflang=\"en\">Nihilego</a> and Lycanroc-D and, in conjunction with Serene Grance, possibly break through Pokemon like <a href=\"/dex/ss/pokemon/hydreigon\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a> with flinches. U-turn gets momentum against switch-ins like <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a> and <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a> as well as Pokemon it may not have coverage for like Gyarados and <a href=\"/dex/ss/pokemon/thundurus-therian\" hreflang=\"en\">Thundurus-T</a>. Trick lets Jirachi cripple defensive Pokemon like <a href=\"/dex/ss/pokemon/chansey\" hreflang=\"en\">Chansey</a> and <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a>, but losing Choice Scarf compromises Jirachi's ability to revenge kill Pokemon like Azelf and <a href=\"/dex/ss/pokemon/zarude\" hreflang=\"en\">Zarude</a>, so it should be used wisely. Ice Punch is an option to nail Thundurus-T and <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a>, while Thunder Punch more reliably beats Gyarados and <a href=\"/dex/ss/pokemon/azumarill\" hreflang=\"en\">Azumarill</a>. Zen Headbutt lets Jirachi slam <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/ss/pokemon/conkeldurr\" hreflang=\"en\">Conkeldurr</a>. However, locking into coverage moves leaves Jirachi open to threats like Aegislash and Excadrill. Jirachi can utilize Healing Wish late-game to give a teammate another chance to sweep or defensively answer a threat.</p>\n<p>Choice Scarf Jirachi fits on balance and bulky offense teams, which appreciate its revenge killing capabilities and Healing Wish. Zarude makes an excellent partner for it, completely blanking Slowking and Substitute + Toxic Aegislash , threatening Excadrill, and absorbing status and Knock Off. Amoonguss can also absorb Knock Off and can check faster threats like Choice Scarf Zarude. Wallbreakers like Thundurus-T, Conkeldurr, and Hydreigon can be brought in via U-turn on checks like <a href=\"/dex/ss/pokemon/moltres\" hreflang=\"en\">Moltres</a>, Excadrill, and <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a>. They all can benefit from Healing Wish too. Moltres forms a solid pivoting core with Jirachi, with each bringing the other in on their answers. Moltres also helps check <a href=\"/dex/ss/pokemon/celesteela\" hreflang=\"en\">Celesteela</a>, Excadrill, and Amoonguss, while Jirachi can revenge kill threats like Nihilego and Lycanroc-D. Moltres and Excadrill can provide entry hazard control to keep Jirachi from getting worn down. Entry hazard support from Nihilego and <a href=\"/dex/ss/pokemon/krookodile\" hreflang=\"en\">Krookodile</a> helps Jirachi wear down Pokemon like Primarina and <a href=\"/dex/ss/pokemon/hatterene\" hreflang=\"en\">Hatterene</a> more easily. Nihilego can also check <a href=\"/dex/ss/pokemon/mandibuzz\" hreflang=\"en\">Mandibuzz</a>, while Krookodile can revenge kill Aegislash and Excadrill.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Jirachi","pokemonId":"/pokemon/jirachi","pokemonTypes":[{"typeName":"Steel","typeId":"/types/steel"},{"typeName":"Psychic","typeId":"/types/psychic"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":100},{"baseStat":{"statName":"Attack"},"baseStatNumber":100},{"baseStat":{"statName":"Defense"},"baseStatNumber":100},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":100},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":100},{"baseStat":{"statName":"Speed"},"baseStatNumber":100}],"pokemonAbilities":[{"abilityName":"Serene Grace","abilityId":"/abilities/serene-grace","abilityDetails":"This Pokemon's moves have their secondary effect chance doubled."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:27.3605689Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Choice Scarf","itemId":"/items/choice-scarf","itemDetails":"Holder's Speed is 1.5x, but it can only select the first move it executes."}],"strategyAbilities":[{"abilityName":"Serene Grace","abilityId":"/abilities/serene-grace","abilityDetails":"This Pokemon's moves have their secondary effect chance doubled."}],"strategyNatures":[{"natureName":"Jolly","natureId":"/natures/jolly","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Iron Head","moveId":"/moves/iron-head","moveType":{"typeName":"Steel","typeId":"/types/steel"},"moveCategory":"Physical","movePower":80,"moveAccuracy":100,"moveDetails":"30% chance to make the target flinch."}],"strategySecondMoves":[{"moveName":"U-turn","moveId":"/moves/u-turn","moveType":{"typeName":"Bug","typeId":"/types/bug"},"moveCategory":"Physical","movePower":70,"moveAccuracy":100,"moveDetails":"User switches out after damaging the target."}],"strategyThirdMoves":[{"moveName":"Trick","moveId":"/moves/trick","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":100,"moveDetails":"User switches its held item with the target's."},{"moveName":"Ice Punch","moveId":"/moves/ice-punch","moveType":{"typeName":"Ice","typeId":"/types/ice"},"moveCategory":"Physical","movePower":75,"moveAccuracy":100,"moveDetails":"10% chance to freeze the target."}],"strategyFourthMoves":[{"moveName":"Healing Wish","moveId":"/moves/healing-wish","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"User faints. Next hurt Pokemon is fully healed."}]}}
+﻿{
+  "strategyName": "Choice Scarf",
+  "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+  "strategyDetails": "Choice Scarf Jirachi is a potent revenge killer, outspeeding threats like Lycanroc-D, Azelf, and +1 Dragon Dance Gyarados. Iron Head can OHKO Pokemon like Nihilego and Lycanroc-D and, in conjunction with Serene Grance, possibly break through Pokemon like Hydreigon and Primarina with flinches. U-turn gets momentum against switch-ins like Aegislash and Excadrill as well as Pokemon it may not have coverage for like Gyarados and Thundurus-T. Trick lets Jirachi cripple defensive Pokemon like Chansey and Slowking, but losing Choice Scarf compromises Jirachi's ability to revenge kill Pokemon like Azelf and Zarude, so it should be used wisely. Ice Punch is an option to nail Thundurus-T and Salamence, while Thunder Punch more reliably beats Gyarados and Azumarill. Zen Headbutt lets Jirachi slam Amoonguss and Conkeldurr. However, locking into coverage moves leaves Jirachi open to threats like Aegislash and Excadrill. Jirachi can utilize Healing Wish late-game to give a teammate another chance to sweep or defensively answer a threat. Choice Scarf Jirachi fits on balance and bulky offense teams, which appreciate its revenge killing capabilities and Healing Wish. Zarude makes an excellent partner for it, completely blanking Slowking and Substitute + Toxic Aegislash , threatening Excadrill, and absorbing status and Knock Off. Amoonguss can also absorb Knock Off and can check faster threats like Choice Scarf Zarude. Wallbreakers like Thundurus-T, Conkeldurr, and Hydreigon can be brought in via U-turn on checks like Moltres, Excadrill, and Tangrowth. They all can benefit from Healing Wish too. Moltres forms a solid pivoting core with Jirachi, with each bringing the other in on their answers. Moltres also helps check Celesteela, Excadrill, and Amoonguss, while Jirachi can revenge kill threats like Nihilego and Lycanroc-D. Moltres and Excadrill can provide entry hazard control to keep Jirachi from getting worn down. Entry hazard support from Nihilego and Krookodile helps Jirachi wear down Pokemon like Primarina and Hatterene more easily. Nihilego can also check Mandibuzz, while Krookodile can revenge kill Aegislash and Excadrill.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Jirachi",
+    "pokemonId": "/pokemon/jirachi",
+    "pokemonTypes": [
+      {
+        "typeName": "Steel",
+        "typeId": "/types/steel"
+      },
+      {
+        "typeName": "Psychic",
+        "typeId": "/types/psychic"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 100
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Serene Grace",
+        "abilityId": "/abilities/serene-grace",
+        "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:27.3605689Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Choice Scarf",
+      "itemId": "/items/choice-scarf",
+      "itemDetails": "Holder's Speed is 1.5x, but it can only select the first move it executes."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Serene Grace",
+      "abilityId": "/abilities/serene-grace",
+      "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Jolly",
+      "natureId": "/natures/jolly",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=swampert&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/three-attacks?pokemon=hydreigon&tier=uu",
+      "strategyName": "Three Attacks"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=hydreigon&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=hydreigon&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=mandibuzz&tier=uu",
+      "strategyName": "Physically Defensive"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowking&tier=uu",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=slowking&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=azelf&tier=uu",
+      "strategyName": "Offensive Pivot"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Iron Head",
+        "moveId": "/moves/iron-head",
+        "moveType": {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to make the target flinch."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "U-turn",
+        "moveId": "/moves/u-turn",
+        "moveType": {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "User switches out after damaging the target."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Trick",
+        "moveId": "/moves/trick",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "User switches its held item with the target's."
+      },
+      {
+        "moveName": "Ice Punch",
+        "moveId": "/moves/ice-punch",
+        "moveType": {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to freeze the target."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Healing Wish",
+        "moveId": "/moves/healing-wish",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "User faints. Next hurt Pokemon is fully healed."
+      }
+    ]
+  }
+}
