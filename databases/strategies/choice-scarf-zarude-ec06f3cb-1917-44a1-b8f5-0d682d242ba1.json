@@ -1,1 +1,381 @@
-﻿{"strategyName":"Choice Scarf","strategyId":"/strategies/choice-scarf?pokemon=zarude&tier=uu","strategyDetails":"<p>Zarude's high Speed allows it to be a great user of Choice Scarf that can revenge kill Pokemon such as <a href=\"/dex/ss/pokemon/keldeo\" hreflang=\"en\">Keldeo</a> and <a href=\"/dex/ss/pokemon/azelf\" hreflang=\"en\">Azelf</a> in addition to boosted sweepers such as <a href=\"/dex/ss/pokemon/gyarados\" hreflang=\"en\">Gyarados</a> and Dragon Dance <a href=\"/dex/ss/pokemon/necrozma\" hreflang=\"en\">Necrozma</a>. Power Whip OHKOes <a href=\"/dex/ss/pokemon/lycanroc-dusk\" hreflang=\"en\">Lycanroc-D</a> and Keldeo. Darkest Lariat is Zarude's strongest Dark-type STAB move and can hit <a href=\"/dex/ss/pokemon/jirachi\" hreflang=\"en\">Jirachi</a> and <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a> for good damage. Jungle Healing can get rid of status conditions such as a burn from <a href=\"/dex/ss/pokemon/moltres\" hreflang=\"en\">Moltres</a>'s Flame Body and <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a>'s Scald while regaining HP so that Zarude can be used in the long run in a battle but it is not ideal to lock into. Rock Slide allows Zarude to OHKO Moltres while also dealing good damage to <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a>. U-turn allows Zarude to pivot out on potential switch-ins such as <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a>, <a href=\"/dex/ss/pokemon/celesteela\" hreflang=\"en\">Celesteela</a>, and <a href=\"/dex/ss/pokemon/kommo-o\" hreflang=\"en\">Kommo-o</a>, allowing it to gain momentum.</p>\n<p>Choice Scarf Zarude is an excellent pivot and revenge killer on bulky offense. It appreciates additional pivots such as <a href=\"/dex/ss/pokemon/mienshao\" hreflang=\"en\">Mienshao</a> and <a href=\"/dex/ss/pokemon/rotom-wash\" hreflang=\"en\">Rotom-W</a> that can form VoltTurn cores and pivot out of unfavorable matchups. For example, Mienshao can bring Zarude in on Psychic-types such as <a href=\"/dex/ss/pokemon/reuniclus\" hreflang=\"en\">Reuniclus</a> and <a href=\"/dex/ss/pokemon/slowbro-galar\" hreflang=\"en\">Galarian Slowbro</a>. Entry hazard control allows Zarude to consistently pivot without worrying about hazard damage. Rapid Spin support from <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a> and <a href=\"/dex/ss/pokemon/tentacruel\" hreflang=\"en\">Tentacruel</a> is appreciated, and they can also check threats like <a href=\"/dex/ss/pokemon/tapu-bulu\" hreflang=\"en\">Tapu Bulu</a> and Celesteela. <a href=\"/dex/ss/pokemon/thundurus-therian\" hreflang=\"en\">Thundurus-T</a>, <a href=\"/dex/ss/pokemon/chandelure\" hreflang=\"en\">Chandelure</a>, and <a href=\"/dex/ss/pokemon/nidoking\" hreflang=\"en\">Nidoking</a> are wallbreakers that appreciate Zarude's pivot support and its ability to check Pokemon such as <a href=\"/dex/ss/pokemon/rhyperior\" hreflang=\"en\">Rhyperior</a>, with the wallbreakers KOing Pokemon such as <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a> and Celesteela in return. <a href=\"/dex/ss/pokemon/nidoqueen\" hreflang=\"en\">Nidoqueen</a> is an entry hazard setter that appreciates Zarude dealing with revenge killers like Keldeo, <a href=\"/dex/ss/pokemon/starmie\" hreflang=\"en\">Starmie</a>, and Azelf for it while Nidoqueen can set Stealth Rock in return and also help deal with Pokemon like Tapu Bulu and Tangrowth. <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/ss/pokemon/azumarill\" hreflang=\"en\">Azumarill</a> can help deal with some of Zarude's checks such as Salamence.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Zarude","pokemonId":"/pokemon/zarude","pokemonTypes":[{"typeName":"Dark","typeId":"/types/dark"},{"typeName":"Grass","typeId":"/types/grass"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":105},{"baseStat":{"statName":"Attack"},"baseStatNumber":120},{"baseStat":{"statName":"Defense"},"baseStatNumber":105},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":70},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":95},{"baseStat":{"statName":"Speed"},"baseStatNumber":105}],"pokemonAbilities":[{"abilityName":"Leaf Guard","abilityId":"/abilities/leaf-guard","abilityDetails":"If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."}],"pokemonTiers":[{"tierName":"RU","tierId":"/tiers/ru"}]},"strategyCreationDate":"2022-02-22T11:23:29.787907Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Choice Scarf","itemId":"/items/choice-scarf","itemDetails":"Holder's Speed is 1.5x, but it can only select the first move it executes."}],"strategyAbilities":[{"abilityName":"Leaf Guard","abilityId":"/abilities/leaf-guard","abilityDetails":"If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."}],"strategyNatures":[{"natureName":"Jolly","natureId":"/natures/jolly","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Power Whip","moveId":"/moves/power-whip","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Physical","movePower":120,"moveAccuracy":85,"moveDetails":"No additional effect."}],"strategySecondMoves":[{"moveName":"Darkest Lariat","moveId":"/moves/darkest-lariat","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Physical","movePower":85,"moveAccuracy":100,"moveDetails":"Ignores the target's stat stage changes."}],"strategyThirdMoves":[{"moveName":"Jungle Healing","moveId":"/moves/jungle-healing","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"User and allies: healed 1/4 max HP, status cured."}],"strategyFourthMoves":[{"moveName":"U-turn","moveId":"/moves/u-turn","moveType":{"typeName":"Bug","typeId":"/types/bug"},"moveCategory":"Physical","movePower":70,"moveAccuracy":100,"moveDetails":"User switches out after damaging the target."}]}}
+﻿{
+  "strategyName": "Choice Scarf",
+  "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+  "strategyDetails": "Zarude's high Speed allows it to be a great user of Choice Scarf that can revenge kill Pokemon such as Keldeo and Azelf in addition to boosted sweepers such as Gyarados and Dragon Dance Necrozma. Power Whip OHKOes Lycanroc-D and Keldeo. Darkest Lariat is Zarude's strongest Dark-type STAB move and can hit Jirachi and Aegislash for good damage. Jungle Healing can get rid of status conditions such as a burn from Moltres's Flame Body and Slowking's Scald while regaining HP so that Zarude can be used in the long run in a battle but it is not ideal to lock into. Rock Slide allows Zarude to OHKO Moltres while also dealing good damage to Salamence. Close Combat is able to hit Cobalion, an otherwise easy switch-in, for heavy damage. U-turn allows Zarude to pivot out on potential switch-ins such as Tangrowth and Salamence, allowing it to gain momentum. Choice Scarf Zarude is an excellent pivot and revenge killer on bulky offense. It appreciates additional pivots such as Moltres, Slowking, and Thundurus-T that can form momentum cores and pivot out of unfavorable matchups. For example, Moltres can bring Zarude in on Water-types such as Slowking and Swampert. Entry hazard control from the likes of Salamence, Excadrill, and Mandibuzz allows Zarude to consistently pivot without worrying about hazard damage. They can also check threats like Tapu Bulu and Galarian Moltres. Thundurus-T, Chandelure, and Nidoking are wallbreakers that appreciate Zarude's pivot support and its ability to check Pokemon such as Swampert, with the wallbreakers KOing Pokemon such as Amoonguss and Skarmory in return. Swampert is an entry hazard setter that appreciates Zarude dealing with revenge killers like Keldeo, Gyarados, and Hydreigon for it, while Swampert can set Stealth Rock in return and also help deal with Pokemon like Salamence. Primarina and Azumarill can help deal with some of Zarude's checks such as Salamence.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Zarude",
+    "pokemonId": "/pokemon/zarude",
+    "pokemonTypes": [
+      {
+        "typeName": "Dark",
+        "typeId": "/types/dark"
+      },
+      {
+        "typeName": "Grass",
+        "typeId": "/types/grass"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 120
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 105
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Leaf Guard",
+        "abilityId": "/abilities/leaf-guard",
+        "abilityDetails": "If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "RU",
+        "tierId": "/tiers/ru"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:23:29.787907Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Choice Scarf",
+      "itemId": "/items/choice-scarf",
+      "itemDetails": "Holder's Speed is 1.5x, but it can only select the first move it executes."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Leaf Guard",
+      "abilityId": "/abilities/leaf-guard",
+      "abilityDetails": "If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Jolly",
+      "natureId": "/natures/jolly",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowking&tier=uu",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=slowking&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=mandibuzz&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=swampert&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/double-dance?pokemon=moltres-galar&tier=uu",
+      "strategyName": "Double Dance"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=moltres-galar&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=mandibuzz&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=azelf&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=mamoswine&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/guts-wallbreaker?pokemon=conkeldurr&tier=uu",
+      "strategyName": "Guts Wallbreaker"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Power Whip",
+        "moveId": "/moves/power-whip",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 85,
+        "moveDetails": "No additional effect."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Darkest Lariat",
+        "moveId": "/moves/darkest-lariat",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "moveDetails": "Ignores the target's stat stage changes."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Jungle Healing",
+        "moveId": "/moves/jungle-healing",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "User and allies: healed 1/4 max HP, status cured."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "U-turn",
+        "moveId": "/moves/u-turn",
+        "moveType": {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "User switches out after damaging the target."
+      }
+    ]
+  }
+}

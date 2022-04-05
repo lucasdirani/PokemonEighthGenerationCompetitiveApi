@@ -1,1 +1,362 @@
-﻿{"strategyName":"Choice Scarf","strategyId":"/strategies/choice-scarf?pokemon=tapu-fini&tier=ou","strategyDetails":"<p>With a Choice Scarf, Tapu Fini can outspeed and threaten Pokemon like <a href=\"/dex/ss/pokemon/garchomp\" hreflang=\"en\">Garchomp</a>, <a href=\"/dex/ss/pokemon/tornadus-therian\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/ss/pokemon/dragapult\" hreflang=\"en\">Dragapult</a>. Trick cripples <a href=\"/dex/ss/pokemon/ferrothorn\" hreflang=\"en\">Ferrothorn</a>, <a href=\"/dex/ss/pokemon/blissey\" hreflang=\"en\">Blissey</a>, <a href=\"/dex/ss/pokemon/slowking-galar\" hreflang=\"en\">Galarian Slowking</a>, and <a href=\"/dex/ss/pokemon/toxapex\" hreflang=\"en\">Toxapex</a>, which can switch into Tapu Fini's attacks with ease, and this can help teammates break through them. Taunt might look like a strange choice on a Choice item set, but it prevents Toxapex and <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a> from pivoting into it freely and bulky setup sweepers like bulky <a href=\"/dex/ss/pokemon/volcarona\" hreflang=\"en\">Volcarona</a> and <a href=\"/dex/ss/pokemon/dragonite\" hreflang=\"en\">Dragonite</a> from setting up on it. Defog can be used instead on teams that require situational hazard control. 216 Speed EVs are used to outspeed +1 Dragonite, but the EV spread is customizable; for example, maximum defensive investment can be used if a team has another revenge killer, and Special Attack EVs can allow Tapu Fini to OHKO Pokemon like <a href=\"/dex/ss/pokemon/weavile\" hreflang=\"en\">Weavile</a> and Dragapult.</p>\n<p>This set fits on offensive teams that do not require Tapu Fini's full defensive utility and appreciate the role compression of a revenge killer, situational switch-in to Pokemon like Dragapult, <a href=\"/dex/ss/pokemon/urshifu-rapid-strike\" hreflang=\"en\">Urshifu-R</a>, and Weavile, and potential Defogger. Pokemon that take advantage of Tapu Fini's ability to lure in and cripple Galarian Slowking, Blissey, and Toxapex, such as Volcarona and Nasty Plot Tornadus-T—which also help against <a href=\"/dex/ss/pokemon/rillaboom\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/ss/pokemon/kartana\" hreflang=\"en\">Kartana</a>—are ideal teammates. Ferrothorn can set Spikes to wear down opposing Pokemon into Tapu Fini's KO range and pressure Water-types like Slowking. It also switches into <a href=\"/dex/ss/pokemon/tapu-koko\" hreflang=\"en\">Tapu Koko</a> for it. Ground-types like <a href=\"/dex/ss/pokemon/landorus-therian\" hreflang=\"en\">Landorus-T</a> and Garchomp can switch into Tapu Koko and Galarian Slowking, and they like Tapu Fini's ability to check Weavile and Urshifu-R.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Tapu Fini","pokemonId":"/pokemon/tapu-fini","pokemonTypes":[{"typeName":"Water","typeId":"/types/water"},{"typeName":"Fairy","typeId":"/types/fairy"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":70},{"baseStat":{"statName":"Attack"},"baseStatNumber":75},{"baseStat":{"statName":"Defense"},"baseStatNumber":115},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":95},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":130},{"baseStat":{"statName":"Speed"},"baseStatNumber":85}],"pokemonAbilities":[{"abilityName":"Telepathy","abilityId":"/abilities/telepathy","abilityDetails":"This Pokemon does not take damage from attacks made by its allies."},{"abilityName":"Misty Surge","abilityId":"/abilities/misty-surge","abilityDetails":"On switch-in, this Pokemon summons Misty Terrain."}],"pokemonTiers":[{"tierName":"OU","tierId":"/tiers/ou"}]},"strategyCreationDate":"2022-02-22T11:03:46.8894258Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Choice Scarf","itemId":"/items/choice-scarf","itemDetails":"Holder's Speed is 1.5x, but it can only select the first move it executes."}],"strategyAbilities":[{"abilityName":"Misty Surge","abilityId":"/abilities/misty-surge","abilityDetails":"On switch-in, this Pokemon summons Misty Terrain."}],"strategyNatures":[{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":248},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":44},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":216}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Scald","moveId":"/moves/scald","moveType":{"typeName":"Water","typeId":"/types/water"},"moveCategory":"Special","movePower":80,"moveAccuracy":100,"moveDetails":"30% chance to burn the target. Thaws target."}],"strategySecondMoves":[{"moveName":"Moonblast","moveId":"/moves/moonblast","moveType":{"typeName":"Fairy","typeId":"/types/fairy"},"moveCategory":"Special","movePower":95,"moveAccuracy":100,"moveDetails":"30% chance to lower the target's Sp. Atk by 1."}],"strategyThirdMoves":[{"moveName":"Trick","moveId":"/moves/trick","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":100,"moveDetails":"User switches its held item with the target's."}],"strategyFourthMoves":[{"moveName":"Taunt","moveId":"/moves/taunt","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":100,"moveDetails":"Target can't use status moves its next 3 turns."},{"moveName":"Defog","moveId":"/moves/defog","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"-1 evasion; clears terrain and hazards on both sides."}]}}
+﻿{
+  "strategyName": "Choice Scarf",
+  "strategyId": "/strategies/choice-scarf?pokemon=tapu-fini&tier=ou",
+  "strategyDetails": "With a Choice Scarf, Tapu Fini can outspeed and threaten Pokemon like Garchomp, Tornadus-T, and Dragapult. Trick cripples Ferrothorn, Blissey, Galarian Slowking, and Toxapex, which can switch into Tapu Fini's attacks with ease, and this can help teammates break through them. Taunt might look like a strange choice on a Choice item set, but it prevents Toxapex and Slowking from pivoting into it freely and bulky setup sweepers like bulky Volcarona and Dragonite from setting up on it. Defog can be used instead on teams that require situational hazard control. 216 Speed EVs are used to outspeed +1 Dragonite, but the EV spread is customizable; for example, maximum defensive investment can be used if a team has another revenge killer, and Special Attack EVs can allow Tapu Fini to OHKO Pokemon like Weavile and Dragapult. This set fits on offensive teams that do not require Tapu Fini's full defensive utility and appreciate the role compression of a revenge killer, situational switch-in to Pokemon like Dragapult, Urshifu-R, and Weavile, and potential Defogger. Pokemon that take advantage of Tapu Fini's ability to lure in and cripple Galarian Slowking, Blissey, and Toxapex, such as Volcarona and Nasty Plot Tornadus-T—which also help against Rillaboom and Kartana—are ideal teammates. Ferrothorn can set Spikes to wear down opposing Pokemon into Tapu Fini's KO range and pressure Water-types like Slowking. It also switches into Tapu Koko for it. Ground-types like Landorus-T and Garchomp can switch into Tapu Koko and Galarian Slowking, and they like Tapu Fini's ability to check Weavile and Urshifu-R.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Tapu Fini",
+    "pokemonId": "/pokemon/tapu-fini",
+    "pokemonTypes": [
+      {
+        "typeName": "Water",
+        "typeId": "/types/water"
+      },
+      {
+        "typeName": "Fairy",
+        "typeId": "/types/fairy"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 75
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 115
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 130
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 85
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Telepathy",
+        "abilityId": "/abilities/telepathy",
+        "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+      },
+      {
+        "abilityName": "Misty Surge",
+        "abilityId": "/abilities/misty-surge",
+        "abilityDetails": "On switch-in, this Pokemon summons Misty Terrain."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:46.8894258Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Choice Scarf",
+      "itemId": "/items/choice-scarf",
+      "itemDetails": "Holder's Speed is 1.5x, but it can only select the first move it executes."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Misty Surge",
+      "abilityId": "/abilities/misty-surge",
+      "abilityDetails": "On switch-in, this Pokemon summons Misty Terrain."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 248
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 44
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 216
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/offensive-quiver-dance?pokemon=volcarona&tier=ou",
+      "strategyName": "Offensive Quiver Dance"
+    },
+    {
+      "strategyId": "/strategies/bulky-quiver-dance?pokemon=volcarona&tier=ou",
+      "strategyName": "Bulky Quiver Dance"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=slowking-galar&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/bulk-up?pokemon=zeraora&tier=ou",
+      "strategyName": "Bulk Up"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zeraora&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=tapu-koko&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=melmetal&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=melmetal&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/protect?pokemon=melmetal&tier=ou",
+      "strategyName": "Protect"
+    },
+    {
+      "strategyId": "/strategies/three-attacks-thunder-wave?pokemon=melmetal&tier=ou",
+      "strategyName": "Three Attacks + Thunder Wave"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=corviknight&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowbro&tier=ou",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive-pivot?pokemon=slowking&tier=ou",
+      "strategyName": "Specially Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=clefable&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=clefable&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou",
+      "strategyName": "Choice Band"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Scald",
+        "moveId": "/moves/scald",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to burn the target. Thaws target."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Moonblast",
+        "moveId": "/moves/moonblast",
+        "moveType": {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        "moveCategory": "Special",
+        "movePower": 95,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to lower the target's Sp. Atk by 1."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Trick",
+        "moveId": "/moves/trick",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "User switches its held item with the target's."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Taunt",
+        "moveId": "/moves/taunt",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "Target can't use status moves its next 3 turns."
+      },
+      {
+        "moveName": "Defog",
+        "moveId": "/moves/defog",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "-1 evasion; clears terrain and hazards on both sides."
+      }
+    ]
+  }
+}
