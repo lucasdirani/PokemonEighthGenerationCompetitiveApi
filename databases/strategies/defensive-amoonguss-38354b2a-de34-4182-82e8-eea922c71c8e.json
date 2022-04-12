@@ -1,1 +1,240 @@
-﻿{"strategyName":"Defensive","strategyId":"/strategies/defensive?pokemon=amoonguss&tier=ou","strategyDetails":"<p>Regenerator in tandem with solid defensive stats and typing makes Amoonguss a fine defensive pivot and a nice check to the likes of <a href=\"/dex/ss/pokemon/clefable\" hreflang=\"en\">Clefable</a>, <a href=\"/dex/ss/pokemon/zeraora\" hreflang=\"en\">Zeraora</a>, and <a href=\"/dex/ss/pokemon/rillaboom\" hreflang=\"en\">Rillaboom</a>. Since it has access to all of Spore, Toxic, and Stun Spore, it is not easy to switch into either. It fits best on balance teams looking for a sturdy check to Zeraora. <a href=\"/dex/ss/pokemon/slowbro\" hreflang=\"en\">Slowbro</a> is one of Amoonguss's most common partners to form a Regenerator core, and it is able to check threats like <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a> and <a href=\"/dex/ss/pokemon/alakazam\" hreflang=\"en\">Alakazam</a>.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Amoonguss","pokemonId":"/pokemon/amoonguss","pokemonTypes":[{"typeName":"Grass","typeId":"/types/grass"},{"typeName":"Poison","typeId":"/types/poison"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":114},{"baseStat":{"statName":"Attack"},"baseStatNumber":85},{"baseStat":{"statName":"Defense"},"baseStatNumber":70},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":85},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":80},{"baseStat":{"statName":"Speed"},"baseStatNumber":30}],"pokemonAbilities":[{"abilityName":"Effect Spore","abilityId":"/abilities/effect-spore","abilityDetails":"30% chance of poison/paralysis/sleep on others making contact with this Pokemon."},{"abilityName":"Regenerator","abilityId":"/abilities/regenerator","abilityDetails":"This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:22.9526867Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Black Sludge","itemId":"/items/black-sludge","itemDetails":"Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not."},{"itemName":"Rocky Helmet","itemId":"/items/rocky-helmet","itemDetails":"If holder is hit by a contact move, the attacker loses 1/6 of its max HP."}],"strategyAbilities":[{"abilityName":"Regenerator","abilityId":"/abilities/regenerator","abilityDetails":"This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."}],"strategyNatures":[{"natureName":"Bold","natureId":"/natures/bold","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Defense"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":252},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":168},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":88},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":0}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Spore","moveId":"/moves/spore","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":100,"moveDetails":"Causes the target to fall asleep."}],"strategySecondMoves":[{"moveName":"Giga Drain","moveId":"/moves/giga-drain","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Special","movePower":75,"moveAccuracy":100,"moveDetails":"User recovers 50% of the damage dealt."}],"strategyThirdMoves":[{"moveName":"Sludge Bomb","moveId":"/moves/sludge-bomb","moveType":{"typeName":"Poison","typeId":"/types/poison"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"30% chance to poison the target."},{"moveName":"Clear Smog","moveId":"/moves/clear-smog","moveType":{"typeName":"Poison","typeId":"/types/poison"},"moveCategory":"Special","movePower":50,"moveAccuracy":0,"moveDetails":"Resets all of the target's stat stages to 0."}],"strategyFourthMoves":[{"moveName":"Toxic","moveId":"/moves/toxic","moveType":{"typeName":"Poison","typeId":"/types/poison"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":90,"moveDetails":"Badly poisons the target. Poison types can't miss."},{"moveName":"Stun Spore","moveId":"/moves/stun-spore","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":75,"moveDetails":"Paralyzes the target."}]}}
+﻿{
+  "strategyName": "Defensive",
+  "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=ou",
+  "strategyDetails": "Regenerator in tandem with solid defensive stats and typing makes Amoonguss a fine defensive pivot and a nice check to the likes of Clefable, Zeraora, and Rillaboom. Since it has access to all of Spore, Toxic, and Stun Spore, it is not easy to switch into either. It fits best on balance teams looking for a sturdy check to Zeraora. Slowbro is one of Amoonguss's most common partners to form a Regenerator core, and it is able to check threats like Excadrill and Alakazam.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Amoonguss",
+    "pokemonId": "/pokemon/amoonguss",
+    "pokemonTypes": [
+      {
+        "typeName": "Grass",
+        "typeId": "/types/grass"
+      },
+      {
+        "typeName": "Poison",
+        "typeId": "/types/poison"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 114
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 85
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 85
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 30
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Effect Spore",
+        "abilityId": "/abilities/effect-spore",
+        "abilityDetails": "30% chance of poison/paralysis/sleep on others making contact with this Pokemon."
+      },
+      {
+        "abilityName": "Regenerator",
+        "abilityId": "/abilities/regenerator",
+        "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:22.9526867Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Black Sludge",
+      "itemId": "/items/black-sludge",
+      "itemDetails": "Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not."
+    },
+    {
+      "itemName": "Rocky Helmet",
+      "itemId": "/items/rocky-helmet",
+      "itemDetails": "If holder is hit by a contact move, the attacker loses 1/6 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Regenerator",
+      "abilityId": "/abilities/regenerator",
+      "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Bold",
+      "natureId": "/natures/bold",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 168
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 88
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 0
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Spore",
+        "moveId": "/moves/spore",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "Causes the target to fall asleep."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Giga Drain",
+        "moveId": "/moves/giga-drain",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Special",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "User recovers 50% of the damage dealt."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Sludge Bomb",
+        "moveId": "/moves/sludge-bomb",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to poison the target."
+      },
+      {
+        "moveName": "Clear Smog",
+        "moveId": "/moves/clear-smog",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Special",
+        "movePower": 50,
+        "moveAccuracy": 0,
+        "moveDetails": "Resets all of the target's stat stages to 0."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Toxic",
+        "moveId": "/moves/toxic",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 90,
+        "moveDetails": "Badly poisons the target. Poison types can't miss."
+      },
+      {
+        "moveName": "Stun Spore",
+        "moveId": "/moves/stun-spore",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 75,
+        "moveDetails": "Paralyzes the target."
+      }
+    ]
+  }
+}

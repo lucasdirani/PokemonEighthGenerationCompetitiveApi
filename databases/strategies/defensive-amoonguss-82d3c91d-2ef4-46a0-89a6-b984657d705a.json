@@ -1,1 +1,378 @@
-﻿{"strategyName":"Defensive","strategyId":"/strategies/defensive?pokemon=amoonguss&tier=uu","strategyDetails":"<p>Giga Drain heavily damages <a href=\"/dex/ss/pokemon/lycanroc-dusk\" hreflang=\"en\">Lycanroc-D</a> and <a href=\"/dex/ss/pokemon/keldeo\" hreflang=\"en\">Keldeo</a>, which Amoonguss naturally checks by virtue of its typing and bulk. It also enables Amoonguss to regain some HP, reducing the need for it to continually pivot for Regenerator recovery. Alternatively, Synthesis can be run to instantly regain health, though its low PP should be noticed. Sludge Bomb threatens <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/ss/pokemon/zarude\" hreflang=\"en\">Zarude</a>, and <a href=\"/dex/ss/pokemon/azumarill\" hreflang=\"en\">Azumarill</a>. It is also useful for the chance to poison switch-ins such as <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a> and <a href=\"/dex/ss/pokemon/mandibuzz\" hreflang=\"en\">Mandibuzz</a>. Foul Play dents physical attackers such as <a href=\"/dex/ss/pokemon/gyarados\" hreflang=\"en\">Gyarados</a> and prevents them from setting up on Amoonguss, and it is also Amoonguss's best way to damage other Steel-types such as <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a> and <a href=\"/dex/ss/pokemon/jirachi\" hreflang=\"en\">Jirachi</a>. Spore shuts down Pokemon such as <a href=\"/dex/ss/pokemon/moltres\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/ss/pokemon/hydreigon\" hreflang=\"en\">Hydreigon</a>, deterring them from wanting to pivot into it. This often requires an opposing team to use a Pokemon as sleep fodder, making it easier for Amoonguss's teammates to capitalize on. Stun Spore is an option that can be run alongside Spore to potentially cripple Pokemon like <a href=\"/dex/ss/pokemon/celesteela\" hreflang=\"en\">Celesteela</a> and <a href=\"/dex/ss/pokemon/nihilego\" hreflang=\"en\">Nihilego</a> that would otherwise wall it once a Pokemon has been slept. Rocky Helmet punishes physical attackers Amoonguss switches into such as Azumarill and Zarude. Eject Button can be run so Amoonguss can pivot into a foe, take a hit, and bring in a teammate safely. Black Sludge is an alternative option that reduces Amoonguss's reliance on switching out to regain HP with Regenerator. 36 Special Defense EVs guarantee that Amoonguss can take a Choice Specs-boosted Psychic from Primarina as well as better check Keldeo. A more specially defensive spread can be used to better check Keldeo and Aegislash, though this gives Amoonguss a worse matchup against <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a> and Lycanroc-D.</p>\n<p>Amoonguss fits best on bulky offense, balance, and stall teams that appreciate its ability to blanket check dangerous metagame staples such as Azumarill and Primarina. <a href=\"/dex/ss/pokemon/chansey\" hreflang=\"en\">Chansey</a> can take on special attackers like <a href=\"/dex/ss/pokemon/nidoking\" hreflang=\"en\">Nidoking</a>, Moltres, and Salamence that can overwhelm Amoonguss. Checks to Moltres and Salamence, such as <a href=\"/dex/ss/pokemon/diancie\" hreflang=\"en\">Diancie</a> and Primarina, are useful partners that can switch into them and force it out. Dark-types such as <a href=\"/dex/ss/pokemon/krookodile\" hreflang=\"en\">Krookodile</a> and Mandibuzz can check Psychic-types like <a href=\"/dex/ss/pokemon/slowbro-galar\" hreflang=\"en\">Galarian Slowbro</a> and <a href=\"/dex/ss/pokemon/azelf\" hreflang=\"en\">Azelf</a>. Mandibuzz also helps Amoonguss not get overwhelmed by <a href=\"/dex/ss/pokemon/zygarde-10\" hreflang=\"en\">Zygarde-10%</a>. Amoonguss is heavily threatened by Fire-types such as <a href=\"/dex/ss/pokemon/entei\" hreflang=\"en\">Entei</a> and Moltres, so checks to these such as <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a> and <a href=\"/dex/ss/pokemon/swampert\" hreflang=\"en\">Swampert</a> make good partners. Amoonguss is vulnerable to Stealth Rock and Spikes chip damage, and gives free opportunities for Pokemon such as Nihilego and <a href=\"/dex/ss/pokemon/skarmory\" hreflang=\"en\">Skarmory</a> to set these after Spore has been used, so entry hazard removal support from partners such as Salamence and Excadrill enables it to switch in more often and prevents entry hazards from cancelling out its Regenerator recovery.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Amoonguss","pokemonId":"/pokemon/amoonguss","pokemonTypes":[{"typeName":"Grass","typeId":"/types/grass"},{"typeName":"Poison","typeId":"/types/poison"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":114},{"baseStat":{"statName":"Attack"},"baseStatNumber":85},{"baseStat":{"statName":"Defense"},"baseStatNumber":70},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":85},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":80},{"baseStat":{"statName":"Speed"},"baseStatNumber":30}],"pokemonAbilities":[{"abilityName":"Effect Spore","abilityId":"/abilities/effect-spore","abilityDetails":"30% chance of poison/paralysis/sleep on others making contact with this Pokemon."},{"abilityName":"Regenerator","abilityId":"/abilities/regenerator","abilityDetails":"This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:22.948036Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Rocky Helmet","itemId":"/items/rocky-helmet","itemDetails":"If holder is hit by a contact move, the attacker loses 1/6 of its max HP."}],"strategyAbilities":[{"abilityName":"Regenerator","abilityId":"/abilities/regenerator","abilityDetails":"This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."}],"strategyNatures":[{"natureName":"Bold","natureId":"/natures/bold","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Defense"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":252},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":220},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":36},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":0}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Giga Drain","moveId":"/moves/giga-drain","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Special","movePower":75,"moveAccuracy":100,"moveDetails":"User recovers 50% of the damage dealt."},{"moveName":"Synthesis","moveId":"/moves/synthesis","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Heals the user by a weather-dependent amount."}],"strategySecondMoves":[{"moveName":"Sludge Bomb","moveId":"/moves/sludge-bomb","moveType":{"typeName":"Poison","typeId":"/types/poison"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"30% chance to poison the target."}],"strategyThirdMoves":[{"moveName":"Foul Play","moveId":"/moves/foul-play","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Physical","movePower":95,"moveAccuracy":100,"moveDetails":"Uses target's Attack stat in damage calculation."}],"strategyFourthMoves":[{"moveName":"Spore","moveId":"/moves/spore","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":100,"moveDetails":"Causes the target to fall asleep."}]}}
+﻿{
+  "strategyName": "Defensive",
+  "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+  "strategyDetails": "Giga Drain heavily damages Lycanroc-D and Keldeo, which Amoonguss naturally checks by virtue of its typing and bulk. It also enables Amoonguss to regain some HP, reducing the need for it to continually pivot for Regenerator recovery. Alternatively, Synthesis can be run to instantly regain health, though its low PP should be noticed. Sludge Bomb threatens Primarina, Zarude, and Azumarill. It is also useful for the chance to poison switch-ins such as Salamence and Mandibuzz. Foul Play dents physical attackers such as Gyarados and prevents them from setting up on Amoonguss, and it is also Amoonguss's best way to damage other Steel-types such as Aegislash and Jirachi. Spore shuts down Pokemon such as Moltres and Hydreigon, deterring them from wanting to pivot into it. This often requires an opposing team to use a Pokemon as sleep fodder, making it easier for Amoonguss's teammates to capitalize on. Stun Spore is an option that can be run alongside Spore to potentially cripple Pokemon like Celesteela and Nihilego that would otherwise wall it once a Pokemon has been slept. Rocky Helmet punishes physical attackers Amoonguss switches into such as Azumarill and Zarude. Eject Button can be run so Amoonguss can pivot into a foe, take a hit, and bring in a teammate safely. Black Sludge is an alternative option that reduces Amoonguss's reliance on switching out to regain HP with Regenerator. 36 Special Defense EVs guarantee that Amoonguss can take a Choice Specs-boosted Psychic from Primarina as well as better check Keldeo. A more specially defensive spread can be used to better check Keldeo and Aegislash, though this gives Amoonguss a worse matchup against Excadrill and Lycanroc-D. Amoonguss fits best on bulky offense, balance, and stall teams that appreciate its ability to blanket check dangerous metagame staples such as Azumarill and Primarina. Chansey can take on special attackers like Nidoking, Moltres, and Salamence that can overwhelm Amoonguss. Checks to Moltres and Salamence, such as Diancie and Primarina, are useful partners that can switch into them and force it out. Dark-types such as Krookodile and Mandibuzz can check Psychic-types like Galarian Slowbro and Azelf. Mandibuzz also helps Amoonguss not get overwhelmed by Zygarde-10%. Amoonguss is heavily threatened by Fire-types such as Entei and Moltres, so checks to these such as Slowking and Swampert make good partners. Amoonguss is vulnerable to Stealth Rock and Spikes chip damage, and gives free opportunities for Pokemon such as Nihilego and Skarmory to set these after Spore has been used, so entry hazard removal support from partners such as Salamence and Excadrill enables it to switch in more often and prevents entry hazards from cancelling out its Regenerator recovery.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Amoonguss",
+    "pokemonId": "/pokemon/amoonguss",
+    "pokemonTypes": [
+      {
+        "typeName": "Grass",
+        "typeId": "/types/grass"
+      },
+      {
+        "typeName": "Poison",
+        "typeId": "/types/poison"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 114
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 85
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 85
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 30
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Effect Spore",
+        "abilityId": "/abilities/effect-spore",
+        "abilityDetails": "30% chance of poison/paralysis/sleep on others making contact with this Pokemon."
+      },
+      {
+        "abilityName": "Regenerator",
+        "abilityId": "/abilities/regenerator",
+        "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:22.948036Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Rocky Helmet",
+      "itemId": "/items/rocky-helmet",
+      "itemDetails": "If holder is hit by a contact move, the attacker loses 1/6 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Regenerator",
+      "abilityId": "/abilities/regenerator",
+      "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Bold",
+      "natureId": "/natures/bold",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 220
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 36
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 0
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=mandibuzz&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowking&tier=uu",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=slowking&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=swampert&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=azelf&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/double-dance?pokemon=moltres-galar&tier=uu",
+      "strategyName": "Double Dance"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=moltres-galar&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/guts-wallbreaker?pokemon=conkeldurr&tier=uu",
+      "strategyName": "Guts Wallbreaker"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=mamoswine&tier=uu",
+      "strategyName": "Wallbreaker"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Giga Drain",
+        "moveId": "/moves/giga-drain",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Special",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "User recovers 50% of the damage dealt."
+      },
+      {
+        "moveName": "Synthesis",
+        "moveId": "/moves/synthesis",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals the user by a weather-dependent amount."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Sludge Bomb",
+        "moveId": "/moves/sludge-bomb",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to poison the target."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Foul Play",
+        "moveId": "/moves/foul-play",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 95,
+        "moveAccuracy": 100,
+        "moveDetails": "Uses target's Attack stat in damage calculation."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Spore",
+        "moveId": "/moves/spore",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "Causes the target to fall asleep."
+      }
+    ]
+  }
+}

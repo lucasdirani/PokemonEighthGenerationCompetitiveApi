@@ -1,1 +1,202 @@
-﻿{"strategyName":"Cosmic Power","strategyId":"/strategies/cosmic-power?pokemon=mew&tier=ou","strategyDetails":"","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Mew","pokemonId":"/pokemon/mew","pokemonTypes":[{"typeName":"Psychic","typeId":"/types/psychic"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":100},{"baseStat":{"statName":"Attack"},"baseStatNumber":100},{"baseStat":{"statName":"Defense"},"baseStatNumber":100},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":100},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":100},{"baseStat":{"statName":"Speed"},"baseStatNumber":100}],"pokemonAbilities":[{"abilityName":"Synchronize","abilityId":"/abilities/synchronize","abilityDetails":"If another Pokemon burns/poisons/paralyzes this Pokemon, it also gets that status."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:29.9376437Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Leftovers","itemId":"/items/leftovers","itemDetails":"At the end of every turn, holder restores 1/16 of its max HP."}],"strategyAbilities":[{"abilityName":"Synchronize","abilityId":"/abilities/synchronize","abilityDetails":"If another Pokemon burns/poisons/paralyzes this Pokemon, it also gets that status."}],"strategyNatures":[{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":252},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Cosmic Power","moveId":"/moves/cosmic-power","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Raises the user's Defense and Sp. Def by 1."}],"strategySecondMoves":[{"moveName":"Stored Power","moveId":"/moves/stored-power","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Special","movePower":20,"moveAccuracy":100,"moveDetails":" + 20 power for each of the user's stat boosts."}],"strategyThirdMoves":[{"moveName":"Body Press","moveId":"/moves/body-press","moveType":{"typeName":"Fighting","typeId":"/types/fighting"},"moveCategory":"Physical","movePower":80,"moveAccuracy":100,"moveDetails":"Uses user's Def stat as Atk in damage calculation."}],"strategyFourthMoves":[{"moveName":"Roost","moveId":"/moves/roost","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Heals 50% HP. Flying-type removed 'til turn ends."}]}}
+﻿{
+  "strategyName": "Cosmic Power",
+  "strategyId": "/strategies/cosmic-power?pokemon=mew&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Mew",
+    "pokemonId": "/pokemon/mew",
+    "pokemonTypes": [
+      {
+        "typeName": "Psychic",
+        "typeId": "/types/psychic"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 100
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Synchronize",
+        "abilityId": "/abilities/synchronize",
+        "abilityDetails": "If another Pokemon burns/poisons/paralyzes this Pokemon, it also gets that status."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:29.9376437Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Synchronize",
+      "abilityId": "/abilities/synchronize",
+      "abilityDetails": "If another Pokemon burns/poisons/paralyzes this Pokemon, it also gets that status."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Cosmic Power",
+        "moveId": "/moves/cosmic-power",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Defense and Sp. Def by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Stored Power",
+        "moveId": "/moves/stored-power",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Special",
+        "movePower": 20,
+        "moveAccuracy": 100,
+        "moveDetails": " + 20 power for each of the user's stat boosts."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Body Press",
+        "moveId": "/moves/body-press",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "Uses user's Def stat as Atk in damage calculation."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Roost",
+        "moveId": "/moves/roost",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals 50% HP. Flying-type removed 'til turn ends."
+      }
+    ]
+  }
+}
