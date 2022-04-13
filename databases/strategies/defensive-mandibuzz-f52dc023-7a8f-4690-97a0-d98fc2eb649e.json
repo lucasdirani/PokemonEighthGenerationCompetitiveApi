@@ -1,1 +1,315 @@
-﻿{"strategyName":"Defensive","strategyId":"/strategies/defensive?pokemon=mandibuzz&tier=ou","strategyDetails":"<p>Mandibuzz operates best as a mixed defensive Pokemon to check a plethora of threats like <a href=\"/dex/ss/pokemon/rillaboom\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/ss/pokemon/kartana\" hreflang=\"en\">Kartana</a>, and <a href=\"/dex/ss/pokemon/dragapult\" hreflang=\"en\">Dragapult</a>. Foul Play enables it to threaten Swords Dance users like <a href=\"/dex/ss/pokemon/garchomp\" hreflang=\"en\">Garchomp</a>, Rillaboom, <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a>, and Kartana while also discouraging them from setting up. Roost gives it longevity to better check threats like Dragapult and Choice Band Rillaboom, which would easily overwhelm Mandibuzz otherwise. U-turn lets it keep up momentum and pivot out on its checks like <a href=\"/dex/ss/pokemon/kyurem\" hreflang=\"en\">Kyurem</a> and <a href=\"/dex/ss/pokemon/tapu-koko\" hreflang=\"en\">Tapu Koko</a> to safely bring in its teammates. Knock Off can be a good choice instead to immediately punish its switch-ins. The EVs are used to survive two Draco Meteors from Choice Specs Dragapult and two Smart Strikes from Choice Band Kartana. The remaining EVs are put into Speed to outspeed <a href=\"/dex/ss/pokemon/azumarill\" hreflang=\"en\">Azumarill</a>.</p>\n<p><a href=\"/dex/ss/pokemon/landorus-therian\" hreflang=\"en\">Landorus-T</a> makes a good partner, since it can help alleviate pressure by covering physical threats like Excadrill and Garchomp that Mandibuzz can struggle with. Mandibuzz can also do the same for Landorus-T by checking offensive Grass-types like Kartana and Rillaboom. Similarly, <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a> can handle special threats that Mandibuzz can struggle with, like <a href=\"/dex/ss/pokemon/nidoking\" hreflang=\"en\">Nidoking</a> and <a href=\"/dex/ss/pokemon/tapu-lele\" hreflang=\"en\">Tapu Lele</a>. Mandibuzz also offers Slowking a switch-in to Ghost-type moves from threats like Dragapult. Mandibuzz's ability to lure in Tapu Koko and Kyurem and pivot on them can let Dragapult threaten a KO on them, and Dragapult also likes it switching into opposing Dragapult. Wallbreakers like Kyurem and Nidoking that have a difficult time switching in can take advantage of Mandibuzz's slow pivoting.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Mandibuzz","pokemonId":"/pokemon/mandibuzz","pokemonTypes":[{"typeName":"Dark","typeId":"/types/dark"},{"typeName":"Flying","typeId":"/types/flying"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":110},{"baseStat":{"statName":"Attack"},"baseStatNumber":65},{"baseStat":{"statName":"Defense"},"baseStatNumber":105},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":55},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":95},{"baseStat":{"statName":"Speed"},"baseStatNumber":80}],"pokemonAbilities":[{"abilityName":"Overcoat","abilityId":"/abilities/overcoat","abilityDetails":"This Pokemon is immune to powder moves and damage from Sandstorm or Hail."},{"abilityName":"Weak Armor","abilityId":"/abilities/weak-armor","abilityDetails":"If a physical attack hits this Pokemon, Defense is lowered by 1, Speed is raised by 2."},{"abilityName":"Big Pecks","abilityId":"/abilities/big-pecks","abilityDetails":"Prevents other Pokemon from lowering this Pokemon's Defense stat stage."}],"pokemonTiers":[{"tierName":"OU","tierId":"/tiers/ou"}]},"strategyCreationDate":"2022-02-22T11:03:42.1738546Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Heavy-Duty Boots","itemId":"/items/heavy-duty-boots","itemDetails":"When switching in, the holder is unaffected by hazards on its side of the field."}],"strategyAbilities":[{"abilityName":"Overcoat","abilityId":"/abilities/overcoat","abilityDetails":"This Pokemon is immune to powder moves and damage from Sandstorm or Hail."}],"strategyNatures":[{"natureName":"Impish","natureId":"/natures/impish","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Defense"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":248},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":92},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":152},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":16}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Foul Play","moveId":"/moves/foul-play","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Physical","movePower":95,"moveAccuracy":100,"moveDetails":"Uses target's Attack stat in damage calculation."}],"strategySecondMoves":[{"moveName":"Roost","moveId":"/moves/roost","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Heals 50% HP. Flying-type removed 'til turn ends."}],"strategyThirdMoves":[{"moveName":"Defog","moveId":"/moves/defog","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"-1 evasion; clears terrain and hazards on both sides."}],"strategyFourthMoves":[{"moveName":"U-turn","moveId":"/moves/u-turn","moveType":{"typeName":"Bug","typeId":"/types/bug"},"moveCategory":"Physical","movePower":70,"moveAccuracy":100,"moveDetails":"User switches out after damaging the target."},{"moveName":"Knock Off","moveId":"/moves/knock-off","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Physical","movePower":65,"moveAccuracy":100,"moveDetails":"1.5x damage if foe holds an item. Removes item."}]}}
+﻿{
+  "strategyName": "Defensive",
+  "strategyId": "/strategies/defensive?pokemon=mandibuzz&tier=ou",
+  "strategyDetails": "Mandibuzz operates best as a mixed defensive Pokemon to check a plethora of threats like Rillaboom, Kartana, and Dragapult. Foul Play enables it to threaten Swords Dance users like Garchomp, Rillaboom, Excadrill, and Kartana while also discouraging them from setting up. Roost gives it longevity to better check threats like Dragapult and Choice Band Rillaboom, which would easily overwhelm Mandibuzz otherwise. U-turn lets it keep up momentum and pivot out on its checks like Kyurem and Tapu Koko to safely bring in its teammates. Knock Off can be a good choice instead to immediately punish its switch-ins. The EVs are used to survive two Draco Meteors from Choice Specs Dragapult and two Smart Strikes from Choice Band Kartana. The remaining EVs are put into Speed to outspeed Azumarill. Landorus-T makes a good partner, since it can help alleviate pressure by covering physical threats like Excadrill and Garchomp that Mandibuzz can struggle with. Mandibuzz can also do the same for Landorus-T by checking offensive Grass-types like Kartana and Rillaboom. Similarly, Slowking can handle special threats that Mandibuzz can struggle with, like Nidoking and Tapu Lele. Mandibuzz also offers Slowking a switch-in to Ghost-type moves from threats like Dragapult. Mandibuzz's ability to lure in Tapu Koko and Kyurem and pivot on them can let Dragapult threaten a KO on them, and Dragapult also likes it switching into opposing Dragapult. Wallbreakers like Kyurem and Nidoking that have a difficult time switching in can take advantage of Mandibuzz's slow pivoting.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Mandibuzz",
+    "pokemonId": "/pokemon/mandibuzz",
+    "pokemonTypes": [
+      {
+        "typeName": "Dark",
+        "typeId": "/types/dark"
+      },
+      {
+        "typeName": "Flying",
+        "typeId": "/types/flying"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 110
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 65
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 55
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 80
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Overcoat",
+        "abilityId": "/abilities/overcoat",
+        "abilityDetails": "This Pokemon is immune to powder moves and damage from Sandstorm or Hail."
+      },
+      {
+        "abilityName": "Weak Armor",
+        "abilityId": "/abilities/weak-armor",
+        "abilityDetails": "If a physical attack hits this Pokemon, Defense is lowered by 1, Speed is raised by 2."
+      },
+      {
+        "abilityName": "Big Pecks",
+        "abilityId": "/abilities/big-pecks",
+        "abilityDetails": "Prevents other Pokemon from lowering this Pokemon's Defense stat stage."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:42.1738546Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Heavy-Duty Boots",
+      "itemId": "/items/heavy-duty-boots",
+      "itemDetails": "When switching in, the holder is unaffected by hazards on its side of the field."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Overcoat",
+      "abilityId": "/abilities/overcoat",
+      "abilityDetails": "This Pokemon is immune to powder moves and damage from Sandstorm or Hail."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Impish",
+      "natureId": "/natures/impish",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 248
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 92
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 152
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 16
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive-pivot?pokemon=slowking&tier=ou",
+      "strategyName": "Specially Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=tapu-koko&tier=ou",
+      "strategyName": "Offensive Pivot"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zeraora&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/bulk-up?pokemon=zeraora&tier=ou",
+      "strategyName": "Bulk Up"
+    },
+    {
+      "strategyId": "/strategies/sand-rush?pokemon=excadrill&tier=ou",
+      "strategyName": "Sand Rush"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Foul Play",
+        "moveId": "/moves/foul-play",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 95,
+        "moveAccuracy": 100,
+        "moveDetails": "Uses target's Attack stat in damage calculation."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Roost",
+        "moveId": "/moves/roost",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals 50% HP. Flying-type removed 'til turn ends."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Defog",
+        "moveId": "/moves/defog",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "-1 evasion; clears terrain and hazards on both sides."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "U-turn",
+        "moveId": "/moves/u-turn",
+        "moveType": {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "User switches out after damaging the target."
+      },
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      }
+    ]
+  }
+}

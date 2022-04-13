@@ -1,1 +1,206 @@
-﻿{"strategyName":"Defensive","strategyId":"/strategies/defensive?pokemon=celesteela&tier=ou","strategyDetails":"<p>These are sample sets before we work on <a href=\"https://www.smogon.com/forums/forums/ou-analyses.538/\">new analyses</a> for the Crown Tundra meta. Stay tuned!</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Celesteela","pokemonId":"/pokemon/celesteela","pokemonTypes":[{"typeName":"Steel","typeId":"/types/steel"},{"typeName":"Flying","typeId":"/types/flying"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":97},{"baseStat":{"statName":"Attack"},"baseStatNumber":101},{"baseStat":{"statName":"Defense"},"baseStatNumber":103},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":107},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":101},{"baseStat":{"statName":"Speed"},"baseStatNumber":61}],"pokemonAbilities":[{"abilityName":"Beast Boost","abilityId":"/abilities/beast-boost","abilityDetails":"This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:24.7300822Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Leftovers","itemId":"/items/leftovers","itemDetails":"At the end of every turn, holder restores 1/16 of its max HP."}],"strategyAbilities":[{"abilityName":"Beast Boost","abilityId":"/abilities/beast-boost","abilityDetails":"This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."}],"strategyNatures":[{"natureName":"Sassy","natureId":"/natures/sassy","natureDecreasedStat":{"statName":"Speed"},"natureIncreasedStat":{"statName":"Special Defense"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":248},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":8},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":252},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":0}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Leech Seed","moveId":"/moves/leech-seed","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":90,"moveDetails":"1/8 of target's HP is restored to user every turn."}],"strategySecondMoves":[{"moveName":"Protect","moveId":"/moves/protect","moveType":{"typeName":"Normal","typeId":"/types/normal"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Prevents moves from affecting the user this turn."}],"strategyThirdMoves":[{"moveName":"Heavy Slam","moveId":"/moves/heavy-slam","moveType":{"typeName":"Steel","typeId":"/types/steel"},"moveCategory":"Physical","movePower":0,"moveAccuracy":100,"moveDetails":"More power the heavier the user than the target."}],"strategyFourthMoves":[{"moveName":"Flamethrower","moveId":"/moves/flamethrower","moveType":{"typeName":"Fire","typeId":"/types/fire"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"10% chance to burn the target."}]}}
+﻿{
+  "strategyName": "Defensive",
+  "strategyId": "/strategies/defensive?pokemon=celesteela&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Celesteela",
+    "pokemonId": "/pokemon/celesteela",
+    "pokemonTypes": [
+      {
+        "typeName": "Steel",
+        "typeId": "/types/steel"
+      },
+      {
+        "typeName": "Flying",
+        "typeId": "/types/flying"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 97
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 101
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 103
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 107
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 101
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 61
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Beast Boost",
+        "abilityId": "/abilities/beast-boost",
+        "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:24.7300822Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Beast Boost",
+      "abilityId": "/abilities/beast-boost",
+      "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Sassy",
+      "natureId": "/natures/sassy",
+      "natureDecreasedStat": { "statName": "Speed" },
+      "natureIncreasedStat": { "statName": "Special Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 248
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 8
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 0
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Leech Seed",
+        "moveId": "/moves/leech-seed",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 90,
+        "moveDetails": "1/8 of target's HP is restored to user every turn."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Protect",
+        "moveId": "/moves/protect",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Prevents moves from affecting the user this turn."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Heavy Slam",
+        "moveId": "/moves/heavy-slam",
+        "moveType": {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        "moveCategory": "Physical",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "More power the heavier the user than the target."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Flamethrower",
+        "moveId": "/moves/flamethrower",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to burn the target."
+      }
+    ]
+  }
+}

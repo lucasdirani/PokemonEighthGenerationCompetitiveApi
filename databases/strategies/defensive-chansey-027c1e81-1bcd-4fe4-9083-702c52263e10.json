@@ -1,1 +1,435 @@
-﻿{"strategyName":"Defensive","strategyId":"/strategies/defensive?pokemon=chansey&tier=uu","strategyDetails":"<p>Seismic Toss makes Chansey less passive, since it deals reliable damage to all but Ghost-types. Toxic helps Chansey wear down opposing Pokemon, especially bulky foes like <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a>, <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a>, and <a href=\"/dex/ss/pokemon/moltres\" hreflang=\"en\">Moltres</a>. Teleport is a great support move to bring other teammates safely onto the battlefield and to keep up momentum on more offensive teams. Since Chansey has little to fear from many special attackers, it can force switches and get many opportunities to set up Stealth Rock. Chansey can use Aromatherapy to support its teammates; however, this is usually only considered on balance and stall teams. Thunder Wave can be used instead of Toxic to support slow teammates, but it makes Chansey weaker against bulky Pokemon and has less use overall. Maximum investment in Defense and HP alongside a Bold nature allows Chansey to check <a href=\"/dex/ss/pokemon/starmie\" hreflang=\"en\">Starmie</a> and <a href=\"/dex/ss/pokemon/hatterene\" hreflang=\"en\">Hatterene</a> as well as weaker physical attackers such <a href=\"/dex/ss/pokemon/rhyperior\" hreflang=\"en\">Rhyperior</a> more effectively.</p>\n<p>Chansey can fit on bulky offense, balance, and stall teams as a sturdy wall for special attackers. Sturdy physical walls such as Tangrowth and <a href=\"/dex/ss/pokemon/skarmory\" hreflang=\"en\">Skarmory</a> can check threatening wallbreakers such as <a href=\"/dex/ss/pokemon/lycanroc-dusk\" hreflang=\"en\">Lycanroc-D</a>, <a href=\"/dex/ss/pokemon/diggersby\" hreflang=\"en\">Diggersby</a>, and <a href=\"/dex/ss/pokemon/mamoswine\" hreflang=\"en\">Mamoswine</a> for Chansey. In return, Chansey checks strong special attackers such as <a href=\"/dex/ss/pokemon/nidoking\" hreflang=\"en\">Nidoking</a>, Moltres, and <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a>. Wallbreakers such as Choice Specs <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a>, Choice Specs <a href=\"/dex/ss/pokemon/hydreigon\" hreflang=\"en\">Hydreigon</a>, and <a href=\"/dex/ss/pokemon/zygarde-10\" hreflang=\"en\">Zygarde-10%</a> appreciate Teleport Chansey's ability to bring them safely onto the battlefield. Since entry hazards limit Chansey's ability to switch into attacks and force it to recover more, entry hazard control from Salamence, Skarmory, and <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a> is crucial. <a href=\"/dex/ss/pokemon/umbreon\" hreflang=\"en\">Umbreon</a> and <a href=\"/dex/ss/pokemon/quagsire\" hreflang=\"en\">Quagsire</a> can check threatening setup sweepers like <a href=\"/dex/ss/pokemon/gyarados\" hreflang=\"en\">Gyarados</a>, Aegislash, and <a href=\"/dex/ss/pokemon/slowbro-galar\" hreflang=\"en\">Galarian Slowbro</a>, with Umbreon also offering Wish support to Chansey's teammates and a check to physical threats such as Zygarde-10%, Mamoswine, and <a href=\"/dex/ss/pokemon/jirachi\" hreflang=\"en\">Jirachi</a>. <a href=\"/dex/ss/pokemon/ditto\" hreflang=\"en\">Ditto</a> is also an option to keep offensive setup sweepers like <a href=\"/dex/ss/pokemon/azumarill\" hreflang=\"en\">Azumarill</a> and Gyarados in check. A good Knock Off absorber such as Tangrowth, <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a>, or <a href=\"/dex/ss/pokemon/cobalion\" hreflang=\"en\">Cobalion</a> is helpful, as Chansey needs Eviolite to better switch into attacks. Amoonguss is also able to check <a href=\"/dex/ss/pokemon/keldeo\" hreflang=\"en\">Keldeo</a> and Azumarill.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Chansey","pokemonId":"/pokemon/chansey","pokemonTypes":[{"typeName":"Normal","typeId":"/types/normal"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":250},{"baseStat":{"statName":"Attack"},"baseStatNumber":5},{"baseStat":{"statName":"Defense"},"baseStatNumber":5},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":35},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":105},{"baseStat":{"statName":"Speed"},"baseStatNumber":50}],"pokemonAbilities":[{"abilityName":"Natural Cure","abilityId":"/abilities/natural-cure","abilityDetails":"This Pokemon has its non-volatile status condition cured when it switches out."},{"abilityName":"Serene Grace","abilityId":"/abilities/serene-grace","abilityDetails":"This Pokemon's moves have their secondary effect chance doubled."},{"abilityName":"Healer","abilityId":"/abilities/healer","abilityDetails":"30% chance of curing an adjacent ally's status at the end of each turn."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:25.0646335Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Eviolite","itemId":"/items/eviolite","itemDetails":"If holder's species can evolve, its Defense and Sp. Def are 1.5x."}],"strategyAbilities":[{"abilityName":"Natural Cure","abilityId":"/abilities/natural-cure","abilityDetails":"This Pokemon has its non-volatile status condition cured when it switches out."}],"strategyNatures":[{"natureName":"Bold","natureId":"/natures/bold","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Defense"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":252},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":252},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":0}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Seismic Toss","moveId":"/moves/seismic-toss","moveType":{"typeName":"Fighting","typeId":"/types/fighting"},"moveCategory":"Physical","movePower":0,"moveAccuracy":100,"moveDetails":"Does damage equal to the user's level."}],"strategySecondMoves":[{"moveName":"Toxic","moveId":"/moves/toxic","moveType":{"typeName":"Poison","typeId":"/types/poison"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":90,"moveDetails":"Badly poisons the target. Poison types can't miss."}],"strategyThirdMoves":[{"moveName":"Soft-Boiled","moveId":"/moves/soft-boiled","moveType":{"typeName":"Normal","typeId":"/types/normal"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Heals the user by 50% of its max HP."}],"strategyFourthMoves":[{"moveName":"Teleport","moveId":"/moves/teleport","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"User switches out."},{"moveName":"Stealth Rock","moveId":"/moves/stealth-rock","moveType":{"typeName":"Rock","typeId":"/types/rock"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Hurts foes on switch-in. Factors Rock weakness."},{"moveName":"Aromatherapy","moveId":"/moves/aromatherapy","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Cures the user's party of all status conditions."}]}}
+﻿{
+  "strategyName": "Defensive",
+  "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+  "strategyDetails": "Seismic Toss makes Chansey less passive, since it deals reliable damage to all but Ghost-types. Toxic helps Chansey wear down opposing Pokemon, especially bulky foes like Salamence, Tangrowth, and Moltres. Teleport is a great support move to bring other teammates safely onto the battlefield and to keep up momentum on more offensive teams. Since Chansey has little to fear from many special attackers, it can force switches and get many opportunities to set up Stealth Rock. Chansey can use Aromatherapy to support its teammates; however, this is usually only considered on balance and stall teams. Thunder Wave can be used instead of Toxic to support slow teammates, but it makes Chansey weaker against bulky Pokemon and has less use overall. Maximum investment in Defense and HP alongside a Bold nature allows Chansey to check Starmie and Hatterene as well as weaker physical attackers such Rhyperior more effectively. Chansey can fit on bulky offense, balance, and stall teams as a sturdy wall for special attackers. Sturdy physical walls such as Tangrowth and Skarmory can check threatening wallbreakers such as Lycanroc-D, Diggersby, and Mamoswine for Chansey. In return, Chansey checks strong special attackers such as Nidoking, Moltres, and Primarina. Wallbreakers such as Choice Specs Aegislash, Choice Specs Hydreigon, and Zygarde-10% appreciate Teleport Chansey's ability to bring them safely onto the battlefield. Since entry hazards limit Chansey's ability to switch into attacks and force it to recover more, entry hazard control from Salamence, Skarmory, and Excadrill is crucial. Umbreon and Quagsire can check threatening setup sweepers like Gyarados, Aegislash, and Galarian Slowbro, with Umbreon also offering Wish support to Chansey's teammates and a check to physical threats such as Zygarde-10%, Mamoswine, and Jirachi. Ditto is also an option to keep offensive setup sweepers like Azumarill and Gyarados in check. A good Knock Off absorber such as Tangrowth, Amoonguss, or Cobalion is helpful, as Chansey needs Eviolite to better switch into attacks. Amoonguss is also able to check Keldeo and Azumarill.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Chansey",
+    "pokemonId": "/pokemon/chansey",
+    "pokemonTypes": [
+      {
+        "typeName": "Normal",
+        "typeId": "/types/normal"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 250
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 5
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 5
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 35
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 50
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Natural Cure",
+        "abilityId": "/abilities/natural-cure",
+        "abilityDetails": "This Pokemon has its non-volatile status condition cured when it switches out."
+      },
+      {
+        "abilityName": "Serene Grace",
+        "abilityId": "/abilities/serene-grace",
+        "abilityDetails": "This Pokemon's moves have their secondary effect chance doubled."
+      },
+      {
+        "abilityName": "Healer",
+        "abilityId": "/abilities/healer",
+        "abilityDetails": "30% chance of curing an adjacent ally's status at the end of each turn."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:25.0646335Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Eviolite",
+      "itemId": "/items/eviolite",
+      "itemDetails": "If holder's species can evolve, its Defense and Sp. Def are 1.5x."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Natural Cure",
+      "abilityId": "/abilities/natural-cure",
+      "abilityDetails": "This Pokemon has its non-volatile status condition cured when it switches out."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Bold",
+      "natureId": "/natures/bold",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 0
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/three-attacks?pokemon=hydreigon&tier=uu",
+      "strategyName": "Three Attacks"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=hydreigon&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=hydreigon&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/unaware-wall?pokemon=quagsire&tier=uu",
+      "strategyName": "Unaware Wall"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/guts-wallbreaker?pokemon=conkeldurr&tier=uu",
+      "strategyName": "Guts Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=mamoswine&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice Scarf"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=keldeo&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=keldeo&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=azelf&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Seismic Toss",
+        "moveId": "/moves/seismic-toss",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "Does damage equal to the user's level."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Toxic",
+        "moveId": "/moves/toxic",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 90,
+        "moveDetails": "Badly poisons the target. Poison types can't miss."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Soft-Boiled",
+        "moveId": "/moves/soft-boiled",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals the user by 50% of its max HP."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Teleport",
+        "moveId": "/moves/teleport",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "User switches out."
+      },
+      {
+        "moveName": "Stealth Rock",
+        "moveId": "/moves/stealth-rock",
+        "moveType": {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Hurts foes on switch-in. Factors Rock weakness."
+      },
+      {
+        "moveName": "Aromatherapy",
+        "moveId": "/moves/aromatherapy",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Cures the user's party of all status conditions."
+      }
+    ]
+  }
+}
