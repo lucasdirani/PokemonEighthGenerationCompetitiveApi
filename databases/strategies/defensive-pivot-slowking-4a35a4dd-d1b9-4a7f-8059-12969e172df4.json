@@ -1,1 +1,432 @@
-﻿{"strategyName":"Defensive Pivot","strategyId":"/strategies/defensive-pivot?pokemon=slowking&tier=uu","strategyDetails":"<p>Scald reduces Slowking's passivity, burning switch-ins like <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a> and <a href=\"/dex/ss/pokemon/tapu-bulu\" hreflang=\"en\">Tapu Bulu</a>. Psychic threaten foes such as <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a> as they switch in. Additionally, Psychic discourages <a href=\"/dex/ss/pokemon/conkeldurr\" hreflang=\"en\">Conkeldurr</a> from staying in to use Knock Off. Future Sight can be used instead to support Slowking's wallbreaking teammates. In addition to being an excellent pivot move, Teleport works well with Future Sight to bring in an offensive teammate such as Conkeldurr to capitalize on Future Sight absorbers, which are mainly Dark-types. Colbur Berry allows Slowking to avoid an OHKO from Conkeldurr's Knock Off, improve its matchup against <a href=\"/dex/ss/pokemon/mamoswine\" hreflang=\"en\">Mamoswine</a>, and give it the ability to pivot against <a href=\"/dex/ss/pokemon/hydreigon\" hreflang=\"en\">Hydreigon</a> with Teleport. 0 Speed IVs let Slowking underspeed opposing Slowking and gain momentum with a slower Teleport. 16 Special Defense EVs with a Sassy nature improve Slowking's matchup against foes such as <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a> and <a href=\"/dex/ss/pokemon/moltres\" hreflang=\"en\">Moltres</a>; however, it should be noted that this worsens Slowking's matchup against <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a>.</p>\n<p>Slowking fits best on bulky offense, VoltTurn, and balance teams that appreciate its ability to tank special attacks and pivot in strong wallbreakers. Frail wallbreakers such as <a href=\"/dex/ss/pokemon/zygarde-10\" hreflang=\"en\">Zygarde-10%</a>, and <a href=\"/dex/ss/pokemon/thundurus-therian\" hreflang=\"en\">Thundurus-T</a> appreciate Slowking's ability to safely pivot them onto the field via Teleport. These teammates also enjoy Future Sight pressuring Amoonguss and <a href=\"/dex/ss/pokemon/nihilego\" hreflang=\"en\">Nihilego</a>. Slowking forms an excellent defensive core with Grass-types such as Amoonguss, <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a>, and Tapu Bulu, which appreciate its ability to switch into Fire-type attacks and check Poison-types such as <a href=\"/dex/ss/pokemon/tentacruel\" hreflang=\"en\">Tentacruel</a>. In return, they can come in on the Grass- and Electric-types like Tapu Bulu, <a href=\"/dex/ss/pokemon/zarude\" hreflang=\"en\">Zarude</a>, and Thundurus-T. Slowking forms a strong pivot core with Moltres, with Moltres pressuring Grass-types such as Tangrowth and Tapu Bulu and Slowking checking foes such as <a href=\"/dex/ss/pokemon/keldeo\" hreflang=\"en\">Keldeo</a>. Slowking struggles against Ghost-types such as Aegislash and <a href=\"/dex/ss/pokemon/chandelure\" hreflang=\"en\">Chandelure</a> and values teammates that threaten them, such as Hydreigon and <a href=\"/dex/ss/pokemon/mandibuzz\" hreflang=\"en\">Mandibuzz</a>. Slowking appreciates entry hazard control from teammates such as Excadrill, Mandibuzz, and <a href=\"/dex/ss/pokemon/rotom-heat\" hreflang=\"en\">Rotom-H</a>. <a href=\"/dex/ss/pokemon/skarmory\" hreflang=\"en\">Skarmory</a> is also a good teammate for Slowking, as it checks Zarude easily and helps against Mamoswine, Conkeldurr, and <a href=\"/dex/ss/pokemon/azumarill\" hreflang=\"en\">Azumarill</a>. Its Whirlwind also synergizes with Future Sight, heavily damaging shared checks like Thundurus-T or outright KOing Fighting-types. Slowking enjoys cleric support from Pokemon like <a href=\"/dex/ss/pokemon/weezing-galar\" hreflang=\"en\">Galarian Weezing</a> to deal with status.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Slowking","pokemonId":"/pokemon/slowking","pokemonTypes":[{"typeName":"Water","typeId":"/types/water"},{"typeName":"Psychic","typeId":"/types/psychic"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":95},{"baseStat":{"statName":"Attack"},"baseStatNumber":75},{"baseStat":{"statName":"Defense"},"baseStatNumber":80},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":100},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":110},{"baseStat":{"statName":"Speed"},"baseStatNumber":30}],"pokemonAbilities":[{"abilityName":"Oblivious","abilityId":"/abilities/oblivious","abilityDetails":"This Pokemon cannot be infatuated or taunted. Immune to Intimidate."},{"abilityName":"Own Tempo","abilityId":"/abilities/own-tempo","abilityDetails":"This Pokemon cannot be confused. Immune to Intimidate."},{"abilityName":"Regenerator","abilityId":"/abilities/regenerator","abilityDetails":"This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."}],"pokemonTiers":[{"tierName":"OU","tierId":"/tiers/ou"}]},"strategyCreationDate":"2022-02-22T11:03:45.2407372Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Colbur Berry","itemId":"/items/colbur-berry","itemDetails":"Halves damage taken from a supereffective Dark-type attack. Single use."},{"itemName":"Heavy-Duty Boots","itemId":"/items/heavy-duty-boots","itemDetails":"When switching in, the holder is unaffected by hazards on its side of the field."}],"strategyAbilities":[{"abilityName":"Regenerator","abilityId":"/abilities/regenerator","abilityDetails":"This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."}],"strategyNatures":[{"natureName":"Relaxed","natureId":"/natures/relaxed","natureDecreasedStat":{"statName":"Speed"},"natureIncreasedStat":{"statName":"Defense"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":248},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":252},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":8},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":0}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":0},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":0}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Scald","moveId":"/moves/scald","moveType":{"typeName":"Water","typeId":"/types/water"},"moveCategory":"Special","movePower":80,"moveAccuracy":100,"moveDetails":"30% chance to burn the target. Thaws target."}],"strategySecondMoves":[{"moveName":"Psychic","moveId":"/moves/psychic","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"10% chance to lower the target's Sp. Def by 1."},{"moveName":"Future Sight","moveId":"/moves/future-sight","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Special","movePower":120,"moveAccuracy":100,"moveDetails":"Hits two turns after being used."}],"strategyThirdMoves":[{"moveName":"Slack Off","moveId":"/moves/slack-off","moveType":{"typeName":"Normal","typeId":"/types/normal"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Heals the user by 50% of its max HP."}],"strategyFourthMoves":[{"moveName":"Teleport","moveId":"/moves/teleport","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"User switches out."}]}}
+﻿{
+  "strategyName": "Defensive Pivot",
+  "strategyId": "/strategies/defensive-pivot?pokemon=slowking&tier=uu",
+  "strategyDetails": "Scald reduces Slowking's passivity, burning switch-ins like Aegislash and Tapu Bulu. Psychic threaten foes such as Amoonguss as they switch in. Additionally, Psychic discourages Conkeldurr from staying in to use Knock Off. Future Sight can be used instead to support Slowking's wallbreaking teammates. In addition to being an excellent pivot move, Teleport works well with Future Sight to bring in an offensive teammate such as Conkeldurr to capitalize on Future Sight absorbers, which are mainly Dark-types. Colbur Berry allows Slowking to avoid an OHKO from Conkeldurr's Knock Off, improve its matchup against Mamoswine, and give it the ability to pivot against Hydreigon with Teleport. 0 Speed IVs let Slowking underspeed opposing Slowking and gain momentum with a slower Teleport. 16 Special Defense EVs with a Sassy nature improve Slowking's matchup against foes such as Primarina and Moltres; however, it should be noted that this worsens Slowking's matchup against Excadrill. Slowking fits best on bulky offense, VoltTurn, and balance teams that appreciate its ability to tank special attacks and pivot in strong wallbreakers. Frail wallbreakers such as Zygarde-10%, and Thundurus-T appreciate Slowking's ability to safely pivot them onto the field via Teleport. These teammates also enjoy Future Sight pressuring Amoonguss and Nihilego. Slowking forms an excellent defensive core with Grass-types such as Amoonguss, Tangrowth, and Tapu Bulu, which appreciate its ability to switch into Fire-type attacks and check Poison-types such as Tentacruel. In return, they can come in on the Grass- and Electric-types like Tapu Bulu, Zarude, and Thundurus-T. Slowking forms a strong pivot core with Moltres, with Moltres pressuring Grass-types such as Tangrowth and Tapu Bulu and Slowking checking foes such as Keldeo. Slowking struggles against Ghost-types such as Aegislash and Chandelure and values teammates that threaten them, such as Hydreigon and Mandibuzz. Slowking appreciates entry hazard control from teammates such as Excadrill, Mandibuzz, and Rotom-H. Skarmory is also a good teammate for Slowking, as it checks Zarude easily and helps against Mamoswine, Conkeldurr, and Azumarill. Its Whirlwind also synergizes with Future Sight, heavily damaging shared checks like Thundurus-T or outright KOing Fighting-types. Slowking enjoys cleric support from Pokemon like Galarian Weezing to deal with status.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Slowking",
+    "pokemonId": "/pokemon/slowking",
+    "pokemonTypes": [
+      {
+        "typeName": "Water",
+        "typeId": "/types/water"
+      },
+      {
+        "typeName": "Psychic",
+        "typeId": "/types/psychic"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 75
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 110
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 30
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Oblivious",
+        "abilityId": "/abilities/oblivious",
+        "abilityDetails": "This Pokemon cannot be infatuated or taunted. Immune to Intimidate."
+      },
+      {
+        "abilityName": "Own Tempo",
+        "abilityId": "/abilities/own-tempo",
+        "abilityDetails": "This Pokemon cannot be confused. Immune to Intimidate."
+      },
+      {
+        "abilityName": "Regenerator",
+        "abilityId": "/abilities/regenerator",
+        "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:45.2407372Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Colbur Berry",
+      "itemId": "/items/colbur-berry",
+      "itemDetails": "Halves damage taken from a supereffective Dark-type attack. Single use."
+    },
+    {
+      "itemName": "Heavy-Duty Boots",
+      "itemId": "/items/heavy-duty-boots",
+      "itemDetails": "When switching in, the holder is unaffected by hazards on its side of the field."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Regenerator",
+      "abilityId": "/abilities/regenerator",
+      "abilityDetails": "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Relaxed",
+      "natureId": "/natures/relaxed",
+      "natureDecreasedStat": { "statName": "Speed" },
+      "natureIncreasedStat": { "statName": "Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 248
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 8
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 0
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 0
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 0
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/three-attacks?pokemon=hydreigon&tier=uu",
+      "strategyName": "Three Attacks"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=hydreigon&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=hydreigon&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=mandibuzz&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=hydreigon&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/three-attacks?pokemon=hydreigon&tier=uu",
+      "strategyName": "Three Attacks"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=hydreigon&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=moltres-galar&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/double-dance?pokemon=moltres-galar&tier=uu",
+      "strategyName": "Double Dance"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/guts-wallbreaker?pokemon=conkeldurr&tier=uu",
+      "strategyName": "Guts Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Scald",
+        "moveId": "/moves/scald",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to burn the target. Thaws target."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Psychic",
+        "moveId": "/moves/psychic",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      },
+      {
+        "moveName": "Future Sight",
+        "moveId": "/moves/future-sight",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "moveDetails": "Hits two turns after being used."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Slack Off",
+        "moveId": "/moves/slack-off",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals the user by 50% of its max HP."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Teleport",
+        "moveId": "/moves/teleport",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "User switches out."
+      }
+    ]
+  }
+}
