@@ -1,1 +1,346 @@
-﻿{"strategyName":"Defensive","strategyId":"/strategies/defensive?pokemon=salamence&tier=uu","strategyDetails":"<p>Dual Wingbeat is a reliable STAB move that helps against threats to defensive teams such as Substitute <a href=\"/dex/ss/pokemon/keldeo\" hreflang=\"en\">Keldeo</a>. Toxic can be used instead to cripple Stealth Rock setters such as <a href=\"/dex/ss/pokemon/rhyperior\" hreflang=\"en\">Rhyperior</a> and wear down wallbreakers such as <a href=\"/dex/ss/pokemon/thundurus-therian\" hreflang=\"en\">Thundurus-T</a>, though Salamence becomes much more passive against <a href=\"/dex/ss/pokemon/conkeldurr\" hreflang=\"en\">Conkeldurr</a> and <a href=\"/dex/ss/pokemon/mienshao\" hreflang=\"en\">Mienshao</a>. Intimidate alongside the additional HP investment makes Salamence a more sturdy switch-in to Conkeldurr and <a href=\"/dex/ss/pokemon/gyarados\" hreflang=\"en\">Gyarados</a>, although it has to be wary of the latter's Ice Fang. Maximum Speed investment is needed to make Salamence less passive against offensive threats such as <a href=\"/dex/ss/pokemon/hydreigon\" hreflang=\"en\">Hydreigon</a> and <a href=\"/dex/ss/pokemon/krookodile\" hreflang=\"en\">Krookodile</a>.</p>\n<p>This set is suited for stall teams to relieve entry hazard pressure from setters like <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a> and Krookodile and check dangerous Pokemon like <a href=\"/dex/ss/pokemon/tapu-bulu\" hreflang=\"en\">Tapu Bulu</a> and Conkeldurr. Other entry hazard setters such as <a href=\"/dex/ss/pokemon/necrozma\" hreflang=\"en\">Necrozma</a> and <a href=\"/dex/ss/pokemon/nihilego\" hreflang=\"en\">Nihilego</a> are significant threats, so <a href=\"/dex/ss/pokemon/chansey\" hreflang=\"en\">Chansey</a> and <a href=\"/dex/ss/pokemon/jirachi\" hreflang=\"en\">Jirachi</a> can help outlast them while also providing their own Stealth Rock support. <a href=\"/dex/ss/pokemon/umbreon\" hreflang=\"en\">Umbreon</a> can check Pokemon Salamence can't handle by itself like <a href=\"/dex/ss/pokemon/mamoswine\" hreflang=\"en\">Mamoswine</a> and Gyarados, and it heavily appreciates Salamence’s support against Fighting-types. <a href=\"/dex/ss/pokemon/quagsire\" hreflang=\"en\">Quagsire</a> keeps Salamence from being overwhelmed by opposing Dragon Dance Salamence and <a href=\"/dex/ss/pokemon/lycanroc-dusk\" hreflang=\"en\">Lycanroc-D</a> and benefits from Salamence checking Grass-types. Knock Off support from teammates such as Nihilego is very beneficial so that Salamence can outlast threats such as <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a>. Bulky Grass-types like <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a> and Assault Vest <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a> are useful switch-ins into special attackers such as <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a> and Thundurus-T. Amoonguss and physically defensive Tangrowth are also good switch-ins to Knock Off. <a href=\"/dex/ss/pokemon/hatterene\" hreflang=\"en\">Hatterene</a> can ease Salamence's role as a hazard remover with Magic Bounce.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Salamence","pokemonId":"/pokemon/salamence","pokemonTypes":[{"typeName":"Dragon","typeId":"/types/dragon"},{"typeName":"Flying","typeId":"/types/flying"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":95},{"baseStat":{"statName":"Attack"},"baseStatNumber":135},{"baseStat":{"statName":"Defense"},"baseStatNumber":80},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":110},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":80},{"baseStat":{"statName":"Speed"},"baseStatNumber":100}],"pokemonAbilities":[{"abilityName":"Intimidate","abilityId":"/abilities/intimidate","abilityDetails":"On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."},{"abilityName":"Moxie","abilityId":"/abilities/moxie","abilityDetails":"This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:33.7210983Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Heavy-Duty Boots","itemId":"/items/heavy-duty-boots","itemDetails":"When switching in, the holder is unaffected by hazards on its side of the field."}],"strategyAbilities":[{"abilityName":"Intimidate","abilityId":"/abilities/intimidate","abilityDetails":"On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."}],"strategyNatures":[{"natureName":"Jolly","natureId":"/natures/jolly","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":248},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":8},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Dual Wingbeat","moveId":"/moves/dual-wingbeat","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Physical","movePower":40,"moveAccuracy":90,"moveDetails":"Hits 2 times in one turn."},{"moveName":"Toxic","moveId":"/moves/toxic","moveType":{"typeName":"Poison","typeId":"/types/poison"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":90,"moveDetails":"Badly poisons the target. Poison types can't miss."}],"strategySecondMoves":[{"moveName":"Flamethrower","moveId":"/moves/flamethrower","moveType":{"typeName":"Fire","typeId":"/types/fire"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"10% chance to burn the target."},{"moveName":"Earthquake","moveId":"/moves/earthquake","moveType":{"typeName":"Ground","typeId":"/types/ground"},"moveCategory":"Physical","movePower":100,"moveAccuracy":100,"moveDetails":"Hits adjacent Pokemon. Double damage on Dig."}],"strategyThirdMoves":[{"moveName":"Roost","moveId":"/moves/roost","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Heals 50% HP. Flying-type removed 'til turn ends."}],"strategyFourthMoves":[{"moveName":"Defog","moveId":"/moves/defog","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"-1 evasion; clears terrain and hazards on both sides."}]}}
+﻿{
+  "strategyName": "Defensive",
+  "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+  "strategyDetails": "Dual Wingbeat is a reliable STAB move that helps against threats to defensive teams such as Substitute Keldeo. Toxic can be used instead to cripple Stealth Rock setters such as Rhyperior and wear down wallbreakers such as Thundurus-T, though Salamence becomes much more passive against Conkeldurr. Flamethrower wears down Steel-types like Excadrill and Celesteela, though Earthquake can be used to KO Nihilego while retaining coverage for the former. Earthquake Intimidate alongside the additional HP investment makes Salamence a more sturdy switch-in to Conkeldurr, Zarude, and Gyarados, although it has to be wary of the latter's Ice Fang. Maximum Speed investment is needed to make Salamence less passive against offensive threats such as Hydreigon and Krookodile. This set is suited for stall teams to relieve entry hazard pressure from setters like Excadrill and Krookodile and check dangerous Pokemon like Tapu Bulu and Conkeldurr. Other entry hazard setters such as Necrozma and Nihilego are significant threats, so Chansey and Jirachi can help outlast them while also providing their own Stealth Rock support. Umbreon can check Pokemon Salamence can't handle by itself like Mamoswine and Gyarados, and it heavily appreciates Salamence’s support against Fighting-types. Quagsire keeps Salamence from being overwhelmed by opposing Dragon Dance Salamence and Lycanroc-D and benefits from Salamence checking Grass-types. Knock Off support from teammates such as Nihilego is very beneficial so that Salamence can outlast threats such as Aegislash. Bulky Grass-types like Amoonguss and Assault Vest Tangrowth are useful switch-ins into special attackers such as Primarina and Thundurus-T. Amoonguss and physically defensive Tangrowth are also good switch-ins to Knock Off. Hatterene can ease Salamence's role as a hazard remover with Magic Bounce.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Salamence",
+    "pokemonId": "/pokemon/salamence",
+    "pokemonTypes": [
+      {
+        "typeName": "Dragon",
+        "typeId": "/types/dragon"
+      },
+      {
+        "typeName": "Flying",
+        "typeId": "/types/flying"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 135
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 110
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 100
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Intimidate",
+        "abilityId": "/abilities/intimidate",
+        "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+      },
+      {
+        "abilityName": "Moxie",
+        "abilityId": "/abilities/moxie",
+        "abilityDetails": "This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:33.7210983Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Heavy-Duty Boots",
+      "itemId": "/items/heavy-duty-boots",
+      "itemDetails": "When switching in, the holder is unaffected by hazards on its side of the field."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Intimidate",
+      "abilityId": "/abilities/intimidate",
+      "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Jolly",
+      "natureId": "/natures/jolly",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 248
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 8
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice SCarf"
+    },
+    {
+      "strategyId": "/strategies/unaware-wall?pokemon=quagsire&tier=uu",
+      "strategyName": "Unaware Wall"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=hatterene&tier=uu",
+      "strategyName": "Calm Mind"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=hatterene&tier=uu",
+      "strategyName": "Calm Mind"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=slowking&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowking&tier=uu",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=mandibuzz&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Dual Wingbeat",
+        "moveId": "/moves/dual-wingbeat",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 90,
+        "moveDetails": "Hits 2 times in one turn."
+      },
+      {
+        "moveName": "Toxic",
+        "moveId": "/moves/toxic",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 90,
+        "moveDetails": "Badly poisons the target. Poison types can't miss."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Flamethrower",
+        "moveId": "/moves/flamethrower",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to burn the target."
+      },
+      {
+        "moveName": "Earthquake",
+        "moveId": "/moves/earthquake",
+        "moveType": {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        "moveCategory": "Physical",
+        "movePower": 100,
+        "moveAccuracy": 100,
+        "moveDetails": "Hits adjacent Pokemon. Double damage on Dig."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Roost",
+        "moveId": "/moves/roost",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals 50% HP. Flying-type removed 'til turn ends."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Defog",
+        "moveId": "/moves/defog",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "-1 evasion; clears terrain and hazards on both sides."
+      }
+    ]
+  }
+}
