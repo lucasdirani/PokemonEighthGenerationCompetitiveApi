@@ -1,1 +1,338 @@
-﻿{"strategyName":"Defensive","strategyId":"/strategies/defensive?pokemon=tapu-bulu&tier=uu","strategyDetails":"<p>Horn Leech allows Tapu Bulu to gain recovery while still having a strong move to hit <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/ss/pokemon/crawdaunt\" hreflang=\"en\">Crawdaunt</a>, and <a href=\"/dex/ss/pokemon/lycanroc-dusk\" hreflang=\"en\">Lycanroc-D</a>. Dazzling Gleam is able to sometimes OHKO <a href=\"/dex/ss/pokemon/kommo-o\" hreflang=\"en\">Kommo-o</a> and deals good damage to <a href=\"/dex/ss/pokemon/zarude\" hreflang=\"en\">Zarude</a> and <a href=\"/dex/ss/pokemon/buzzwole\" hreflang=\"en\">Buzzwole</a>. Toxic punishes switch-ins such as <a href=\"/dex/ss/pokemon/rotom-heat\" hreflang=\"en\">Rotom-H</a> and <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a>. Synthesis is reliable recovery, but it should only be used sparingly due to its low PP. Heavy-Duty Boots is the preferred item, but Rocky Helmet can be used to punish contact moves from Zarude, <a href=\"/dex/ss/pokemon/krookodile\" hreflang=\"en\">Krookodile</a>, and <a href=\"/dex/ss/pokemon/gyarados\" hreflang=\"en\">Gyarados</a>. The EV spread is to outspeed Choice Specs Primarina while maximizing physical bulk to better check Buzzwole and Lycanroc-D.</p>\n<p>Defensive Tapu Bulu is mainly found on stall and balance teams, as they appreciate it bringing Grassy Terrain for extra recovery. Calm Mind <a href=\"/dex/ss/pokemon/slowbro-galar\" hreflang=\"en\">Galarian Slowbro</a> and SubToxic <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a> are great partners, as they can deal with <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a> and <a href=\"/dex/ss/pokemon/togekiss\" hreflang=\"en\">Togekiss</a>, respectively. In return, Tapu Bulu is able to handle Krookodile, <a href=\"/dex/ss/pokemon/rhyperior\" hreflang=\"en\">Rhyperior</a>, Zarude, and Crawdaunt for these Pokemon. <a href=\"/dex/ss/pokemon/chansey\" hreflang=\"en\">Chansey</a> is able to check non-Dragon Dance Salamence and other special attackers such as <a href=\"/dex/ss/pokemon/nidoking\" hreflang=\"en\">Nidoking</a> and <a href=\"/dex/ss/pokemon/nihilego\" hreflang=\"en\">Nihilego</a>; Tapu Bulu beats <a href=\"/dex/ss/pokemon/keldeo\" hreflang=\"en\">Keldeo</a>, one of the few special attackers that can break through Chansey. <a href=\"/dex/ss/pokemon/umbreon\" hreflang=\"en\">Umbreon</a> provides Wish support so that Tapu Bulu does not have to use Synthesis often while also checking Salamence and Aegislash. Fire-types such as <a href=\"/dex/ss/pokemon/entei\" hreflang=\"en\">Entei</a> and <a href=\"/dex/ss/pokemon/moltres\" hreflang=\"en\">Moltres</a> help deal with <a href=\"/dex/ss/pokemon/jirachi\" hreflang=\"en\">Jirachi</a>, Amoonguss, and Aegislash, which wall it.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Tapu Bulu","pokemonId":"/pokemon/tapu-bulu","pokemonTypes":[{"typeName":"Grass","typeId":"/types/grass"},{"typeName":"Fairy","typeId":"/types/fairy"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":70},{"baseStat":{"statName":"Attack"},"baseStatNumber":130},{"baseStat":{"statName":"Defense"},"baseStatNumber":115},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":85},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":95},{"baseStat":{"statName":"Speed"},"baseStatNumber":75}],"pokemonAbilities":[{"abilityName":"Telepathy","abilityId":"/abilities/telepathy","abilityDetails":"This Pokemon does not take damage from attacks made by its allies."},{"abilityName":"Grassy Surge","abilityId":"/abilities/grassy-surge","abilityDetails":"On switch-in, this Pokemon summons Grassy Terrain."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:34.7725398Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Heavy-Duty Boots","itemId":"/items/heavy-duty-boots","itemDetails":"When switching in, the holder is unaffected by hazards on its side of the field."}],"strategyAbilities":[{"abilityName":"Grassy Surge","abilityId":"/abilities/grassy-surge","abilityDetails":"On switch-in, this Pokemon summons Grassy Terrain."}],"strategyNatures":[{"natureName":"Impish","natureId":"/natures/impish","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Defense"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":252},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":120},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":136}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Horn Leech","moveId":"/moves/horn-leech","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Physical","movePower":75,"moveAccuracy":100,"moveDetails":"User recovers 50% of the damage dealt."}],"strategySecondMoves":[{"moveName":"Dazzling Gleam","moveId":"/moves/dazzling-gleam","moveType":{"typeName":"Fairy","typeId":"/types/fairy"},"moveCategory":"Special","movePower":80,"moveAccuracy":100,"moveDetails":"No additional effect. Hits adjacent foes."}],"strategyThirdMoves":[{"moveName":"Toxic","moveId":"/moves/toxic","moveType":{"typeName":"Poison","typeId":"/types/poison"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":90,"moveDetails":"Badly poisons the target. Poison types can't miss."}],"strategyFourthMoves":[{"moveName":"Synthesis","moveId":"/moves/synthesis","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Heals the user by a weather-dependent amount."}]}}
+﻿{
+  "strategyName": "Defensive",
+  "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+  "strategyDetails": "Horn Leech allows Tapu Bulu to gain recovery while still having a strong move to hit Primarina, Crawdaunt, and Lycanroc-D. Dazzling Gleam is able to sometimes OHKO Kommo-o and deals good damage to Zarude and Buzzwole. Toxic punishes switch-ins such as Rotom-H and Salamence. Synthesis is reliable recovery, but it should only be used sparingly due to its low PP. Heavy-Duty Boots is the preferred item, but Rocky Helmet can be used to punish contact moves from Zarude, Krookodile, and Gyarados. The EV spread is to outspeed Choice Specs Primarina while maximizing physical bulk to better check Buzzwole and Lycanroc-D. Defensive Tapu Bulu is mainly found on stall and balance teams, as they appreciate it bringing Grassy Terrain for extra recovery. Calm Mind Galarian Slowbro and SubToxic Aegislash are great partners, as they can deal with Amoonguss and Togekiss, respectively. In return, Tapu Bulu is able to handle Krookodile, Rhyperior, Zarude, and Crawdaunt for these Pokemon. Chansey is able to check non-Dragon Dance Salamence and other special attackers such as Nidoking and Nihilego; Tapu Bulu beats Keldeo, one of the few special attackers that can break through Chansey. Umbreon provides Wish support so that Tapu Bulu does not have to use Synthesis often while also checking Salamence and Aegislash. Fire-types such as Entei and Moltres help deal with Jirachi, Amoonguss, and Aegislash, which wall it.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Tapu Bulu",
+    "pokemonId": "/pokemon/tapu-bulu",
+    "pokemonTypes": [
+      {
+        "typeName": "Grass",
+        "typeId": "/types/grass"
+      },
+      {
+        "typeName": "Fairy",
+        "typeId": "/types/fairy"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 130
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 115
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 85
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 75
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Telepathy",
+        "abilityId": "/abilities/telepathy",
+        "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+      },
+      {
+        "abilityName": "Grassy Surge",
+        "abilityId": "/abilities/grassy-surge",
+        "abilityDetails": "On switch-in, this Pokemon summons Grassy Terrain."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:34.7725398Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Heavy-Duty Boots",
+      "itemId": "/items/heavy-duty-boots",
+      "itemDetails": "When switching in, the holder is unaffected by hazards on its side of the field."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Grassy Surge",
+      "abilityId": "/abilities/grassy-surge",
+      "abilityDetails": "On switch-in, this Pokemon summons Grassy Terrain."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Impish",
+      "natureId": "/natures/impish",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 120
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 136
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Horn Leech",
+        "moveId": "/moves/horn-leech",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "User recovers 50% of the damage dealt."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Dazzling Gleam",
+        "moveId": "/moves/dazzling-gleam",
+        "moveType": {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "No additional effect. Hits adjacent foes."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Toxic",
+        "moveId": "/moves/toxic",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 90,
+        "moveDetails": "Badly poisons the target. Poison types can't miss."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Synthesis",
+        "moveId": "/moves/synthesis",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals the user by a weather-dependent amount."
+      }
+    ]
+  }
+}
