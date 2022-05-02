@@ -1,1 +1,360 @@
-﻿{"strategyName":"Dragon Dance Sweeper","strategyId":"/strategies/dragon-dance-sweeper?pokemon=gyarados&tier=uu","strategyDetails":"<p>Ice Fang hits many threats like <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a>, <a href=\"/dex/ss/pokemon/hydreigon\" hreflang=\"en\">Hydreigon</a>, <a href=\"/dex/ss/pokemon/mandibuzz\" hreflang=\"en\">Mandibuzz</a>, and <a href=\"/dex/ss/pokemon/tapu-bulu\" hreflang=\"en\">Tapu Bulu</a>. However, Gyarados requires multiple boosts to reliably KO bulky Grass-types like <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a> and <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a> with it. Bounce can be used over Ice Fang, as it can more reliably KO a chipped Amoonguss with just one boost. However, Bounce requires a Power Herb as the item to limit its exploitability from Protect, Substitute, or switching. Even so, once the Power Herb is consumed Gyarados will still fall victim to these issues. Power Whip offers essential coverage against bulky Water-types like <a href=\"/dex/ss/pokemon/quagsire\" hreflang=\"en\">Quagsire</a>, <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a>, and <a href=\"/dex/ss/pokemon/rotom-wash\" hreflang=\"en\">Rotom-W</a>. Moxie is the preferred ability, as it enables Gyarados to snowball through a team after one or two boosts. Lum Berry allows Gyarados to freely setup twice against foes like <a href=\"/dex/ss/pokemon/chansey\" hreflang=\"en\">Chansey</a> and Toxic Excadril. Mystic Water is an alternative option to let Gyarados break through <a href=\"/dex/ss/pokemon/celesteela\" hreflang=\"en\">Celesteela</a>, <a href=\"/dex/ss/pokemon/skarmory\" hreflang=\"en\">Skarmory</a>, and Mandibuzz much easier with Waterfall, letting it break through the latter two with only one flinch instead of two at +1. On more bulky offense teams, Heavy-Duty Boots can be used to prevent Stealth Rock damage, allowing Gyarados to switch in more frequently. An Adamant nature is preffered for extra wallbreaking power, as Gyarados doesn't outspeed anything notable with a Jolly nature and it guarantees an OHKO on <a href=\"/dex/ss/pokemon/azumarill\" hreflang=\"en\">Azumarill</a> with unboosted Power Whip as well as <a href=\"/dex/ss/pokemon/thundurus-therian\" hreflang=\"en\">Thundurus-T</a> with +1 Ice Fang.</p>\n<p>Gyarados is best used on hyper offense and bulky offense teams due to the offensive pressure it offers. Gyarados is primarily used as a late-game cleaner, but it struggles against defensive Pokemon like Chansey and Amoonguss. A teammate that offers entry hazard support like <a href=\"/dex/ss/pokemon/krookodile\" hreflang=\"en\">Krookodile</a> and <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a> helps wear these foes down enough for Gyarados to break through them. Both of these Pokemon can absorb Electric-type attacks and keep Stealth Rock off with Taunt or Rapid Spin, allowing Gyarados to use Lum Berry or Mystic Water. <a href=\"/dex/ss/pokemon/roserade\" hreflang=\"en\">Roserade</a> can provide Spikes support to help wear down foes like <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a> and Amoonguss. Early game wallbreakers like Aegislash, <a href=\"/dex/ss/pokemon/diggersby\" hreflang=\"en\">Diggersby</a>, and Nasty Plot Thundurus-T can break through walls like Mandibuzz, Chansey, and Celesteela, allowing Gyarados to clean these typically bulky threats up more easily. Sticky Web setters like <a href=\"/dex/ss/pokemon/ribombee\" hreflang=\"en\">Ribombee</a> can make up for Gyarados's mediocre Speed tier and prevent Choice Scarf users like <a href=\"/dex/ss/pokemon/mienshao\" hreflang=\"en\">Mienshao</a> revenge killing it.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Gyarados","pokemonId":"/pokemon/gyarados","pokemonTypes":[{"typeName":"Water","typeId":"/types/water"},{"typeName":"Flying","typeId":"/types/flying"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":95},{"baseStat":{"statName":"Attack"},"baseStatNumber":125},{"baseStat":{"statName":"Defense"},"baseStatNumber":79},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":60},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":100},{"baseStat":{"statName":"Speed"},"baseStatNumber":81}],"pokemonAbilities":[{"abilityName":"Intimidate","abilityId":"/abilities/intimidate","abilityDetails":"On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."},{"abilityName":"Moxie","abilityId":"/abilities/moxie","abilityDetails":"This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:26.6471489Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Lum Berry","itemId":"/items/lum-berry","itemDetails":"Holder cures itself if it has a non-volatile status or is confused. Single use."},{"itemName":"Mystic Water","itemId":"/items/mystic-water","itemDetails":"Holder's Water-type attacks have 1.2x power."},{"itemName":"Heavy-Duty Boots","itemId":"/items/heavy-duty-boots","itemDetails":"When switching in, the holder is unaffected by hazards on its side of the field."}],"strategyAbilities":[{"abilityName":"Moxie","abilityId":"/abilities/moxie","abilityDetails":"This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."}],"strategyNatures":[{"natureName":"Adamant","natureId":"/natures/adamant","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Attack"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Dragon Dance","moveId":"/moves/dragon-dance","moveType":{"typeName":"Dragon","typeId":"/types/dragon"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Raises the user's Attack and Speed by 1."}],"strategySecondMoves":[{"moveName":"Waterfall","moveId":"/moves/waterfall","moveType":{"typeName":"Water","typeId":"/types/water"},"moveCategory":"Physical","movePower":80,"moveAccuracy":100,"moveDetails":"20% chance to make the target flinch."}],"strategyThirdMoves":[{"moveName":"Ice Fang","moveId":"/moves/ice-fang","moveType":{"typeName":"Ice","typeId":"/types/ice"},"moveCategory":"Physical","movePower":65,"moveAccuracy":95,"moveDetails":"10% chance to freeze. 10% chance to flinch."}],"strategyFourthMoves":[{"moveName":"Power Whip","moveId":"/moves/power-whip","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Physical","movePower":120,"moveAccuracy":85,"moveDetails":"No additional effect."}]}}
+﻿{
+  "strategyName": "Dragon Dance Sweeper",
+  "strategyId": "/strategies/dragon-dance-sweeper?pokemon=gyarados&tier=uu",
+  "strategyDetails": "Ice Fang hits many threats like Salamence, Hydreigon, Mandibuzz, and Tapu Bulu. However, Gyarados requires multiple boosts to reliably KO bulky Grass-types like Tangrowth and Amoonguss with it. Bounce can be used over Ice Fang, as it can more reliably KO a chipped Amoonguss with just one boost. However, Bounce requires a Power Herb as the item to limit its exploitability from Protect, Substitute, or switching. Even so, once the Power Herb is consumed Gyarados will still fall victim to these issues. Power Whip offers essential coverage against bulky Water-types like Quagsire, Slowking, and Rotom-W. Moxie is the preferred ability, as it enables Gyarados to snowball through a team after one or two boosts. Lum Berry allows Gyarados to freely setup twice against foes like Chansey and Toxic Excadril. Mystic Water is an alternative option to let Gyarados break through Celesteela, Skarmory, and Mandibuzz much easier with Waterfall, letting it break through the latter two with only one flinch instead of two at +1. On more bulky offense teams, Heavy-Duty Boots can be used to prevent Stealth Rock damage, allowing Gyarados to switch in more frequently. An Adamant nature is preffered for extra wallbreaking power, as Gyarados doesn't outspeed anything notable with a Jolly nature and it guarantees an OHKO on Azumarill with unboosted Power Whip as well as Thundurus-T with +1 Ice Fang. Gyarados is best used on hyper offense and bulky offense teams due to the offensive pressure it offers. Gyarados is primarily used as a late-game cleaner, but it struggles against defensive Pokemon like Chansey and Amoonguss. A teammate that offers entry hazard support like Krookodile and Excadrill helps wear these foes down enough for Gyarados to break through them. Both of these Pokemon can absorb Electric-type attacks and keep Stealth Rock off with Taunt or Rapid Spin, allowing Gyarados to use Lum Berry or Mystic Water. Roserade can provide Spikes support to help wear down foes like Aegislash and Amoonguss. Early game wallbreakers like Aegislash, Diggersby, and Nasty Plot Thundurus-T can break through walls like Mandibuzz, Chansey, and Celesteela, allowing Gyarados to clean these typically bulky threats up more easily. Sticky Web setters like Ribombee can make up for Gyarados's mediocre Speed tier and prevent Choice Scarf users like Mienshao revenge killing it.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Gyarados",
+    "pokemonId": "/pokemon/gyarados",
+    "pokemonTypes": [
+      {
+        "typeName": "Water",
+        "typeId": "/types/water"
+      },
+      {
+        "typeName": "Flying",
+        "typeId": "/types/flying"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 125
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 79
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 60
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 81
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Intimidate",
+        "abilityId": "/abilities/intimidate",
+        "abilityDetails": "On switch-in, this Pokemon lowers the Attack of adjacent opponents by 1 stage."
+      },
+      {
+        "abilityName": "Moxie",
+        "abilityId": "/abilities/moxie",
+        "abilityDetails": "This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:26.6471489Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Lum Berry",
+      "itemId": "/items/lum-berry",
+      "itemDetails": "Holder cures itself if it has a non-volatile status or is confused. Single use."
+    },
+    {
+      "itemName": "Mystic Water",
+      "itemId": "/items/mystic-water",
+      "itemDetails": "Holder's Water-type attacks have 1.2x power."
+    },
+    {
+      "itemName": "Heavy-Duty Boots",
+      "itemId": "/items/heavy-duty-boots",
+      "itemDetails": "When switching in, the holder is unaffected by hazards on its side of the field."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Moxie",
+      "abilityId": "/abilities/moxie",
+      "abilityDetails": "This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Adamant",
+      "natureId": "/natures/adamant",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Attack" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=mandibuzz&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/three-attacks?pokemon=hydreigon&tier=uu",
+      "strategyName": "Three Attacks"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=hydreigon&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=hydreigon&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Dragon Dance",
+        "moveId": "/moves/dragon-dance",
+        "moveType": {
+          "typeName": "Dragon",
+          "typeId": "/types/dragon"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Attack and Speed by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Waterfall",
+        "moveId": "/moves/waterfall",
+        "moveType": {
+          "typeName": "Water",
+          "typeId": "/types/water"
+        },
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "20% chance to make the target flinch."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Ice Fang",
+        "moveId": "/moves/ice-fang",
+        "moveType": {
+          "typeName": "Ice",
+          "typeId": "/types/ice"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 95,
+        "moveDetails": "10% chance to freeze. 10% chance to flinch."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Power Whip",
+        "moveId": "/moves/power-whip",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 85,
+        "moveDetails": "No additional effect."
+      }
+    ]
+  }
+}
