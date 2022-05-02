@@ -1,1 +1,379 @@
-﻿{"strategyName":"Iron Defense","strategyId":"/strategies/iron-defense?pokemon=magnezone&tier=ou","strategyDetails":"<p>Iron Defense + Body Press Magnezone traps Pokemon that its STAB moves cannot threaten while also pressuring certain special walls that can switch into its attacks otherwise, such as <a href=\"/dex/ss/pokemon/blissey\" hreflang=\"en\">Blissey</a>. <a href=\"/dex/ss/pokemon/ferrothorn\" hreflang=\"en\">Ferrothorn</a> is the main target, as it is one of the best defensive Steel-types that resists Electric and Steel, but this set is still able to trap typical targets like <a href=\"/dex/ss/pokemon/skarmory\" hreflang=\"en\">Skarmory</a> and <a href=\"/dex/ss/pokemon/corviknight\" hreflang=\"en\">Corviknight</a> with Thunderbolt. Substitute is very useful to block common status moves such as Ferrothorn's Leech Seed and get one more hit off after taking down a Steel-type. Toxic allows Magnezone to badly poison switch-ins such as <a href=\"/dex/ss/pokemon/landorus-therian\" hreflang=\"en\">Landorus-T</a> and <a href=\"/dex/ss/pokemon/swampert\" hreflang=\"en\">Swampert</a> that can exploit Magnezone, while Teleport allows for Magnezone to gain momentum against them and other Ground-type Pokemon instead.</p>\n<p>With how easily Magnezone can remove Skarmory, Corviknight, and Ferrothorn, among other foes, physical setup sweepers such as <a href=\"/dex/ss/pokemon/rillaboom\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/ss/pokemon/kartana\" hreflang=\"en\">Kartana</a>, <a href=\"/dex/ss/pokemon/garchomp\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/ss/pokemon/dragonite\" hreflang=\"en\">Dragonite</a> can be much more effective. Iron Defense Magnezone will typically have a hard time breaking through Pokemon that aren't Steel-types due to the lack of offensive investment, meaning it needs strong defensive pivots to help when it gets in a bad position. Teammates like <a href=\"/dex/ss/pokemon/rotom-wash\" hreflang=\"en\">Rotom-W</a> and <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a> can pivot into strong Fire-type attacks from Pokemon like <a href=\"/dex/ss/pokemon/heatran\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/ss/pokemon/slowking-galar\" hreflang=\"en\">Galarian Slowking</a>, while Ground-type answers such as Corviknight and Landorus-T can cover Magnezone against attackers like Garchomp and opposing Landorus-T. Magnezone also appreciates strong wallbreakers to stop walls from taking momentum after it traps a foe, so Pokemon like <a href=\"/dex/ss/pokemon/kyurem\" hreflang=\"en\">Kyurem</a>, Choice Specs <a href=\"/dex/ss/pokemon/dragapult\" hreflang=\"en\">Dragapult</a>, and <a href=\"/dex/ss/pokemon/weavile\" hreflang=\"en\">Weavile</a> are good fits to break foes it can't even when boosted.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Magnezone","pokemonId":"/pokemon/magnezone","pokemonTypes":[{"typeName":"Electric","typeId":"/types/electric"},{"typeName":"Steel","typeId":"/types/steel"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":70},{"baseStat":{"statName":"Attack"},"baseStatNumber":70},{"baseStat":{"statName":"Defense"},"baseStatNumber":115},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":130},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":90},{"baseStat":{"statName":"Speed"},"baseStatNumber":60}],"pokemonAbilities":[{"abilityName":"Sturdy","abilityId":"/abilities/sturdy","abilityDetails":"If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."},{"abilityName":"Magnet Pull","abilityId":"/abilities/magnet-pull","abilityDetails":"Prevents adjacent Steel-type foes from choosing to switch."},{"abilityName":"Analytic","abilityId":"/abilities/analytic","abilityDetails":"This Pokemon's attacks have 1.3x power if it is the last to move in a turn."}],"pokemonTiers":[{"tierName":"OU","tierId":"/tiers/ou"}]},"strategyCreationDate":"2022-02-22T11:03:41.777868Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Leftovers","itemId":"/items/leftovers","itemDetails":"At the end of every turn, holder restores 1/16 of its max HP."}],"strategyAbilities":[{"abilityName":"Magnet Pull","abilityId":"/abilities/magnet-pull","abilityDetails":"Prevents adjacent Steel-type foes from choosing to switch."}],"strategyNatures":[{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":4},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":252},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Iron Defense","moveId":"/moves/iron-defense","moveType":{"typeName":"Steel","typeId":"/types/steel"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Raises the user's Defense by 2."}],"strategySecondMoves":[{"moveName":"Body Press","moveId":"/moves/body-press","moveType":{"typeName":"Fighting","typeId":"/types/fighting"},"moveCategory":"Physical","movePower":80,"moveAccuracy":100,"moveDetails":"Uses user's Def stat as Atk in damage calculation."}],"strategyThirdMoves":[{"moveName":"Thunderbolt","moveId":"/moves/thunderbolt","moveType":{"typeName":"Electric","typeId":"/types/electric"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"10% chance to paralyze the target."}],"strategyFourthMoves":[{"moveName":"Toxic","moveId":"/moves/toxic","moveType":{"typeName":"Poison","typeId":"/types/poison"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":90,"moveDetails":"Badly poisons the target. Poison types can't miss."},{"moveName":"Teleport","moveId":"/moves/teleport","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"User switches out."}]}}
+﻿{
+  "strategyName": "Iron Defense",
+  "strategyId": "/strategies/iron-defense?pokemon=magnezone&tier=ou",
+  "strategyDetails": "Iron Defense + Body Press Magnezone traps Pokemon that its STAB moves cannot threaten while also pressuring certain special walls that can switch into its attacks otherwise, such as Blissey. Ferrothorn is the main target, as it is one of the best defensive Steel-types that resists Electric and Steel, but this set is still able to trap typical targets like Skarmory and Corviknight with Thunderbolt. Substitute is very useful to block common status moves such as Ferrothorn's Leech Seed and get one more hit off after taking down a Steel-type. Toxic allows Magnezone to badly poison switch-ins such as Landorus-T and Swampert that can exploit Magnezone, while Teleport allows for Magnezone to gain momentum against them and other Ground-type Pokemon instead. With how easily Magnezone can remove Skarmory, Corviknight, and Ferrothorn, among other foes, physical setup sweepers such as Rillaboom, Kartana, Garchomp, and Dragonite can be much more effective. Iron Defense Magnezone will typically have a hard time breaking through Pokemon that aren't Steel-types due to the lack of offensive investment, meaning it needs strong defensive pivots to help when it gets in a bad position. Teammates like Rotom-W and Slowking can pivot into strong Fire-type attacks from Pokemon like Heatran and Galarian Slowking, while Ground-type answers such as Corviknight and Landorus-T can cover Magnezone against attackers like Garchomp and opposing Landorus-T. Magnezone also appreciates strong wallbreakers to stop walls from taking momentum after it traps a foe, so Pokemon like Kyurem, Choice Specs Dragapult, and Weavile are good fits to break foes it can't even when boosted.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Magnezone",
+    "pokemonId": "/pokemon/magnezone",
+    "pokemonTypes": [
+      {
+        "typeName": "Electric",
+        "typeId": "/types/electric"
+      },
+      {
+        "typeName": "Steel",
+        "typeId": "/types/steel"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 115
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 130
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 60
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Sturdy",
+        "abilityId": "/abilities/sturdy",
+        "abilityDetails": "If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."
+      },
+      {
+        "abilityName": "Magnet Pull",
+        "abilityId": "/abilities/magnet-pull",
+        "abilityDetails": "Prevents adjacent Steel-type foes from choosing to switch."
+      },
+      {
+        "abilityName": "Analytic",
+        "abilityId": "/abilities/analytic",
+        "abilityDetails": "This Pokemon's attacks have 1.3x power if it is the last to move in a turn."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:41.777868Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Magnet Pull",
+      "abilityId": "/abilities/magnet-pull",
+      "abilityDetails": "Prevents adjacent Steel-type foes from choosing to switch."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=dragonite&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/offensive-dragon-dance?pokemon=dragonite&tier=ou",
+      "strategyName": "Offensive Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive-dragon-dance?pokemon=dragonite&tier=ou",
+      "strategyName": "Defensive Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=rotom-wash&tier=ou",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive-pivot?pokemon=slowking&tier=ou",
+      "strategyName": "Specially Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=corviknight&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/special-wall?pokemon=hippowdon&tier=ou",
+      "strategyName": "Special Wall"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/sand-rush?pokemon=excadrill&tier=ou",
+      "strategyName": "Sand Rush"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=swampert&tier=ou",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=slowking-galar&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=ou",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=ou",
+      "strategyName": "Swords Dance"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/offensive-quiver-dance?pokemon=volcarona&tier=ou",
+      "strategyName": "Offensive Quiver Dance"
+    },
+    {
+      "strategyId": "/strategies/bulky-quiver-dance?pokemon=volcarona&tier=ou",
+      "strategyName": "Bulky Quiver Dance"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=blissey&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Iron Defense",
+        "moveId": "/moves/iron-defense",
+        "moveType": {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Defense by 2."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Body Press",
+        "moveId": "/moves/body-press",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "Uses user's Def stat as Atk in damage calculation."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Thunderbolt",
+        "moveId": "/moves/thunderbolt",
+        "moveType": {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to paralyze the target."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Toxic",
+        "moveId": "/moves/toxic",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 90,
+        "moveDetails": "Badly poisons the target. Poison types can't miss."
+      },
+      {
+        "moveName": "Teleport",
+        "moveId": "/moves/teleport",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "User switches out."
+      }
+    ]
+  }
+}

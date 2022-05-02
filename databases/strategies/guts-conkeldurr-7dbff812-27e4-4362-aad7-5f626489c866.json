@@ -1,1 +1,224 @@
-﻿{"strategyName":"Guts","strategyId":"/strategies/guts?pokemon=conkeldurr&tier=ou","strategyDetails":"<p>These are sample sets before we work on <a href=\"https://www.smogon.com/forums/forums/ou-analyses.538/\">new analyses</a> for the Crown Tundra meta. Stay tuned!</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Conkeldurr","pokemonId":"/pokemon/conkeldurr","pokemonTypes":[{"typeName":"Fighting","typeId":"/types/fighting"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":105},{"baseStat":{"statName":"Attack"},"baseStatNumber":140},{"baseStat":{"statName":"Defense"},"baseStatNumber":95},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":55},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":65},{"baseStat":{"statName":"Speed"},"baseStatNumber":45}],"pokemonAbilities":[{"abilityName":"Guts","abilityId":"/abilities/guts","abilityDetails":"If this Pokemon is statused, its Attack is 1.5x; ignores burn halving physical damage."},{"abilityName":"Iron Fist","abilityId":"/abilities/iron-fist","abilityDetails":"This Pokemon's punch-based attacks have 1.2x power. Sucker Punch is not boosted."},{"abilityName":"Sheer Force","abilityId":"/abilities/sheer-force","abilityDetails":"This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:25.4784668Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Flame Orb","itemId":"/items/flame-orb","itemDetails":"At the end of every turn, this item attempts to burn the holder."}],"strategyAbilities":[{"abilityName":"Guts","abilityId":"/abilities/guts","abilityDetails":"If this Pokemon is statused, its Attack is 1.5x; ignores burn halving physical damage."}],"strategyNatures":[{"natureName":"Adamant","natureId":"/natures/adamant","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Attack"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Close Combat","moveId":"/moves/close-combat","moveType":{"typeName":"Fighting","typeId":"/types/fighting"},"moveCategory":"Physical","movePower":120,"moveAccuracy":100,"moveDetails":"Lowers the user's Defense and Sp. Def by 1."},{"moveName":"Drain Punch","moveId":"/moves/drain-punch","moveType":{"typeName":"Fighting","typeId":"/types/fighting"},"moveCategory":"Physical","movePower":75,"moveAccuracy":100,"moveDetails":"User recovers 50% of the damage dealt."}],"strategySecondMoves":[{"moveName":"Mach Punch","moveId":"/moves/mach-punch","moveType":{"typeName":"Fighting","typeId":"/types/fighting"},"moveCategory":"Physical","movePower":40,"moveAccuracy":100,"moveDetails":"Usually goes first."}],"strategyThirdMoves":[{"moveName":"Knock Off","moveId":"/moves/knock-off","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Physical","movePower":65,"moveAccuracy":100,"moveDetails":"1.5x damage if foe holds an item. Removes item."}],"strategyFourthMoves":[{"moveName":"Facade","moveId":"/moves/facade","moveType":{"typeName":"Normal","typeId":"/types/normal"},"moveCategory":"Physical","movePower":70,"moveAccuracy":100,"moveDetails":"Power doubles if user is burn/poison/paralyzed."}]}}
+﻿{
+  "strategyName": "Guts",
+  "strategyId": "/strategies/guts?pokemon=conkeldurr&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Conkeldurr",
+    "pokemonId": "/pokemon/conkeldurr",
+    "pokemonTypes": [
+      {
+        "typeName": "Fighting",
+        "typeId": "/types/fighting"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 140
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 55
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 65
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 45
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Guts",
+        "abilityId": "/abilities/guts",
+        "abilityDetails": "If this Pokemon is statused, its Attack is 1.5x; ignores burn halving physical damage."
+      },
+      {
+        "abilityName": "Iron Fist",
+        "abilityId": "/abilities/iron-fist",
+        "abilityDetails": "This Pokemon's punch-based attacks have 1.2x power. Sucker Punch is not boosted."
+      },
+      {
+        "abilityName": "Sheer Force",
+        "abilityId": "/abilities/sheer-force",
+        "abilityDetails": "This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:25.4784668Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Flame Orb",
+      "itemId": "/items/flame-orb",
+      "itemDetails": "At the end of every turn, this item attempts to burn the holder."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Guts",
+      "abilityId": "/abilities/guts",
+      "abilityDetails": "If this Pokemon is statused, its Attack is 1.5x; ignores burn halving physical damage."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Adamant",
+      "natureId": "/natures/adamant",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Attack" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Close Combat",
+        "moveId": "/moves/close-combat",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "moveDetails": "Lowers the user's Defense and Sp. Def by 1."
+      },
+      {
+        "moveName": "Drain Punch",
+        "moveId": "/moves/drain-punch",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "User recovers 50% of the damage dealt."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Mach Punch",
+        "moveId": "/moves/mach-punch",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "moveDetails": "Usually goes first."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Facade",
+        "moveId": "/moves/facade",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "Power doubles if user is burn/poison/paralyzed."
+      }
+    ]
+  }
+}

@@ -1,1 +1,407 @@
-﻿{"strategyName":"Guts Wallbreaker","strategyId":"/strategies/guts-wallbreaker?pokemon=conkeldurr&tier=uu","strategyDetails":"<p>Drain Punch can be used as Conkeldurr's primary STAB move, giving it more longevity and a safe attacking option. However, Close Combat is also an option for its massive damage output, crushing defensive staples like <a href=\"/dex/ss/pokemon/celesteela\" hreflang=\"en\">Celesteela</a> and <a href=\"/dex/ss/pokemon/skarmory\" hreflang=\"en\">Skarmory</a>. Facade heavily damages various Pokemon that resist its STAB attacks, including <a href=\"/dex/ss/pokemon/nidoking\" hreflang=\"en\">Nidoking</a>, <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a>, and <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a>. Knock Off hits foes such as <a href=\"/dex/ss/pokemon/slowbro-galar\" hreflang=\"en\">Galarian Slowbro</a>, <a href=\"/dex/ss/pokemon/chandelure\" hreflang=\"en\">Chandelure</a>, and <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a>. Mach Punch is a strong priority move that can pressure faster foes like <a href=\"/dex/ss/pokemon/hydreigon\" hreflang=\"en\">Hydreigon</a>, <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a>, and <a href=\"/dex/ss/pokemon/zarude\" hreflang=\"en\">Zarude</a> while picking off weakened threats in general. An Adamant nature is preferred in order to maximize Conkeldurr's wallbreaking potential.</p>\n<p>Conkeldurr generally fits well on more offensively oriented builds. Some balance teams appreciate the offensive pressure it offers, too. Due to Conkeldurr's tendency to wearing itself down, it appreciates Grassy Terrain support from <a href=\"/dex/ss/pokemon/tapu-bulu\" hreflang=\"en\">Tapu Bulu</a> for passive recovery. Tapu Bulu also checks faster threats to Conkeldurr like Primarina and <a href=\"/dex/ss/pokemon/azumarill\" hreflang=\"en\">Azumarill</a>. Wish from <a href=\"/dex/ss/pokemon/jirachi\" hreflang=\"en\">Jirachi</a> or <a href=\"/dex/ss/pokemon/sylveon\" hreflang=\"en\">Sylveon</a> can also support it well. Conkeldurr struggles to break through physical walls like <a href=\"/dex/ss/pokemon/weezing-galar\" hreflang=\"en\">Galarian Weezing</a> and <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a> in the short term, so teammates who can threaten these like <a href=\"/dex/ss/pokemon/moltres\" hreflang=\"en\">Moltres</a> and Aegislash are appreciated. Entry hazard setters like <a href=\"/dex/ss/pokemon/diancie\" hreflang=\"en\">Diancie</a> and <a href=\"/dex/ss/pokemon/krookodile\" hreflang=\"en\">Krookodile</a> can wear down checks like Skarmory with Stealth Rock for Conkeldurr to muscle through easier. Diancie can also check many revenge killers to Conkeldurr like <a href=\"/dex/ss/pokemon/togekiss\" hreflang=\"en\">Togekiss</a>, <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a>, and <a href=\"/dex/ss/pokemon/moltres-galar\" hreflang=\"en\">Galarian Moltres</a>. Slow pivots like <a href=\"/dex/ss/pokemon/chansey\" hreflang=\"en\">Chansey</a>, <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a>, and <a href=\"/dex/ss/pokemon/mandibuzz\" hreflang=\"en\">Mandibuzz</a>  can help bring Conkeldurr into play against threats like Excadrill, Zarude, and <a href=\"/dex/ss/pokemon/lycanroc-dusk\" hreflang=\"en\">Lycanroc-D</a>. Slowking can also provide Future Sight support to further amplify Conkeldurr's wallbreaking power. Late-game cleaners like <a href=\"/dex/ss/pokemon/thundurus-therian\" hreflang=\"en\">Thundurus-T</a> are able to clean up after Conkeldurr softens up the opposing team. In return, they can pressure Flying-types like Togekiss and Salamence.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Conkeldurr","pokemonId":"/pokemon/conkeldurr","pokemonTypes":[{"typeName":"Fighting","typeId":"/types/fighting"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":105},{"baseStat":{"statName":"Attack"},"baseStatNumber":140},{"baseStat":{"statName":"Defense"},"baseStatNumber":95},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":55},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":65},{"baseStat":{"statName":"Speed"},"baseStatNumber":45}],"pokemonAbilities":[{"abilityName":"Guts","abilityId":"/abilities/guts","abilityDetails":"If this Pokemon is statused, its Attack is 1.5x; ignores burn halving physical damage."},{"abilityName":"Iron Fist","abilityId":"/abilities/iron-fist","abilityDetails":"This Pokemon's punch-based attacks have 1.2x power. Sucker Punch is not boosted."},{"abilityName":"Sheer Force","abilityId":"/abilities/sheer-force","abilityDetails":"This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:25.4757446Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Flame Orb","itemId":"/items/flame-orb","itemDetails":"At the end of every turn, this item attempts to burn the holder."}],"strategyAbilities":[{"abilityName":"Guts","abilityId":"/abilities/guts","abilityDetails":"If this Pokemon is statused, its Attack is 1.5x; ignores burn halving physical damage."}],"strategyNatures":[{"natureName":"Adamant","natureId":"/natures/adamant","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Attack"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Drain Punch","moveId":"/moves/drain-punch","moveType":{"typeName":"Fighting","typeId":"/types/fighting"},"moveCategory":"Physical","movePower":75,"moveAccuracy":100,"moveDetails":"User recovers 50% of the damage dealt."},{"moveName":"Close Combat","moveId":"/moves/close-combat","moveType":{"typeName":"Fighting","typeId":"/types/fighting"},"moveCategory":"Physical","movePower":120,"moveAccuracy":100,"moveDetails":"Lowers the user's Defense and Sp. Def by 1."}],"strategySecondMoves":[{"moveName":"Facade","moveId":"/moves/facade","moveType":{"typeName":"Normal","typeId":"/types/normal"},"moveCategory":"Physical","movePower":70,"moveAccuracy":100,"moveDetails":"Power doubles if user is burn/poison/paralyzed."}],"strategyThirdMoves":[{"moveName":"Knock Off","moveId":"/moves/knock-off","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Physical","movePower":65,"moveAccuracy":100,"moveDetails":"1.5x damage if foe holds an item. Removes item."}],"strategyFourthMoves":[{"moveName":"Mach Punch","moveId":"/moves/mach-punch","moveType":{"typeName":"Fighting","typeId":"/types/fighting"},"moveCategory":"Physical","movePower":40,"moveAccuracy":100,"moveDetails":"Usually goes first."}]}}
+﻿{
+  "strategyName": "Guts Wallbreaker",
+  "strategyId": "/strategies/guts-wallbreaker?pokemon=conkeldurr&tier=uu",
+  "strategyDetails": "Drain Punch can be used as Conkeldurr's primary STAB move, giving it more longevity and a safe attacking option. However, Close Combat is also an option for its massive damage output, crushing defensive staples like Celesteela and Skarmory. Facade heavily damages various Pokemon that resist its STAB attacks, including Nidoking, Amoonguss, and Primarina. Knock Off hits foes such as Galarian Slowbro, Chandelure, and Aegislash. Mach Punch is a strong priority move that can pressure faster foes like Hydreigon, Excadrill, and Zarude while picking off weakened threats in general. An Adamant nature is preferred in order to maximize Conkeldurr's wallbreaking potential. Conkeldurr generally fits well on more offensively oriented builds. Some balance teams appreciate the offensive pressure it offers, too. Due to Conkeldurr's tendency to wearing itself down, it appreciates Grassy Terrain support from Tapu Bulu for passive recovery. Tapu Bulu also checks faster threats to Conkeldurr like Primarina and Azumarill. Wish from Jirachi or Sylveon can also support it well. Conkeldurr struggles to break through physical walls like Galarian Weezing and Tangrowth in the short term, so teammates who can threaten these like Moltres and Aegislash are appreciated. Entry hazard setters like Diancie and Krookodile can wear down checks like Skarmory with Stealth Rock for Conkeldurr to muscle through easier. Diancie can also check many revenge killers to Conkeldurr like Togekiss, Salamence, and Galarian Moltres. Slow pivots like Chansey, Slowking, and Mandibuzz can help bring Conkeldurr into play against threats like Excadrill, Zarude, and Lycanroc-D. Slowking can also provide Future Sight support to further amplify Conkeldurr's wallbreaking power. Late-game cleaners like Thundurus-T are able to clean up after Conkeldurr softens up the opposing team. In return, they can pressure Flying-types like Togekiss and Salamence.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Conkeldurr",
+    "pokemonId": "/pokemon/conkeldurr",
+    "pokemonTypes": [
+      {
+        "typeName": "Fighting",
+        "typeId": "/types/fighting"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 140
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 55
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 65
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 45
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Guts",
+        "abilityId": "/abilities/guts",
+        "abilityDetails": "If this Pokemon is statused, its Attack is 1.5x; ignores burn halving physical damage."
+      },
+      {
+        "abilityName": "Iron Fist",
+        "abilityId": "/abilities/iron-fist",
+        "abilityDetails": "This Pokemon's punch-based attacks have 1.2x power. Sucker Punch is not boosted."
+      },
+      {
+        "abilityName": "Sheer Force",
+        "abilityId": "/abilities/sheer-force",
+        "abilityDetails": "This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:25.4757446Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Flame Orb",
+      "itemId": "/items/flame-orb",
+      "itemDetails": "At the end of every turn, this item attempts to burn the holder."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Guts",
+      "abilityId": "/abilities/guts",
+      "abilityDetails": "If this Pokemon is statused, its Attack is 1.5x; ignores burn halving physical damage."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Adamant",
+      "natureId": "/natures/adamant",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Attack" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=slowking&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowking&tier=uu",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=mandibuzz&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=azelf&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=moltres-galar&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/double-dance?pokemon=moltres-galar&tier=uu",
+      "strategyName": "Double Dance"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Drain Punch",
+        "moveId": "/moves/drain-punch",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 75,
+        "moveAccuracy": 100,
+        "moveDetails": "User recovers 50% of the damage dealt."
+      },
+      {
+        "moveName": "Close Combat",
+        "moveId": "/moves/close-combat",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 100,
+        "moveDetails": "Lowers the user's Defense and Sp. Def by 1."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Facade",
+        "moveId": "/moves/facade",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "Power doubles if user is burn/poison/paralyzed."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Knock Off",
+        "moveId": "/moves/knock-off",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 65,
+        "moveAccuracy": 100,
+        "moveDetails": "1.5x damage if foe holds an item. Removes item."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Mach Punch",
+        "moveId": "/moves/mach-punch",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 40,
+        "moveAccuracy": 100,
+        "moveDetails": "Usually goes first."
+      }
+    ]
+  }
+}
