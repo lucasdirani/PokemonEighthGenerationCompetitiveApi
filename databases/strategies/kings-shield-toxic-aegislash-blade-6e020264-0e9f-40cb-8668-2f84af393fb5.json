@@ -1,6 +1,6 @@
 ﻿{
-  "strategyName": "Mixed Wallbreaker",
-  "strategyId": "/strategies/mixed-wallbreaker?pokemon=aegislash&tier=ou",
+  "strategyName": "King's Shield + Toxic",
+  "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
   "strategyDetails": "",
   "strategyCreator": {
     "userName": "Smogon University",
@@ -59,21 +59,16 @@
       }
     ]
   },
-  "strategyCreationDate": "2022-02-22T11:03:22.3542436Z",
+  "strategyCreationDate": "2022-02-22T11:03:22.3500569Z",
   "strategyTier": {
-    "tierName": "OverUsed",
-    "tierId": "/tiers/ou"
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
   },
   "strategyItems": [
     {
-      "itemName": "Choice Specs",
-      "itemId": "/items/choice-specs",
-      "itemDetails": "Holder's Sp. Atk is 1.5x, but it can only select the first move it executes."
-    },
-    {
-      "itemName": "Spell Tag",
-      "itemId": "/items/spell-tag",
-      "itemDetails": "Holder's Ghost-type attacks have 1.2x power."
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
     }
   ],
   "strategyAbilities": [
@@ -85,15 +80,9 @@
   ],
   "strategyNatures": [
     {
-      "natureName": "Modest",
-      "natureId": "/natures/modest",
-      "natureDecreasedStat": { "statName": "Attack" },
-      "natureIncreasedStat": { "statName": "Special Attack" }
-    },
-    {
-      "natureName": "Mild",
-      "natureId": "/natures/mild",
-      "natureDecreasedStat": { "statName": "Defense" },
+      "natureName": "Quiet",
+      "natureId": "/natures/quiet",
+      "natureDecreasedStat": { "statName": "Speed" },
       "natureIncreasedStat": { "statName": "Special Attack" }
     }
   ],
@@ -101,19 +90,19 @@
     [
       {
         "effortValueStat": { "statName": "HP" },
-        "effortValueNumber": 0
+        "effortValueNumber": 252
       },
       {
         "effortValueStat": { "statName": "Attack" },
-        "effortValueNumber": 0
+        "effortValueNumber": 8
       },
       {
         "effortValueStat": { "statName": "Defense" },
-        "effortValueNumber": 4
+        "effortValueNumber": 0
       },
       {
         "effortValueStat": { "statName": "Special Attack" },
-        "effortValueNumber": 252
+        "effortValueNumber": 248
       },
       {
         "effortValueStat": { "statName": "Special Defense" },
@@ -121,7 +110,7 @@
       },
       {
         "effortValueStat": { "statName": "Speed" },
-        "effortValueNumber": 252
+        "effortValueNumber": 0
       }
     ]
   ],
@@ -154,8 +143,62 @@
     ]
   ],
   "strategyPartners": [],
-  "strategyCounters": [],
-  "strategyCheckers": [],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=moltres-galar&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/double-dance?pokemon=moltres-galar&tier=uu",
+      "strategyName": "Double Dance"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    }
+  ],
   "strategyMoves": {
     "strategyFirstMoves": [
       {
@@ -173,20 +216,6 @@
     ],
     "strategySecondMoves": [
       {
-        "moveName": "Flash Cannon",
-        "moveId": "/moves/flash-cannon",
-        "moveType": {
-          "typeName": "Steel",
-          "typeId": "/types/steel"
-        },
-        "moveCategory": "Special",
-        "movePower": 80,
-        "moveAccuracy": 100,
-        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
-      }
-    ],
-    "strategyThirdMoves": [
-      {
         "moveName": "Close Combat",
         "moveId": "/moves/close-combat",
         "moveType": {
@@ -199,19 +228,7 @@
         "moveDetails": "Lowers the user's Defense and Sp. Def by 1."
       }
     ],
-    "strategyFourthMoves": [
-      {
-        "moveName": "Shadow Sneak",
-        "moveId": "/moves/shadow-sneak",
-        "moveType": {
-          "typeName": "Ghost",
-          "typeId": "/types/ghost"
-        },
-        "moveCategory": "Physical",
-        "movePower": 40,
-        "moveAccuracy": 100,
-        "moveDetails": "Usually goes first."
-      },
+    "strategyThirdMoves": [
       {
         "moveName": "Toxic",
         "moveId": "/moves/toxic",
@@ -223,6 +240,20 @@
         "movePower": 0,
         "moveAccuracy": 90,
         "moveDetails": "Badly poisons the target. Poison types can't miss."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "King's Shield",
+        "moveId": "/moves/kings-shield",
+        "moveType": {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Protects from damaging attacks. Contact: -1 Atk."
       }
     ]
   }

@@ -1,1 +1,393 @@
-﻿{"strategyName":"Meteor Beam Sweeper","strategyId":"/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu","strategyDetails":"<p>Meteor Beam is Nihilego's most important move, boosting Special Attack and muscling past checks like <a href=\"/dex/ss/pokemon/celesteela\" hreflang=\"en\">Celesteela</a> once they're chipped. Sludge Wave hits tier staples like <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a>, and <a href=\"/dex/ss/pokemon/hydreigon\" hreflang=\"en\">Hydreigon</a>. Thunderbolt allows Nihilego to hit Steel-types like <a href=\"/dex/ss/pokemon/jirachi\" hreflang=\"en\">Jirachi</a> and <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a> neutrally and other checks like Celesteela and <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a> super effectively. Power Gem can be used in place of Thunderbolt for a more reliable hit on Pokemon like <a href=\"/dex/ss/pokemon/mandibuzz\" hreflang=\"en\">Mandibuzz</a>, <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a>, <a href=\"/dex/ss/pokemon/thundurus-therian\" hreflang=\"en\">Thundurus-T</a>, and <a href=\"/dex/ss/pokemon/moltres-galar\" hreflang=\"en\">Galarian Moltres</a>. Grass Knot deals with Ground-types like <a href=\"/dex/ss/pokemon/krookodile\" hreflang=\"en\">Krookodile</a>, <a href=\"/dex/ss/pokemon/swampert\" hreflang=\"en\">Swampert</a>, and <a href=\"/dex/ss/pokemon/quagsire\" hreflang=\"en\">Quagsire</a>. Hex is an option to pressure Jirachi and Aegislash. Pain Split can be used to give Nihilego some recovery, though the lack of coverage creates more issues. Power Herb is required for Meteor Beam. The given EV spread and a Timid nature make Speed Nihilego's highest stat for Beast Boost, letting it outspeed revenge killers like <a href=\"/dex/ss/pokemon/keldeo\" hreflang=\"en\">Keldeo</a> and Choice Scarf Krookodile.</p>\n<p>This set fits on hyper offense teams, where Nihilego can KO weakened checks like Celesteela with Meteor Beam to boost both its Speed and Special Attack. Entry hazard setters like Krookodile and <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a> help Nihilego by weakening some of its checks, like <a href=\"/dex/ss/pokemon/nidoking\" hreflang=\"en\">Nidoking</a> and Celesteela. Keldeo and Belly Drum <a href=\"/dex/ss/pokemon/azumarill\" hreflang=\"en\">Azumarill</a> are extremely strong wallbreakers that can punch holes for Nihilego to sweep late-game, destroying <a href=\"/dex/ss/pokemon/chansey\" hreflang=\"en\">Chansey</a>, Celesteela, and Excadrill. Secondary sweepers like <a href=\"/dex/ss/pokemon/gyarados\" hreflang=\"en\">Gyarados</a> and Galarian Moltres can break past or dent Nidoking and Steel-types like Jirachi, Aegislash, and Celesteela. In return, Nihilego can remove Thundurus-T. <a href=\"/dex/ss/pokemon/indeedee-f\" hreflang=\"en\">Indeedee-F</a> can provide Psychic Terrain to prevent Nihilego from being revenge killed by Aqua Jet from Azumarill and <a href=\"/dex/ss/pokemon/crawdaunt\" hreflang=\"en\">Crawdaunt</a>. It can also patch up Nihilego with Healing Wish.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Nihilego","pokemonId":"/pokemon/nihilego","pokemonTypes":[{"typeName":"Rock","typeId":"/types/rock"},{"typeName":"Poison","typeId":"/types/poison"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":109},{"baseStat":{"statName":"Attack"},"baseStatNumber":53},{"baseStat":{"statName":"Defense"},"baseStatNumber":47},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":127},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":131},{"baseStat":{"statName":"Speed"},"baseStatNumber":103}],"pokemonAbilities":[{"abilityName":"Beast Boost","abilityId":"/abilities/beast-boost","abilityDetails":"This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:31.5294994Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Power Herb","itemId":"/items/power-herb","itemDetails":"Holder's two-turn moves complete in one turn (except Sky Drop). Single use."}],"strategyAbilities":[{"abilityName":"Beast Boost","abilityId":"/abilities/beast-boost","abilityDetails":"This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."}],"strategyNatures":[{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":80},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":176},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Meteor Beam","moveId":"/moves/meteor-beam","moveType":{"typeName":"Rock","typeId":"/types/rock"},"moveCategory":"Special","movePower":120,"moveAccuracy":90,"moveDetails":"Raises user's Sp. Atk by 1 on turn 1. Hits turn 2."}],"strategySecondMoves":[{"moveName":"Sludge Wave","moveId":"/moves/sludge-wave","moveType":{"typeName":"Poison","typeId":"/types/poison"},"moveCategory":"Special","movePower":95,"moveAccuracy":100,"moveDetails":"10% chance to poison adjacent Pokemon."}],"strategyThirdMoves":[{"moveName":"Thunderbolt","moveId":"/moves/thunderbolt","moveType":{"typeName":"Electric","typeId":"/types/electric"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"10% chance to paralyze the target."},{"moveName":"Power Gem","moveId":"/moves/power-gem","moveType":{"typeName":"Rock","typeId":"/types/rock"},"moveCategory":"Special","movePower":80,"moveAccuracy":100,"moveDetails":"No additional effect."}],"strategyFourthMoves":[{"moveName":"Grass Knot","moveId":"/moves/grass-knot","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Special","movePower":0,"moveAccuracy":100,"moveDetails":"More power the heavier the target."}]}}
+﻿{
+  "strategyName": "Meteor Beam Sweeper",
+  "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+  "strategyDetails": "Meteor Beam is Nihilego's most important move, boosting Special Attack and muscling past checks like Celesteela once they're chipped. Sludge Wave hits tier staples like Primarina, Tangrowth, and Hydreigon. Thunderbolt allows Nihilego to hit Steel-types like Jirachi and Aegislash neutrally and other checks like Celesteela and Slowking super effectively. Power Gem can be used in place of Thunderbolt for a more reliable hit on Pokemon like Mandibuzz, Salamence, Thundurus-T, and Galarian Moltres. Grass Knot deals with Ground-types like Krookodile, Swampert, and Quagsire. Hex is an option to pressure Jirachi and Aegislash. Pain Split can be used to give Nihilego some recovery, though the lack of coverage creates more issues. Power Herb is required for Meteor Beam. The given EV spread and a Timid nature make Speed Nihilego's highest stat for Beast Boost, letting it outspeed revenge killers like Keldeo and Azelf. This set fits on hyper offense teams, where Nihilego can KO weakened checks like Celesteela with Meteor Beam to boost both its Speed and Special Attack. Entry hazard setters like Krookodile, Scolipede, and Excadrill help Nihilego by weakening some of its checks, like Nidoking and Celesteela. Keldeo and Belly Drum Azumarill are extremely strong wallbreakers that can punch holes for Nihilego to sweep late-game, destroying Chansey, Celesteela, and Excadrill. Secondary sweepers like Gyarados and Galarian Moltres can break past or dent Nidoking and Steel-types like Jirachi, Aegislash, and Celesteela. In return, Nihilego can remove Thundurus-T.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Nihilego",
+    "pokemonId": "/pokemon/nihilego",
+    "pokemonTypes": [
+      {
+        "typeName": "Rock",
+        "typeId": "/types/rock"
+      },
+      {
+        "typeName": "Poison",
+        "typeId": "/types/poison"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 109
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 53
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 47
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 127
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 131
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 103
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Beast Boost",
+        "abilityId": "/abilities/beast-boost",
+        "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:31.5294994Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Power Herb",
+      "itemId": "/items/power-herb",
+      "itemDetails": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Beast Boost",
+      "abilityId": "/abilities/beast-boost",
+      "abilityDetails": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 80
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 176
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=keldeo&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=keldeo&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance-sweeper?pokemon=gyarados&tier=uu",
+      "strategyName": "Dragon Dance Sweeper"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=moltres-galar&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/double-dance?pokemon=moltres-galar&tier=uu",
+      "strategyName": "Double Dance"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=swampert&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=azelf&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/guts-wallbreaker?pokemon=conkeldurr&tier=uu",
+      "strategyName": "Guts Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=crawdaunt&tier=uu",
+      "strategyName": "Swords Dance"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Meteor Beam",
+        "moveId": "/moves/meteor-beam",
+        "moveType": {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 90,
+        "moveDetails": "Raises user's Sp. Atk by 1 on turn 1. Hits turn 2."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Sludge Wave",
+        "moveId": "/moves/sludge-wave",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Special",
+        "movePower": 95,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to poison adjacent Pokemon."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Thunderbolt",
+        "moveId": "/moves/thunderbolt",
+        "moveType": {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to paralyze the target."
+      },
+      {
+        "moveName": "Power Gem",
+        "moveId": "/moves/power-gem",
+        "moveType": {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "No additional effect."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Grass Knot",
+        "moveId": "/moves/grass-knot",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Special",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "More power the heavier the target."
+      }
+    ]
+  }
+}

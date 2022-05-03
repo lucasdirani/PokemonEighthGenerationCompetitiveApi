@@ -1,1 +1,354 @@
-﻿{"strategyName":"Nasty Plot","strategyId":"/strategies/nasty-plot?pokemon=azelf&tier=uu","strategyDetails":"<p>After a Nasty Plot, very few Pokemon other than <a href=\"/dex/ss/pokemon/chansey\" hreflang=\"en\">Chansey</a> and <a href=\"/dex/ss/pokemon/umbreon\" hreflang=\"en\">Umbreon</a> can withstand a hit from Azelf. Psyshock is the preferred STAB option to OHKO <a href=\"/dex/ss/pokemon/nihilego\" hreflang=\"en\">Nihilego</a> and <a href=\"/dex/ss/pokemon/tentacruel\" hreflang=\"en\">Tentacruel</a> without a boost, and it also hits Chansey considerably harder than Psychic. Fire Blast OHKOes defensive <a href=\"/dex/ss/pokemon/celesteela\" hreflang=\"en\">Celesteela</a> and Assault Vest <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a> at +2. It also covers many key threats such as <a href=\"/dex/ss/pokemon/jirachi\" hreflang=\"en\">Jirachi</a>, <a href=\"/dex/ss/pokemon/skarmory\" hreflang=\"en\">Skarmory</a>, and <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a>. The last move is dependent on Azelf's team; Energy Ball is able to nail <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a>, <a href=\"/dex/ss/pokemon/swampert\" hreflang=\"en\">Swampert</a>, <a href=\"/dex/ss/pokemon/azumarill\" hreflang=\"en\">Azumarill</a>, and <a href=\"/dex/ss/pokemon/rhyperior\" hreflang=\"en\">Rhyperior</a> for super effective damage. Meanwhile, Dazzling Gleam is an option to OHKO <a href=\"/dex/ss/pokemon/hydreigon\" hreflang=\"en\">Hydreigon</a>, 2HKO <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a>, and hit <a href=\"/dex/ss/pokemon/moltres-galar\" hreflang=\"en\">Galarian Moltres</a> and <a href=\"/dex/ss/pokemon/mandibuzz\" hreflang=\"en\">Mandibuzz</a> super effectively while also maintaining coverage for <a href=\"/dex/ss/pokemon/krookodile\" hreflang=\"en\">Krookodile</a>. It also prevents Umbreon from completely walling Azelf. Since Azelf will typically be hitting its foes for super effective damage, Expert Belt is enough to OHKO nearly everything. Life Orb can be used to increase Azelf's damage output more consistently on targets that it cannot hit super effectively, like <a href=\"/dex/ss/pokemon/hatterene\" hreflang=\"en\">Hatterene</a> and <a href=\"/dex/ss/pokemon/moltres\" hreflang=\"en\">Moltres</a>, but the chip damage adds up quickly and leaves Azelf more vulnerable to revenge killers with priority like <a href=\"/dex/ss/pokemon/lycanroc-dusk\" hreflang=\"en\">Lycanroc-D</a>.</p>\n<p>Nasty Plot Azelf is best used on hyper offense builds that can offer it support, although it can also fit on certain balance teams as a late-game wincon. An entry hazard setter like Nihilego, Excadrill, or Krookodile helps weaken foes like Chansey and <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a> into KO range of +2 Azelf. <a href=\"/dex/ss/pokemon/ribombee\" hreflang=\"en\">Ribombee</a> can provide Sticky Web support to boost Azelf's ability to clean through teams, as Sticky Web invalidates common Choice Scarf users like <a href=\"/dex/ss/pokemon/mienshao\" hreflang=\"en\">Mienshao</a> and <a href=\"/dex/ss/pokemon/zarude\" hreflang=\"en\">Zarude</a> as revenge killers. It also ensures Azelf does not lose any Speed ties with <a href=\"/dex/ss/pokemon/zygarde-10\" hreflang=\"en\">Zygarde-10%</a>. A pivot like Zarude can get Azelf in safely against Pokemon like <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a>. A wallbreaker like Azumarill or <a href=\"/dex/ss/pokemon/mamoswine\" hreflang=\"en\">Mamoswine</a> can help punch holes in the enemy team, significantly weakening them for Azelf to sweep later. Other sweepers like <a href=\"/dex/ss/pokemon/gyarados\" hreflang=\"en\">Gyarados</a> and Nasty Plot <a href=\"/dex/ss/pokemon/thundurus-therian\" hreflang=\"en\">Thundurus-T</a> can be used on hyper offense teams to cover a wider range of threats, including Swampert, Slowking, and Galarian Moltres, which Azelf cannot easily beat.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Azelf","pokemonId":"/pokemon/azelf","pokemonTypes":[{"typeName":"Psychic","typeId":"/types/psychic"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":75},{"baseStat":{"statName":"Attack"},"baseStatNumber":125},{"baseStat":{"statName":"Defense"},"baseStatNumber":70},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":125},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":70},{"baseStat":{"statName":"Speed"},"baseStatNumber":115}],"pokemonAbilities":[{"abilityName":"Levitate","abilityId":"/abilities/levitate","abilityDetails":"This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:23.355675Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Expert Belt","itemId":"/items/expert-belt","itemDetails":"Holder's attacks that are super effective against the target do 1.2x damage."},{"itemName":"Life Orb","itemId":"/items/life-orb","itemDetails":"Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack."}],"strategyAbilities":[{"abilityName":"Levitate","abilityId":"/abilities/levitate","abilityDetails":"This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."}],"strategyNatures":[{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":4},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Nasty Plot","moveId":"/moves/nasty-plot","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Raises the user's Sp. Atk by 2."}],"strategySecondMoves":[{"moveName":"Psyshock","moveId":"/moves/psyshock","moveType":{"typeName":"Psychic","typeId":"/types/psychic"},"moveCategory":"Special","movePower":80,"moveAccuracy":100,"moveDetails":"Damages target based on Defense, not Sp. Def."}],"strategyThirdMoves":[{"moveName":"Fire Blast","moveId":"/moves/fire-blast","moveType":{"typeName":"Fire","typeId":"/types/fire"},"moveCategory":"Special","movePower":110,"moveAccuracy":85,"moveDetails":"10% chance to burn the target."}],"strategyFourthMoves":[{"moveName":"Energy Ball","moveId":"/moves/energy-ball","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"10% chance to lower the target's Sp. Def by 1."},{"moveName":"Dazzling Gleam","moveId":"/moves/dazzling-gleam","moveType":{"typeName":"Fairy","typeId":"/types/fairy"},"moveCategory":"Special","movePower":80,"moveAccuracy":100,"moveDetails":"No additional effect. Hits adjacent foes."}]}}
+﻿{
+  "strategyName": "Nasty Plot",
+  "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+  "strategyDetails": "After a Nasty Plot, very few Pokemon other than Chansey and Umbreon can withstand a hit from Azelf. Psyshock is the preferred STAB option to OHKO Nihilego and Tentacruel without a boost, and it also hits Chansey considerably harder than Psychic. Fire Blast OHKOes defensive Celesteela and Assault Vest Tangrowth at +2. It also covers many key threats such as Jirachi, Skarmory, and Excadrill. The last move is dependent on Azelf's team; Energy Ball is able to nail Slowking, Swampert, Azumarill, and Rhyperior for super effective damage. Meanwhile, Dazzling Gleam is an option to OHKO Hydreigon, 2HKO Salamence, and hit Galarian Moltres and Mandibuzz super effectively while also maintaining coverage for Krookodile. It also prevents Umbreon from completely walling Azelf. Since Azelf will typically be hitting its foes for super effective damage, Expert Belt is enough to OHKO nearly everything. Life Orb can be used to increase Azelf's damage output more consistently on targets that it cannot hit super effectively, like Hatterene and Moltres, but the chip damage adds up quickly and leaves Azelf more vulnerable to revenge killers with priority like Lycanroc-D. Nasty Plot Azelf is best used on hyper offense builds that can offer it support, although it can also fit on certain balance teams as a late-game wincon. An entry hazard setter like Nihilego, Excadrill, or Krookodile helps weaken foes like Chansey and Primarina into KO range of +2 Azelf. Ribombee can provide Sticky Web support to boost Azelf's ability to clean through teams, as Sticky Web invalidates common Choice Scarf users like Mienshao and Zarude as revenge killers. It also ensures Azelf does not lose any Speed ties with Zygarde-10%. A pivot like Zarude can get Azelf in safely against Pokemon like Amoonguss. A wallbreaker like Azumarill or Mamoswine can help punch holes in the enemy team, significantly weakening them for Azelf to sweep later. Other sweepers like Gyarados and Nasty Plot Thundurus-T can be used on hyper offense teams to cover a wider range of threats, including Swampert, Slowking, and Galarian Moltres, which Azelf cannot easily beat.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Azelf",
+    "pokemonId": "/pokemon/azelf",
+    "pokemonTypes": [
+      {
+        "typeName": "Psychic",
+        "typeId": "/types/psychic"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 75
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 125
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 125
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 115
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Levitate",
+        "abilityId": "/abilities/levitate",
+        "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:23.355675Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Expert Belt",
+      "itemId": "/items/expert-belt",
+      "itemDetails": "Holder's attacks that are super effective against the target do 1.2x damage."
+    },
+    {
+      "itemName": "Life Orb",
+      "itemId": "/items/life-orb",
+      "itemDetails": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Levitate",
+      "abilityId": "/abilities/levitate",
+      "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=mamoswine&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance-sweeper?pokemon=gyarados&tier=uu",
+      "strategyName": "Dragon Dance Sweeper"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=moltres-galar&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/double-dance?pokemon=moltres-galar&tier=uu",
+      "strategyName": "Double Dance"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=mandibuzz&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/three-attacks?pokemon=hydreigon&tier=uu",
+      "strategyName": "Three Attacks"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=hydreigon&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=hydreigon&tier=uu",
+      "strategyName": "Choice Scarf"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Nasty Plot",
+        "moveId": "/moves/nasty-plot",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Sp. Atk by 2."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Psyshock",
+        "moveId": "/moves/psyshock",
+        "moveType": {
+          "typeName": "Psychic",
+          "typeId": "/types/psychic"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "Damages target based on Defense, not Sp. Def."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Fire Blast",
+        "moveId": "/moves/fire-blast",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 85,
+        "moveDetails": "10% chance to burn the target."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Energy Ball",
+        "moveId": "/moves/energy-ball",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      },
+      {
+        "moveName": "Dazzling Gleam",
+        "moveId": "/moves/dazzling-gleam",
+        "moveType": {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "No additional effect. Hits adjacent foes."
+      }
+    ]
+  }
+}

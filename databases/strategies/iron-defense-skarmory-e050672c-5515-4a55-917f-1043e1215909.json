@@ -1,1 +1,338 @@
-﻿{"strategyName":"Iron Defense","strategyId":"/strategies/iron-defense?pokemon=skarmory&tier=uu","strategyDetails":"<p>This is a sample set while we work on new analyses. Stay tuned!</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Skarmory","pokemonId":"/pokemon/skarmory","pokemonTypes":[{"typeName":"Steel","typeId":"/types/steel"},{"typeName":"Flying","typeId":"/types/flying"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":65},{"baseStat":{"statName":"Attack"},"baseStatNumber":80},{"baseStat":{"statName":"Defense"},"baseStatNumber":140},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":40},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":70},{"baseStat":{"statName":"Speed"},"baseStatNumber":70}],"pokemonAbilities":[{"abilityName":"Sturdy","abilityId":"/abilities/sturdy","abilityDetails":"If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."},{"abilityName":"Keen Eye","abilityId":"/abilities/keen-eye","abilityDetails":"This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat."},{"abilityName":"Weak Armor","abilityId":"/abilities/weak-armor","abilityDetails":"If a physical attack hits this Pokemon, Defense is lowered by 1, Speed is raised by 2."}],"pokemonTiers":[{"tierName":"OU","tierId":"/tiers/ou"}]},"strategyCreationDate":"2022-02-22T11:03:44.4466398Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Leftovers","itemId":"/items/leftovers","itemDetails":"At the end of every turn, holder restores 1/16 of its max HP."}],"strategyAbilities":[{"abilityName":"Sturdy","abilityId":"/abilities/sturdy","abilityDetails":"If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."}],"strategyNatures":[{"natureName":"Impish","natureId":"/natures/impish","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Defense"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":252},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":160},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":96}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Iron Defense","moveId":"/moves/iron-defense","moveType":{"typeName":"Steel","typeId":"/types/steel"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Raises the user's Defense by 2."}],"strategySecondMoves":[{"moveName":"Body Press","moveId":"/moves/body-press","moveType":{"typeName":"Fighting","typeId":"/types/fighting"},"moveCategory":"Physical","movePower":80,"moveAccuracy":100,"moveDetails":"Uses user's Def stat as Atk in damage calculation."}],"strategyThirdMoves":[{"moveName":"Roost","moveId":"/moves/roost","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Heals 50% HP. Flying-type removed 'til turn ends."}],"strategyFourthMoves":[{"moveName":"Defog","moveId":"/moves/defog","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"-1 evasion; clears terrain and hazards on both sides."},{"moveName":"Spikes","moveId":"/moves/spikes","moveType":{"typeName":"Ground","typeId":"/types/ground"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Hurts grounded foes on switch-in. Max 3 layers."}]}}
+﻿{
+  "strategyName": "Iron Defense",
+  "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Skarmory",
+    "pokemonId": "/pokemon/skarmory",
+    "pokemonTypes": [
+      {
+        "typeName": "Steel",
+        "typeId": "/types/steel"
+      },
+      {
+        "typeName": "Flying",
+        "typeId": "/types/flying"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 65
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 140
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 40
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 70
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Sturdy",
+        "abilityId": "/abilities/sturdy",
+        "abilityDetails": "If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."
+      },
+      {
+        "abilityName": "Keen Eye",
+        "abilityId": "/abilities/keen-eye",
+        "abilityDetails": "This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat."
+      },
+      {
+        "abilityName": "Weak Armor",
+        "abilityId": "/abilities/weak-armor",
+        "abilityDetails": "If a physical attack hits this Pokemon, Defense is lowered by 1, Speed is raised by 2."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:44.4466398Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Sturdy",
+      "abilityId": "/abilities/sturdy",
+      "abilityDetails": "If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Impish",
+      "natureId": "/natures/impish",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Defense" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 160
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 96
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=aegislash&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/kings-shield-toxic?pokemon=aegislash&tier=uu",
+      "strategyName": "King's Shield + Toxic"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=aegislash&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=aegislash&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/subtoxic?pokemon=aegislash&tier=uu",
+      "strategyName": "SubToxic"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=hatterene&tier=uu",
+      "strategyName": "Calm Mind"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=azelf&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/three-attacks?pokemon=hydreigon&tier=uu",
+      "strategyName": "Three Attacks"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=hydreigon&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=hydreigon&tier=uu",
+      "strategyName": "Choice Scarf"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Iron Defense",
+        "moveId": "/moves/iron-defense",
+        "moveType": {
+          "typeName": "Steel",
+          "typeId": "/types/steel"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Defense by 2."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Body Press",
+        "moveId": "/moves/body-press",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Physical",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "Uses user's Def stat as Atk in damage calculation."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Roost",
+        "moveId": "/moves/roost",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals 50% HP. Flying-type removed 'til turn ends."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Defog",
+        "moveId": "/moves/defog",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "-1 evasion; clears terrain and hazards on both sides."
+      },
+      {
+        "moveName": "Spikes",
+        "moveId": "/moves/spikes",
+        "moveType": {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Hurts grounded foes on switch-in. Max 3 layers."
+      }
+    ]
+  }
+}
