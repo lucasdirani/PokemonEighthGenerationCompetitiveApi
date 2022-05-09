@@ -1,1 +1,260 @@
-﻿{"strategyName":"Nasty Plot","strategyId":"/strategies/nasty-plot?pokemon=rotom-heat&tier=uu","strategyDetails":"<p>Nasty Plot lets Rotom-H break through traditional checks such as <a href=\"/dex/ss/pokemon/kommo-o\" hreflang=\"en\">Kommo-o</a>. It also offsets Overheat's Special Attack drop, allowing Rotom-H to still threaten checks like <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a>. At +2, Discharge does big damage to Fire-resistant targets like <a href=\"/dex/ss/pokemon/rotom-wash\" hreflang=\"en\">Rotom-W</a> and <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a>. Discharge's 30% paralysis chance is also great for crippling <a href=\"/dex/ss/pokemon/nihilego\" hreflang=\"en\">Nihilego</a> and Salamence. Pain Split grants Rotom-H some longevity, giving it more opportunities to set up with Nasty Plot. Heavy-Duty Boots also gives it more setup opportunities. Maximum HP investment is more valued than Special Attack to take on <a href=\"/dex/ss/pokemon/moltres\" hreflang=\"en\">Moltres</a> and <a href=\"/dex/ss/pokemon/jirachi\" hreflang=\"en\">Jirachi</a> better; Rotom-H can still OHKO foes like <a href=\"/dex/ss/pokemon/celesteela\" hreflang=\"en\">Celesteela</a>, specially defensive <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a>, and Assault Vest <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a> at +2. However, maximum Special Attack can be run to KO specially defensive Primarina after Stealth Rock and even bulkier foes like Assault Vest <a href=\"/dex/ss/pokemon/slowbro-galar\" hreflang=\"en\">Galarian Slowbro</a> and <a href=\"/dex/ss/pokemon/reuniclus\" hreflang=\"en\">Reuniclus</a>.</p>\n<p>Nasty Plot Rotom-H shines in bulky offense and offense teams, where its powerful boosted hits remove or weaken walls, paving the way for other teammates to clean. VoltTurn support is appreciated, for this set lacks Volt Switch to keep momentum. Jirachi can provide safe opportunities for Rotom-H to set up against Steel-types like Aegislash and Celesteela. <a href=\"/dex/ss/pokemon/krookodile\" hreflang=\"en\">Krookodile</a> makes for a reliable teammate, as it removes Nihilego and Assault Vest Galarian Slowbro and sets up Stealth Rock to weaken checks, while Rotom-H takes out Celesteela, <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a>, and <a href=\"/dex/ss/pokemon/tapu-bulu\" hreflang=\"en\">Tapu Bulu</a>. Grass-types like Amoonguss and Tangrowth switch into Water-types like Rotom-W, Primarina, and <a href=\"/dex/ss/pokemon/keldeo\" hreflang=\"en\">Keldeo</a> for Rotom-H, with Amoonguss also acting as a Knock Off absorber. <a href=\"/dex/ss/pokemon/zarude\" hreflang=\"en\">Zarude</a> is a an amazing teammate, destroying Ground-types such as <a href=\"/dex/ss/pokemon/gastrodon\" hreflang=\"en\">Gastrodon</a>, <a href=\"/dex/ss/pokemon/rhyperior\" hreflang=\"en\">Rhyperior</a>, and <a href=\"/dex/ss/pokemon/seismitoad\" hreflang=\"en\">Seismitoad</a>, keeping momentum with U-turn, and revenge killing Pokemon that threaten Rotom-H such as Keldeo and <a href=\"/dex/ss/pokemon/lycanroc-dusk\" hreflang=\"en\">Lycanroc-D</a> when using Choice Scarf. Rotom-H in return removes Grass- and Steel-types like Tangrowth and <a href=\"/dex/ss/pokemon/cobalion\" hreflang=\"en\">Cobalion</a>. Wallbreakers like Lycanroc-D, <a href=\"/dex/ss/pokemon/mienshao\" hreflang=\"en\">Mienshao</a>, and <a href=\"/dex/ss/pokemon/diggersby\" hreflang=\"en\">Diggersby</a> love Rotom-H destroying Pokemon like <a href=\"/dex/ss/pokemon/buzzwole\" hreflang=\"en\">Buzzwole</a> and Amoonguss. They can in return obliterate <a href=\"/dex/ss/pokemon/chansey\" hreflang=\"en\">Chansey</a>.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemonForms":{"pokemonFormName":"Rotom-Heat","pokemonFormId":"/pokemon-forms/rotom-heat","pokemonFormTypes":[{"typeName":"Electric","typeId":"/types/electric"},{"typeName":"Fire","typeId":"/types/fire"}],"pokemonFormBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":50},{"baseStat":{"statName":"Attack"},"baseStatNumber":65},{"baseStat":{"statName":"Defense"},"baseStatNumber":107},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":105},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":107},{"baseStat":{"statName":"Speed"},"baseStatNumber":86}],"pokemonFormAbilities":[{"abilityName":"Levitate","abilityId":"/abilities/levitate","abilityDetails":"This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."}],"pokemonFormTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:33.0221269Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Heavy-Duty Boots","itemId":"/items/heavy-duty-boots","itemDetails":"When switching in, the holder is unaffected by hazards on its side of the field."}],"strategyAbilities":[{"abilityName":"Levitate","abilityId":"/abilities/levitate","abilityDetails":"This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."}],"strategyNatures":[{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":252},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":4},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Nasty Plot","moveId":"/moves/nasty-plot","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Raises the user's Sp. Atk by 2."}],"strategySecondMoves":[{"moveName":"Overheat","moveId":"/moves/overheat","moveType":{"typeName":"Fire","typeId":"/types/fire"},"moveCategory":"Special","movePower":130,"moveAccuracy":90,"moveDetails":"Lowers the user's Sp. Atk by 2."}],"strategyThirdMoves":[{"moveName":"Discharge","moveId":"/moves/discharge","moveType":{"typeName":"Electric","typeId":"/types/electric"},"moveCategory":"Special","movePower":80,"moveAccuracy":100,"moveDetails":"30% chance to paralyze adjacent Pokemon."}],"strategyFourthMoves":[{"moveName":"Pain Split","moveId":"/moves/pain-split","moveType":{"typeName":"Normal","typeId":"/types/normal"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Shares HP of user and target equally."}]}}
+﻿{
+  "strategyName": "Nasty Plot",
+  "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+  "strategyDetails": "Nasty Plot lets Rotom-H break through traditional checks such as Kommo-o. It also offsets Overheat's Special Attack drop, allowing Rotom-H to still threaten checks like Primarina. At +2, Discharge does big damage to Fire-resistant targets like Rotom-W and Salamence. Discharge's 30% paralysis chance is also great for crippling Nihilego and Salamence. Pain Split grants Rotom-H some longevity, giving it more opportunities to set up with Nasty Plot. Heavy-Duty Boots also gives it more setup opportunities. Maximum HP investment is more valued than Special Attack to take on Moltres and Jirachi better; Rotom-H can still OHKO foes like Celesteela, specially defensive Aegislash, and Assault Vest Tangrowth at +2. However, maximum Special Attack can be run to KO specially defensive Primarina after Stealth Rock and even bulkier foes like Assault Vest Galarian Slowbro and Reuniclus. Nasty Plot Rotom-H shines in bulky offense and offense teams, where its powerful boosted hits remove or weaken walls, paving the way for other teammates to clean. VoltTurn support is appreciated, for this set lacks Volt Switch to keep momentum. Jirachi can provide safe opportunities for Rotom-H to set up against Steel-types like Aegislash and Celesteela. Krookodile makes for a reliable teammate, as it removes Nihilego and Assault Vest Galarian Slowbro and sets up Stealth Rock to weaken checks, while Rotom-H takes out Celesteela, Amoonguss, and Tapu Bulu. Grass-types like Amoonguss and Tangrowth switch into Water-types like Rotom-W, Primarina, and Keldeo for Rotom-H, with Amoonguss also acting as a Knock Off absorber. Zarude is a an amazing teammate, destroying Ground-types such as Gastrodon, Excadrill, and Swampert, keeping momentum with U-turn, and revenge killing Pokemon that threaten Rotom-H such as Nihilego and Hydreigon. Rotom-H in return removes Grass- and Steel-types like Tangrowth and Cobalion. Wallbreakers like Lycanroc-D and Diggersby love Rotom-H destroying Pokemon like Skarmory and Amoonguss. They can in return obliterate Chansey.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemonForms": {
+    "pokemonFormName": "Rotom-Heat",
+    "pokemonFormId": "/pokemon-forms/rotom-heat",
+    "pokemonFormTypes": [
+      {
+        "typeName": "Electric",
+        "typeId": "/types/electric"
+      },
+      {
+        "typeName": "Fire",
+        "typeId": "/types/fire"
+      }
+    ],
+    "pokemonFormBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 50
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 65
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 107
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 107
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 86
+      }
+    ],
+    "pokemonFormAbilities": [
+      {
+        "abilityName": "Levitate",
+        "abilityId": "/abilities/levitate",
+        "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+      }
+    ],
+    "pokemonFormTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:33.0221269Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Heavy-Duty Boots",
+      "itemId": "/items/heavy-duty-boots",
+      "itemDetails": "When switching in, the holder is unaffected by hazards on its side of the field."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Levitate",
+      "abilityId": "/abilities/levitate",
+      "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=swampert&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/unaware-wall?pokemon=quagsire&tier=uu",
+      "strategyName": "Unaware Wall"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/offensive-entry-hazard-setter?pokemon=nidoqueen&tier=uu",
+      "strategyName": "Offensive Entry Hazard Setter"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=mamoswine&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=keldeo&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=keldeo&tier=uu",
+      "strategyName": "Choice Specs"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Nasty Plot",
+        "moveId": "/moves/nasty-plot",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Sp. Atk by 2."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Overheat",
+        "moveId": "/moves/overheat",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Special",
+        "movePower": 130,
+        "moveAccuracy": 90,
+        "moveDetails": "Lowers the user's Sp. Atk by 2."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Discharge",
+        "moveId": "/moves/discharge",
+        "moveType": {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "30% chance to paralyze adjacent Pokemon."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Pain Split",
+        "moveId": "/moves/pain-split",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Shares HP of user and target equally."
+      }
+    ]
+  }
+}

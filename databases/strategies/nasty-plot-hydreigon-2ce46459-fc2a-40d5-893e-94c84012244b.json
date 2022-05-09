@@ -1,1 +1,346 @@
-﻿{"strategyName":"Nasty Plot","strategyId":"/strategies/nasty-plot?pokemon=hydreigon&tier=ou","strategyDetails":"<p>Nasty Plot grants Hydreigon absurd wallbreaking capabilities, allowing it to fully overwhelm Pokemon such as <a href=\"/dex/ss/pokemon/scizor\" hreflang=\"en\">Scizor</a> and <a href=\"/dex/ss/pokemon/corviknight\" hreflang=\"en\">Corviknight</a>. Dark Pulse is the primary attack thanks to its decent coverage and power, hitting Pokemon such as Corviknight, <a href=\"/dex/ss/pokemon/zapdos\" hreflang=\"en\">Zapdos</a>, and <a href=\"/dex/ss/pokemon/landorus-therian\" hreflang=\"en\">Landorus-T</a>. Earth Power is a coverage option that immediately threatens <a href=\"/dex/ss/pokemon/heatran\" hreflang=\"en\">Heatran</a> and lets Hydreigon break through <a href=\"/dex/ss/pokemon/tyranitar\" hreflang=\"en\">Tyranitar</a> after a Nasty Plot boost, although Flash Cannon can potentially OHKO <a href=\"/dex/ss/pokemon/clefable\" hreflang=\"en\">Clefable</a> after a Nasty Plot boost and still hit Tyranitar super effectively. Roost is crucial to help Hydreigon better function as a stallbreaker as well as pivot into Heatran, <a href=\"/dex/ss/pokemon/toxapex\" hreflang=\"en\">Toxapex</a>, and <a href=\"/dex/ss/pokemon/slowbro\" hreflang=\"en\">Slowbro</a> consistently. Life Orb gives Hydreigon a noticeable boost to its power, allowing it to OHKO Corviknight and Clefable with one boost. However, Leftovers is a viable choice to improve its longevity, as Hydreigon still has decent power after a boost and may appreciate pivoting better and possibly setting up on the aforementioned Heatran and Slowbro. Hydreigon can opt for a Modest nature for more power, hitting benchmarks such as a guaranteed OHKO on Clefable with +2 Flash Cannon, although it loses out on the ability to outpace many notable Pokemon such as <a href=\"/dex/ss/pokemon/kyurem\" hreflang=\"en\">Kyurem</a>. Draco Meteor is an option over Earth Power or Flash Cannon, as it has absurd power after a Nasty Plot boost, although its Special Attack drops and lack of coverage hinder it as an option. Focus Blast and Flamethrower are also viable options in that third moveslot to better pressure <a href=\"/dex/ss/pokemon/ferrothorn\" hreflang=\"en\">Ferrothorn</a> as well as either Tyranitar and <a href=\"/dex/ss/pokemon/blissey\" hreflang=\"en\">Blissey</a> or Corviknight, respectively, although they have little use outside of this.</p>\n<p>Pivots such as Landorus-T and <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a> can lure in Corviknight and Ferrothorn, respectively, to pivot out and bring Hydreigon in. Depending on whether Hydreigon forgoes Earth Power or Flash Cannon, it will be fully checked by either <a href=\"/dex/ss/pokemon/tapu-koko\" hreflang=\"en\">Tapu Koko</a> or Clefable; this makes <a href=\"/dex/ss/pokemon/slowking-galar\" hreflang=\"en\">Galarian Slowking</a> a decent teammate, as it can stomach attacks from these Pokemon. Galarian Slowking can also use Future Sight to punish Steel-type switch-ins such as Corviknight and Ferrothorn. Ironically, Corviknight and <a href=\"/dex/ss/pokemon/skarmory\" hreflang=\"en\">Skarmory</a> make for decent teammates, as they can check <a href=\"/dex/ss/pokemon/garchomp\" hreflang=\"en\">Garchomp</a> and <a href=\"/dex/ss/pokemon/kartana\" hreflang=\"en\">Kartana</a>; Corviknight, once again, can lure in Pokemon such as Zapdos and bring in Hydreigon with U-turn, while Skarmory can provide Spikes to wear down Hydreigon's checks such as <a href=\"/dex/ss/pokemon/tapu-fini\" hreflang=\"en\">Tapu Fini</a>. Cleaners such as <a href=\"/dex/ss/pokemon/rillaboom\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/ss/pokemon/weavile\" hreflang=\"en\">Weavile</a> appreciate Hydreigon pressuring and softening up common defensive cores such as Corviknight + Slowking early-game.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Hydreigon","pokemonId":"/pokemon/hydreigon","pokemonTypes":[{"typeName":"Dark","typeId":"/types/dark"},{"typeName":"Dragon","typeId":"/types/dragon"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":92},{"baseStat":{"statName":"Attack"},"baseStatNumber":105},{"baseStat":{"statName":"Defense"},"baseStatNumber":90},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":125},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":90},{"baseStat":{"statName":"Speed"},"baseStatNumber":98}],"pokemonAbilities":[{"abilityName":"Levitate","abilityId":"/abilities/levitate","abilityDetails":"This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."}],"pokemonTiers":[{"tierName":"OU","tierId":"/tiers/ou"}]},"strategyCreationDate":"2022-02-22T11:03:40.2871884Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Leftovers","itemId":"/items/leftovers","itemDetails":"At the end of every turn, holder restores 1/16 of its max HP."},{"itemName":"Life Orb","itemId":"/items/life-orb","itemDetails":"Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack."}],"strategyAbilities":[{"abilityName":"Levitate","abilityId":"/abilities/levitate","abilityDetails":"This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."}],"strategyNatures":[{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Nasty Plot","moveId":"/moves/nasty-plot","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Raises the user's Sp. Atk by 2."}],"strategySecondMoves":[{"moveName":"Dark Pulse","moveId":"/moves/dark-pulse","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Special","movePower":80,"moveAccuracy":100,"moveDetails":"20% chance to make the target flinch."}],"strategyThirdMoves":[{"moveName":"Earth Power","moveId":"/moves/earth-power","moveType":{"typeName":"Ground","typeId":"/types/ground"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"10% chance to lower the target's Sp. Def by 1."}],"strategyFourthMoves":[{"moveName":"Roost","moveId":"/moves/roost","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Heals 50% HP. Flying-type removed 'til turn ends."}]}}
+﻿{
+  "strategyName": "Nasty Plot",
+  "strategyId": "/strategies/nasty-plot?pokemon=hydreigon&tier=ou",
+  "strategyDetails": "Nasty Plot grants Hydreigon absurd wallbreaking capabilities, allowing it to fully overwhelm Pokemon such as Scizor and Corviknight. Dark Pulse is the primary attack thanks to its decent coverage and power, hitting Pokemon such as Corviknight, Zapdos, and Landorus-T. Earth Power is a coverage option that immediately threatens Heatran and lets Hydreigon break through Tyranitar after a Nasty Plot boost, although Flash Cannon can potentially OHKO Clefable after a Nasty Plot boost and still hit Tyranitar super effectively. Roost is crucial to help Hydreigon better function as a stallbreaker as well as pivot into Heatran, Toxapex, and Slowbro consistently. Life Orb gives Hydreigon a noticeable boost to its power, allowing it to OHKO Corviknight and Clefable with one boost. However, Leftovers is a viable choice to improve its longevity, as Hydreigon still has decent power after a boost and may appreciate pivoting better and possibly setting up on the aforementioned Heatran and Slowbro. Hydreigon can opt for a Modest nature for more power, hitting benchmarks such as a guaranteed OHKO on Clefable with +2 Flash Cannon, although it loses out on the ability to outpace many notable Pokemon such as Kyurem. Draco Meteor is an option over Earth Power or Flash Cannon, as it has absurd power after a Nasty Plot boost, although its Special Attack drops and lack of coverage hinder it as an option. Focus Blast and Flamethrower are also viable options in that third moveslot to better pressure Ferrothorn as well as either Tyranitar and Blissey or Corviknight, respectively, although they have little use outside of this. Pivots such as Landorus-T and Slowking can lure in Corviknight and Ferrothorn, respectively, to pivot out and bring Hydreigon in. Depending on whether Hydreigon forgoes Earth Power or Flash Cannon, it will be fully checked by either Tapu Koko or Clefable; this makes Galarian Slowking a decent teammate, as it can stomach attacks from these Pokemon. Galarian Slowking can also use Future Sight to punish Steel-type switch-ins such as Corviknight and Ferrothorn. Ironically, Corviknight and Skarmory make for decent teammates, as they can check Garchomp and Kartana; Corviknight, once again, can lure in Pokemon such as Zapdos and bring in Hydreigon with U-turn, while Skarmory can provide Spikes to wear down Hydreigon's checks such as Tapu Fini. Cleaners such as Rillaboom and Weavile appreciate Hydreigon pressuring and softening up common defensive cores such as Corviknight + Slowking early-game.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Hydreigon",
+    "pokemonId": "/pokemon/hydreigon",
+    "pokemonTypes": [
+      {
+        "typeName": "Dark",
+        "typeId": "/types/dark"
+      },
+      {
+        "typeName": "Dragon",
+        "typeId": "/types/dragon"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 92
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 125
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 98
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Levitate",
+        "abilityId": "/abilities/levitate",
+        "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:40.2871884Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    },
+    {
+      "itemName": "Life Orb",
+      "itemId": "/items/life-orb",
+      "itemDetails": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Levitate",
+      "abilityId": "/abilities/levitate",
+      "abilityDetails": "This Pokemon is immune to Ground; Gravity/Ingrain/Smack Down/Iron Ball nullify it."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive-pivot?pokemon=slowking&tier=ou",
+      "strategyName": "Specially Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=slowking-galar&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=corviknight&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/defensive-spikes?pokemon=skarmory&tier=ou",
+      "strategyName": "Defensive Spikes"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/utility?pokemon=clefable&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=clefable&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/whirlpool?pokemon=tapu-fini&tier=ou",
+      "strategyName": "Whirlpool"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=tapu-fini&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=tapu-fini&tier=ou",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=blissey&tier=ou",
+      "strategyName": "Defensive"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=tapu-koko&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zeraora&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/bulk-up?pokemon=zeraora&tier=ou",
+      "strategyName": "Bulk Up"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/the-pex?pokemon=toxapex&tier=ou",
+      "strategyName": "The Pex"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowbro&tier=ou",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/unburden-sweeper?pokemon=hawlucha&tier=ou",
+      "strategyName": "Unburden Sweeper"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/mixed-wallbreaker?pokemon=aegislash&tier=ou",
+      "strategyName": "Mixed Wallbreaker"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Nasty Plot",
+        "moveId": "/moves/nasty-plot",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Sp. Atk by 2."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Dark Pulse",
+        "moveId": "/moves/dark-pulse",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "20% chance to make the target flinch."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Earth Power",
+        "moveId": "/moves/earth-power",
+        "moveType": {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Roost",
+        "moveId": "/moves/roost",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals 50% HP. Flying-type removed 'til turn ends."
+      }
+    ]
+  }
+}
