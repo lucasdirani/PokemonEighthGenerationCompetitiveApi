@@ -1,1 +1,333 @@
-﻿{"strategyName":"Offensive Entry Hazard Setter","strategyId":"/strategies/offensive-entry-hazard-setter?pokemon=nidoqueen&tier=uu","strategyDetails":"<p>Nidoqueen is a reliable setter of entry hazards because of its above average bulk, ability to force switches, and good matchup versus hazard removers such as <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a> and <a href=\"/dex/ss/pokemon/rotom-heat\" hreflang=\"en\">Rotom-H</a>. Stealth Rock is the better hazard choice for this set, as it provides excellent utility to just about any team, although Toxic Spikes is an option if the team has another Stealth Rock user. Earth Power and Sludge Wave are mandatory, powerful STAB moves that OHKO bulkier Pokemon such as <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a>, <a href=\"/dex/ss/pokemon/hatterene\" hreflang=\"en\">Hatterene</a>, and <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a>. Fire Blast is an excellent coverage move and the best pick for the last slot, as it almost OHKOes <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a> and cleanly 2HKOes <a href=\"/dex/ss/pokemon/celesteela\" hreflang=\"en\">Celesteela</a>. Modest is the preferred nature because it grants Nidoqueen exceptional power and still lets it outspeed most of its primary targets, although a Timid nature can be used to outspeed <a href=\"/dex/ss/pokemon/buzzwole\" hreflang=\"en\">Buzzwole</a>, Timid <a href=\"/dex/ss/pokemon/volcanion\" hreflang=\"en\">Volcanion</a>, and Timid <a href=\"/dex/ss/pokemon/toxtricity\" hreflang=\"en\">Toxtricity</a>. However, a Timid nature will make Nidoqueen noticeably weaker, missing out on benchmarks such as the guaranteed 2HKO on defensive <a href=\"/dex/ss/pokemon/kommo-o\" hreflang=\"en\">Kommo-o</a>.</p>\n<p><a href=\"/dex/ss/pokemon/tapu-bulu\" hreflang=\"en\">Tapu Bulu</a> pairs very well with Nidoqueen, as it appreciates Nidoqueen taking care of Amoonguss and Tangrowth and in return can check Water-types like <a href=\"/dex/ss/pokemon/azumarill\" hreflang=\"en\">Azumarill</a>, <a href=\"/dex/ss/pokemon/starmie\" hreflang=\"en\">Starmie</a>, and <a href=\"/dex/ss/pokemon/keldeo\" hreflang=\"en\">Keldeo</a>. Its Grassy Terrain also provides a bit of recovery to Nidoqueen. Wallbreakers such as Azumarill and <a href=\"/dex/ss/pokemon/lycanroc-dusk\" hreflang=\"en\">Lycanroc-D</a> make good teammates because they also appreciate Nidoqueen's good matchup versus Amoonguss and Tangrowth. In return, they can remove specially defensive walls like <a href=\"/dex/ss/pokemon/chansey\" hreflang=\"en\">Chansey</a> and <a href=\"/dex/ss/pokemon/moltres-galar\" hreflang=\"en\">Galarian Moltres</a>. Starmie is a decent teammate for Nidoqueen because it checks many Pokemon that threaten Nidoqueen, such as Keldeo. Rotom-H and <a href=\"/dex/ss/pokemon/rotom-wash\" hreflang=\"en\">Rotom-W</a> are both Volt Switch users that can bring Nidoqueen in safely and also check <a href=\"/dex/ss/pokemon/mamoswine\" hreflang=\"en\">Mamoswine</a>, and the latter has the added benefit of checking <a href=\"/dex/ss/pokemon/krookodile\" hreflang=\"en\">Krookodile</a>. Nidoqueen pairs well with almost any Kommo-o set, as Nidoqueen can break through <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a> and Hatterene to help it succeed. Kommo-o sets using Stealth Rock also can let Nidoqueen run Toxic Spikes.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Nidoqueen","pokemonId":"/pokemon/nidoqueen","pokemonTypes":[{"typeName":"Poison","typeId":"/types/poison"},{"typeName":"Ground","typeId":"/types/ground"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":90},{"baseStat":{"statName":"Attack"},"baseStatNumber":92},{"baseStat":{"statName":"Defense"},"baseStatNumber":87},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":75},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":85},{"baseStat":{"statName":"Speed"},"baseStatNumber":76}],"pokemonAbilities":[{"abilityName":"Poison Point","abilityId":"/abilities/poison-point","abilityDetails":"30% chance a Pokemon making contact with this Pokemon will be poisoned."},{"abilityName":"Rivalry","abilityId":"/abilities/rivalry","abilityDetails":"This Pokemon's attacks do 1.25x on same gender targets; 0.75x on opposite gender."},{"abilityName":"Sheer Force","abilityId":"/abilities/sheer-force","abilityDetails":"This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:31.123726Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Life Orb","itemId":"/items/life-orb","itemDetails":"Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack."}],"strategyAbilities":[{"abilityName":"Sheer Force","abilityId":"/abilities/sheer-force","abilityDetails":"This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."}],"strategyNatures":[{"natureName":"Modest","natureId":"/natures/modest","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Special Attack"}},{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":4},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Stealth Rock","moveId":"/moves/stealth-rock","moveType":{"typeName":"Rock","typeId":"/types/rock"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Hurts foes on switch-in. Factors Rock weakness."},{"moveName":"Toxic Spikes","moveId":"/moves/toxic-spikes","moveType":{"typeName":"Poison","typeId":"/types/poison"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Poisons grounded foes on switch-in. Max 2 layers."}],"strategySecondMoves":[{"moveName":"Earth Power","moveId":"/moves/earth-power","moveType":{"typeName":"Ground","typeId":"/types/ground"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"10% chance to lower the target's Sp. Def by 1."}],"strategyThirdMoves":[{"moveName":"Sludge Wave","moveId":"/moves/sludge-wave","moveType":{"typeName":"Poison","typeId":"/types/poison"},"moveCategory":"Special","movePower":95,"moveAccuracy":100,"moveDetails":"10% chance to poison adjacent Pokemon."}],"strategyFourthMoves":[{"moveName":"Fire Blast","moveId":"/moves/fire-blast","moveType":{"typeName":"Fire","typeId":"/types/fire"},"moveCategory":"Special","movePower":110,"moveAccuracy":85,"moveDetails":"10% chance to burn the target."}]}}
+﻿{
+  "strategyName": "Offensive Entry Hazard Setter",
+  "strategyId": "/strategies/offensive-entry-hazard-setter?pokemon=nidoqueen&tier=uu",
+  "strategyDetails": "Nidoqueen is a reliable setter of entry hazards because of its above average bulk, ability to force switches, and good matchup versus hazard removers such as Salamence and Rotom-H. Stealth Rock is the better hazard choice for this set, as it provides excellent utility to just about any team, although Toxic Spikes is an option if the team has another Stealth Rock user. Earth Power and Sludge Wave are mandatory, powerful STAB moves that OHKO bulkier Pokemon such as Aegislash, Hatterene, and Tangrowth. Fire Blast is an excellent coverage move and the best pick for the last slot, as it almost OHKOes Amoonguss and cleanly 2HKOes Celesteela. Modest is the preferred nature because it grants Nidoqueen exceptional power and still lets it outspeed most of its primary targets, although a Timid nature can be used to outspeed Buzzwole, Timid Volcanion, and Timid Toxtricity. However, a Timid nature will make Nidoqueen noticeably weaker, missing out on benchmarks such as the guaranteed 2HKO on defensive Kommo-o. Tapu Bulu pairs very well with Nidoqueen, as it appreciates Nidoqueen taking care of Amoonguss and Tangrowth and in return can check Water-types like Azumarill, Starmie, and Keldeo. Its Grassy Terrain also provides a bit of recovery to Nidoqueen. Wallbreakers such as Azumarill and Lycanroc-D make good teammates because they also appreciate Nidoqueen's good matchup versus Amoonguss and Tangrowth. In return, they can remove specially defensive walls like Chansey and Galarian Moltres. Starmie is a decent teammate for Nidoqueen because it checks many Pokemon that threaten Nidoqueen, such as Keldeo. Rotom-H and Rotom-W are both Volt Switch users that can bring Nidoqueen in safely and also check Mamoswine, and the latter has the added benefit of checking Krookodile. Nidoqueen pairs well with almost any Kommo-o set, as Nidoqueen can break through Primarina and Hatterene to help it succeed. Kommo-o sets using Stealth Rock also can let Nidoqueen run Toxic Spikes.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Nidoqueen",
+    "pokemonId": "/pokemon/nidoqueen",
+    "pokemonTypes": [
+      {
+        "typeName": "Poison",
+        "typeId": "/types/poison"
+      },
+      {
+        "typeName": "Ground",
+        "typeId": "/types/ground"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 92
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 87
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 75
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 85
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 76
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Poison Point",
+        "abilityId": "/abilities/poison-point",
+        "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be poisoned."
+      },
+      {
+        "abilityName": "Rivalry",
+        "abilityId": "/abilities/rivalry",
+        "abilityDetails": "This Pokemon's attacks do 1.25x on same gender targets; 0.75x on opposite gender."
+      },
+      {
+        "abilityName": "Sheer Force",
+        "abilityId": "/abilities/sheer-force",
+        "abilityDetails": "This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:31.123726Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Life Orb",
+      "itemId": "/items/life-orb",
+      "itemDetails": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Sheer Force",
+      "abilityId": "/abilities/sheer-force",
+      "abilityDetails": "This Pokemon's attacks with secondary effects have 1.3x power; nullifies the effects."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Modest",
+      "natureId": "/natures/modest",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Special Attack" }
+    },
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=azumarill&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/belly-drum?pokemon=azumarill&tier=uu",
+      "strategyName": "Belly Drum"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=azumarill&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=chansey&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=azelf&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=keldeo&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=keldeo&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=crawdaunt&tier=uu",
+      "strategyName": "Swords Dance"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/defensive-spinner?pokemon=tentacruel&tier=uu",
+      "strategyName": "Defensive Spinner"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=mamoswine&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=krookodile&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=krookodile&tier=uu",
+      "strategyName": "Choice Scarf"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Stealth Rock",
+        "moveId": "/moves/stealth-rock",
+        "moveType": {
+          "typeName": "Rock",
+          "typeId": "/types/rock"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Hurts foes on switch-in. Factors Rock weakness."
+      },
+      {
+        "moveName": "Toxic Spikes",
+        "moveId": "/moves/toxic-spikes",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Poisons grounded foes on switch-in. Max 2 layers."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Earth Power",
+        "moveId": "/moves/earth-power",
+        "moveType": {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Sludge Wave",
+        "moveId": "/moves/sludge-wave",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Special",
+        "movePower": 95,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to poison adjacent Pokemon."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Fire Blast",
+        "moveId": "/moves/fire-blast",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 85,
+        "moveDetails": "10% chance to burn the target."
+      }
+    ]
+  }
+}

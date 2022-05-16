@@ -1,1 +1,206 @@
-﻿{"strategyName":"Nasty Plot","strategyId":"/strategies/nasty-plot?pokemon=thundurus-therian&tier=ou","strategyDetails":"<p>These are sample sets before we work on <a href=\"https://www.smogon.com/forums/forums/ou-analyses.538/\">new analyses</a> for the Crown Tundra meta. Stay tuned!</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemonForms":{"pokemonFormName":"Thundurus-Therian","pokemonFormId":"/pokemon-forms/thundurus-therian","pokemonFormTypes":[{"typeName":"Electric","typeId":"/types/electric"},{"typeName":"Flying","typeId":"/types/flying"}],"pokemonFormBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":79},{"baseStat":{"statName":"Attack"},"baseStatNumber":105},{"baseStat":{"statName":"Defense"},"baseStatNumber":70},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":145},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":80},{"baseStat":{"statName":"Speed"},"baseStatNumber":101}],"pokemonFormAbilities":[{"abilityName":"Volt Absorb","abilityId":"/abilities/volt-absorb","abilityDetails":"This Pokemon heals 1/4 of its max HP when hit by Electric moves; Electric immunity."}],"pokemonFormTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:35.4451766Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Heavy-Duty Boots","itemId":"/items/heavy-duty-boots","itemDetails":"When switching in, the holder is unaffected by hazards on its side of the field."}],"strategyAbilities":[{"abilityName":"Volt Absorb","abilityId":"/abilities/volt-absorb","abilityDetails":"This Pokemon heals 1/4 of its max HP when hit by Electric moves; Electric immunity."}],"strategyNatures":[{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Nasty Plot","moveId":"/moves/nasty-plot","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Raises the user's Sp. Atk by 2."}],"strategySecondMoves":[{"moveName":"Thunder","moveId":"/moves/thunder","moveType":{"typeName":"Electric","typeId":"/types/electric"},"moveCategory":"Special","movePower":110,"moveAccuracy":70,"moveDetails":"30% chance to paralyze. Can't miss in rain."}],"strategyThirdMoves":[{"moveName":"Focus Blast","moveId":"/moves/focus-blast","moveType":{"typeName":"Fighting","typeId":"/types/fighting"},"moveCategory":"Special","movePower":120,"moveAccuracy":70,"moveDetails":"10% chance to lower the target's Sp. Def by 1."}],"strategyFourthMoves":[{"moveName":"Weather Ball","moveId":"/moves/weather-ball","moveType":{"typeName":"Normal","typeId":"/types/normal"},"moveCategory":"Special","movePower":50,"moveAccuracy":100,"moveDetails":"Power doubles and type varies in each weather."}]}}
+﻿{
+  "strategyName": "Nasty Plot",
+  "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=ou",
+  "strategyDetails": "",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemonForms": {
+    "pokemonFormName": "Thundurus-Therian",
+    "pokemonFormId": "/pokemon-forms/thundurus-therian",
+    "pokemonFormTypes": [
+      {
+        "typeName": "Electric",
+        "typeId": "/types/electric"
+      },
+      {
+        "typeName": "Flying",
+        "typeId": "/types/flying"
+      }
+    ],
+    "pokemonFormBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 79
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 145
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 80
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 101
+      }
+    ],
+    "pokemonFormAbilities": [
+      {
+        "abilityName": "Volt Absorb",
+        "abilityId": "/abilities/volt-absorb",
+        "abilityDetails": "This Pokemon heals 1/4 of its max HP when hit by Electric moves; Electric immunity."
+      }
+    ],
+    "pokemonFormTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:35.4451766Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Heavy-Duty Boots",
+      "itemId": "/items/heavy-duty-boots",
+      "itemDetails": "When switching in, the holder is unaffected by hazards on its side of the field."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Volt Absorb",
+      "abilityId": "/abilities/volt-absorb",
+      "abilityDetails": "This Pokemon heals 1/4 of its max HP when hit by Electric moves; Electric immunity."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [],
+  "strategyCounters": [],
+  "strategyCheckers": [],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Nasty Plot",
+        "moveId": "/moves/nasty-plot",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Raises the user's Sp. Atk by 2."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Thunder",
+        "moveId": "/moves/thunder",
+        "moveType": {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 70,
+        "moveDetails": "30% chance to paralyze. Can't miss in rain."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Focus Blast",
+        "moveId": "/moves/focus-blast",
+        "moveType": {
+          "typeName": "Fighting",
+          "typeId": "/types/fighting"
+        },
+        "moveCategory": "Special",
+        "movePower": 120,
+        "moveAccuracy": 70,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Weather Ball",
+        "moveId": "/moves/weather-ball",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Special",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "moveDetails": "Power doubles and type varies in each weather."
+      }
+    ]
+  }
+}

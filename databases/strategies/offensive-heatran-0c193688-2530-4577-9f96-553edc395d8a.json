@@ -1,1 +1,396 @@
-﻿{"strategyName":"Offensive","strategyId":"/strategies/offensive?pokemon=heatran&tier=ou","strategyDetails":"<p>This set acts as an offensive wallbreaker that can pressure common defensive Pokemon by trapping them. Magma Storm allows Heatran to trap <a href=\"/dex/ss/pokemon/toxapex\" hreflang=\"en\">Toxapex</a> and <a href=\"/dex/ss/pokemon/blissey\" hreflang=\"en\">Blissey</a>. Earth Power provides good coverage and hits Toxapex and opposing Heatran. Taunt allows Heatran to overwhelm <a href=\"/dex/ss/pokemon/clefable\" hreflang=\"en\">Clefable</a>, <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a>, Toxapex, and Blissey. Toxic cripples common switch-ins such as Slowking, <a href=\"/dex/ss/pokemon/tyranitar\" hreflang=\"en\">Tyranitar</a>, and <a href=\"/dex/ss/pokemon/swampert\" hreflang=\"en\">Swampert</a>, which makes it difficult for them to check it later.</p>\n<p>Pivots such as <a href=\"/dex/ss/pokemon/rillaboom\" hreflang=\"en\">Rillaboom</a> and <a href=\"/dex/ss/pokemon/tapu-koko\" hreflang=\"en\">Tapu Koko</a> make good teammates, as they lure in and pivot on Steel-types like <a href=\"/dex/ss/pokemon/corviknight\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/ss/pokemon/skarmory\" hreflang=\"en\">Skarmory</a> and Grass-types like <a href=\"/dex/ss/pokemon/ferrothorn\" hreflang=\"en\">Ferrothorn</a> and <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a>, which Heatran can threaten to KO and force out. These Pokemon also take care of bulky Water-types that Heatran can often struggle with. Other Pokemon such as <a href=\"/dex/ss/pokemon/dragapult\" hreflang=\"en\">Dragapult</a>, <a href=\"/dex/ss/pokemon/tornadus-therian\" hreflang=\"en\">Tornadus-T</a>, and <a href=\"/dex/ss/pokemon/nidoking\" hreflang=\"en\">Nidoking</a> are great partners as well, as they share common checks like Slowking and Tyranitar with Heatran, which can be overwhelmed trying to check both threats.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Heatran","pokemonId":"/pokemon/heatran","pokemonTypes":[{"typeName":"Fire","typeId":"/types/fire"},{"typeName":"Steel","typeId":"/types/steel"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":91},{"baseStat":{"statName":"Attack"},"baseStatNumber":90},{"baseStat":{"statName":"Defense"},"baseStatNumber":106},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":130},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":106},{"baseStat":{"statName":"Speed"},"baseStatNumber":77}],"pokemonAbilities":[{"abilityName":"Flame Body","abilityId":"/abilities/flame-body","abilityDetails":"30% chance a Pokemon making contact with this Pokemon will be burned."},{"abilityName":"Flash Fire","abilityId":"/abilities/flash-fire","abilityDetails":"This Pokemon's Fire attacks do 1.5x damage if hit by one Fire move; Fire immunity."}],"pokemonTiers":[{"tierName":"OU","tierId":"/tiers/ou"}]},"strategyCreationDate":"2022-02-22T11:03:39.6123129Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Leftovers","itemId":"/items/leftovers","itemDetails":"At the end of every turn, holder restores 1/16 of its max HP."}],"strategyAbilities":[{"abilityName":"Flash Fire","abilityId":"/abilities/flash-fire","abilityDetails":"This Pokemon's Fire attacks do 1.5x damage if hit by one Fire move; Fire immunity."}],"strategyNatures":[{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}},{"natureName":"Modest","natureId":"/natures/modest","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Special Attack"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Magma Storm","moveId":"/moves/magma-storm","moveType":{"typeName":"Fire","typeId":"/types/fire"},"moveCategory":"Special","movePower":100,"moveAccuracy":75,"moveDetails":"Traps and damages the target for 4-5 turns."}],"strategySecondMoves":[{"moveName":"Earth Power","moveId":"/moves/earth-power","moveType":{"typeName":"Ground","typeId":"/types/ground"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"10% chance to lower the target's Sp. Def by 1."}],"strategyThirdMoves":[{"moveName":"Taunt","moveId":"/moves/taunt","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":100,"moveDetails":"Target can't use status moves its next 3 turns."}],"strategyFourthMoves":[{"moveName":"Toxic","moveId":"/moves/toxic","moveType":{"typeName":"Poison","typeId":"/types/poison"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":90,"moveDetails":"Badly poisons the target. Poison types can't miss."}]}}
+﻿{
+  "strategyName": "Offensive",
+  "strategyId": "/strategies/offensive?pokemon=heatran&tier=ou",
+  "strategyDetails": "This set acts as an offensive wallbreaker that can pressure common defensive Pokemon by trapping them. Magma Storm allows Heatran to trap Toxapex and Blissey. Earth Power provides good coverage and hits Toxapex and opposing Heatran. Taunt allows Heatran to overwhelm Clefable, Slowking, Toxapex, and Blissey. Toxic cripples common switch-ins such as Slowking, Tyranitar, and Swampert, which makes it difficult for them to check it later. Pivots such as Rillaboom and Tapu Koko make good teammates, as they lure in and pivot on Steel-types like Corviknight and Skarmory and Grass-types like Ferrothorn and Tangrowth, which Heatran can threaten to KO and force out. These Pokemon also take care of bulky Water-types that Heatran can often struggle with. Other Pokemon such as Dragapult, Tornadus-T, and Nidoking are great partners as well, as they share common checks like Slowking and Tyranitar with Heatran, which can be overwhelmed trying to check both threats.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Heatran",
+    "pokemonId": "/pokemon/heatran",
+    "pokemonTypes": [
+      {
+        "typeName": "Fire",
+        "typeId": "/types/fire"
+      },
+      {
+        "typeName": "Steel",
+        "typeId": "/types/steel"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 91
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 106
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 130
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 106
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 77
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Flame Body",
+        "abilityId": "/abilities/flame-body",
+        "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be burned."
+      },
+      {
+        "abilityName": "Flash Fire",
+        "abilityId": "/abilities/flash-fire",
+        "abilityDetails": "This Pokemon's Fire attacks do 1.5x damage if hit by one Fire move; Fire immunity."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:39.6123129Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Leftovers",
+      "itemId": "/items/leftovers",
+      "itemDetails": "At the end of every turn, holder restores 1/16 of its max HP."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Flash Fire",
+      "abilityId": "/abilities/flash-fire",
+      "abilityDetails": "This Pokemon's Fire attacks do 1.5x damage if hit by one Fire move; Fire immunity."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    },
+    {
+      "natureName": "Modest",
+      "natureId": "/natures/modest",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Special Attack" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=tapu-koko&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=ou",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/specially-defensive-pivot?pokemon=slowking&tier=ou",
+      "strategyName": "Specially Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=slowking-galar&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/whirlpool?pokemon=tapu-fini&tier=ou",
+      "strategyName": "Whirlpool"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=tapu-fini&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=tapu-fini&tier=ou",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=dragonite&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/defensive-dragon-dance?pokemon=dragonite&tier=ou",
+      "strategyName": "Defensive Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/offensive-dragon-dance?pokemon=dragonite&tier=ou",
+      "strategyName": "Offensive Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Nasty Plot"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=swampert&tier=ou",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/three-attacks?pokemon=hydreigon&tier=ou",
+      "strategyName": "Three Attacks"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=hydreigon&tier=ou",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/sand-rush?pokemon=excadrill&tier=ou",
+      "strategyName": "Sand Rush"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=ou",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=slowking-galar&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive?pokemon=tyranitar&tier=ou",
+      "strategyName": "Specially Defensive"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=tyranitar&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=clefable&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=clefable&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=tapu-lele&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/unburden-sweeper?pokemon=hawlucha&tier=ou",
+      "strategyName": "Unburden Sweeper"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Magma Storm",
+        "moveId": "/moves/magma-storm",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Special",
+        "movePower": 100,
+        "moveAccuracy": 75,
+        "moveDetails": "Traps and damages the target for 4-5 turns."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Earth Power",
+        "moveId": "/moves/earth-power",
+        "moveType": {
+          "typeName": "Ground",
+          "typeId": "/types/ground"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to lower the target's Sp. Def by 1."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Taunt",
+        "moveId": "/moves/taunt",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 100,
+        "moveDetails": "Target can't use status moves its next 3 turns."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Toxic",
+        "moveId": "/moves/toxic",
+        "moveType": {
+          "typeName": "Poison",
+          "typeId": "/types/poison"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 90,
+        "moveDetails": "Badly poisons the target. Poison types can't miss."
+      }
+    ]
+  }
+}
