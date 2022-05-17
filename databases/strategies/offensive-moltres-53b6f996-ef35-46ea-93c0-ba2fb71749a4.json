@@ -1,1 +1,350 @@
-﻿{"strategyName":"Offensive","strategyId":"/strategies/offensive?pokemon=moltres&tier=uu","strategyDetails":"<p>Flamethrower targets Grass- and Steel-types like <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a>, <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a>, <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a>, and <a href=\"/dex/ss/pokemon/celesteela\" hreflang=\"en\">Celesteela</a>. Fire Blast can be used to hit neutral targets like <a href=\"/dex/ss/pokemon/hatterene\" hreflang=\"en\">Hatterene</a>, as well as the aforementioned Grass-types, just as hard as Hurricane but with better accuracy. Hurricane hits Pokemon that resist Fire like <a href=\"/dex/ss/pokemon/keldeo\" hreflang=\"en\">Keldeo</a>, <a href=\"/dex/ss/pokemon/kommo-o\" hreflang=\"en\">Kommo-o</a>, <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a>, and <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a> either super effectively or quite hard neutrally. U-turn lets Moltres keep momentum on Pokemon like <a href=\"/dex/ss/pokemon/rotom-wash\" hreflang=\"en\">Rotom-W</a> and <a href=\"/dex/ss/pokemon/rhyperior\" hreflang=\"en\">Rhyperior</a>. Defog can be used if Moltres's team can't afford other forms of entry hazard removal. Roost gives Moltres longevity to keep threats like <a href=\"/dex/ss/pokemon/jirachi\" hreflang=\"en\">Jirachi</a> and <a href=\"/dex/ss/pokemon/zarude\" hreflang=\"en\">Zarude</a> in check throughout the game, and it keeps Moltres healthy if its Heavy-Duty Boots is removed and Stealth Rock is up. Flame Body is chosen to scare away Pokemon such as <a href=\"/dex/ss/pokemon/buzzwole\" hreflang=\"en\">Buzzwole</a>, Jirachi, and <a href=\"/dex/ss/pokemon/mienshao\" hreflang=\"en\">Mienshao</a> from using contact moves due to a potential burn. 88 HP EVs let Moltres avoid the 2HKO from Zarude's Darkest Lariat.</p>\n<p>Bulky offense and balance teams appreciate Moltres pressuring Pokemon like Amoonguss, Kommo-o, and Buzzwole. Knock Off absorbers like Buzzwole and Amoonguss make excellent teammates. They're also secondary checks to Mienshao and Zarude so Moltres isn't overwhelmed by them and doesn't have to constantly risk taking the former's Knock Off. Moltres can remove Steel-types such as Aegislash and <a href=\"/dex/ss/pokemon/cobalion\" hreflang=\"en\">Cobalion</a> for them in return. Amoonguss and Assault Vest Tangrowth check Electric- and Water-types like <a href=\"/dex/ss/pokemon/thundurus-therian\" hreflang=\"en\">Thundurus-T</a>, Rotom-W, and Primarina for Moltres. Jungle Healing Zarude also checks <a href=\"/dex/ss/pokemon/raikou\" hreflang=\"en\">Raikou</a> and Rotom-W, and Choice Scarf variants can revenge kill them and others like Keldeo. Water-types like Keldeo appreciate Moltres dealing with Grass-types like Amoonguss for them, and in return they can pressure Rock-types like Rhyperior for it. Pokemon such as Jirachi and Zarude can form a pivoting core with U-turn Moltres, bringing Moltres in against foes like Tangrowth. If Moltres foregoes Defog, entry hazard removers like Rotom-W and <a href=\"/dex/ss/pokemon/starmie\" hreflang=\"en\">Starmie</a> can help it by keeping Stealth Rock off of the field, and they like Moltres threatening Tangrowth for them. Frail wallbreakers such as Choice Specs Primarina and Thundurus-T like Moltres's U-turn bringing them in safely against foes like Rhyperior and Salamence.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Moltres","pokemonId":"/pokemon/moltres","pokemonTypes":[{"typeName":"Fire","typeId":"/types/fire"},{"typeName":"Flying","typeId":"/types/flying"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":90},{"baseStat":{"statName":"Attack"},"baseStatNumber":100},{"baseStat":{"statName":"Defense"},"baseStatNumber":90},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":125},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":85},{"baseStat":{"statName":"Speed"},"baseStatNumber":90}],"pokemonAbilities":[{"abilityName":"Flame Body","abilityId":"/abilities/flame-body","abilityDetails":"30% chance a Pokemon making contact with this Pokemon will be burned."},{"abilityName":"Pressure","abilityId":"/abilities/pressure","abilityDetails":"If this Pokemon is the target of a foe's move, that move loses one additional PP."}],"pokemonTiers":[{"tierName":"UU","tierId":"/tiers/uu"}]},"strategyCreationDate":"2022-02-22T11:03:30.352177Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Heavy-Duty Boots","itemId":"/items/heavy-duty-boots","itemDetails":"When switching in, the holder is unaffected by hazards on its side of the field."}],"strategyAbilities":[{"abilityName":"Flame Body","abilityId":"/abilities/flame-body","abilityDetails":"30% chance a Pokemon making contact with this Pokemon will be burned."}],"strategyNatures":[{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":88},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":168},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Flamethrower","moveId":"/moves/flamethrower","moveType":{"typeName":"Fire","typeId":"/types/fire"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"10% chance to burn the target."}],"strategySecondMoves":[{"moveName":"Hurricane","moveId":"/moves/hurricane","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Special","movePower":110,"moveAccuracy":70,"moveDetails":"30% chance to confuse target. Can't miss in rain."}],"strategyThirdMoves":[{"moveName":"U-turn","moveId":"/moves/u-turn","moveType":{"typeName":"Bug","typeId":"/types/bug"},"moveCategory":"Physical","movePower":70,"moveAccuracy":100,"moveDetails":"User switches out after damaging the target."},{"moveName":"Defog","moveId":"/moves/defog","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"-1 evasion; clears terrain and hazards on both sides."}],"strategyFourthMoves":[{"moveName":"Roost","moveId":"/moves/roost","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Heals 50% HP. Flying-type removed 'til turn ends."}]}}
+﻿{
+  "strategyName": "Offensive",
+  "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+  "strategyDetails": "Flamethrower targets Grass- and Steel-types like Amoonguss, Tangrowth, Aegislash, and Celesteela. Fire Blast can be used to hit neutral targets like Hatterene, as well as the aforementioned Grass-types, just as hard as Hurricane but with better accuracy. Hurricane hits Pokemon that resist Fire like Keldeo, Kommo-o, Salamence, and Primarina either super effectively or quite hard neutrally. U-turn lets Moltres keep momentum on Pokemon like Rotom-W and Rhyperior. Defog can be used if Moltres's team can't afford other forms of entry hazard removal. Roost gives Moltres longevity to keep threats like Jirachi and Zarude in check throughout the game, and it keeps Moltres healthy if its Heavy-Duty Boots is removed and Stealth Rock is up. Flame Body is chosen to scare away Pokemon such as Buzzwole, Jirachi, and Mienshao from using contact moves due to a potential burn. 88 HP EVs let Moltres avoid the 2HKO from Zarude's Darkest Lariat. Bulky offense and balance teams appreciate Moltres pressuring Pokemon like Amoonguss, Kommo-o, and Buzzwole. Knock Off absorbers like Buzzwole and Amoonguss make excellent teammates. They're also secondary checks to Mienshao and Zarude so Moltres isn't overwhelmed by them and doesn't have to constantly risk taking the former's Knock Off. Moltres can remove Steel-types such as Aegislash and Cobalion for them in return. Amoonguss and Assault Vest Tangrowth check Electric- and Water-types like Thundurus-T, Rotom-W, and Primarina for Moltres. Jungle Healing Zarude also checks Raikou and Rotom-W, and Choice Scarf variants can revenge kill them and others like Keldeo. Water-types like Keldeo appreciate Moltres dealing with Grass-types like Amoonguss for them, and in return they can pressure Rock-types like Rhyperior for it. Pokemon such as Jirachi and Zarude can form a pivoting core with U-turn Moltres, bringing Moltres in against foes like Tangrowth. If Moltres foregoes Defog, entry hazard removers like Rotom-W and Starmie can help it by keeping Stealth Rock off of the field, and they like Moltres threatening Tangrowth for them. Frail wallbreakers such as Choice Specs Primarina and Thundurus-T like Moltres's U-turn bringing them in safely against foes like Rhyperior and Salamence.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Moltres",
+    "pokemonId": "/pokemon/moltres",
+    "pokemonTypes": [
+      {
+        "typeName": "Fire",
+        "typeId": "/types/fire"
+      },
+      {
+        "typeName": "Flying",
+        "typeId": "/types/flying"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 100
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 125
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 85
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 90
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Flame Body",
+        "abilityId": "/abilities/flame-body",
+        "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be burned."
+      },
+      {
+        "abilityName": "Pressure",
+        "abilityId": "/abilities/pressure",
+        "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "UU",
+        "tierId": "/tiers/uu"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:30.352177Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Heavy-Duty Boots",
+      "itemId": "/items/heavy-duty-boots",
+      "itemDetails": "When switching in, the holder is unaffected by hazards on its side of the field."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Flame Body",
+      "abilityId": "/abilities/flame-body",
+      "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be burned."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 88
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 168
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=zarude&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=keldeo&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=keldeo&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/wish-protect?pokemon=jirachi&tier=uu",
+      "strategyName": "Wish + Protect"
+    },
+    {
+      "strategyId": "/strategies/stealth-rock?pokemon=jirachi&tier=uu",
+      "strategyName": "Stealth Rock"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=jirachi&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/stealth-rock-utility?pokemon=nihilego&tier=uu",
+      "strategyName": "Stealth Rock Utility"
+    },
+    {
+      "strategyId": "/strategies/meteor-beam-sweeper?pokemon=nihilego&tier=uu",
+      "strategyName": "Meteor Beam Sweeper"
+    },
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=primarina&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/substitute-calm-mind?pokemon=primarina&tier=uu",
+      "strategyName": "Substitute + Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=primarina&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/choice-scarf?pokemon=rotom-wash&tier=uu",
+      "strategyName": "Choice Scarf"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=keldeo&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=keldeo&tier=uu",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=rotom-heat&tier=uu",
+      "strategyName": "Nasty Plot"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Flamethrower",
+        "moveId": "/moves/flamethrower",
+        "moveType": {
+          "typeName": "Fire",
+          "typeId": "/types/fire"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to burn the target."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Hurricane",
+        "moveId": "/moves/hurricane",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 70,
+        "moveDetails": "30% chance to confuse target. Can't miss in rain."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "U-turn",
+        "moveId": "/moves/u-turn",
+        "moveType": {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "User switches out after damaging the target."
+      },
+      {
+        "moveName": "Defog",
+        "moveId": "/moves/defog",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "-1 evasion; clears terrain and hazards on both sides."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Roost",
+        "moveId": "/moves/roost",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals 50% HP. Flying-type removed 'til turn ends."
+      }
+    ]
+  }
+}

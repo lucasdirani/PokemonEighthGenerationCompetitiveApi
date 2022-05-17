@@ -1,1 +1,342 @@
-﻿{"strategyName":"Offensive Pivot","strategyId":"/strategies/offensive-pivot?pokemon=tapu-koko&tier=ou","strategyDetails":"<p>Dazzling Gleam is a good secondary STAB move that's safe to use for reliable damage. Additionally, it's super effective against Dragon-types like <a href=\"/dex/ss/pokemon/hydreigon\" hreflang=\"en\">Hydreigon</a>, <a href=\"/dex/ss/pokemon/kyurem\" hreflang=\"en\">Kyurem</a>, and <a href=\"/dex/ss/pokemon/latios\" hreflang=\"en\">Latios</a> that resist Thunderbolt. It's also the best option for damaging Electric-immune Pokemon such as <a href=\"/dex/ss/pokemon/landorus-therian\" hreflang=\"en\">Landorus-T</a>, <a href=\"/dex/ss/pokemon/garchomp\" hreflang=\"en\">Garchomp</a>, and <a href=\"/dex/ss/pokemon/zeraora\" hreflang=\"en\">Zeraora</a>. U-turn allows Tapu Koko to reliably pivot against Ground-types like Landorus-T and keep up momentum against switch-ins such as <a href=\"/dex/ss/pokemon/ferrothorn\" hreflang=\"en\">Ferrothorn</a>. Roost allows Tapu Koko to stay healthy throughout a match in order to check Pokemon like <a href=\"/dex/ss/pokemon/tornadus-therian\" hreflang=\"en\">Tornadus-T</a> and <a href=\"/dex/ss/pokemon/zapdos\" hreflang=\"en\">Zapdos</a> more consistently. Toxic can be used instead of Dazzling Gleam to cripple Pokemon like Landorus-T, <a href=\"/dex/ss/pokemon/hippowdon\" hreflang=\"en\">Hippowdon</a>, and <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a> that can be problematic for Tapu Koko and is especially useful alongside teammates such as Garchomp and <a href=\"/dex/ss/pokemon/kartana\" hreflang=\"en\">Kartana</a>.</p>\n<p>Tapu Koko is often used on offensively oriented teams. Its ability to keep up momentum is appreciated by a multitude of strong wallbreakers that struggle to find effective opportunities to switch in such as Kartana, Choice Specs Kyurem, and <a href=\"/dex/ss/pokemon/nidoking\" hreflang=\"en\">Nidoking</a>, which can be safely brought in via U-turn against the bulky Grass-types like Tangrowth and Ferrothorn that switch into Tapu Koko. <a href=\"/dex/ss/pokemon/heatran\" hreflang=\"en\">Heatran</a> also takes advantage of Grass-types that Tapu Koko forces in, can set Stealth Rock to wear down the opposing team, and use Toxic to cripple Pokemon like Hippowdon and <a href=\"/dex/ss/pokemon/swampert\" hreflang=\"en\">Swampert</a> that wall Tapu Koko. Additionally, it can trap and remove <a href=\"/dex/ss/pokemon/blissey\" hreflang=\"en\">Blissey</a> with the combination of Magma Storm and Taunt. Offensive Grass-types like <a href=\"/dex/ss/pokemon/rillaboom\" hreflang=\"en\">Rillaboom</a> and Kartana appreciate that Tapu Koko can switch in and take advantage of their defensive checks like <a href=\"/dex/ss/pokemon/corviknight\" hreflang=\"en\">Corviknight</a> and <a href=\"/dex/ss/pokemon/mandibuzz\" hreflang=\"en\">Mandibuzz</a> while also being a good answer to Tornadus-T. Furthermore, they can work together to overwhelm other checks like defensive Tangrowth. Landorus-T can set Stealth Rock and use U-turn to bring Tapu Koko in against Pokemon like Corviknight and <a href=\"/dex/ss/pokemon/slowbro\" hreflang=\"en\">Slowbro</a> while also being a good check to some opposing Ground-types. Slowbro and <a href=\"/dex/ss/pokemon/slowking\" hreflang=\"en\">Slowking</a> can both use Future Sight and Teleport to help Tapu Koko put pressure on the opposing team, especially against Ground-types that might try to switch into it. They also appreciate that Tapu Koko can handle Zapdos and Nasty Plot Tornadus-T.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Tapu Koko","pokemonId":"/pokemon/tapu-koko","pokemonTypes":[{"typeName":"Electric","typeId":"/types/electric"},{"typeName":"Fairy","typeId":"/types/fairy"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":70},{"baseStat":{"statName":"Attack"},"baseStatNumber":115},{"baseStat":{"statName":"Defense"},"baseStatNumber":85},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":95},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":75},{"baseStat":{"statName":"Speed"},"baseStatNumber":130}],"pokemonAbilities":[{"abilityName":"Telepathy","abilityId":"/abilities/telepathy","abilityDetails":"This Pokemon does not take damage from attacks made by its allies."},{"abilityName":"Electric Surge","abilityId":"/abilities/electric-surge","abilityDetails":"On switch-in, this Pokemon summons Electric Terrain."}],"pokemonTiers":[{"tierName":"OU","tierId":"/tiers/ou"}]},"strategyCreationDate":"2022-02-22T11:03:47.4720028Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Heavy-Duty Boots","itemId":"/items/heavy-duty-boots","itemDetails":"When switching in, the holder is unaffected by hazards on its side of the field."}],"strategyAbilities":[{"abilityName":"Electric Surge","abilityId":"/abilities/electric-surge","abilityDetails":"On switch-in, this Pokemon summons Electric Terrain."}],"strategyNatures":[{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Thunderbolt","moveId":"/moves/thunderbolt","moveType":{"typeName":"Electric","typeId":"/types/electric"},"moveCategory":"Special","movePower":90,"moveAccuracy":100,"moveDetails":"10% chance to paralyze the target."}],"strategySecondMoves":[{"moveName":"Dazzling Gleam","moveId":"/moves/dazzling-gleam","moveType":{"typeName":"Fairy","typeId":"/types/fairy"},"moveCategory":"Special","movePower":80,"moveAccuracy":100,"moveDetails":"No additional effect. Hits adjacent foes."}],"strategyThirdMoves":[{"moveName":"U-turn","moveId":"/moves/u-turn","moveType":{"typeName":"Bug","typeId":"/types/bug"},"moveCategory":"Physical","movePower":70,"moveAccuracy":100,"moveDetails":"User switches out after damaging the target."}],"strategyFourthMoves":[{"moveName":"Roost","moveId":"/moves/roost","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Heals 50% HP. Flying-type removed 'til turn ends."}]}}
+﻿{
+  "strategyName": "Offensive Pivot",
+  "strategyId": "/strategies/offensive-pivot?pokemon=tapu-koko&tier=ou",
+  "strategyDetails": "Dazzling Gleam is a good secondary STAB move that's safe to use for reliable damage. Additionally, it's super effective against Dragon-types like Hydreigon, Kyurem, and Latios that resist Thunderbolt. It's also the best option for damaging Electric-immune Pokemon such as Landorus-T, Garchomp, and Zeraora. U-turn allows Tapu Koko to reliably pivot against Ground-types like Landorus-T and keep up momentum against switch-ins such as Ferrothorn. Roost allows Tapu Koko to stay healthy throughout a match in order to check Pokemon like Tornadus-T and Zapdos more consistently. Toxic can be used instead of Dazzling Gleam to cripple Pokemon like Landorus-T, Hippowdon, and Tangrowth that can be problematic for Tapu Koko and is especially useful alongside teammates such as Garchomp and Kartana. Tapu Koko is often used on offensively oriented teams. Its ability to keep up momentum is appreciated by a multitude of strong wallbreakers that struggle to find effective opportunities to switch in such as Kartana, Choice Specs Kyurem, and Nidoking, which can be safely brought in via U-turn against the bulky Grass-types like Tangrowth and Ferrothorn that switch into Tapu Koko. Heatran also takes advantage of Grass-types that Tapu Koko forces in, can set Stealth Rock to wear down the opposing team, and use Toxic to cripple Pokemon like Hippowdon and Swampert that wall Tapu Koko. Additionally, it can trap and remove Blissey with the combination of Magma Storm and Taunt. Offensive Grass-types like Rillaboom and Kartana appreciate that Tapu Koko can switch in and take advantage of their defensive checks like Corviknight and Mandibuzz while also being a good answer to Tornadus-T. Furthermore, they can work together to overwhelm other checks like defensive Tangrowth. Landorus-T can set Stealth Rock and use U-turn to bring Tapu Koko in against Pokemon like Corviknight and Slowbro while also being a good check to some opposing Ground-types. Slowbro and Slowking can both use Future Sight and Teleport to help Tapu Koko put pressure on the opposing team, especially against Ground-types that might try to switch into it. They also appreciate that Tapu Koko can handle Zapdos and Nasty Plot Tornadus-T.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Tapu Koko",
+    "pokemonId": "/pokemon/tapu-koko",
+    "pokemonTypes": [
+      {
+        "typeName": "Electric",
+        "typeId": "/types/electric"
+      },
+      {
+        "typeName": "Fairy",
+        "typeId": "/types/fairy"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 115
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 85
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 75
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 130
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Telepathy",
+        "abilityId": "/abilities/telepathy",
+        "abilityDetails": "This Pokemon does not take damage from attacks made by its allies."
+      },
+      {
+        "abilityName": "Electric Surge",
+        "abilityId": "/abilities/electric-surge",
+        "abilityDetails": "On switch-in, this Pokemon summons Electric Terrain."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:47.4720028Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Heavy-Duty Boots",
+      "itemId": "/items/heavy-duty-boots",
+      "itemDetails": "When switching in, the holder is unaffected by hazards on its side of the field."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Electric Surge",
+      "abilityId": "/abilities/electric-surge",
+      "abilityDetails": "On switch-in, this Pokemon summons Electric Terrain."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=ou",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive?pokemon=heatran&tier=ou",
+      "strategyName": "Specially Defensive"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=heatran&tier=ou",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowbro&tier=ou",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/specially-defensive-pivot?pokemon=slowking&tier=ou",
+      "strategyName": "Specially Defensive Pivot"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=ou",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=blissey&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=slowking-galar&tier=ou",
+      "strategyName": "Assault Vest"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/sand-rush?pokemon=excadrill&tier=ou",
+      "strategyName": "Sand Rush"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=nidoking&tier=ou",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/choice-specs?pokemon=dragapult&tier=ou",
+      "strategyName": "Choice Specs"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=dragapult&tier=ou",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=scizor&tier=ou",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/offensive-swords-dance?pokemon=scizor&tier=ou",
+      "strategyName": "Offensive Swords Dance"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Thunderbolt",
+        "moveId": "/moves/thunderbolt",
+        "moveType": {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        "moveCategory": "Special",
+        "movePower": 90,
+        "moveAccuracy": 100,
+        "moveDetails": "10% chance to paralyze the target."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Dazzling Gleam",
+        "moveId": "/moves/dazzling-gleam",
+        "moveType": {
+          "typeName": "Fairy",
+          "typeId": "/types/fairy"
+        },
+        "moveCategory": "Special",
+        "movePower": 80,
+        "moveAccuracy": 100,
+        "moveDetails": "No additional effect. Hits adjacent foes."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "U-turn",
+        "moveId": "/moves/u-turn",
+        "moveType": {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "User switches out after damaging the target."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Roost",
+        "moveId": "/moves/roost",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals 50% HP. Flying-type removed 'til turn ends."
+      }
+    ]
+  }
+}
