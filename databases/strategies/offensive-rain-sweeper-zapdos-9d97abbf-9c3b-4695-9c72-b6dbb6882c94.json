@@ -1,1 +1,310 @@
-﻿{"strategyName":"Offensive Rain Sweeper","strategyId":"/strategies/offensive-rain-sweeper?pokemon=zapdos&tier=ou","strategyDetails":"<p>Zapdos's STAB Thunder and Hurricane become 100% accurate in rain, letting it spam them with no drawbacks and assume a wallbreaking role while providing needed defensive utility against <a href=\"/dex/ss/pokemon/rillaboom\" hreflang=\"en\">Rillaboom</a>, <a href=\"/dex/ss/pokemon/kartana\" hreflang=\"en\">Kartana</a>, and <a href=\"/dex/ss/pokemon/tornadus-therian\" hreflang=\"en\">Tornadus-T</a> that rain teams lack otherwise. Weather Ball makes it an even better user of rain, OHKOing both <a href=\"/dex/ss/pokemon/heatran\" hreflang=\"en\">Heatran</a> and <a href=\"/dex/ss/pokemon/landorus-therian\" hreflang=\"en\">Landorus-T</a> that would otherwise be able to land a crippling Toxic or Knock Off. This unresisted coverage lets Zapdos become a potent offensive threat, especially against offensive teams lacking solid specially defensive walls like <a href=\"/dex/ss/pokemon/tyranitar\" hreflang=\"en\">Tyranitar</a>, <a href=\"/dex/ss/pokemon/hippowdon\" hreflang=\"en\">Hippowdon</a>, and <a href=\"/dex/ss/pokemon/blissey\" hreflang=\"en\">Blissey</a>. Static greatly benefits its slower teammates like <a href=\"/dex/ss/pokemon/urshifu-rapid-strike\" hreflang=\"en\">Urshifu-R</a>, as it can paralyze Pokemon like Kartana, making them much easier to deal with. A Timid nature is preferred, as it allows Zapdos to outspeed threats like <a href=\"/dex/ss/pokemon/kyurem\" hreflang=\"en\">Kyurem</a>, <a href=\"/dex/ss/pokemon/tapu-lele\" hreflang=\"en\">Tapu Lele</a>, Urshifu-R, and Swords Dance Landorus-T.</p>\n<p>Other Pokemon that can make use of rain, like <a href=\"/dex/ss/pokemon/barraskewda\" hreflang=\"en\">Barraskewda</a> and Urshifu-R make good partners. They can pivot on their checks like <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a> and Rillaboom to bring out Zapdos for a wallbreaking opportunity. In addition to setting rain and pivoting, <a href=\"/dex/ss/pokemon/pelipper\" hreflang=\"en\">Pelipper</a> can also use Defog to remove entry hazards, which can greatly benefit the team by freeing up a moveslot for Zapdos. <a href=\"/dex/ss/pokemon/ferrothorn\" hreflang=\"en\">Ferrothorn</a> is also a valuable teammate, since it can switch into opposing Electric-types like <a href=\"/dex/ss/pokemon/tapu-koko\" hreflang=\"en\">Tapu Koko</a> and provide Spikes support to help Zapdos and its teammates break through teams more easily. These two can also check offensive Grass-types like Kartana and Rillaboom together. <a href=\"/dex/ss/pokemon/garchomp\" hreflang=\"en\">Garchomp</a> makes a good partner for its Electric immunity and access to Stealth Rock, and in return Zapdos checks the offensive Grass-types it struggles with.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Zapdos","pokemonId":"/pokemon/zapdos","pokemonTypes":[{"typeName":"Electric","typeId":"/types/electric"},{"typeName":"Flying","typeId":"/types/flying"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":90},{"baseStat":{"statName":"Attack"},"baseStatNumber":90},{"baseStat":{"statName":"Defense"},"baseStatNumber":85},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":125},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":90},{"baseStat":{"statName":"Speed"},"baseStatNumber":100}],"pokemonAbilities":[{"abilityName":"Pressure","abilityId":"/abilities/pressure","abilityDetails":"If this Pokemon is the target of a foe's move, that move loses one additional PP."},{"abilityName":"Static","abilityId":"/abilities/static","abilityDetails":"30% chance a Pokemon making contact with this Pokemon will be paralyzed."}],"pokemonTiers":[{"tierName":"OU","tierId":"/tiers/ou"}]},"strategyCreationDate":"2022-02-22T11:03:50.1802034Z","strategyTier":{"tierName":"OverUsed","tierId":"/tiers/ou"},"strategyItems":[{"itemName":"Heavy-Duty Boots","itemId":"/items/heavy-duty-boots","itemDetails":"When switching in, the holder is unaffected by hazards on its side of the field."}],"strategyAbilities":[{"abilityName":"Static","abilityId":"/abilities/static","abilityDetails":"30% chance a Pokemon making contact with this Pokemon will be paralyzed."}],"strategyNatures":[{"natureName":"Timid","natureId":"/natures/timid","natureDecreasedStat":{"statName":"Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Thunder","moveId":"/moves/thunder","moveType":{"typeName":"Electric","typeId":"/types/electric"},"moveCategory":"Special","movePower":110,"moveAccuracy":70,"moveDetails":"30% chance to paralyze. Can't miss in rain."}],"strategySecondMoves":[{"moveName":"Hurricane","moveId":"/moves/hurricane","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Special","movePower":110,"moveAccuracy":70,"moveDetails":"30% chance to confuse target. Can't miss in rain."}],"strategyThirdMoves":[{"moveName":"Weather Ball","moveId":"/moves/weather-ball","moveType":{"typeName":"Normal","typeId":"/types/normal"},"moveCategory":"Special","movePower":50,"moveAccuracy":100,"moveDetails":"Power doubles and type varies in each weather."}],"strategyFourthMoves":[{"moveName":"Roost","moveId":"/moves/roost","moveType":{"typeName":"Flying","typeId":"/types/flying"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"Heals 50% HP. Flying-type removed 'til turn ends."}]}}
+﻿{
+  "strategyName": "Offensive Rain Sweeper",
+  "strategyId": "/strategies/offensive-rain-sweeper?pokemon=zapdos&tier=ou",
+  "strategyDetails": "Zapdos's STAB Thunder and Hurricane become 100% accurate in rain, letting it spam them with no drawbacks and assume a wallbreaking role while providing needed defensive utility against Rillaboom, Kartana, and Tornadus-T that rain teams lack otherwise. Weather Ball makes it an even better user of rain, OHKOing both Heatran and Landorus-T that would otherwise be able to land a crippling Toxic or Knock Off. This unresisted coverage lets Zapdos become a potent offensive threat, especially against offensive teams lacking solid specially defensive walls like Tyranitar, Hippowdon, and Blissey. Static greatly benefits its slower teammates like Urshifu-R, as it can paralyze Pokemon like Kartana, making them much easier to deal with. A Timid nature is preferred, as it allows Zapdos to outspeed threats like Kyurem, Tapu Lele, Urshifu-R, and Swords Dance Landorus-T. Other Pokemon that can make use of rain, like Barraskewda and Urshifu-R make good partners. They can pivot on their checks like Tangrowth and Rillaboom to bring out Zapdos for a wallbreaking opportunity. In addition to setting rain and pivoting, Pelipper can also use Defog to remove entry hazards, which can greatly benefit the team by freeing up a moveslot for Zapdos. Ferrothorn is also a valuable teammate, since it can switch into opposing Electric-types like Tapu Koko and provide Spikes support to help Zapdos and its teammates break through teams more easily. These two can also check offensive Grass-types like Kartana and Rillaboom together. Garchomp makes a good partner for its Electric immunity and access to Stealth Rock, and in return Zapdos checks the offensive Grass-types it struggles with.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Zapdos",
+    "pokemonId": "/pokemon/zapdos",
+    "pokemonTypes": [
+      {
+        "typeName": "Electric",
+        "typeId": "/types/electric"
+      },
+      {
+        "typeName": "Flying",
+        "typeId": "/types/flying"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 85
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 125
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 90
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 100
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Pressure",
+        "abilityId": "/abilities/pressure",
+        "abilityDetails": "If this Pokemon is the target of a foe's move, that move loses one additional PP."
+      },
+      {
+        "abilityName": "Static",
+        "abilityId": "/abilities/static",
+        "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be paralyzed."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "OU",
+        "tierId": "/tiers/ou"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:03:50.1802034Z",
+  "strategyTier": {
+    "tierName": "OverUsed",
+    "tierId": "/tiers/ou"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Heavy-Duty Boots",
+      "itemId": "/items/heavy-duty-boots",
+      "itemDetails": "When switching in, the holder is unaffected by hazards on its side of the field."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Static",
+      "abilityId": "/abilities/static",
+      "abilityDetails": "30% chance a Pokemon making contact with this Pokemon will be paralyzed."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Timid",
+      "natureId": "/natures/timid",
+      "natureDecreasedStat": { "statName": "Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/choice-band?pokemon=urshifu-rapid-strike&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=pelipper&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=ferrothorn&tier=ou",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=garchomp&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/tank?pokemon=garchomp&tier=ou",
+      "strategyName": "Tank"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/specially-defensive?pokemon=tyranitar&tier=ou",
+      "strategyName": "Specially Defensive"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=tyranitar&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=landorus-therian&tier=ou",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=slowking-galar&tier=ou",
+      "strategyName": "Assault Vest"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=rillaboom&tier=ou",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=rillaboom&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/paper-plane?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Plane"
+    },
+    {
+      "strategyId": "/strategies/paper-press?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Press"
+    },
+    {
+      "strategyId": "/strategies/paper-cut?pokemon=kartana&tier=ou",
+      "strategyName": "Paper Cut"
+    },
+    {
+      "strategyId": "/strategies/defog?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Defog"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=tornadus-therian&tier=ou",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/three-attacks-thunder-wave?pokemon=melmetal&tier=ou",
+      "strategyName": "Three Attacks + Thunder Wave"
+    },
+    {
+      "strategyId": "/strategies/protect?pokemon=melmetal&tier=ou",
+      "strategyName": "Protect"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=melmetal&tier=ou",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/choice-band?pokemon=melmetal&tier=ou",
+      "strategyName": "Choice Band"
+    },
+    {
+      "strategyId": "/strategies/unburden-sweeper?pokemon=hawlucha&tier=ou",
+      "strategyName": "Unburden Sweeper"
+    },
+    {
+      "strategyId": "/strategies/sand-rush?pokemon=excadrill&tier=ou",
+      "strategyName": "Sand Rush"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=ou",
+      "strategyName": "Utility"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Thunder",
+        "moveId": "/moves/thunder",
+        "moveType": {
+          "typeName": "Electric",
+          "typeId": "/types/electric"
+        },
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 70,
+        "moveDetails": "30% chance to paralyze. Can't miss in rain."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Hurricane",
+        "moveId": "/moves/hurricane",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Special",
+        "movePower": 110,
+        "moveAccuracy": 70,
+        "moveDetails": "30% chance to confuse target. Can't miss in rain."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "Weather Ball",
+        "moveId": "/moves/weather-ball",
+        "moveType": {
+          "typeName": "Normal",
+          "typeId": "/types/normal"
+        },
+        "moveCategory": "Special",
+        "movePower": 50,
+        "moveAccuracy": 100,
+        "moveDetails": "Power doubles and type varies in each weather."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Roost",
+        "moveId": "/moves/roost",
+        "moveType": {
+          "typeName": "Flying",
+          "typeId": "/types/flying"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "Heals 50% HP. Flying-type removed 'til turn ends."
+      }
+    ]
+  }
+}

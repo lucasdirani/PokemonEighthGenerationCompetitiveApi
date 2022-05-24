@@ -1,1 +1,357 @@
-﻿{"strategyName":"Offensive Pivot","strategyId":"/strategies/offensive-pivot?pokemon=zarude&tier=uu","strategyDetails":"<p>Zarude's STAB combination allows it to threaten many tier staples like <a href=\"/dex/ss/pokemon/azumarill\" hreflang=\"en\">Azumarill</a>, <a href=\"/dex/ss/pokemon/excadrill\" hreflang=\"en\">Excadrill</a>, and <a href=\"/dex/ss/pokemon/aegislash\" hreflang=\"en\">Aegislash</a>. U-turn grabs momentum on usual switch-ins such as <a href=\"/dex/ss/pokemon/celesteela\" hreflang=\"en\">Celesteela</a> and <a href=\"/dex/ss/pokemon/salamence\" hreflang=\"en\">Salamence</a>. Jungle Healing allows Zarude to remove status conditions from moves such as Toxic from Aegislash and Will-O-Wisp from <a href=\"/dex/ss/pokemon/rotom-wash\" hreflang=\"en\">Rotom-W</a>, while restoring 25% of its health.  Heavy-Duty Boots allows Zarude to not worry about entry hazards, letting it constantly pivot throughout the game. Jolly is the required nature on the set so that Zarude can outspeed <a href=\"/dex/ss/pokemon/nihilego\" hreflang=\"en\">Nihilego</a> and <a href=\"/dex/ss/pokemon/thundurus-therian\" hreflang=\"en\">Thundurus-T</a>.</p>\n<p>Heavy-Duty Boots Zarude is seen on balance and bulky offense due to the easy pivoting provided by Heavy-Duty Boots and its ability to act as a status sponge against Toxic from Aegislash and Will-O-Wisp from Rotom-W. Secondary pivots like <a href=\"/dex/ss/pokemon/mienshao\" hreflang=\"en\">Mienshao</a>, Thundurus-T, and <a href=\"/dex/ss/pokemon/swampert\" hreflang=\"en\">Swampert</a> all form potent pivoting cores with Zarude. Mienshao can revenge kill faster threats like <a href=\"/dex/ss/pokemon/azelf\" hreflang=\"en\">Azelf</a> and <a href=\"/dex/ss/pokemon/lycanroc-dusk\" hreflang=\"en\">Lycanroc-D</a> if holding a Choice Scarf, while Thundurus-T heavily pressures Celesteela and <a href=\"/dex/ss/pokemon/moltres\" hreflang=\"en\">Moltres</a>. Swampert can pivot into attacks from Celesteela and set entry hazards for Zarude to soften up Pokemon like <a href=\"/dex/ss/pokemon/tangrowth\" hreflang=\"en\">Tangrowth</a> with Stealth Rock. Other entry hazard setters like <a href=\"/dex/ss/pokemon/diancie\" hreflang=\"en\">Diancie</a>, <a href=\"/dex/ss/pokemon/skarmory\" hreflang=\"en\">Skarmory</a>, and Excadrill also can do this and appreciate Zarude dealing with Water-types such as Rotom-W, while Zarude appreciates them dealing with Salamence, <a href=\"/dex/ss/pokemon/mamoswine\" hreflang=\"en\">Mamoswine</a>, and <a href=\"/dex/ss/pokemon/rotom-heat\" hreflang=\"en\">Rotom-H</a>. <a href=\"/dex/ss/pokemon/primarina\" hreflang=\"en\">Primarina</a>, <a href=\"/dex/ss/pokemon/nidoking\" hreflang=\"en\">Nidoking</a>, and <a href=\"/dex/ss/pokemon/chandelure\" hreflang=\"en\">Chandelure</a> are wallbreakers that appreciate Zarude bringing them in on Salamence, Tangrowth, and <a href=\"/dex/ss/pokemon/amoonguss\" hreflang=\"en\">Amoonguss</a>, as they often have trouble switching in safely due to their low Speed and frailty.</p>\n","strategyCreator":{"userName":"Smogon University","userId":"/users/smogon-university"},"strategyPokemon":{"pokemonName":"Zarude","pokemonId":"/pokemon/zarude","pokemonTypes":[{"typeName":"Dark","typeId":"/types/dark"},{"typeName":"Grass","typeId":"/types/grass"}],"pokemonBaseStats":[{"baseStat":{"statName":"HP"},"baseStatNumber":105},{"baseStat":{"statName":"Attack"},"baseStatNumber":120},{"baseStat":{"statName":"Defense"},"baseStatNumber":105},{"baseStat":{"statName":"Special Attack"},"baseStatNumber":70},{"baseStat":{"statName":"Special Defense"},"baseStatNumber":95},{"baseStat":{"statName":"Speed"},"baseStatNumber":105}],"pokemonAbilities":[{"abilityName":"Leaf Guard","abilityId":"/abilities/leaf-guard","abilityDetails":"If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."}],"pokemonTiers":[{"tierName":"RU","tierId":"/tiers/ru"}]},"strategyCreationDate":"2022-02-22T11:23:29.7859542Z","strategyTier":{"tierName":"UnderUsed","tierId":"/tiers/uu"},"strategyItems":[{"itemName":"Heavy-Duty Boots","itemId":"/items/heavy-duty-boots","itemDetails":"When switching in, the holder is unaffected by hazards on its side of the field."}],"strategyAbilities":[{"abilityName":"Leaf Guard","abilityId":"/abilities/leaf-guard","abilityDetails":"If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."}],"strategyNatures":[{"natureName":"Jolly","natureId":"/natures/jolly","natureDecreasedStat":{"statName":"Special Attack"},"natureIncreasedStat":{"statName":"Speed"}}],"strategyEffortValues":[[{"effortValueStat":{"statName":"HP"},"effortValueNumber":0},{"effortValueStat":{"statName":"Attack"},"effortValueNumber":252},{"effortValueStat":{"statName":"Defense"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Attack"},"effortValueNumber":0},{"effortValueStat":{"statName":"Special Defense"},"effortValueNumber":4},{"effortValueStat":{"statName":"Speed"},"effortValueNumber":252}]],"strategyIndividualValues":[[{"individualValueStat":{"statName":"HP"},"individualValueNumber":31},{"individualValueStat":{"statName":"Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Attack"},"individualValueNumber":31},{"individualValueStat":{"statName":"Special Defense"},"individualValueNumber":31},{"individualValueStat":{"statName":"Speed"},"individualValueNumber":31}]],"strategyPartners":[],"strategyCounters":[],"strategyCheckers":[],"strategyMoves":{"strategyFirstMoves":[{"moveName":"Power Whip","moveId":"/moves/power-whip","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Physical","movePower":120,"moveAccuracy":85,"moveDetails":"No additional effect."}],"strategySecondMoves":[{"moveName":"Darkest Lariat","moveId":"/moves/darkest-lariat","moveType":{"typeName":"Dark","typeId":"/types/dark"},"moveCategory":"Physical","movePower":85,"moveAccuracy":100,"moveDetails":"Ignores the target's stat stage changes."}],"strategyThirdMoves":[{"moveName":"U-turn","moveId":"/moves/u-turn","moveType":{"typeName":"Bug","typeId":"/types/bug"},"moveCategory":"Physical","movePower":70,"moveAccuracy":100,"moveDetails":"User switches out after damaging the target."}],"strategyFourthMoves":[{"moveName":"Jungle Healing","moveId":"/moves/jungle-healing","moveType":{"typeName":"Grass","typeId":"/types/grass"},"moveCategory":"Non-Damaging","movePower":0,"moveAccuracy":0,"moveDetails":"User and allies: healed 1/4 max HP, status cured."}]}}
+﻿{
+  "strategyName": "Offensive Pivot",
+  "strategyId": "/strategies/offensive-pivot?pokemon=zarude&tier=uu",
+  "strategyDetails": "Zarude's STAB combination allows it to threaten many tier staples like Azumarill, Excadrill, and Aegislash. U-turn grabs momentum on usual switch-ins such as Celesteela and Salamence. Jungle Healing allows Zarude to remove status conditions from moves such as Toxic from Aegislash and Will-O-Wisp from Rotom-W, while restoring 25% of its health. Heavy-Duty Boots allows Zarude to not worry about entry hazards, letting it constantly pivot throughout the game. Jolly is the required nature on the set so that Zarude can outspeed Nihilego and Thundurus-T. Zarude is commonly seen on balance and bulky offense due to the easy pivoting provided by Heavy-Duty Boots and its ability to act as a status sponge against Toxic from Aegislash and Will-O-Wisp from Rotom-W. Secondary pivots like Moltres, Thundurus-T, and Swampert all form potent pivoting cores with Zarude. Moltres appreciates Zarude luring in Grass- and Steel-types like Skarmory and Amoonguss, while Thundurus-T heavily pressures Celesteela and Moltres. Swampert can pivot into attacks from Celesteela and set entry hazards for Zarude to soften up Pokemon like Amoonguss with Stealth Rock. Other entry hazard setters like Cobalion and Excadrill also set Stealth Rock and appreciate Zarude dealing with Water-types such as Slowking and Swampert, while Zarude appreciates them dealing with Mamoswine and Tapu Bulu. Slowking and Celesteela provide a strong defensive backbone to support Zarude, checking threats like Azelf, Salamence, and Cobalion that hinder it. Zygarde-10%, Mamoswine, and Azelf are wallbreakers that appreciate Zarude bringing them in on Salamence, Tangrowth, and Amoonguss, as they often have trouble switching in safely due to their frailty.",
+  "strategyCreator": {
+    "userName": "Smogon University",
+    "userId": "/users/smogon-university"
+  },
+  "strategyPokemon": {
+    "pokemonName": "Zarude",
+    "pokemonId": "/pokemon/zarude",
+    "pokemonTypes": [
+      {
+        "typeName": "Dark",
+        "typeId": "/types/dark"
+      },
+      {
+        "typeName": "Grass",
+        "typeId": "/types/grass"
+      }
+    ],
+    "pokemonBaseStats": [
+      {
+        "baseStat": { "statName": "HP" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Attack" },
+        "baseStatNumber": 120
+      },
+      {
+        "baseStat": { "statName": "Defense" },
+        "baseStatNumber": 105
+      },
+      {
+        "baseStat": { "statName": "Special Attack" },
+        "baseStatNumber": 70
+      },
+      {
+        "baseStat": { "statName": "Special Defense" },
+        "baseStatNumber": 95
+      },
+      {
+        "baseStat": { "statName": "Speed" },
+        "baseStatNumber": 105
+      }
+    ],
+    "pokemonAbilities": [
+      {
+        "abilityName": "Leaf Guard",
+        "abilityId": "/abilities/leaf-guard",
+        "abilityDetails": "If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."
+      }
+    ],
+    "pokemonTiers": [
+      {
+        "tierName": "RU",
+        "tierId": "/tiers/ru"
+      }
+    ]
+  },
+  "strategyCreationDate": "2022-02-22T11:23:29.7859542Z",
+  "strategyTier": {
+    "tierName": "UnderUsed",
+    "tierId": "/tiers/uu"
+  },
+  "strategyItems": [
+    {
+      "itemName": "Heavy-Duty Boots",
+      "itemId": "/items/heavy-duty-boots",
+      "itemDetails": "When switching in, the holder is unaffected by hazards on its side of the field."
+    }
+  ],
+  "strategyAbilities": [
+    {
+      "abilityName": "Leaf Guard",
+      "abilityId": "/abilities/leaf-guard",
+      "abilityDetails": "If Sunny Day is active, this Pokemon cannot be statused and Rest will fail for it."
+    }
+  ],
+  "strategyNatures": [
+    {
+      "natureName": "Jolly",
+      "natureId": "/natures/jolly",
+      "natureDecreasedStat": { "statName": "Special Attack" },
+      "natureIncreasedStat": { "statName": "Speed" }
+    }
+  ],
+  "strategyEffortValues": [
+    [
+      {
+        "effortValueStat": { "statName": "HP" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Attack" },
+        "effortValueNumber": 252
+      },
+      {
+        "effortValueStat": { "statName": "Defense" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Attack" },
+        "effortValueNumber": 0
+      },
+      {
+        "effortValueStat": { "statName": "Special Defense" },
+        "effortValueNumber": 4
+      },
+      {
+        "effortValueStat": { "statName": "Speed" },
+        "effortValueNumber": 252
+      }
+    ]
+  ],
+  "strategyIndividualValues": [
+    [
+      {
+        "individualValueStat": { "statName": "HP" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Attack" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Special Defense" },
+        "individualValueNumber": 31
+      },
+      {
+        "individualValueStat": { "statName": "Speed" },
+        "individualValueNumber": 31
+      }
+    ]
+  ],
+  "strategyPartners": [
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/pivot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Pivot"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=thundurus-therian&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=swampert&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/utility?pokemon=excadrill&tier=uu",
+      "strategyName": "Utility"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=excadrill&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/suicide-lead?pokemon=excadrill&tier=uu",
+      "strategyName": "Suicide Lead"
+    },
+    {
+      "strategyId": "/strategies/calm-mind?pokemon=slowking&tier=uu",
+      "strategyName": "Calm Mind"
+    },
+    {
+      "strategyId": "/strategies/defensive-pivot?pokemon=slowking&tier=uu",
+      "strategyName": "Defensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=mamoswine&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=azelf&tier=uu",
+      "strategyName": "Offensive Pivot"
+    }
+  ],
+  "strategyCounters": [
+    {
+      "strategyId": "/strategies/defensive?pokemon=amoonguss&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=tangrowth&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/assault-vest?pokemon=tangrowth&tier=uu",
+      "strategyName": "Assault Vest"
+    },
+    {
+      "strategyId": "/strategies/swords-dance?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Swords Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=tapu-bulu&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/special-attacker?pokemon=salamence&tier=uu",
+      "strategyName": "Special Attacker"
+    },
+    {
+      "strategyId": "/strategies/dragon-dance?pokemon=salamence&tier=uu",
+      "strategyName": "Dragon Dance"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=salamence&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/offensive?pokemon=moltres&tier=uu",
+      "strategyName": "Offensive"
+    },
+    {
+      "strategyId": "/strategies/support?pokemon=moltres&tier=uu",
+      "strategyName": "Support"
+    },
+    {
+      "strategyId": "/strategies/double-dance?pokemon=moltres-galar&tier=uu",
+      "strategyName": "Double Dance"
+    },
+    {
+      "strategyId": "/strategies/resttalk?pokemon=moltres-galar&tier=uu",
+      "strategyName": "RestTalk"
+    },
+    {
+      "strategyId": "/strategies/physically-defensive?pokemon=mandibuzz&tier=uu",
+      "strategyName": "Physically Defensive"
+    },
+    {
+      "strategyId": "/strategies/physical-wall?pokemon=skarmory&tier=uu",
+      "strategyName": "Physical Wall"
+    },
+    {
+      "strategyId": "/strategies/iron-defense?pokemon=skarmory&tier=uu",
+      "strategyName": "Iron Defense"
+    },
+    {
+      "strategyId": "/strategies/defensive?pokemon=celesteela&tier=uu",
+      "strategyName": "Defensive"
+    },
+    {
+      "strategyId": "/strategies/autotomize?pokemon=celesteela&tier=uu",
+      "strategyName": "Autotomize"
+    }
+  ],
+  "strategyCheckers": [
+    {
+      "strategyId": "/strategies/nasty-plot?pokemon=azelf&tier=uu",
+      "strategyName": "Nasty Plot"
+    },
+    {
+      "strategyId": "/strategies/offensive-pivot?pokemon=azelf&tier=uu",
+      "strategyName": "Offensive Pivot"
+    },
+    {
+      "strategyId": "/strategies/all-out-attacker?pokemon=lycanroc-dusk&tier=uu",
+      "strategyName": "All-out Attacker"
+    },
+    {
+      "strategyId": "/strategies/wallbreaker?pokemon=mamoswine&tier=uu",
+      "strategyName": "Wallbreaker"
+    },
+    {
+      "strategyId": "/strategies/guts-wallbreaker?pokemon=conkeldurr&tier=uu",
+      "strategyName": "Guts Wallbreaker"
+    }
+  ],
+  "strategyMoves": {
+    "strategyFirstMoves": [
+      {
+        "moveName": "Power Whip",
+        "moveId": "/moves/power-whip",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Physical",
+        "movePower": 120,
+        "moveAccuracy": 85,
+        "moveDetails": "No additional effect."
+      }
+    ],
+    "strategySecondMoves": [
+      {
+        "moveName": "Darkest Lariat",
+        "moveId": "/moves/darkest-lariat",
+        "moveType": {
+          "typeName": "Dark",
+          "typeId": "/types/dark"
+        },
+        "moveCategory": "Physical",
+        "movePower": 85,
+        "moveAccuracy": 100,
+        "moveDetails": "Ignores the target's stat stage changes."
+      }
+    ],
+    "strategyThirdMoves": [
+      {
+        "moveName": "U-turn",
+        "moveId": "/moves/u-turn",
+        "moveType": {
+          "typeName": "Bug",
+          "typeId": "/types/bug"
+        },
+        "moveCategory": "Physical",
+        "movePower": 70,
+        "moveAccuracy": 100,
+        "moveDetails": "User switches out after damaging the target."
+      }
+    ],
+    "strategyFourthMoves": [
+      {
+        "moveName": "Jungle Healing",
+        "moveId": "/moves/jungle-healing",
+        "moveType": {
+          "typeName": "Grass",
+          "typeId": "/types/grass"
+        },
+        "moveCategory": "Non-Damaging",
+        "movePower": 0,
+        "moveAccuracy": 0,
+        "moveDetails": "User and allies: healed 1/4 max HP, status cured."
+      }
+    ]
+  }
+}
